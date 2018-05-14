@@ -1,0 +1,7 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+987940 1009598 | 21660 1 | 21659 21660 | 99.57 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 tig00000001_pilon
+992464 1009062 | 16594 1 | 16599 16594 | 99.73 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 tig00000002_pilon
+1 1005358 | 1005356 1 | 1005358 1005356 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 tig00000003_pilon
+1007659 5445112 | 5442825 1005357 | 4437454 4437469 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 tig00000003_pilon
+991191 1027420 | 36210 1 | 36230 36210 | 99.91 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 tig00000004_pilon

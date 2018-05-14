@@ -1,0 +1,15 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+3165273 3226098 | 1 60846 | 60826 60846 | 99.83 | sim5M tig00000001_len_60846_reads_107_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+3218912 4998548 | 1 1779657 | 1779637 1779657 | 99.97 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+3208172 3221850 | 13679 1 | 13679 13679 | 99.96 | sim5M tig00000003_len_13679_reads_19_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+718387 1978180 | 3 1259797 | 1259794 1259795 | 99.97 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+350288 718736 | 1 368449 | 368449 368449 | 99.97 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+1080 349263 | 348184 1 | 348184 348184 | 99.97 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+2844095 3158109 | 1 314015 | 314015 314015 | 99.96 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+2653575 2834629 | 1 181055 | 181055 181055 | 99.97 | sim5M tig00000008_len_181055_reads_408_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+1983030 2070698 | 1 87669 | 87669 87669 | 99.97 | sim5M tig00000009_len_87669_reads_203_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+2059183 2073347 | 1 14196 | 14165 14196 | 99.44 | sim5M tig00000010_len_14196_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+2073281 2651319 | 578039 1 | 578039 578039 | 99.97 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+2071758 2079315 | 7558 1 | 7558 7558 | 99.78 | sim5M tig00000012_len_7558_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+2066896 2079519 | 12638 1 | 12624 12638 | 99.59 | sim5M tig00000013_len_12638_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no

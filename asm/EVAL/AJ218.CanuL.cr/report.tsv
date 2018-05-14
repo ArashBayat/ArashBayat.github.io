@@ -1,0 +1,49 @@
+Assembly	AJ218.CanuL.cr
+# contigs (>= 0 bp)	2000
+# contigs (>= 1000 bp)	1995
+# contigs (>= 5000 bp)	1411
+# contigs (>= 10000 bp)	908
+# contigs (>= 25000 bp)	41
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	20005440
+Total length (>= 1000 bp)	20001010
+Total length (>= 5000 bp)	18377612
+Total length (>= 10000 bp)	14623306
+Total length (>= 25000 bp)	1169240
+Total length (>= 50000 bp)	0
+# contigs	2000
+Largest contig	33830
+Total length	20005440
+Reference length	5465981
+GC (%)	57.09
+Reference GC (%)	57.29
+N50	14626
+NG50	21242
+N75	9488
+NG75	19498
+L50	526
+LG50	110
+L75	948
+LG75	177
+# misassemblies	31
+# misassembled contigs	30
+Misassembled contigs length	394268
+# local misassemblies	31
+# unaligned mis. contigs	4
+# unaligned contigs	127 + 184 part
+Unaligned length	1456893
+Genome fraction (%)	94.364
+Duplication ratio	3.596
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	71.06
+# indels per 100 kbp	483.99
+Largest alignment	33819
+Total aligned length	18501989
+NA50	13380
+NGA50	21096
+NA75	7750
+NGA75	19190
+LA50	544
+LGA50	111
+LA75	1028
+LGA75	179

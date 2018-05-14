@@ -1,0 +1,7 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+983393	2137784	1157357	1	sim5M	Consensus_utg000001l	99.74		True
+CONTIG	Consensus_utg000001l	1157358	correct
+2136392	4997914	2869030	1	sim5M	Consensus_utg000002l	99.73		True
+CONTIG	Consensus_utg000002l	2869036	correct
+1926	969067	1	969965	sim5M	Consensus_utg000003l	99.7		True
+CONTIG	Consensus_utg000003l	969965	correct

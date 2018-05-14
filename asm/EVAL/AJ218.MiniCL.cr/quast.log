@@ -1,0 +1,26 @@
+/usr/local/bin/quast.py -o EVAL/AJ218.MiniCL.cr -R /home/arash/asmReview/AJ218/ref.fa --threads 16 ASM/AJ218.MiniCL.cr.fa
+
+Version: 4.6.0
+
+System information:
+  OS: Linux-4.13.0-36-generic-x86_64-with-Ubuntu-16.04-xenial (linux_64)
+  Python version: 2.7.12
+  CPUs number: 16
+
+Started: 2018-04-02 19:55:57
+
+Logging to /home/arash/asmReview/EVAL/AJ218.MiniCL.cr/quast.log
+
+CWD: /home/arash/asmReview
+Main parameters: 
+  Threads: 16, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/arash/asmReview/AJ218/ref.fa ==> ref
+
+Contigs:
+  Pre-processing...
+    WARNING: Skipping ASM/AJ218.MiniCL.cr.fa because it contains non-ACGTN characters.
+
+
+ERROR! None of the assembly files contains correct contigs. Please, provide different files or decrease --min-contig threshold.

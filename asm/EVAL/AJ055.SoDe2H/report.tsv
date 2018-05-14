@@ -1,0 +1,42 @@
+Assembly	AJ055.SoDe2H
+# contigs (>= 0 bp)	44254
+# contigs (>= 1000 bp)	295
+# contigs (>= 5000 bp)	0
+# contigs (>= 10000 bp)	0
+# contigs (>= 25000 bp)	0
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	8525344
+Total length (>= 1000 bp)	398452
+Total length (>= 5000 bp)	0
+Total length (>= 10000 bp)	0
+Total length (>= 25000 bp)	0
+Total length (>= 50000 bp)	0
+# contigs	2124
+Largest contig	3463
+Total length	1618182
+Reference length	5504133
+GC (%)	54.53
+Reference GC (%)	57.38
+N50	751
+N75	603
+L50	779
+L75	1384
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	548
+# unaligned mis. contigs	1
+# unaligned contigs	94 + 6 part
+Unaligned length	83989
+Genome fraction (%)	27.577
+Duplication ratio	1.011
+# N's per 100 kbp	578.49
+# mismatches per 100 kbp	1.71
+# indels per 100 kbp	1.91
+Largest alignment	3463
+Total aligned length	1521547
+NA50	714
+NGA50	-
+NA75	575
+LA50	813
+LA75	1447

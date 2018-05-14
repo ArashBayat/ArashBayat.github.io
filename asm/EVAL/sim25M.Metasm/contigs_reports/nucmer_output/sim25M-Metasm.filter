@@ -1,0 +1,44 @@
+/home/arash/asmReview/EVAL/sim25M.Metasm/quast_corrected_input/ref.fa /home/arash/asmReview/EVAL/sim25M.Metasm/quast_corrected_input/sim25M-Metasm.fa
+NUCMER
+>sim25M QC.B.A_0 25000020 18879454
+5882706 7342134 1 1459426 38 38 0
+96
+1
+-17
+-119
+-202
+-182
+14
+31
+42
+31
+-17
+-53
+-199
+97
+-23
+-6
+17
+-75
+-7
+-135
+-1
+-101
+18
+64
+65
+20
+317
+479
+1455454
+634
+488
+0
+6801754 7343742 17127681 17669663 8 8 0
+538821
+634
+488
+1141
+531
+311
+0

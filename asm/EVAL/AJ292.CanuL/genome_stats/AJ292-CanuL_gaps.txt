@@ -1,0 +1,3 @@
+KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292
+3445821 3449423
+3820363 3833509

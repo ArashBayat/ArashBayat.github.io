@@ -1,0 +1,14 @@
+Assembly	AJ218.CanuL
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	1
+# mismatches	252
+# indels	4708
+    # indels (<= 5 bp)	4706
+    # indels (> 5 bp)	2
+Indels length	4869

@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     AJ055.SGAH 
+# contigs (>= 0 bp)          2200       
+# contigs (>= 1000 bp)       1160       
+# contigs (>= 5000 bp)       384        
+# contigs (>= 10000 bp)      99         
+# contigs (>= 25000 bp)      11         
+# contigs (>= 50000 bp)      0          
+Total length (>= 0 bp)       5888458    
+Total length (>= 1000 bp)    5513808    
+Total length (>= 5000 bp)    3521149    
+Total length (>= 10000 bp)   1558725    
+Total length (>= 25000 bp)   322643     
+Total length (>= 50000 bp)   0          
+# contigs                    1370       
+Largest contig               37194      
+Total length                 5670252    
+Reference length             5504133    
+GC (%)                       57.39      
+Reference GC (%)             57.38      
+N50                          6394       
+NG50                         6594       
+N75                          3500       
+NG75                         3728       
+L50                          262        
+LG50                         249        
+L75                          559        
+LG75                         524        
+# misassemblies              0          
+# misassembled contigs       0          
+Misassembled contigs length  0          
+# local misassemblies        0          
+# unaligned mis. contigs     0          
+# unaligned contigs          24 + 2 part
+Unaligned length             162104     
+Genome fraction (%)          97.757     
+Duplication ratio            1.024      
+# N's per 100 kbp            0.00       
+# mismatches per 100 kbp     0.06       
+# indels per 100 kbp         0.59       
+Largest alignment            37194      
+Total aligned length         5508142    
+NA50                         6096       
+NGA50                        6296       
+NA75                         3240       
+NGA75                        3474       
+LA50                         272        
+LGA50                        258        
+LA75                         587        
+LGA75                        550        

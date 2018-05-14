@@ -1,0 +1,14 @@
+Assembly	AJ292.MiniCH
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	2
+# unaligned mis. contigs	0
+# mismatches	525
+# indels	13502
+    # indels (<= 5 bp)	13425
+    # indels (> 5 bp)	77
+Indels length	21823

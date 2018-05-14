@@ -1,0 +1,49 @@
+Assembly	sim5M.Colormap
+# contigs (>= 0 bp)	13
+# contigs (>= 1000 bp)	13
+# contigs (>= 5000 bp)	13
+# contigs (>= 10000 bp)	12
+# contigs (>= 25000 bp)	9
+# contigs (>= 50000 bp)	9
+Total length (>= 0 bp)	5025782
+Total length (>= 1000 bp)	5025782
+Total length (>= 5000 bp)	5025782
+Total length (>= 10000 bp)	5018224
+Total length (>= 25000 bp)	4977711
+Total length (>= 50000 bp)	4977711
+# contigs	13
+Largest contig	1779657
+Total length	5025782
+Reference length	5000040
+GC (%)	35.84
+Reference GC (%)	35.84
+N50	1259797
+NG50	1259797
+N75	368449
+NG75	368449
+L50	2
+LG50	2
+L75	4
+LG75	4
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	99.453
+Duplication ratio	1.011
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	30.06
+# indels per 100 kbp	1.31
+Largest alignment	1779657
+Total aligned length	5025780
+NA50	1259795
+NGA50	1259795
+NA75	368449
+NGA75	368449
+LA50	2
+LGA50	2
+LA75	4
+LGA75	4

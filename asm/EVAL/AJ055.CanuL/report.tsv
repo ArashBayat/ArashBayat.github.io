@@ -1,0 +1,49 @@
+Assembly	AJ055.CanuL
+# contigs (>= 0 bp)	9
+# contigs (>= 1000 bp)	9
+# contigs (>= 5000 bp)	6
+# contigs (>= 10000 bp)	6
+# contigs (>= 25000 bp)	5
+# contigs (>= 50000 bp)	4
+Total length (>= 0 bp)	5728738
+Total length (>= 1000 bp)	5728738
+Total length (>= 5000 bp)	5722810
+Total length (>= 10000 bp)	5722810
+Total length (>= 25000 bp)	5707034
+Total length (>= 50000 bp)	5678683
+# contigs	9
+Largest contig	3169885
+Total length	5728738
+Reference length	5504133
+GC (%)	57.14
+Reference GC (%)	57.38
+N50	3169885
+NG50	3169885
+N75	1809348
+NG75	1809348
+L50	1
+LG50	1
+L75	2
+LG75	2
+# misassemblies	1
+# misassembled contigs	1
+Misassembled contigs length	1809348
+# local misassemblies	1
+# unaligned mis. contigs	0
+# unaligned contigs	5 + 1 part
+Unaligned length	221964
+Genome fraction (%)	99.785
+Duplication ratio	1.003
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	6.28
+# indels per 100 kbp	165.41
+Largest alignment	3169756
+Total aligned length	5506645
+NA50	3169756
+NGA50	3169756
+NA75	688559
+NGA75	1120789
+LA50	1
+LGA50	1
+LA75	3
+LGA75	2

@@ -1,0 +1,49 @@
+Assembly	AJ218.SpadesL
+# contigs (>= 0 bp)	231
+# contigs (>= 1000 bp)	137
+# contigs (>= 5000 bp)	96
+# contigs (>= 10000 bp)	81
+# contigs (>= 25000 bp)	59
+# contigs (>= 50000 bp)	35
+Total length (>= 0 bp)	5603425
+Total length (>= 1000 bp)	5568680
+Total length (>= 5000 bp)	5475677
+Total length (>= 10000 bp)	5369338
+Total length (>= 25000 bp)	4979685
+Total length (>= 50000 bp)	4137146
+# contigs	161
+Largest contig	369879
+Total length	5586184
+Reference length	5465981
+GC (%)	57.21
+Reference GC (%)	57.29
+N50	102472
+NG50	109857
+N75	48179
+NG75	55877
+L50	17
+LG50	16
+L75	37
+LG75	35
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	9
+# unaligned mis. contigs	0
+# unaligned contigs	7 + 6 part
+Unaligned length	186737
+Genome fraction (%)	98.683
+Duplication ratio	1.001
+# N's per 100 kbp	3.37
+# mismatches per 100 kbp	9.40
+# indels per 100 kbp	1.43
+Largest alignment	369879
+Total aligned length	5398386
+NA50	102472
+NGA50	109857
+NA75	46985
+NGA75	48179
+LA50	17
+LGA50	16
+LA75	37
+LGA75	35

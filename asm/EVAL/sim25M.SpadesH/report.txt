@@ -1,0 +1,52 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assembly sim25M.SpadesH contains continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                     sim25M.SpadesH
+# contigs (>= 0 bp)          1978          
+# contigs (>= 1000 bp)       457           
+# contigs (>= 5000 bp)       334           
+# contigs (>= 10000 bp)      286           
+# contigs (>= 25000 bp)      204           
+# contigs (>= 50000 bp)      134           
+Total length (>= 0 bp)       24987397      
+Total length (>= 1000 bp)    24571185      
+Total length (>= 5000 bp)    24327298      
+Total length (>= 10000 bp)   23961066      
+Total length (>= 25000 bp)   22548009      
+Total length (>= 50000 bp)   20107292      
+# contigs                    669           
+Largest contig               494497        
+Total length                 24713527      
+Reference length             25000020      
+GC (%)                       43.72         
+Reference GC (%)             43.69         
+N50                          159119        
+NG50                         152292        
+N75                          67532         
+NG75                         65000         
+L50                          49            
+LG50                         50            
+L75                          107           
+LG75                         111           
+# misassemblies              16            
+# misassembled contigs       16            
+Misassembled contigs length  2215287       
+# local misassemblies        11            
+# unaligned mis. contigs     0             
+# unaligned contigs          0 + 0 part    
+Unaligned length             0             
+Genome fraction (%)          98.686        
+Duplication ratio            1.002         
+# N's per 100 kbp            2.02          
+# mismatches per 100 kbp     24.39         
+# indels per 100 kbp         0.92          
+Largest alignment            494497        
+Total aligned length         24711599      
+NA50                         140014        
+NGA50                        139195        
+NA75                         66116         
+NGA75                        64502         
+LA50                         52            
+LGA50                        53            
+LA75                         113           
+LGA75                        116           

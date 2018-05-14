@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     AJ218.CanuH
+# contigs (>= 0 bp)          4          
+# contigs (>= 1000 bp)       4          
+# contigs (>= 5000 bp)       4          
+# contigs (>= 10000 bp)      4          
+# contigs (>= 25000 bp)      2          
+# contigs (>= 50000 bp)      2          
+Total length (>= 0 bp)       5717255    
+Total length (>= 1000 bp)    5717255    
+Total length (>= 5000 bp)    5717255    
+Total length (>= 10000 bp)   5717255    
+Total length (>= 25000 bp)   5677030    
+Total length (>= 50000 bp)   5677030    
+# contigs                    4          
+Largest contig               5460449    
+Total length                 5717255    
+Reference length             5465981    
+GC (%)                       57.09      
+Reference GC (%)             57.29      
+N50                          5460449    
+NG50                         5460449    
+N75                          5460449    
+NG75                         5460449    
+L50                          1          
+LG50                         1          
+L75                          1          
+LG75                         1          
+# misassemblies              0          
+# misassembled contigs       0          
+Misassembled contigs length  0          
+# local misassemblies        1          
+# unaligned mis. contigs     1          
+# unaligned contigs          0 + 3 part 
+Unaligned length             243443     
+Genome fraction (%)          99.905     
+Duplication ratio            1.002      
+# N's per 100 kbp            0.00       
+# mismatches per 100 kbp     0.18       
+# indels per 100 kbp         12.53      
+Largest alignment            5460340    
+Total aligned length         5473703    
+NA50                         5460340    
+NGA50                        5460340    
+NA75                         5460340    
+NGA75                        5460340    
+LA50                         1          
+LGA50                        1          
+LA75                         1          
+LGA75                        1          

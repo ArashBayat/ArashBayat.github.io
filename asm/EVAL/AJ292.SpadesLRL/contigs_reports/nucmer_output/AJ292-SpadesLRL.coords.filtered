@@ -1,0 +1,20 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+3740524 4319148 | 578636 1 | 578625 578636 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_1_length_1731157_cov_19.9287_ID_1
+208438 1360951 | 1731157 578637 | 1152514 1152521 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_1_length_1731157_cov_19.9287_ID_1
+1 208426 | 208496 71 | 208426 208426 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_2_length_823038_cov_21.5936_ID_3
+4831152 5445112 | 822455 208497 | 613961 613959 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_2_length_823038_cov_21.5936_ID_3
+4924413 4924895 | 823038 822556 | 483 483 | 96.27 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_2_length_823038_cov_21.5936_ID_3
+2649117 3259863 | 610748 1 | 610747 610748 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_3_length_610748_cov_16.8891_ID_5
+4319296 4830424 | 1 511112 | 511129 511112 | 99.98 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_4_length_511112_cov_21.1021_ID_7
+3259915 3740137 | 1 480226 | 480223 480226 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_5_length_480226_cov_17.307_ID_9
+2267108 2648432 | 1 381326 | 381325 381326 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_6_length_381326_cov_16.6531_ID_11
+1938544 2266445 | 327894 1 | 327902 327894 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_7_length_327894_cov_17.9684_ID_13
+1364011 1664779 | 300769 1 | 300769 300769 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_8_length_303788_cov_17.6161_ID_15
+1799933 1938552 | 1 138620 | 138620 138620 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_9_length_138620_cov_16.2948_ID_17
+1672705 1799840 | 1 127138 | 127136 127138 | 99.98 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_10_length_127138_cov_17.4315_ID_19
+4319734 4323859 | 4126 1 | 4126 4126 | 99.95 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_11_length_4126_cov_8.94468_ID_21
+1667434 1670643 | 1 3210 | 3210 3210 | 99.94 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_12_length_3210_cov_1.69997_ID_23
+1664996 1667355 | 2360 1 | 2360 2360 | 99.96 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_13_length_2360_cov_2.51818_ID_25
+1671322 1672582 | 1257 1 | 1261 1257 | 99.52 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_14_length_1257_cov_1.60085_ID_27
+1670697 1671314 | 618 1 | 618 618 | 100.0 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 NODE_15_length_618_cov_0.839187_ID_29

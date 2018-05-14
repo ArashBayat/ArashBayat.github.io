@@ -1,0 +1,7 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+983393	2137784	1154415	1	sim5M	Consensus_utg000001l_pilon_pilon_pilon	99.99		True
+CONTIG	Consensus_utg000001l_pilon_pilon_pilon	1154416	correct
+2136392	4997914	2861745	1	sim5M	Consensus_utg000002l_pilon_pilon_pilon	99.99		True
+CONTIG	Consensus_utg000002l_pilon_pilon_pilon	2861751	correct
+1926	969067	1	967141	sim5M	Consensus_utg000003l_pilon_pilon_pilon	99.99		True
+CONTIG	Consensus_utg000003l_pilon_pilon_pilon	967141	correct

@@ -1,0 +1,7 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+5345533 5504133 | 769 159472 | 158601 158704 | 99.87 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001c_pilon_pilon_pilon
+1 706302 | 159473 865793 | 706302 706321 | 99.99 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001c_pilon_pilon_pilon
+706255 4822050 | 865821 4981710 | 4115796 4115890 | 99.99 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001c_pilon_pilon_pilon
+4824733 5344880 | 4985280 5505471 | 520148 520192 | 99.98 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001c_pilon_pilon_pilon
+218986 220079 | 94870 93777 | 1094 1094 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002c_pilon_pilon_pilon

@@ -1,0 +1,14 @@
+Assembly	AJ055.CanuH
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	0
+# mismatches	15
+# indels	1911
+    # indels (<= 5 bp)	1910
+    # indels (> 5 bp)	1
+Indels length	1951

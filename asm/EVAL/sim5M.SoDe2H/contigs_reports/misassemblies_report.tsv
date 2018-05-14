@@ -1,0 +1,14 @@
+Assembly	sim5M.SoDe2H
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	66
+# unaligned mis. contigs	13
+# mismatches	6099
+# indels	5004
+    # indels (<= 5 bp)	3864
+    # indels (> 5 bp)	1140
+Indels length	18819

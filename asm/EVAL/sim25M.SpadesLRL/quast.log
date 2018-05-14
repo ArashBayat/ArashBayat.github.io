@@ -1,0 +1,134 @@
+/usr/local/bin/quast.py -o EVAL/sim25M.SpadesLRL -R /home/arash/asmReview/sim25M/ref.fa --threads 16 ASM/sim25M.SpadesLRL.fa
+
+Version: 4.6.0
+
+System information:
+  OS: Linux-4.13.0-36-generic-x86_64-with-Ubuntu-16.04-xenial (linux_64)
+  Python version: 2.7.12
+  CPUs number: 16
+
+Started: 2018-04-03 17:13:31
+
+Logging to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/quast.log
+
+CWD: /home/arash/asmReview
+Main parameters: 
+  Threads: 16, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/arash/asmReview/sim25M/ref.fa ==> ref
+
+Contigs:
+  Pre-processing...
+  ASM/sim25M.SpadesLRL.fa ==> sim25M.SpadesLRL
+
+2018-04-03 17:13:36
+Running Basic statistics processor...
+  Reference genome:
+    ref.fa, length = 25000020, num fragments = 1, GC % = 43.69
+  Contig files: 
+    sim25M.SpadesLRL
+  Calculating N50 and L50...
+    sim25M.SpadesLRL, N50 = 653521, L50 = 13, Total length = 25060402, GC % = 43.72, # N's per 100 kbp =  0.08
+  Drawing Nx plot...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/basic_stats/GC_content_plot.pdf
+  Drawing sim25M.SpadesLRL GC content plot...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/basic_stats/sim25M.SpadesLRL_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 1x)...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/basic_stats/coverage_histogram.pdf
+  Drawing sim25M.SpadesLRL coverage histogram (bin size: 1x)...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/basic_stats/sim25M-SpadesLRL_coverage_histogram.pdf
+Done.
+
+2018-04-03 17:13:46
+Running Contig analyzer...
+NOTICE: Previous try of E-MEM compilation was unsuccessful! For forced retrying, please remove /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/make.emem.failed and restart QUAST. Currently, QUAST will use Nucmer which is absolutely fine, albeit slower.
+  sim25M.SpadesLRL
+  Logging to files /home/arash/asmReview/EVAL/sim25M.SpadesLRL/contigs_reports/contigs_report_sim25M-SpadesLRL.stdout and contigs_report_sim25M-SpadesLRL.stderr...
+  Aligning contigs to the reference
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/nucmer -c 65 -l 65 --maxmatch \
+  -p EVAL/sim25M.SpadesLRL/contigs_reports/nucmer_output/sim25M-SpadesLRL EVAL/sim25M.SpadesLRL/quast_corrected_input/ref.fa \
+  EVAL/sim25M.SpadesLRL/quast_corrected_input/sim25M-SpadesLRL.fa >> EVAL/sim25M.SpadesLRL/contigs_reports/contigs_report_sim25M-SpadesLRL.stdout \
+  2>> EVAL/sim25M.SpadesLRL/contigs_reports/contigs_report_sim25M-SpadesLRL.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/delta-filter -i 95.0 -l \
+  0 EVAL/sim25M.SpadesLRL/contigs_reports/nucmer_output/sim25M-SpadesLRL.delta > EVAL/sim25M.SpadesLRL/contigs_reports/nucmer_output/sim25M-SpadesLRL.fdelta \
+  2> EVAL/sim25M.SpadesLRL/contigs_reports/contigs_report_sim25M-SpadesLRL.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummerplot --html --layout \
+  -p EVAL/sim25M.SpadesLRL/contigs_reports/nucmer_output/sim25M-SpadesLRL EVAL/sim25M.SpadesLRL/contigs_reports/nucmer_output/sim25M-SpadesLRL.delta \
+  > EVAL/sim25M.SpadesLRL/contigs_reports/contigs_report_sim25M-SpadesLRL.stdout 2> \
+  EVAL/sim25M.SpadesLRL/contigs_reports/contigs_report_sim25M-SpadesLRL.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/gnuplot/src/gnuplot EVAL/sim25M.SpadesLRL/contigs_reports/nucmer_output/sim25M-SpadesLRL.gp \
+  > /dev/null 2> EVAL/sim25M.SpadesLRL/contigs_reports/contigs_report_sim25M-SpadesLRL.stderr
+  MUMmer plot saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/contigs_reports/sim25M-SpadesLRL_mummerplot.html
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/show-coords EVAL/sim25M.SpadesLRL/contigs_reports/nucmer_output/sim25M-SpadesLRL.delta \
+  > EVAL/sim25M.SpadesLRL/contigs_reports/nucmer_output/sim25M-SpadesLRL.coords_tmp \
+  2> EVAL/sim25M.SpadesLRL/contigs_reports/contigs_report_sim25M-SpadesLRL.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/show-snps -S -T -H EVAL/sim25M.SpadesLRL/contigs_reports/nucmer_output/sim25M-SpadesLRL.delta \
+  < EVAL/sim25M.SpadesLRL/contigs_reports/nucmer_output/sim25M-SpadesLRL.coords.headless \
+  > EVAL/sim25M.SpadesLRL/contigs_reports/nucmer_output/sim25M-SpadesLRL.all_snps \
+  2> EVAL/sim25M.SpadesLRL/contigs_reports/contigs_report_sim25M-SpadesLRL.stderr
+  Analysis is finished.
+
+  Gzipping /home/arash/asmReview/EVAL/sim25M.SpadesLRL/contigs_reports/nucmer_output/sim25M-SpadesLRL.all_snps to reduce disk space usage...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/contigs_reports/nucmer_output/sim25M-SpadesLRL.all_snps.gz
+  Creating total report...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2018-04-03 17:30:52
+Running NA-NGA calculation...
+  sim25M.SpadesLRL, Largest alignment = 2267284, NA50 = 524800, NGA50 = 524800, LA50 = 15, LGA50 = 15
+  Drawing cumulative plot...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/aligned_stats/NGAx_plot.pdf
+Done.
+
+2018-04-03 17:30:54
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  sim25M.SpadesLRL
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2018-04-03 17:31:07
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2018-04-03 17:31:11
+RESULTS:
+  Text versions of total report are saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/report.html
+  PDF version (tables and plots) is saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/report.pdf
+  Icarus (contig browser) is saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/icarus.html
+  Log saved to /home/arash/asmReview/EVAL/sim25M.SpadesLRL/quast.log
+
+Finished: 2018-04-03 17:31:11
+Elapsed time: 0:17:39.721397
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

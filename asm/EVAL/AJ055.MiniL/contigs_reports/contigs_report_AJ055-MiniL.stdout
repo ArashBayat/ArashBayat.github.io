@@ -1,0 +1,474 @@
+gnuplot 5.0 patchlevel 3
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 5504133
+Analyzing contigs...
+CONTIG: Consensus_utg000001l (606966bp)
+Best alignment score: 350142.3 (LEN: 353822, IDY: 98.96), Total number of alignments: 39
+			Looking for the best set of alignments (out of 39 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 37939 39455 | 21520 23043 | 1517 1524 | 95.22 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 1743291 1743558 | 66933 67201 | 268 269 | 96.28 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 1743726 1744004 | 66922 67201 | 279 280 | 96.07 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 4370368 4370617 | 67202 66952 | 250 251 | 96.81 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 4081065 4081351 | 67219 66932 | 287 288 | 95.83 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 1845642 1845721 | 179406 179326 | 80 81 | 96.3 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 1204335 1207474 | 366111 362960 | 3140 3152 | 98.73 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 4444256 4447495 | 362963 366213 | 3240 3251 | 98.62 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 475100 478329 | 366213 362963 | 3230 3251 | 98.37 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 1202122 1204184 | 368201 366133 | 2063 2069 | 98.27 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 5448536 5453888 | 362831 368201 | 5353 5371 | 98.55 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 473171 475051 | 368294 366409 | 1881 1886 | 98.68 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 4447836 4449725 | 366398 368295 | 1890 1898 | 98.9 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 4844684 4850002 | 362960 368297 | 5319 5338 | 98.88 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 445997 447181 | 403861 402669 | 1185 1193 | 97.74 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 478335 478416 | 404056 403975 | 82 82 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 2069555 2069639 | 404249 404333 | 85 85 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 2069855 2069939 | 404249 404333 | 85 85 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 1204335 1207471 | 411264 408108 | 3137 3157 | 98.55 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 1204104 1204184 | 411367 411286 | 81 82 | 98.78 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 4844687 4847925 | 408108 411367 | 3239 3260 | 98.93 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 5448499 5451908 | 407933 411367 | 3410 3435 | 98.6 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 475086 478330 | 411381 408107 | 3245 3275 | 98.35 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 473263 475056 | 413438 411641 | 1794 1798 | 97.95 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 4848110 4849907 | 411637 413438 | 1798 1802 | 98.28 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 4444255 4449633 | 408107 413438 | 5379 5332 | 97.1 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 1201973 1203919 | 413574 411637 | 1947 1938 | 96.37 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 5452093 5454029 | 411637 413579 | 1937 1943 | 99.08 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 1204335 1207471 | 503723 500581 | 3137 3143 | 98.39 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 4844687 4847925 | 500581 503826 | 3239 3246 | 98.16 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 5448669 5451908 | 500581 503826 | 3240 3246 | 98.07 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 475086 478331 | 503840 500579 | 3246 3262 | 97.86 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 5452093 5453826 | 504095 505839 | 1734 1745 | 98.63 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 473263 475056 | 505905 504099 | 1794 1807 | 97.9 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 4848110 4849907 | 504095 505905 | 1798 1811 | 98.23 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 4444120 4449633 | 500444 505905 | 5514 5462 | 96.85 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+		Skipping redundant alignment 1202006 1203919 | 506023 504095 | 1914 1929 | 97.41 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+			The best set is below. Score: 600295.8, number of alignments: 2, unaligned bases: 268
+		This contig is misassembled.
+			Real Alignment 1: 4847690 5199273 | 1 353822 | 351584 353822 | 98.96 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+			  Gap between these two alignments (local misassembly). Inconsistency = -114
+			Real Alignment 2: 5199427 5450789 | 354090 606965 | 251363 252876 | 98.94 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000001l
+
+CONTIG: Consensus_utg000002l (833810bp)
+Best alignment score: 453494.1 (LEN: 457705, IDY: 99.08), Total number of alignments: 25
+			Looking for the best set of alignments (out of 25 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1922878 1923982 | 79440 78331 | 1105 1110 | 98.48 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 5247761 5248945 | 307860 306671 | 1185 1190 | 97.82 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 1202122 1203915 | 334117 335912 | 1794 1796 | 98.61 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 5348557 5350352 | 335912 334117 | 1796 1796 | 98.11 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 5256685 5258476 | 335912 334117 | 1792 1796 | 97.95 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 5452097 5453888 | 335912 334117 | 1792 1796 | 97.72 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 4848114 4849999 | 335912 334025 | 1886 1888 | 99.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 4447840 4449724 | 335912 334025 | 1885 1888 | 98.68 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 5211677 5213562 | 335912 334025 | 1886 1888 | 98.68 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 1204104 1204188 | 335956 336040 | 85 85 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 1204332 1207471 | 336043 339208 | 3140 3166 | 98.24 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 5448669 5451908 | 339208 335956 | 3240 3253 | 97.86 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 4844687 4847925 | 339208 335956 | 3239 3253 | 97.77 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 5208245 5211488 | 339208 335956 | 3244 3253 | 97.74 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 5253170 5256426 | 339209 335942 | 3257 3268 | 97.72 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 4444254 4447509 | 339210 335942 | 3256 3269 | 97.66 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 5345042 5348298 | 339210 335942 | 3257 3269 | 97.6 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 4669655 4673011 | 379513 382888 | 3357 3376 | 96.98 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 958629 958695 | 437211 437145 | 67 67 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 958738 958804 | 437211 437145 | 67 67 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 958850 958916 | 437211 437145 | 67 67 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 3405016 3406968 | 638493 636533 | 1953 1961 | 98.83 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+		Skipping redundant alignment 575550 575626 | 822406 822330 | 77 77 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+			The best set is below. Score: 825925.6, number of alignments: 2, unaligned bases: 135
+		This contig is misassembled.
+			Real Alignment 1: 141112 514906 | 1 375970 | 373795 375970 | 99.07 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+			  Gap between these two alignments (local misassembly). Inconsistency = -123
+			Real Alignment 2: 514919 970080 | 376106 833810 | 455162 457705 | 99.08 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000002l
+
+CONTIG: Consensus_utg000003l (146049bp)
+Best alignment score: 106414.5 (LEN: 107609, IDY: 98.89), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1009099 1009272 | 35850 36023 | 174 174 | 95.4 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000003l
+		Skipping redundant alignment 1742753 1743112 | 36212 35852 | 360 361 | 96.12 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000003l
+		Skipping redundant alignment 3395754 3395978 | 98000 98225 | 225 226 | 96.02 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000003l
+			The best set is below. Score: 144229.1, number of alignments: 2, unaligned bases: 174
+		This contig is misassembled.
+			Real Alignment 1: 3765997 3804032 | 38266 1 | 38036 38266 | 98.93 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000003l
+			  Gap between these two alignments (local misassembly). Inconsistency = -88
+			Real Alignment 2: 3658936 3765910 | 146049 38441 | 106975 107609 | 98.89 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000003l
+
+CONTIG: Consensus_utg000004l (243471bp)
+Best alignment score: 207375.0 (LEN: 209915, IDY: 98.79), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 240307.5, number of alignments: 2, unaligned bases: 71
+		This contig is misassembled.
+			Real Alignment 1: 4327909 4361164 | 33500 16 | 33256 33485 | 98.35 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000004l
+			  Indel (> 5bp) between these two alignments: insertion of length 42; 0 mismatches (number of Ns: 0)
+			Real Alignment 2: 4119107 4327920 | 243445 33531 | 208814 209915 | 98.79 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000004l
+
+CONTIG: Consensus_utg000005l (455694bp)
+Best alignment score: 450544.7 (LEN: 455694, IDY: 98.87), Total number of alignments: 22
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 218976 220079 | 40291 41398 | 1104 1108 | 99.28 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 3506148 3506458 | 221911 221601 | 311 311 | 95.5 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 4418915 4419204 | 383159 383446 | 290 288 | 96.21 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 4081083 4081364 | 383159 383438 | 282 280 | 95.74 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 4914124 4914402 | 221495 221215 | 279 281 | 95.04 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 4914135 4914402 | 221935 221664 | 268 272 | 95.22 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 4055328 4055598 | 383157 383425 | 271 269 | 95.94 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 4914135 4914403 | 222384 222115 | 269 270 | 95.2 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 4370362 4370609 | 221657 221904 | 248 248 | 95.56 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 1009096 1009272 | 221210 221386 | 177 177 | 95.48 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 2850665 2850832 | 221215 221382 | 168 168 | 95.83 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 62203 62350 | 221664 221811 | 148 148 | 98.65 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 3768259 3768403 | 221358 221214 | 145 145 | 97.93 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 3395835 3395978 | 221807 221664 | 144 144 | 97.92 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 1823339 1823475 | 169655 169791 | 137 137 | 95.68 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 1795109 1795236 | 171528 171657 | 128 130 | 97.69 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 1793239 1793366 | 169650 169778 | 128 129 | 96.15 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 62358 62470 | 222272 222384 | 113 113 | 95.58 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 5025545 5025631 | 118892 118978 | 87 87 | 96.55 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 5025841 5025920 | 118896 118975 | 80 80 | 98.75 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+			Skipping alignment 5025697 5025772 | 118896 118971 | 76 76 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+		One align captures most of this contig: 1511243 1964119 | 455694 1 | 452877 455694 | 98.87 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000005l
+
+CONTIG: Consensus_utg000006l (470432bp)
+Best alignment score: 465633.6 (LEN: 470432, IDY: 98.98), Total number of alignments: 9
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 773895 775847 | 195351 197312 | 1953 1962 | 98.42 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000006l
+			Skipping alignment 4021853 4022218 | 369337 369700 | 366 364 | 96.47 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000006l
+			Skipping alignment 62203 62492 | 95415 95704 | 290 290 | 95.17 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000006l
+			Skipping alignment 2851102 2851389 | 95415 95702 | 288 288 | 95.14 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000006l
+			Skipping alignment 3768137 3768404 | 95680 95413 | 268 268 | 95.52 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000006l
+			Skipping alignment 4021364 4021614 | 95413 95663 | 251 251 | 96.41 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000006l
+			Skipping alignment 1009101 1009272 | 206421 206594 | 172 174 | 95.98 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000006l
+			Skipping alignment 1742847 1742967 | 95680 95560 | 121 121 | 95.04 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000006l
+		One align captures most of this contig: 3133611 3601356 | 470432 1 | 467746 470432 | 98.98 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000006l
+
+CONTIG: Consensus_utg000007l (353027bp)
+Best alignment score: 347791.3 (LEN: 351127, IDY: 99.05), Total number of alignments: 12
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 5208242 5213565 | 8174 2882 | 5324 5293 | 96.78 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000007l
+			Skipping alignment 5448666 5453826 | 8174 3041 | 5161 5134 | 96.93 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000007l
+			Skipping alignment 518308 521664 | 184231 180867 | 3357 3365 | 97.39 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000007l
+			Skipping alignment 5253171 5256412 | 8171 4938 | 3242 3234 | 97.52 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000007l
+			Skipping alignment 4444256 4447495 | 8171 4938 | 3240 3234 | 97.49 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000007l
+			Skipping alignment 5345044 5348284 | 8171 4938 | 3241 3234 | 97.07 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000007l
+			Skipping alignment 1204335 1207572 | 5043 8271 | 3238 3229 | 97.15 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000007l
+			Skipping alignment 475100 478329 | 4938 8171 | 3230 3234 | 96.98 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000007l
+			Skipping alignment 1202122 1204184 | 2976 5021 | 2063 2046 | 95.07 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000007l
+			Skipping alignment 473171 475056 | 2885 4747 | 1886 1863 | 95.55 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000007l
+			Skipping alignment 5256681 5258414 | 4751 3041 | 1734 1711 | 95.72 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000007l
+		One align captures most of this contig: 4503752 4852867 | 351127 1 | 349116 351127 | 99.05 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000007l
+
+CONTIG: Consensus_utg000008l (356795bp)
+Best alignment score: 353208.3 (LEN: 356632, IDY: 99.04), Total number of alignments: 25
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4844586 4847823 | 50143 46896 | 3238 3248 | 98.65 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 475187 478329 | 46893 50041 | 3143 3149 | 99.27 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 4444256 4447393 | 50041 46896 | 3138 3146 | 99.24 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 5448666 5451806 | 50044 46896 | 3141 3149 | 99.02 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 5208242 5211386 | 50044 46896 | 3145 3149 | 98.99 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 5345044 5348182 | 50041 46896 | 3139 3146 | 99.05 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 5253171 5256310 | 50041 46896 | 3140 3146 | 98.89 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 5451828 5454049 | 46745 44508 | 2222 2238 | 96.57 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 4847845 4849907 | 46745 44681 | 2063 2065 | 98.79 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 5211408 5213470 | 46745 44681 | 2063 2065 | 98.74 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 3088711 3090776 | 239776 237694 | 2066 2083 | 95.99 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 5256681 5258612 | 46479 44532 | 1932 1948 | 96.62 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 5348553 5350469 | 46479 44565 | 1917 1915 | 97.87 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 4447836 4449633 | 46479 44681 | 1798 1799 | 98.78 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 473263 475056 | 44681 46475 | 1794 1795 | 98.83 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 3828255 3828411 | 213608 213765 | 157 158 | 99.37 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 3828563 3828716 | 213610 213765 | 154 156 | 98.72 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 3827985 3828101 | 213569 213685 | 117 117 | 99.15 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 475100 475184 | 46665 46749 | 85 85 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 5256332 5256412 | 46745 46665 | 81 81 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 3828840 3828917 | 213608 213685 | 78 78 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 3828334 3828411 | 213810 213888 | 78 79 | 98.73 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 3828640 3828716 | 213811 213888 | 77 78 | 98.72 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+			Skipping alignment 3828135 3828211 | 213610 213686 | 77 77 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+		One align captures most of this contig: 1157775 1512409 | 1 356632 | 354635 356632 | 99.04 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000008l
+
+CONTIG: Consensus_utg000009l (130096bp)
+Best alignment score: 128828.1 (LEN: 130090, IDY: 99.03), Total number of alignments: 16
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 5344908 5350352 | 73715 79256 | 5445 5542 | 96.87 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 5253170 5258414 | 73849 79190 | 5245 5342 | 97.22 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 5448669 5451908 | 73850 77105 | 3240 3256 | 98.68 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 4844687 4847925 | 73850 77105 | 3239 3256 | 98.53 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 475086 478331 | 77119 73848 | 3246 3272 | 97.99 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 5208245 5211488 | 73850 77105 | 3244 3256 | 98.32 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 1204335 1207471 | 77003 73850 | 3137 3154 | 98.51 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 4848110 4850028 | 77448 79378 | 1919 1931 | 98.19 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 5211673 5213563 | 77448 79350 | 1891 1903 | 98.79 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 473171 475056 | 79349 77452 | 1886 1898 | 98.53 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 1202122 1203919 | 79256 77448 | 1798 1809 | 98.34 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 5452093 5453826 | 77448 79190 | 1734 1743 | 98.91 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 1582429 1582718 | 48675 48388 | 290 288 | 96.21 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 1582997 1583286 | 48675 48388 | 290 288 | 96.21 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+			Skipping alignment 4021366 4021614 | 48388 48634 | 249 247 | 97.19 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+		One align captures most of this contig: 4370793 4500174 | 1 130090 | 129382 130090 | 99.03 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000009l
+
+CONTIG: Consensus_utg000010l (172729bp)
+Best alignment score: 170604.4 (LEN: 172729, IDY: 98.77), Total number of alignments: 13
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4914134 4914420 | 134547 134262 | 287 286 | 95.14 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000010l
+			Skipping alignment 1583005 1583286 | 134560 134280 | 282 281 | 95.41 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000010l
+			Skipping alignment 4370348 4370618 | 108376 108646 | 271 271 | 95.59 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000010l
+			Skipping alignment 1583018 1583288 | 108665 108396 | 271 270 | 95.94 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000010l
+			Skipping alignment 2851102 2851370 | 108398 108665 | 269 268 | 96.28 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000010l
+			Skipping alignment 4418915 4419163 | 74214 74461 | 249 248 | 97.59 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000010l
+			Skipping alignment 4370369 4370617 | 74214 74461 | 249 248 | 97.19 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000010l
+			Skipping alignment 3506147 3506397 | 74461 74212 | 251 250 | 96.02 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000010l
+			Skipping alignment 3768255 3768437 | 74361 74179 | 183 183 | 96.72 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000010l
+			Skipping alignment 1009099 1009272 | 74212 74385 | 174 174 | 97.13 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000010l
+			Skipping alignment 4914135 4914301 | 74969 74804 | 167 166 | 95.81 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000010l
+			Skipping alignment 62203 62363 | 74214 74374 | 161 161 | 97.52 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000010l
+		One align captures most of this contig: 3947633 4119256 | 1 172729 | 171624 172729 | 98.77 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000010l
+
+CONTIG: Consensus_utg000011l (410765bp)
+Best alignment score: 405908.8 (LEN: 410465, IDY: 98.89), Total number of alignments: 4
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1394162 1396228 | 368121 366048 | 2067 2074 | 96.35 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000011l
+			Skipping alignment 4055330 4055598 | 127153 127420 | 269 268 | 95.93 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000011l
+			Skipping alignment 1009101 1009272 | 127153 127324 | 172 172 | 95.38 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000011l
+		One align captures most of this contig: 2724902 3132951 | 288 410752 | 408050 410465 | 98.89 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000011l
+
+CONTIG: Consensus_utg000012l (171883bp)
+Best alignment score: 117031.5 (LEN: 118142, IDY: 99.06), Total number of alignments: 14
+			Looking for the best set of alignments (out of 14 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 473263 475056 | 168598 170393 | 1794 1796 | 97.23 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+		Skipping redundant alignment 5348553 5350286 | 170397 168660 | 1734 1738 | 98.28 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+		Skipping redundant alignment 4447836 4449633 | 170397 168598 | 1798 1800 | 97.46 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+		Skipping redundant alignment 5256681 5258618 | 170397 168456 | 1938 1942 | 98.56 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+		Skipping redundant alignment 1201949 1204184 | 168437 170663 | 2236 2227 | 95.78 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+		Skipping redundant alignment 1204335 1205504 | 170685 171883 | 1170 1199 | 96.02 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+		Skipping redundant alignment 5255138 5256412 | 171883 170583 | 1275 1301 | 96.64 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+		Skipping redundant alignment 5347012 5348284 | 171883 170583 | 1273 1301 | 96.1 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+		Skipping redundant alignment 4446222 4447495 | 171883 170583 | 1274 1301 | 95.95 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+		Skipping redundant alignment 475100 476362 | 170583 171883 | 1263 1301 | 95.41 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+		Skipping redundant alignment 5210214 5213470 | 171883 168598 | 3257 3286 | 97.19 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+		Skipping redundant alignment 4846652 4849907 | 171883 168598 | 3256 3286 | 97.13 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+			The best set is below. Score: 170272.7, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Real Alignment 1: 1 117427 | 118142 1 | 117427 118142 | 99.06 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+			  Not a misassembly [linear representation of circular genome] between these two alignments
+			Real Alignment 2: 5450635 5504133 | 171883 118143 | 53499 53741 | 99.07 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000012l
+
+CONTIG: Consensus_utg000013l (676846bp)
+Best alignment score: 662375.5 (LEN: 668931, IDY: 99.02), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 5249333 5249417 | 83388 83472 | 85 85 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000013l
+		Skipping redundant alignment 5249333 5249417 | 83689 83773 | 85 85 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000013l
+			The best set is below. Score: 670126.9, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 1 between Alignment 1 and 2: 2651471 2659341 | 668931 676846 | 7871 7916 --> 2651472 2659341 | 668932 676846 | 7870 7915
+			Real Alignment 1: 1986618 2651664 | 1 668931 | 665047 668931 | 99.02 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000013l
+			  Overlap between these two alignments (local misassembly). Inconsistency = -193
+			Real Alignment 2: 2651472 2659341 | 668932 676846 | 7870 7915 | 98.47 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000013l
+
+CONTIG: Consensus_utg000014l (164165bp)
+Best alignment score: 1094.1 (LEN: 1099, IDY: 99.55), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1922878 1923972 | 137977 139075 | 1095 1099 | 99.45 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000014l
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 1094.1, number of alignments: 1, unaligned bases: 163066
+		This contig is partially unaligned. (Aligned 1099 out of 164165 bases)
+		Alignment: 218986 220079 | 139075 137977 | 1094 1099 | 99.55 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000014l
+		Unaligned bases: 1 to 137976 (137976)
+		Unaligned bases: 139076 to 164165 (25090)
+
+CONTIG: Consensus_utg000015l (166945bp)
+Best alignment score: 165470.9 (LEN: 166940, IDY: 99.12), Total number of alignments: 5
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4021850 4022026 | 151215 151038 | 177 178 | 96.07 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000015l
+			Skipping alignment 4021364 4021537 | 151212 151038 | 174 175 | 96.57 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000015l
+			Skipping alignment 3233860 3234033 | 151038 151212 | 174 175 | 95.43 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000015l
+			Skipping alignment 2851102 2851273 | 151210 151038 | 172 173 | 95.95 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000015l
+		One align captures most of this contig: 993444 1159439 | 166945 6 | 165996 166940 | 99.12 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000015l
+
+CONTIG: Consensus_utg000016l (134603bp)
+Best alignment score: 133250.0 (LEN: 134596, IDY: 99.00), Total number of alignments: 7
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1370245 1370399 | 25269 25421 | 155 153 | 98.71 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000016l
+			Skipping alignment 1370204 1370320 | 24689 24805 | 117 117 | 99.15 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000016l
+			Skipping alignment 1370243 1370320 | 25546 25623 | 78 78 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000016l
+			Skipping alignment 1370245 1370321 | 24840 24916 | 77 77 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000016l
+			Skipping alignment 1370446 1370521 | 25346 25421 | 76 76 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000016l
+			Skipping alignment 1370567 1370642 | 25346 25421 | 76 76 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000016l
+		One align captures most of this contig: 3803485 3937237 | 1 134596 | 133753 134596 | 99.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000016l
+
+CONTIG: Consensus_utg000017l (49048bp)
+Best alignment score: 48404.5 (LEN: 49047, IDY: 98.69), Total number of alignments: 1
+		One align captures most of this contig: 2677488 2726219 | 1 49047 | 48732 49047 | 98.69 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000017l
+
+CONTIG: Consensus_utg000018l (58774bp)
+Best alignment score: 57965.7 (LEN: 58747, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 3600906 3659207 | 58770 24 | 58302 58747 | 98.67 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 Consensus_utg000018l
+
+Analyzing coverage...
+Writing SNPs into /home/arash/asmReview/EVAL/AJ055.MiniL/contigs_reports/nucmer_output/AJ055-MiniL.used_snps.gz
+	Reference KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055: 24 total alignments. 1 total regions.
+		Region: 1 to 5504133 (5504133 bp)
+			Align 1: 1 117427 Consensus_utg000012l 118142 1
+				Gap between this and next alignment: 117427 to 141112 (23684 bp)
+				Next Alignment: 141112 514906 Consensus_utg000002l 1 375970
+
+			Align 2: 141112 514906 Consensus_utg000002l 1 375970
+				The next alignment (218986 220079 Consensus_utg000014l 139075 137977) is redundant. Skipping.
+				Gap between this and next alignment: 514906 to 514919 (12 bp)
+				Next Alignment: 514919 970080 Consensus_utg000002l 376106 833810
+
+			Align 4: 514919 970080 Consensus_utg000002l 376106 833810
+				Gap between this and next alignment: 970080 to 993444 (23363 bp)
+				Next Alignment: 993444 1159439 Consensus_utg000015l 166945 6
+
+			Align 5: 993444 1159439 Consensus_utg000015l 166945 6
+				Negative gap (overlap) between this and next alignment: 1159439 to 1157775 (-1664 bp)
+				Next Alignment: 1157775 1512409 Consensus_utg000008l 1 356632
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 1703.
+			Align 6: 1159440 1512409 Consensus_utg000008l 1703 356632
+				Negative gap (overlap) between this and next alignment: 1512409 to 1511243 (-1166 bp)
+				Next Alignment: 1511243 1964119 Consensus_utg000005l 455694 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 455694 to 454521.
+			Align 7: 1512410 1964119 Consensus_utg000005l 454521 1
+				Gap between this and next alignment: 1964119 to 1986618 (22498 bp)
+				Next Alignment: 1986618 2651664 Consensus_utg000013l 1 668931
+
+			Align 8: 1986618 2651664 Consensus_utg000013l 1 668931
+				Negative gap (overlap) between this and next alignment: 2651664 to 2651472 (-192 bp)
+				Next Alignment: 2651472 2659341 Consensus_utg000013l 668932 676846
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 668932 to 669116.
+			Align 9: 2651665 2659341 Consensus_utg000013l 669116 676846
+				Gap between this and next alignment: 2659341 to 2677488 (18146 bp)
+				Next Alignment: 2677488 2726219 Consensus_utg000017l 1 49047
+
+			Align 10: 2677488 2726219 Consensus_utg000017l 1 49047
+				Negative gap (overlap) between this and next alignment: 2726219 to 2724902 (-1317 bp)
+				Next Alignment: 2724902 3132951 Consensus_utg000011l 288 410752
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 288 to 1613.
+			Align 11: 2726220 3132951 Consensus_utg000011l 1613 410752
+				Gap between this and next alignment: 3132951 to 3133611 (659 bp)
+				Next Alignment: 3133611 3601356 Consensus_utg000006l 470432 1
+
+			Align 12: 3133611 3601356 Consensus_utg000006l 470432 1
+				Negative gap (overlap) between this and next alignment: 3601356 to 3600906 (-450 bp)
+				Next Alignment: 3600906 3659207 Consensus_utg000018l 58770 24
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 58770 to 58312.
+			Align 13: 3601357 3659207 Consensus_utg000018l 58312 24
+				Negative gap (overlap) between this and next alignment: 3659207 to 3658936 (-271 bp)
+				Next Alignment: 3658936 3765910 Consensus_utg000003l 146049 38441
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 146049 to 145773.
+			Align 14: 3659208 3765910 Consensus_utg000003l 145773 38441
+				Gap between this and next alignment: 3765910 to 3765997 (86 bp)
+				Next Alignment: 3765997 3804032 Consensus_utg000003l 38266 1
+
+			Align 15: 3765997 3804032 Consensus_utg000003l 38266 1
+				Negative gap (overlap) between this and next alignment: 3804032 to 3803485 (-547 bp)
+				Next Alignment: 3803485 3937237 Consensus_utg000016l 1 134596
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 565.
+			Align 16: 3804033 3937237 Consensus_utg000016l 565 134596
+				Gap between this and next alignment: 3937237 to 3947633 (10395 bp)
+				Next Alignment: 3947633 4119256 Consensus_utg000010l 1 172729
+
+			Align 17: 3947633 4119256 Consensus_utg000010l 1 172729
+				Negative gap (overlap) between this and next alignment: 4119256 to 4119107 (-149 bp)
+				Next Alignment: 4119107 4327920 Consensus_utg000004l 243445 33531
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 243445 to 243301.
+			Align 18: 4119257 4327920 Consensus_utg000004l 243301 33531
+				Negative gap (overlap) between this and next alignment: 4327920 to 4327909 (-11 bp)
+				Next Alignment: 4327909 4361164 Consensus_utg000004l 33500 16
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 33500 to 33487.
+			Align 19: 4327921 4361164 Consensus_utg000004l 33487 16
+				Gap between this and next alignment: 4361164 to 4370793 (9628 bp)
+				Next Alignment: 4370793 4500174 Consensus_utg000009l 1 130090
+
+			Align 20: 4370793 4500174 Consensus_utg000009l 1 130090
+				Gap between this and next alignment: 4500174 to 4503752 (3577 bp)
+				Next Alignment: 4503752 4852867 Consensus_utg000007l 351127 1
+
+			Align 21: 4503752 4852867 Consensus_utg000007l 351127 1
+				Negative gap (overlap) between this and next alignment: 4852867 to 4847690 (-5177 bp)
+				Next Alignment: 4847690 5199273 Consensus_utg000001l 1 353822
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 5368.
+			Align 22: 4852868 5199273 Consensus_utg000001l 5368 353822
+				Gap between this and next alignment: 5199273 to 5199427 (153 bp)
+				Next Alignment: 5199427 5450789 Consensus_utg000001l 354090 606965
+
+			Align 23: 5199427 5450789 Consensus_utg000001l 354090 606965
+				Negative gap (overlap) between this and next alignment: 5450789 to 5450635 (-154 bp)
+				Next Alignment: 5450635 5504133 Consensus_utg000012l 171883 118143
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 171883 to 171719.
+			Align 24: 5450790 5504133 Consensus_utg000012l 171719 118143
+			END in current alignment.  Modifying 5504133 to 5504133.
+
+Analysis is finished!
+Founded SNPs were written into /home/arash/asmReview/EVAL/AJ055.MiniL/contigs_reports/nucmer_output/AJ055-MiniL.used_snps.gz
+
+Results:
+	Local Misassemblies: 4
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 1 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 163066
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 164165
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 5391932
+
+	SNPs: 2694
+	Insertions: 41490
+	Deletions: 9924
+
+	Positive Gaps: 11
+		Internal Gaps: 3
+		External Gaps: 8
+		External Gap Total: 111950
+		External Gap Average: 13994
+	Negative Gaps: 11
+		Internal Overlaps: 2
+		External Overlaps: 9
+		External Overlaps Total: -10895
+		External Overlaps Average: -1211
+	Contigs with Redundant Alignments: 1 (1094)

@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     AJ292.MiniL
+# contigs (>= 0 bp)          2          
+# contigs (>= 1000 bp)       2          
+# contigs (>= 5000 bp)       2          
+# contigs (>= 10000 bp)      2          
+# contigs (>= 25000 bp)      2          
+# contigs (>= 50000 bp)      2          
+Total length (>= 0 bp)       5466090    
+Total length (>= 1000 bp)    5466090    
+Total length (>= 5000 bp)    5466090    
+Total length (>= 10000 bp)   5466090    
+Total length (>= 25000 bp)   5466090    
+Total length (>= 50000 bp)   5466090    
+# contigs                    2          
+Largest contig               3797896    
+Total length                 5466090    
+Reference length             5445112    
+GC (%)                       57.55      
+Reference GC (%)             57.62      
+N50                          3797896    
+NG50                         3797896    
+N75                          1668194    
+NG75                         1668194    
+L50                          1          
+LG50                         1          
+L75                          2          
+LG75                         2          
+# misassemblies              0          
+# misassembled contigs       0          
+Misassembled contigs length  0          
+# local misassemblies        5          
+# unaligned mis. contigs     0          
+# unaligned contigs          0 + 0 part 
+Unaligned length             0          
+Genome fraction (%)          99.969     
+Duplication ratio            1.004      
+# N's per 100 kbp            0.00       
+# mismatches per 100 kbp     26.97      
+# indels per 100 kbp         481.63     
+Largest alignment            3797549    
+Total aligned length         5465701    
+NA50                         3797549    
+NGA50                        3797549    
+NA75                         1668152    
+NGA75                        1668152    
+LA50                         1          
+LGA50                        1          
+LA75                         2          
+LGA75                        2          

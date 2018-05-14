@@ -1,0 +1,14 @@
+Assembly	AJ292.CanuL.cr
+# misassemblies	34
+    # relocations	32
+    # translocations	0
+    # inversions	2
+# misassembled contigs	33
+Misassembled contigs length	540888
+# local misassemblies	36
+# unaligned mis. contigs	3
+# mismatches	3067
+# indels	20480
+    # indels (<= 5 bp)	20323
+    # indels (> 5 bp)	157
+Indels length	25706

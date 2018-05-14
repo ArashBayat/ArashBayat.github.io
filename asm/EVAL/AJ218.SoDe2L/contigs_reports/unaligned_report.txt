@@ -1,0 +1,9 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assembly AJ218.SoDe2L contains continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                       AJ218.SoDe2L
+# fully unaligned contigs      121         
+Fully unaligned length         111719      
+# partially unaligned contigs  0           
+Partially unaligned length     0           
+# N's                          2136        

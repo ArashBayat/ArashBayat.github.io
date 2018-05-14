@@ -1,0 +1,899 @@
+gnuplot 5.0 patchlevel 3
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [sim5M]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 5000040
+Analyzing contigs...
+CONTIG: tig00000001_len_60846_reads_107_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no (60846bp)
+Best alignment score: 60742.6 (LEN: 60846, IDY: 99.83), Total number of alignments: 1
+		One align captures most of this contig: 3165273 3226098 | 1 60846 | 60826 60846 | 99.83 | sim5M tig00000001_len_60846_reads_107_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+
+CONTIG: tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no (1779657bp)
+Best alignment score: 1779123.1 (LEN: 1779657, IDY: 99.97), Total number of alignments: 199
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2510265 2514586 | 302223 306533 | 4322 4311 | 97.04 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2135772 2140087 | 302223 306527 | 4316 4305 | 97.03 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 502949 507278 | 306533 302214 | 4330 4320 | 96.4 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215445 1219783 | 306536 302214 | 4339 4323 | 96.27 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1837355 1841683 | 302214 306533 | 4329 4320 | 96.08 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1729383 1732708 | 303203 306523 | 3326 3321 | 95.05 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615735 618412 | 306531 303859 | 2678 2673 | 95.9 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2512167 2514591 | 216717 214295 | 2425 2423 | 95.92 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1436695 | 305632 303215 | 2425 2418 | 96.08 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215449 1217870 | 214296 216717 | 2422 2422 | 95.38 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1839267 1841692 | 216715 214288 | 2426 2428 | 95.14 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615739 618152 | 214300 216717 | 2414 2418 | 95.5 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3523030 3525438 | 216717 214300 | 2409 2418 | 95.41 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3433211 3435628 | 306527 304119 | 2418 2409 | 95.41 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2137674 2139828 | 216717 214562 | 2155 2156 | 96.75 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2508549 2510265 | 300203 301917 | 1717 1715 | 96.04 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 507269 508983 | 301917 300204 | 1715 1714 | 95.69 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2134081 2135772 | 300228 301917 | 1692 1690 | 95.92 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1435789 | 215199 216717 | 1519 1519 | 95.59 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2135777 2137192 | 595024 596439 | 1416 1416 | 97.88 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2510270 2511685 | 595024 596439 | 1416 1416 | 97.6 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1837369 1838784 | 595024 596439 | 1416 1416 | 97.46 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 505849 507264 | 596439 595024 | 1416 1416 | 97.1 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1218352 1219769 | 596439 595024 | 1418 1416 | 96.97 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 528494 529924 | 596439 595017 | 1431 1423 | 96.16 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 546033 547453 | 596438 595025 | 1421 1414 | 95.99 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4970210 4971614 | 596434 595024 | 1405 1411 | 95.46 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3813935 3815345 | 1752723 1751319 | 1411 1405 | 95.39 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4967349 4968742 | 873311 871914 | 1394 1398 | 95.28 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215464 1216861 | 873311 871914 | 1398 1398 | 95.21 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2513176 2514573 | 871914 873311 | 1398 1398 | 95.06 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4090803 4092200 | 1749851 1748458 | 1398 1394 | 95.28 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 718601 719911 | 303303 304611 | 1311 1309 | 97.25 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2138950 2140089 | 1738938 1737798 | 1140 1141 | 96.85 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2513443 2514580 | 1738938 1737803 | 1138 1136 | 97.19 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1840538 1841669 | 1738938 1737806 | 1132 1133 | 96.65 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 502957 504091 | 1737803 1738938 | 1135 1136 | 96.39 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215464 1216594 | 1737807 1738938 | 1131 1132 | 96.47 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3524301 3525435 | 1738938 1737803 | 1135 1136 | 95.87 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956694 4957829 | 306524 305390 | 1136 1135 | 95.87 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615750 616875 | 1737806 1738938 | 1126 1133 | 95.94 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3010379 3011504 | 595314 596439 | 1126 1126 | 95.03 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1836267 1837364 | 300819 301917 | 1098 1099 | 95.54 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4070115 4071124 | 1738860 1737845 | 1010 1016 | 95.87 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4070115 4071124 | 215364 214348 | 1010 1017 | 95.77 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 475537 476555 | 596260 595241 | 1019 1020 | 95.1 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956736 4957751 | 852235 851226 | 1016 1010 | 95.87 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3433259 3434275 | 852235 851226 | 1017 1010 | 95.77 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2139028 2140037 | 851227 852229 | 1010 1003 | 96.34 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2513521 2514530 | 851227 852229 | 1010 1003 | 96.34 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215501 1216517 | 852235 851226 | 1017 1010 | 95.38 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1840615 1841631 | 851226 852235 | 1017 1010 | 95.18 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 503005 504014 | 852229 851226 | 1010 1004 | 95.45 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2513423 2514365 | 692898 693841 | 943 944 | 97.25 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2138930 2139872 | 692898 693841 | 943 944 | 97.03 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198354 199306 | 215250 214295 | 953 956 | 95.51 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 503169 504111 | 693841 692898 | 943 944 | 96.61 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215674 1216614 | 693839 692898 | 941 942 | 96.71 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3433429 3434372 | 693841 692898 | 944 944 | 96.4 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911787 3912730 | 215461 214518 | 944 944 | 96.4 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615959 616895 | 693841 692898 | 937 944 | 96.29 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1840518 1841460 | 692898 693841 | 943 944 | 96.19 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198349 199291 | 1738751 1737805 | 943 947 | 95.57 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1219774 1220714 | 301917 300977 | 941 941 | 95.75 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1731551 1732489 | 692898 693841 | 939 944 | 95.23 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911808 3912730 | 1738938 1738016 | 923 923 | 96.97 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956907 4957829 | 693841 692919 | 923 923 | 96.97 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198349 199252 | 851335 852235 | 904 901 | 95.59 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1546529 1547432 | 215815 216717 | 904 903 | 95.02 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1436696 1437586 | 1738692 1737803 | 891 890 | 95.74 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1436696 1437588 | 305635 306527 | 893 893 | 95.3 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717793 718606 | 306533 305723 | 814 811 | 95.21 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717811 718606 | 1737810 1738604 | 796 795 | 96.23 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717831 718606 | 214333 215108 | 776 776 | 95.24 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198349 199085 | 693105 693841 | 737 737 | 96.34 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2246915 2247639 | 872232 872953 | 725 722 | 95.04 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2246915 2247639 | 1738886 1738166 | 725 721 | 95.04 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1436696 1437373 | 693164 693841 | 678 678 | 95.13 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1039265 1039930 | 873218 872552 | 666 667 | 96.1 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 198350 | 215268 215935 | 668 668 | 95.51 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198646 199305 | 1612736 1613398 | 660 663 | 96.08 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 198350 | 305563 304897 | 668 667 | 95.06 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1841021 1841683 | 1612736 1613398 | 663 663 | 95.48 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2139433 2140092 | 1612736 1613398 | 660 663 | 95.17 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615741 616398 | 1613393 1612736 | 658 658 | 95.44 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215453 1216111 | 1613393 1612736 | 659 658 | 95.14 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2513926 2514581 | 1612736 1613393 | 656 658 | 95.14 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717815 718456 | 1613377 1612736 | 642 642 | 95.17 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 718017 718601 | 693841 693257 | 585 585 | 96.58 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 66490 67064 | 832535 831963 | 575 573 | 95.3 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 478216 478757 | 871914 872455 | 542 542 | 95.39 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151461 3151976 | 1613273 1612758 | 516 516 | 96.12 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151461 3151976 | 1737918 1738432 | 516 515 | 95.74 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151461 3151976 | 214421 214935 | 516 515 | 95.54 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151461 3151976 | 873201 872686 | 516 516 | 95.35 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 616471 616971 | 1612235 1612735 | 501 501 | 97.61 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3009112 3009621 | 1524420 1523910 | 510 511 | 95.5 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2513347 2513853 | 1612735 1612235 | 507 501 | 97.24 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1216335 1216845 | 1524420 1523910 | 511 511 | 95.3 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 544020 544530 | 1524420 1523910 | 511 511 | 95.11 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1216184 1216690 | 1612235 1612735 | 507 501 | 96.84 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831126 4831626 | 305800 305295 | 501 506 | 95.66 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1840442 1840948 | 1612735 1612235 | 507 501 | 96.45 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2138854 2139360 | 1612735 1612235 | 507 501 | 96.45 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 503681 504187 | 1612235 1612735 | 507 501 | 96.25 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3524206 3524711 | 1612735 1612235 | 506 501 | 95.86 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1731475 1731977 | 1612735 1612235 | 503 501 | 95.46 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 719419 719907 | 216717 216229 | 489 489 | 97.34 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151494 3151976 | 852136 851654 | 483 483 | 96.27 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2200339 2200814 | 1738277 1737804 | 476 474 | 95.4 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 543901 544375 | 1612267 1612735 | 475 469 | 96.21 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1729383 1729820 | 596003 596440 | 438 438 | 97.03 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1436271 1436695 | 596439 596015 | 425 425 | 97.65 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831126 4831549 | 693329 692899 | 424 431 | 96.06 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911788 3912218 | 1612658 1612235 | 431 424 | 96.29 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151559 3151976 | 693841 693424 | 418 418 | 96.65 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 719517 719905 | 832535 832147 | 389 389 | 95.89 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 872897 872511 | 384 387 | 96.12 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 851865 851479 | 384 387 | 95.87 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 1738222 1738607 | 384 386 | 95.61 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 306106 305720 | 384 387 | 95.09 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 230068 229682 | 384 387 | 95.09 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 731428 731814 | 384 387 | 95.09 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995329 | 693635 693257 | 376 379 | 96.31 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831126 4831500 | 229762 229383 | 375 380 | 95.79 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3448294 3448673 | 1612609 1612235 | 380 375 | 96.05 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 718601 718937 | 596103 596439 | 337 337 | 98.22 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831126 4831453 | 851559 851226 | 328 334 | 96.71 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1729058 1729386 | 596019 595691 | 329 329 | 97.57 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1434609 | 1612402 1612735 | 339 334 | 95.87 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4070115 4070448 | 1612562 1612235 | 334 328 | 97.01 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4133695 4134010 | 917671 917356 | 316 316 | 98.1 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2646169 2646486 | 704565 704886 | 318 322 | 96.27 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2562828 2563144 | 704886 704569 | 317 318 | 97.48 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4136245 4136560 | 915121 914806 | 316 316 | 97.78 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2562834 2563144 | 689376 689686 | 311 311 | 99.04 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 922788 923097 | 689686 689376 | 310 311 | 98.71 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 922788 923103 | 704569 704886 | 316 318 | 96.23 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2646173 2646482 | 689686 689376 | 310 311 | 98.07 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2222579 2222894 | 704882 704568 | 316 315 | 96.24 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2222582 2222893 | 689378 689686 | 312 309 | 97.44 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3908266 3908575 | 704879 704569 | 310 311 | 96.78 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1100859 1101180 | 704884 704569 | 322 316 | 95.05 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3923458 3923768 | 689686 689377 | 311 310 | 96.78 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1991605 1991915 | 704879 704567 | 311 313 | 95.53 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 745852 746155 | 689688 689384 | 304 305 | 98.03 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 745854 746160 | 704569 704876 | 307 308 | 96.76 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2877384 2877687 | 689686 689382 | 304 305 | 97.7 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82383 82683 | 704571 704873 | 301 303 | 97.69 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2877384 2877686 | 704569 704873 | 303 305 | 96.72 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82383 82683 | 700177 699872 | 301 306 | 95.1 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 98385 98683 | 689391 689687 | 299 297 | 97.66 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 98385 98682 | 704865 704569 | 298 297 | 96.99 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 922786 923083 | 302216 301916 | 298 301 | 95.35 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2562848 2563144 | 301916 302214 | 297 299 | 95.67 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 745854 746149 | 302214 301916 | 296 299 | 95.32 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82383 82676 | 1710542 1710834 | 294 293 | 96.27 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 478483 478757 | 1738938 1738663 | 275 276 | 95.29 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 922825 923088 | 1656563 1656826 | 264 264 | 99.24 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2562843 2563107 | 1656826 1656563 | 265 264 | 98.87 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2646210 2646473 | 1656563 1656826 | 264 264 | 98.86 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 745891 746154 | 1656563 1656826 | 264 264 | 98.48 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4875454 4875717 | 689649 689385 | 264 265 | 97.74 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1434533 | 693161 692898 | 263 264 | 98.11 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2877421 2877684 | 1656563 1656826 | 264 264 | 98.11 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2222589 2222856 | 1656826 1656563 | 268 264 | 97.76 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3908274 3908538 | 1656826 1656563 | 265 264 | 97.74 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 98385 98645 | 1656820 1656563 | 261 258 | 98.08 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4743057 4743311 | 1738932 1738678 | 255 255 | 96.86 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4957569 4957823 | 1524420 1524166 | 255 255 | 96.86 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3310459 3310709 | 94463 94213 | 251 251 | 96.81 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3313124 3313374 | 91798 91548 | 251 251 | 96.81 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1434513 | 1738695 1738938 | 243 244 | 98.36 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1217889 1218122 | 216953 216721 | 234 233 | 96.15 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 528031 528264 | 216953 216721 | 234 233 | 95.73 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 545570 545803 | 216953 216721 | 234 233 | 95.73 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 156903 157120 | 596253 596036 | 218 218 | 95.87 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1434483 | 229594 229383 | 213 212 | 96.71 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1841480 1841692 | 692899 692688 | 213 212 | 95.33 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 478546 478757 | 1643300 1643089 | 212 212 | 95.28 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215448 1215652 | 692698 692899 | 205 202 | 95.61 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615738 615939 | 692699 692899 | 202 201 | 95.05 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4743115 4743311 | 1643300 1643104 | 197 197 | 96.95 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4861995 4862191 | 1524420 1524224 | 197 197 | 96.95 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 197876 | 693092 692898 | 194 195 | 95.9 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 889227 889388 | 306528 306368 | 162 161 | 95.06 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 889245 889389 | 1737816 1737960 | 145 145 | 97.24 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2051047 2051171 | 689384 689508 | 125 125 | 98.4 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 197793 | 1643190 1643300 | 111 111 | 96.4 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 197783 | 1738764 1738864 | 101 101 | 100.0 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 197779 | 851322 851226 | 97 97 | 98.97 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 73031 73111 | 692794 692714 | 81 81 | 98.77 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1340871 1340944 | 106773 106846 | 74 74 | 98.65 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3325683 3325752 | 271312 271243 | 70 70 | 100.0 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3325684 3325753 | 271299 271230 | 70 70 | 100.0 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3490141 3490210 | 106842 106773 | 70 70 | 100.0 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3490154 3490223 | 106841 106772 | 70 70 | 100.0 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1340869 1340935 | 106775 106841 | 67 67 | 100.0 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+		One align captures most of this contig: 3218912 4998548 | 1 1779657 | 1779637 1779657 | 99.97 | sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+
+CONTIG: tig00000003_len_13679_reads_19_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no (13679bp)
+Best alignment score: 13673.5 (LEN: 13679, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 3208172 3221850 | 13679 1 | 13679 13679 | 99.96 | sim5M tig00000003_len_13679_reads_19_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+
+CONTIG: tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no (1259797bp)
+Best alignment score: 1259417.1 (LEN: 1259795, IDY: 99.97), Total number of alignments: 202
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2509167 2514598 | 1117884 1123312 | 5432 5429 | 96.89 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2134674 2140106 | 1117884 1123313 | 5433 5430 | 96.78 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 502948 508367 | 1123301 1117884 | 5420 5418 | 96.16 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2509325 2514585 | 502331 497066 | 5261 5266 | 96.94 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2134832 2140074 | 502331 497087 | 5243 5245 | 96.89 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1836423 1841682 | 502333 497066 | 5260 5268 | 96.39 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 502950 508209 | 497066 502331 | 5260 5266 | 96.39 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215449 1220716 | 1123299 1118040 | 5268 5260 | 96.39 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3521125 3525447 | 501400 497062 | 4323 4339 | 96.24 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3521125 3525444 | 1118972 1123300 | 4320 4329 | 96.05 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2136756 2140083 | 1011000 1014325 | 3328 3326 | 95.86 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2511249 2514570 | 1011000 1014319 | 3322 3320 | 95.86 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1729383 1732702 | 500407 497084 | 3320 3324 | 95.62 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215467 1218790 | 1014319 1011000 | 3324 3320 | 95.62 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 502958 506286 | 1014325 1010999 | 3329 3327 | 95.3 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615735 618412 | 497067 499747 | 2678 2681 | 96.5 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615741 618412 | 1123295 1120623 | 2672 2673 | 96.42 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615750 618412 | 1014323 1011658 | 2663 2666 | 95.03 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3522114 3524721 | 1011000 1013604 | 2608 2605 | 95.56 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2136768 2139192 | 718312 715888 | 2425 2425 | 97.07 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2511261 2513685 | 718312 715888 | 2425 2425 | 97.07 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 503849 506273 | 715888 718312 | 2425 2425 | 96.91 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1838360 1840780 | 718312 715888 | 2421 2425 | 96.25 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1436695 | 1122397 1119977 | 2425 2421 | 96.25 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3522126 3524543 | 718312 715888 | 2418 2425 | 96.04 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 544037 546457 | 715888 718312 | 2421 2425 | 95.96 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1729395 1731813 | 718312 715888 | 2419 2425 | 95.88 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1436695 | 1013430 1011012 | 2425 2419 | 95.88 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 526493 528919 | 715888 718312 | 2427 2425 | 95.39 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3433207 3435628 | 497066 499487 | 2422 2422 | 95.38 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3433199 3435626 | 1123309 1120884 | 2428 2426 | 95.14 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 616638 618412 | 715888 717666 | 1775 1779 | 96.46 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3434110 3435628 | 715888 717406 | 1519 1519 | 95.59 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3813935 3815350 | 1118986 1120401 | 1416 1416 | 97.39 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3813935 3815350 | 501386 499969 | 1416 1418 | 96.9 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4090803 4092200 | 498478 497081 | 1398 1398 | 95.21 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2136856 2138166 | 217 1527 | 1311 1311 | 97.33 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2511349 2512659 | 217 1527 | 1311 1311 | 97.33 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 504875 506185 | 1527 217 | 1311 1311 | 97.25 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3522214 3523522 | 217 1527 | 1309 1311 | 97.18 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 718601 719911 | 500307 498995 | 1311 1313 | 96.95 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1217378 1218690 | 1527 217 | 1313 1311 | 96.95 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 545063 546369 | 1523 217 | 1307 1307 | 96.56 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 718601 719911 | 718224 716914 | 1311 1311 | 96.03 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1435297 1436607 | 1527 217 | 1311 1311 | 96.03 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 527526 528831 | 1521 217 | 1306 1305 | 96.17 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3009129 3010381 | 715888 717141 | 1253 1254 | 95.06 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2137435 2138576 | 829288 828146 | 1142 1143 | 95.98 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2511928 2513069 | 829288 828146 | 1142 1143 | 95.98 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956697 4957829 | 1123286 1122155 | 1133 1132 | 96.65 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 504465 505606 | 828146 829288 | 1142 1143 | 95.71 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956698 4957829 | 497081 498211 | 1132 1131 | 96.47 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1730062 1731197 | 829288 828146 | 1136 1143 | 95.1 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1546529 1547671 | 1121783 1120644 | 1143 1140 | 95.01 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 617254 618390 | 828152 829287 | 1137 1136 | 95.34 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1546529 1547671 | 1012814 1011679 | 1143 1136 | 95.19 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3519730 3520828 | 1117884 1118981 | 1099 1098 | 95.54 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4070115 4071124 | 498134 497118 | 1010 1017 | 95.38 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4070115 4071124 | 1122232 1123248 | 1010 1017 | 95.18 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198349 199311 | 1122341 1123305 | 963 965 | 95.86 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198349 199305 | 498025 497066 | 957 960 | 95.21 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911787 3912728 | 498231 497291 | 942 941 | 96.71 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911787 3912730 | 1122135 1123077 | 944 943 | 96.19 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3519888 3520828 | 502331 501391 | 941 941 | 95.75 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911787 3912730 | 1013168 1014106 | 944 939 | 95.23 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2513688 2514582 | 718313 719206 | 895 894 | 96.09 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1355643 1356541 | 716786 715888 | 899 899 | 95.44 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1435169 | 638158 637260 | 899 899 | 95.44 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2139195 2140087 | 718313 719205 | 893 893 | 96.08 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 502955 503846 | 719205 718313 | 892 893 | 95.63 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956694 4957583 | 719203 718313 | 890 891 | 95.74 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615739 616635 | 719205 718313 | 897 893 | 95.32 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3524546 3525438 | 718313 719205 | 893 893 | 95.3 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215472 1216349 | 719190 718313 | 878 878 | 95.56 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1436696 1437573 | 497966 497089 | 878 878 | 95.56 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717792 718606 | 1123303 1122488 | 815 816 | 95.6 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717794 718606 | 497066 497878 | 813 813 | 95.58 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717810 718606 | 719198 718401 | 797 798 | 96.24 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 617660 618412 | 1527 775 | 753 753 | 98.14 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1546940 1547671 | 1527 796 | 732 732 | 95.36 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 719180 719911 | 829288 828557 | 732 732 | 95.22 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2246915 2247639 | 498160 497439 | 725 722 | 95.59 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 198350 | 498038 498705 | 668 668 | 96.56 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3912053 3912730 | 718313 718990 | 678 678 | 95.13 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 198350 | 715957 716624 | 668 668 | 96.26 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4091441 4092107 | 321547 320882 | 667 666 | 96.1 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198534 199202 | 321547 320880 | 669 668 | 95.22 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 198350 | 1013361 1012694 | 668 668 | 95.21 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 198350 | 1122328 1121664 | 668 665 | 95.51 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831627 4832289 | 1122638 1123300 | 663 663 | 95.48 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831627 4832284 | 497728 497070 | 658 659 | 95.14 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151461 3151976 | 719088 718573 | 516 516 | 95.93 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151461 3151976 | 1123175 1122660 | 516 516 | 95.93 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151461 3151973 | 497191 497703 | 513 513 | 95.91 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831126 4831626 | 497801 498307 | 501 507 | 96.65 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831126 4831626 | 1122565 1122059 | 501 507 | 96.25 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4742801 4743311 | 498462 497952 | 511 511 | 95.3 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831126 4831626 | 1013594 1013092 | 501 503 | 95.27 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3435140 3435628 | 1523 1035 | 489 489 | 97.34 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2200339 2200823 | 497550 497066 | 485 485 | 95.46 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2200339 2200814 | 718729 719205 | 476 477 | 95.18 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3814914 3815351 | 1011000 1011437 | 438 438 | 97.03 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3814926 3815350 | 718312 717888 | 425 425 | 97.65 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2247238 2247639 | 321547 321146 | 402 402 | 96.52 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4051036 4051424 | 1521 1133 | 389 389 | 95.89 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 638632 638246 | 384 387 | 96.38 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 1013900 1013514 | 384 387 | 96.12 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 718784 718398 | 384 387 | 95.09 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3815014 3815350 | 217 553 | 337 337 | 98.22 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831293 4831626 | 715888 716226 | 334 339 | 95.58 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3814602 3814930 | 1011003 1010675 | 329 329 | 97.57 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2510937 2511265 | 1011003 1010675 | 329 329 | 97.26 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2136444 2136772 | 1011003 1010675 | 329 329 | 96.66 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 506269 506597 | 1010675 1011003 | 329 329 | 95.44 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2562828 2563144 | 204720 204405 | 317 316 | 98.74 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2646170 2646483 | 204402 204715 | 314 314 | 98.73 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3923458 3923773 | 382797 382476 | 316 322 | 95.05 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3908265 3908575 | 204714 204405 | 311 310 | 98.71 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3923458 3923775 | 204405 204720 | 318 316 | 96.23 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2222582 2222893 | 204712 204405 | 312 308 | 98.08 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2877384 2877690 | 27470 27776 | 307 307 | 98.05 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82383 82685 | 382795 382484 | 303 312 | 96.47 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2877384 2877687 | 204405 204708 | 304 304 | 98.36 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2562842 2563144 | 27771 27470 | 303 302 | 99.01 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2646173 2646474 | 27470 27771 | 302 302 | 98.68 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3908273 3908577 | 27771 27468 | 305 304 | 98.03 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3923458 3923765 | 27470 27776 | 308 307 | 96.76 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2222588 2222893 | 27771 27470 | 306 302 | 98.04 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82383 82685 | 204407 204709 | 303 303 | 97.36 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 182027 182326 | 1177906 1177608 | 300 299 | 98.33 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 98385 98687 | 27764 27464 | 303 301 | 97.37 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82383 82682 | 27472 27771 | 300 300 | 97.33 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 98385 98682 | 204699 204405 | 298 295 | 97.65 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3520827 3521127 | 204700 204403 | 301 298 | 95.35 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3520827 3521125 | 27765 27470 | 299 296 | 95.32 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 284044 284327 | 1177623 1177906 | 284 284 | 98.59 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82383 82673 | 425874 425584 | 291 291 | 95.21 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2608639 2608912 | 1177904 1177631 | 274 274 | 98.18 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2370328 2370599 | 1177635 1177906 | 272 272 | 97.79 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4875454 4875717 | 204442 204705 | 264 264 | 99.24 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4875454 4875717 | 27507 27770 | 264 264 | 98.48 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911787 3912050 | 716150 715888 | 264 263 | 98.11 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4957586 4957829 | 715888 716130 | 244 243 | 98.36 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2740854 2741093 | 719203 718963 | 240 241 | 95.85 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3435632 3435864 | 499739 499506 | 233 234 | 96.15 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 107218 107442 | 1 224 | 225 224 | 98.22 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2740864 2741093 | 497087 497316 | 230 230 | 95.22 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2513776 2513997 | 222 1 | 222 222 | 98.2 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3448596 3448817 | 222 1 | 222 222 | 98.2 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 67998 68219 | 222 1 | 222 222 | 97.75 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 503537 503758 | 1 222 | 222 222 | 97.75 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1356632 1356853 | 222 1 | 222 222 | 97.75 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3008821 3009042 | 1 222 | 222 222 | 97.75 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4091403 4091624 | 222 1 | 222 222 | 97.75 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4957274 4957495 | 1 222 | 222 222 | 97.75 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3433797 3434019 | 1 222 | 223 222 | 97.31 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2139283 2139504 | 222 1 | 222 222 | 97.3 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2247201 2247421 | 222 1 | 221 222 | 97.3 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4070371 4070592 | 222 1 | 222 222 | 97.3 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4967925 4968146 | 1 222 | 222 222 | 97.3 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3860213 3860435 | 222 1 | 223 222 | 96.86 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 616327 616547 | 1 222 | 221 222 | 96.85 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1436784 1437005 | 222 1 | 222 222 | 96.85 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3524634 3524855 | 222 1 | 222 222 | 96.85 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198496 198717 | 222 1 | 222 222 | 96.4 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 526181 526402 | 1 222 | 222 222 | 96.4 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1840871 1841092 | 222 1 | 222 222 | 96.4 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3950479 3950700 | 1 222 | 222 222 | 96.4 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3912146 3912362 | 217 1 | 217 217 | 98.16 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 247497 247718 | 1 222 | 222 222 | 95.5 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4651317 4651538 | 222 1 | 222 222 | 95.05 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3448294 3448505 | 716100 715888 | 212 213 | 96.71 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911577 3911788 | 1123309 1123097 | 212 213 | 95.33 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4743090 4743294 | 716092 715888 | 205 205 | 96.59 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911587 3911788 | 497065 497269 | 202 205 | 95.61 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2200658 2200824 | 171004 170836 | 167 169 | 96.45 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 889219 889386 | 1123305 1123136 | 168 170 | 95.88 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1841519 1841688 | 171003 170836 | 170 168 | 95.88 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615739 615902 | 170844 171005 | 164 162 | 97.56 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1417540 1417703 | 321044 320880 | 164 165 | 95.76 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1039263 1039427 | 699320 699157 | 165 164 | 95.76 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3525279 3525439 | 171005 170844 | 161 162 | 95.06 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 889245 889389 | 719190 719046 | 145 145 | 98.62 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1437429 1437573 | 171006 170862 | 145 145 | 98.62 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717815 717961 | 170860 171006 | 147 147 | 96.6 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956707 4956851 | 170862 171006 | 145 145 | 97.24 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2740864 2741001 | 170860 170997 | 138 138 | 97.83 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4427331 4427465 | 135 1 | 135 135 | 97.04 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1232590 1232720 | 719201 719071 | 131 131 | 97.73 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1437454 1437584 | 514337 514207 | 131 131 | 97.73 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151975 3152102 | 497193 497066 | 128 128 | 95.35 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717810 717936 | 514210 514337 | 127 128 | 95.31 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3112225 3112324 | 100 1 | 100 100 | 98.0 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 292356 292456 | 453243 453143 | 101 101 | 96.04 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 157531 157627 | 453143 453239 | 97 97 | 98.97 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 73031 73123 | 497164 497072 | 93 93 | 95.7 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 73035 73123 | 1123206 1123298 | 89 93 | 95.7 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 73031 73120 | 170937 170846 | 90 92 | 96.74 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2960156 2960243 | 719116 719204 | 88 89 | 96.63 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3325684 3325757 | 622488 622561 | 74 74 | 98.65 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3325686 3325752 | 622486 622552 | 67 67 | 100.0 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+		One align captures most of this contig: 718387 1978180 | 3 1259797 | 1259794 1259795 | 99.97 | sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+
+CONTIG: tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no (368449bp)
+Best alignment score: 368338.5 (LEN: 368449, IDY: 99.97), Total number of alignments: 85
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2508550 2514587 | 158696 152661 | 6038 6036 | 97.09 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2134081 2140094 | 158672 152661 | 6014 6012 | 96.97 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1836267 1841684 | 158080 152661 | 5418 5420 | 96.16 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215449 1220714 | 152663 157922 | 5266 5260 | 96.39 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2134834 2139635 | 198106 193323 | 4802 4784 | 95.39 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2509327 2514132 | 198106 193319 | 4806 4788 | 95.14 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2135181 2139795 | 180226 175603 | 4615 4624 | 95.68 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2509674 2514288 | 180226 175603 | 4615 4624 | 95.57 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3521134 3525444 | 156982 152662 | 4311 4321 | 96.37 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1729382 1732708 | 155999 152671 | 3327 3329 | 95.3 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215450 1218130 | 265448 268125 | 2681 2678 | 96.5 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2137414 2140087 | 268125 265453 | 2674 2673 | 96.64 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1839006 1841678 | 268125 265454 | 2673 2672 | 96.42 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3522770 3525442 | 268125 265448 | 2673 2678 | 95.9 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1730041 1732706 | 268125 265463 | 2666 2663 | 95.03 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1436695 | 153562 155986 | 2425 2425 | 96.91 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1436695 | 193750 196170 | 2425 2421 | 95.96 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1436695 | 176206 178632 | 2425 2427 | 95.39 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2511907 2514286 | 268125 265751 | 2380 2375 | 97.31 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3433211 3435628 | 265452 267865 | 2418 2414 | 95.5 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3433211 3435352 | 152662 154804 | 2142 2143 | 95.1 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1436049 | 266351 268125 | 1779 1775 | 96.46 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3519115 3520828 | 158696 156982 | 1714 1715 | 95.63 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3813928 3815350 | 179637 178207 | 1423 1431 | 96.09 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3813935 3815350 | 156977 155562 | 1416 1416 | 97.03 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3813936 3815349 | 197166 195746 | 1414 1421 | 95.92 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 718601 719911 | 155898 154588 | 1311 1311 | 97.25 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 718601 719905 | 178544 177239 | 1305 1306 | 96.17 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1546529 1547671 | 154178 155319 | 1143 1142 | 95.8 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956694 4957829 | 152670 153804 | 1136 1135 | 96.39 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1546535 1547670 | 266967 268103 | 1136 1137 | 95.43 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956697 4957829 | 265463 266588 | 1133 1126 | 95.94 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 718601 719684 | 196082 194999 | 1084 1084 | 96.68 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4070115 4071118 | 153727 152718 | 1004 1010 | 95.45 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198349 199301 | 266407 265452 | 953 956 | 95.72 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911787 3912730 | 153824 152882 | 944 943 | 96.61 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911787 3912730 | 266608 265672 | 944 937 | 96.29 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1436696 1437588 | 153559 152668 | 893 892 | 95.63 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2513776 2514587 | 368319 367505 | 812 815 | 96.45 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1840871 1841686 | 368319 367505 | 816 815 | 95.6 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215449 1216261 | 367507 368319 | 813 813 | 95.58 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3524634 3525444 | 368319 367506 | 811 814 | 95.21 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2139283 2140079 | 368319 367523 | 797 797 | 96.74 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1436784 1437581 | 368319 367523 | 798 797 | 96.24 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956701 4957495 | 367524 368319 | 795 796 | 96.23 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198496 199283 | 368319 367528 | 788 792 | 95.71 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3433244 3434019 | 367544 368319 | 776 776 | 95.24 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 719159 719911 | 268125 267373 | 753 753 | 98.14 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 198350 | 193819 194486 | 668 668 | 96.56 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 198350 | 153631 154298 | 668 668 | 96.41 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 198347 | 128369 127705 | 665 665 | 95.79 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 198350 | 266420 267082 | 668 663 | 95.36 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831627 4832284 | 266111 265454 | 658 658 | 95.44 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831627 4832268 | 368169 367528 | 642 642 | 95.17 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3912146 3912730 | 368314 367730 | 585 585 | 96.58 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4090803 4091344 | 127929 128470 | 542 542 | 95.39 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1436696 1437222 | 266348 265823 | 527 526 | 95.64 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151461 3151976 | 367632 368147 | 516 516 | 96.51 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151461 3151976 | 265574 266089 | 516 516 | 96.51 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831126 4831626 | 266184 266684 | 501 501 | 97.41 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831126 4831626 | 153394 153900 | 501 507 | 96.06 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4742801 4743311 | 194243 193733 | 511 511 | 95.11 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 198171 | 176276 176764 | 489 489 | 95.71 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2200339 2200821 | 265933 265451 | 483 483 | 95.45 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831158 4831626 | 193614 194088 | 469 475 | 96.0 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2200339 2200802 | 367991 367528 | 464 464 | 95.69 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2247201 2247639 | 368319 367880 | 439 440 | 96.14 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 265878 266263 | 384 386 | 95.61 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1729058 1729386 | 155982 156310 | 329 329 | 95.44 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4957554 4957829 | 128470 128196 | 276 275 | 95.29 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3435632 3435864 | 177977 177744 | 233 234 | 95.73 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3435632 3435864 | 195516 195283 | 233 234 | 95.73 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4861980 4862191 | 128470 128259 | 212 212 | 95.28 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911588 3911788 | 265451 265652 | 201 202 | 95.05 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 889227 889388 | 265452 265615 | 162 164 | 97.56 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 889243 889389 | 367528 367674 | 147 147 | 96.6 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3815014 3815149 | 368314 368449 | 136 136 | 98.53 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 506050 506185 | 368449 368314 | 136 136 | 97.79 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 528696 528831 | 368449 368314 | 136 136 | 97.79 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1232593 1232720 | 367523 367649 | 128 127 | 95.31 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 681270 681381 | 333584 333473 | 112 112 | 100.0 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 683760 683871 | 331094 330983 | 112 112 | 100.0 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3152016 3152098 | 265536 265452 | 83 85 | 96.47 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 73031 73112 | 265547 265466 | 82 82 | 98.78 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+		One align captures most of this contig: 350288 718736 | 1 368449 | 368449 368449 | 99.97 | sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+
+CONTIG: tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no (348184bp)
+Best alignment score: 348079.5 (LEN: 348184, IDY: 99.97), Total number of alignments: 85
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2513629 2514602 | 150915 149945 | 974 971 | 95.59 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1840724 1841688 | 150915 149953 | 965 963 | 95.86 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2139136 2140102 | 150915 149953 | 967 963 | 95.45 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615739 616694 | 149963 150915 | 956 953 | 95.72 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215449 1216408 | 149959 150915 | 960 957 | 95.21 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3433206 3434161 | 149958 150910 | 956 953 | 95.51 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956696 4957642 | 149973 150915 | 947 943 | 95.57 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4070224 4071124 | 150915 150012 | 901 904 | 95.59 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717815 718606 | 149981 150768 | 792 788 | 95.71 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911994 3912730 | 150915 150179 | 737 737 | 96.34 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2246917 2247639 | 281546 280827 | 723 720 | 95.44 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 544106 544773 | 151581 150914 | 668 668 | 96.56 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1216421 1217088 | 151581 150914 | 668 668 | 96.56 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2512949 2513616 | 150914 151581 | 668 668 | 96.56 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 503918 504585 | 151581 150914 | 668 668 | 96.41 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2138456 2139123 | 150914 151581 | 668 668 | 96.41 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434340 1435007 | 151581 150914 | 668 668 | 96.26 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1840047 1840711 | 150914 151581 | 665 668 | 95.51 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3434179 3434846 | 151581 150914 | 668 668 | 95.51 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1039263 1039930 | 150062 150730 | 668 669 | 95.22 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 616707 617369 | 151581 150914 | 663 668 | 95.36 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 477992 478656 | 150917 151581 | 665 665 | 95.79 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1731077 1731744 | 150914 151581 | 668 668 | 95.21 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3523808 3524474 | 150914 151581 | 667 668 | 95.06 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831627 4832289 | 150618 149959 | 663 660 | 96.08 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4050852 4051424 | 282200 282774 | 573 575 | 95.3 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151461 3151976 | 150081 150596 | 516 516 | 96.9 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 526563 527051 | 151581 151093 | 489 489 | 95.71 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 280883 281269 | 384 387 | 96.38 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 150385 150771 | 384 387 | 96.12 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 284044 284364 | 166953 167274 | 321 322 | 98.14 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 181990 182311 | 64900 65220 | 322 321 | 98.14 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2370328 2370635 | 166965 167273 | 308 309 | 97.73 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2370328 2370635 | 65208 64901 | 308 308 | 97.73 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2562839 2563142 | 266579 266881 | 304 303 | 97.7 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 745848 746148 | 250577 250879 | 301 303 | 97.37 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 922790 923092 | 266881 266579 | 303 303 | 97.36 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2646175 2646477 | 266881 266579 | 303 303 | 97.36 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1895991 1896289 | 166938 167237 | 299 300 | 98.33 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3923460 3923762 | 266881 266581 | 303 301 | 97.69 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2562849 2563144 | 250879 250582 | 296 298 | 98.66 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2222585 2222891 | 266579 266881 | 307 303 | 96.74 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2877386 2877687 | 266881 266580 | 302 302 | 97.02 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1100867 1101178 | 266579 266881 | 312 303 | 96.47 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2877384 2877678 | 250582 250879 | 295 298 | 97.99 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3908280 3908576 | 250879 250581 | 297 299 | 97.66 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 745856 746155 | 266881 266582 | 300 300 | 97.33 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1991609 1991908 | 266579 266878 | 300 300 | 97.01 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 922788 923082 | 250582 250879 | 295 298 | 97.65 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2646173 2646467 | 250582 250879 | 295 298 | 97.65 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2222595 2222893 | 250879 250582 | 299 298 | 97.02 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82386 82685 | 219389 219688 | 300 300 | 96.35 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 129576 129875 | 266579 266878 | 300 300 | 96.35 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3923458 3923754 | 250582 250879 | 297 298 | 96.99 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3918761 3919066 | 266581 266881 | 306 301 | 95.1 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82383 82675 | 250584 250879 | 293 296 | 96.28 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2009283 2009581 | 266879 266583 | 299 297 | 95.65 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4929433 4929725 | 266881 266588 | 293 294 | 96.27 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 113807 114097 | 233152 233446 | 291 295 | 95.93 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 98385 98680 | 266589 266881 | 296 293 | 96.28 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1896006 1896289 | 65220 64937 | 284 284 | 98.59 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 115818 116112 | 235167 235457 | 295 291 | 95.93 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1143967 1144257 | 266591 266881 | 291 291 | 95.21 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2608639 2608912 | 64939 65212 | 274 274 | 98.18 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4875454 4875711 | 250619 250879 | 258 261 | 98.08 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2608639 2608856 | 167235 167017 | 218 219 | 98.63 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3814947 3815164 | 192144 192361 | 218 218 | 95.87 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911787 3911981 | 151388 151581 | 195 194 | 95.9 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2795293 2795467 | 149953 150123 | 175 171 | 95.43 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2051047 2051171 | 252905 252781 | 125 125 | 96.8 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2246915 2247037 | 151459 151581 | 123 123 | 95.93 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 292357 292472 | 191633 191749 | 116 117 | 96.58 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 157515 157631 | 56792 56907 | 117 116 | 96.58 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4862081 4862191 | 151581 151471 | 111 111 | 96.4 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4957655 4957755 | 151581 151481 | 101 101 | 100.0 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1171526 1171626 | 56808 56908 | 101 101 | 96.04 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1171526 1171622 | 191733 191637 | 97 97 | 98.97 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4070115 4070211 | 151485 151581 | 97 97 | 98.97 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215455 1215547 | 276141 276233 | 93 93 | 95.7 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 889229 889320 | 276144 276233 | 92 90 | 96.74 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1841589 1841681 | 276229 276141 | 93 89 | 95.7 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615753 615834 | 276152 276233 | 82 82 | 98.78 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911603 3911683 | 276153 276233 | 81 81 | 98.77 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3152016 3152096 | 276222 276141 | 81 82 | 96.34 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+		One align captures most of this contig: 1080 349263 | 348184 1 | 348184 348184 | 99.97 | sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+
+CONTIG: tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no (314015bp)
+Best alignment score: 313889.4 (LEN: 314015, IDY: 99.96), Total number of alignments: 47
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1434271 1435524 | 165035 166287 | 1254 1253 | 95.06 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2139455 2139970 | 307882 307367 | 516 516 | 97.29 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198668 199183 | 307882 307367 | 516 516 | 96.9 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2513948 2514463 | 307882 307367 | 516 516 | 96.71 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615861 616376 | 307367 307882 | 516 516 | 96.51 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717919 718434 | 307367 307882 | 516 516 | 96.51 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831649 4832164 | 307882 307367 | 516 516 | 96.12 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1436956 1437471 | 307882 307367 | 516 516 | 95.93 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1841043 1841558 | 307882 307367 | 516 516 | 95.93 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956809 4957323 | 307367 307882 | 515 516 | 95.74 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3433332 3433846 | 307367 307882 | 515 516 | 95.54 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215574 1216086 | 307367 307879 | 513 513 | 95.91 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4091575 4092090 | 307882 307367 | 516 516 | 95.35 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4070543 4071025 | 307882 307400 | 483 483 | 96.27 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3912314 3912730 | 307881 307465 | 417 417 | 96.64 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 67995 68381 | 151243 150860 | 387 384 | 96.38 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1356629 1357015 | 151243 150860 | 387 384 | 96.38 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198493 198879 | 151243 150860 | 387 384 | 96.12 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1731897 1732283 | 151243 150860 | 387 384 | 96.12 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2139280 2139666 | 151243 150860 | 387 384 | 96.12 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2513773 2514159 | 151243 150860 | 387 384 | 96.12 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4091400 4091786 | 151243 150860 | 387 384 | 96.12 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 616165 616550 | 150860 151243 | 386 384 | 95.61 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4957113 4957498 | 150860 151243 | 386 384 | 95.61 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1436781 1437167 | 151243 150860 | 387 384 | 95.09 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3448593 3448979 | 151243 150860 | 387 384 | 95.09 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3524631 3525017 | 151243 150860 | 387 384 | 95.09 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3950317 3950703 | 150860 151243 | 387 384 | 95.09 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3912146 3912524 | 151235 150860 | 379 376 | 96.31 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2200339 2200698 | 307726 307367 | 360 360 | 95.56 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2562840 2563146 | 33593 33288 | 307 306 | 98.7 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 745854 746160 | 33290 33596 | 307 307 | 98.05 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 922788 923091 | 33290 33593 | 304 304 | 98.36 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2646173 2646476 | 33290 33593 | 304 304 | 98.36 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2222586 2222893 | 33593 33290 | 308 304 | 97.73 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3908271 3908575 | 33593 33290 | 305 304 | 97.7 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3923458 3923762 | 33290 33592 | 305 303 | 96.72 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82383 82684 | 33292 33593 | 302 302 | 97.02 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 98385 98682 | 33584 33290 | 298 295 | 97.99 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4875454 4875717 | 33327 33590 | 264 264 | 98.11 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4743090 4743311 | 165239 165018 | 222 222 | 97.75 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4651673 4651849 | 239354 239530 | 177 177 | 97.18 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4070368 4070536 | 151243 151078 | 169 166 | 96.45 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215449 1215576 | 308008 307881 | 128 128 | 95.35 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1437499 1437587 | 116062 116149 | 89 88 | 96.63 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 73042 73123 | 307922 308002 | 82 81 | 96.34 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+		One align captures most of this contig: 2844095 3158109 | 1 314015 | 314015 314015 | 99.96 | sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+
+CONTIG: tig00000008_len_181055_reads_408_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no (181055bp)
+Best alignment score: 181000.7 (LEN: 181055, IDY: 99.97), Total number of alignments: 5
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1437346 1437586 | 87519 87280 | 241 240 | 95.85 | sim5M tig00000008_len_181055_reads_408_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215470 1215699 | 87290 87519 | 230 230 | 95.22 | sim5M tig00000008_len_181055_reads_408_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 199141 199311 | 141893 141719 | 171 175 | 95.43 | sim5M tig00000008_len_181055_reads_408_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 889243 889380 | 87290 87427 | 138 138 | 97.83 | sim5M tig00000008_len_181055_reads_408_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+		One align captures most of this contig: 2653575 2834629 | 1 181055 | 181055 181055 | 99.97 | sim5M tig00000008_len_181055_reads_408_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+
+CONTIG: tig00000009_len_87669_reads_203_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no (87669bp)
+Best alignment score: 87642.7 (LEN: 87669, IDY: 99.97), Total number of alignments: 8
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2562835 2563149 | 8576 8889 | 315 314 | 95.56 | sim5M tig00000009_len_87669_reads_203_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3923456 3923768 | 8886 8576 | 313 311 | 95.53 | sim5M tig00000009_len_87669_reads_203_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82386 82685 | 8879 8580 | 300 300 | 97.01 | sim5M tig00000009_len_87669_reads_203_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2646182 2646481 | 8875 8576 | 300 300 | 95.68 | sim5M tig00000009_len_87669_reads_203_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82385 82681 | 26254 26552 | 297 299 | 95.65 | sim5M tig00000009_len_87669_reads_203_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3908273 3908397 | 68018 68142 | 125 125 | 98.4 | sim5M tig00000009_len_87669_reads_203_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 96359 96483 | 68018 68142 | 125 125 | 96.8 | sim5M tig00000009_len_87669_reads_203_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+		One align captures most of this contig: 1983030 2070698 | 1 87669 | 87669 87669 | 99.97 | sim5M tig00000009_len_87669_reads_203_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+
+CONTIG: tig00000010_len_14196_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no (14196bp)
+Best alignment score: 14116.5 (LEN: 14196, IDY: 99.44), Total number of alignments: 1
+		One align captures most of this contig: 2059183 2073347 | 1 14196 | 14165 14196 | 99.44 | sim5M tig00000010_len_14196_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+
+CONTIG: tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no (578039bp)
+Best alignment score: 577865.6 (LEN: 578039, IDY: 99.97), Total number of alignments: 107
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 502948 508983 | 136733 142770 | 6036 6038 | 97.13 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 502948 508959 | 511226 517239 | 6012 6014 | 97.02 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1836267 1841695 | 142153 136722 | 5429 5432 | 96.93 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1836267 1841696 | 516646 511214 | 5430 5433 | 96.82 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215449 1220714 | 136735 141995 | 5266 5261 | 96.98 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215470 1220714 | 511246 516488 | 5245 5243 | 96.93 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 543128 548395 | 511212 516488 | 5268 5277 | 95.11 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 525602 530513 | 136744 141646 | 4912 4903 | 95.42 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 525611 530513 | 511246 516139 | 4903 4894 | 95.49 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3521125 3525444 | 141064 136734 | 4320 4331 | 97.07 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3521134 3525438 | 515548 511233 | 4305 4316 | 97.06 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1729383 1732708 | 514564 511237 | 3326 3328 | 95.89 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1729383 1732702 | 140071 136750 | 3320 3322 | 95.92 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615741 618412 | 136739 139413 | 2672 2675 | 96.98 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615740 618412 | 511233 513906 | 2673 2674 | 96.68 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1436695 | 137635 140059 | 2425 2425 | 97.15 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1434271 1436695 | 512128 514552 | 2425 2425 | 97.11 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3433197 3435628 | 511214 513646 | 2432 2433 | 95.85 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3433206 3435628 | 136729 139153 | 2423 2425 | 95.92 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3519114 3520828 | 142771 141055 | 1715 1717 | 96.04 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3519139 3520828 | 517239 515548 | 1690 1692 | 95.92 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3813935 3815350 | 515543 514128 | 1416 1416 | 97.88 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3813935 3815350 | 141050 139635 | 1416 1416 | 97.67 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4090803 4092200 | 138144 136747 | 1398 1398 | 95.06 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 718601 719911 | 139971 138661 | 1311 1311 | 97.48 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 718601 719911 | 514464 513154 | 1311 1311 | 97.41 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956694 4957829 | 136740 137877 | 1136 1138 | 97.19 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956689 4957829 | 511231 512370 | 1141 1140 | 96.85 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1546529 1547671 | 512744 513885 | 1143 1142 | 96.15 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1546529 1547671 | 138251 139392 | 1143 1142 | 96.06 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4070116 4071118 | 512292 511283 | 1003 1010 | 96.34 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4070116 4071118 | 137799 136790 | 1003 1010 | 96.34 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198349 199319 | 137691 136718 | 971 974 | 95.59 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 198349 199311 | 512184 511218 | 963 967 | 95.45 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911787 3912730 | 137897 136955 | 944 943 | 97.25 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3911787 3912730 | 512390 511448 | 944 943 | 97.03 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1436696 1437589 | 137632 136738 | 894 895 | 96.09 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1436696 1437588 | 512125 511233 | 893 893 | 96.08 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717792 718606 | 136733 137544 | 815 812 | 96.45 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717810 718606 | 511241 512037 | 797 797 | 96.74 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215822 1216543 | 403682 404406 | 722 725 | 95.59 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 67718 68437 | 404404 403682 | 720 723 | 95.44 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4091121 4091842 | 404406 403682 | 722 725 | 95.04 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4957057 4957777 | 403682 404406 | 721 725 | 95.04 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 198350 | 137704 138371 | 668 668 | 96.56 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 198350 | 512197 512864 | 668 668 | 96.41 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831627 4832289 | 511887 511228 | 663 660 | 95.17 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831627 4832284 | 137394 136739 | 658 656 | 95.14 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151461 3151976 | 511350 511865 | 516 516 | 97.29 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151461 3151976 | 136857 137372 | 516 516 | 96.71 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831126 4831626 | 137467 137973 | 501 507 | 97.04 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1215449 1215933 | 450497 450981 | 485 485 | 95.46 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 615738 616220 | 450499 450981 | 483 483 | 95.45 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4956695 4957168 | 450506 450981 | 474 476 | 95.4 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1437112 1437588 | 450981 450506 | 477 476 | 95.18 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 717815 718278 | 450518 450981 | 464 464 | 95.69 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 718167 718606 | 403682 404120 | 440 439 | 96.14 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1039529 1039930 | 403682 404083 | 402 402 | 96.52 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 137161 137547 | 384 387 | 96.12 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2994954 2995337 | 511654 512040 | 384 387 | 96.12 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1729058 1729386 | 140055 140383 | 329 329 | 97.26 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1729058 1729386 | 514548 514876 | 329 329 | 96.96 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 922788 923103 | 88176 88492 | 316 317 | 98.74 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2646173 2646486 | 88176 88490 | 314 315 | 99.05 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2562830 2563144 | 4834 5147 | 315 314 | 99.05 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2646173 2646487 | 428428 428746 | 315 319 | 97.49 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 922785 923098 | 5150 4837 | 314 314 | 98.73 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3923458 3923775 | 88176 88492 | 318 317 | 97.48 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3908265 3908575 | 88486 88176 | 311 311 | 99.04 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3151461 3151780 | 450622 450941 | 320 320 | 96.25 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2222575 2222893 | 4833 5147 | 319 315 | 97.49 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3923454 3923775 | 5151 4834 | 322 318 | 96.27 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 922788 923095 | 428428 428739 | 308 312 | 98.08 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3923457 3923771 | 428427 428742 | 315 316 | 96.24 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3908265 3908575 | 4838 5147 | 311 310 | 98.07 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3908267 3908575 | 428739 428428 | 309 312 | 97.44 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2877382 2877687 | 88174 88480 | 306 307 | 98.7 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1991605 1991918 | 88485 88171 | 314 315 | 95.56 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2877384 2877687 | 428428 428735 | 304 308 | 97.73 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 745854 746155 | 428428 428733 | 302 306 | 98.04 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 745854 746155 | 88176 88478 | 302 303 | 99.01 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 181991 182299 | 280686 280993 | 309 308 | 97.09 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2877384 2877687 | 5147 4844 | 304 304 | 98.36 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 284056 284363 | 280993 280686 | 308 308 | 97.08 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 745854 746155 | 5147 4846 | 302 302 | 98.68 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82383 82685 | 88178 88481 | 303 304 | 97.7 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82383 82685 | 428430 428736 | 303 307 | 96.74 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 82383 82685 | 5145 4843 | 303 303 | 97.36 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 98385 98682 | 88471 88176 | 298 296 | 98.66 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 98385 98682 | 428726 428428 | 298 299 | 97.02 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 98385 98682 | 4853 5147 | 298 295 | 97.65 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1991605 1991904 | 4839 5138 | 300 300 | 95.68 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 3520827 3521125 | 88472 88176 | 299 297 | 95.67 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 182029 182303 | 42681 42408 | 275 274 | 98.18 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 284052 284325 | 42408 42681 | 274 274 | 98.18 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1896014 1896287 | 42408 42681 | 274 274 | 98.18 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 1896018 1896289 | 280993 280722 | 272 272 | 97.06 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2370328 2370597 | 42412 42681 | 270 270 | 97.41 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4875454 4875717 | 88213 88477 | 264 265 | 98.87 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4875454 4875717 | 428465 428732 | 264 268 | 97.76 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 2608639 2608908 | 280724 280993 | 270 270 | 96.67 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4875454 4875717 | 5110 4847 | 264 264 | 98.86 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4831126 4831377 | 511960 512212 | 252 253 | 97.63 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 4743130 4743311 | 512292 512111 | 182 182 | 96.15 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 889219 889387 | 450496 450662 | 169 167 | 96.45 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+			Skipping alignment 197683 197805 | 404284 404406 | 123 123 | 95.93 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+		One align captures most of this contig: 2073281 2651319 | 578039 1 | 578039 578039 | 99.97 | sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+
+CONTIG: tig00000012_len_7558_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no (7558bp)
+Best alignment score: 7541.4 (LEN: 7558, IDY: 99.78), Total number of alignments: 1
+		One align captures most of this contig: 2071758 2079315 | 7558 1 | 7558 7558 | 99.78 | sim5M tig00000012_len_7558_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+
+CONTIG: tig00000013_len_12638_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no (12638bp)
+Best alignment score: 12586.2 (LEN: 12638, IDY: 99.59), Total number of alignments: 1
+		One align captures most of this contig: 2066896 2079519 | 12638 1 | 12624 12638 | 99.59 | sim5M tig00000013_len_12638_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+
+Analyzing coverage...
+Writing SNPs into /home/arash/asmReview/EVAL/sim5M.Colormap/contigs_reports/nucmer_output/sim5M-Colormap.used_snps.gz
+	Reference sim5M: 13 total alignments. 1 total regions.
+		Region: 1 to 5000040 (5000040 bp)
+			START in gap: 1 to 1080 (1079 bp)
+			Align 1: 1080 349263 tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 348184 1
+				Gap between this and next alignment: 349263 to 350288 (1024 bp)
+				Next Alignment: 350288 718736 tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 1 368449
+
+			Align 2: 350288 718736 tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 1 368449
+				Negative gap (overlap) between this and next alignment: 718736 to 718387 (-349 bp)
+				Next Alignment: 718387 1978180 tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 3 1259797
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 3 to 353.
+			Align 3: 718737 1978180 tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 353 1259797
+				Gap between this and next alignment: 1978180 to 1983030 (4849 bp)
+				Next Alignment: 1983030 2070698 tig00000009_len_87669_reads_203_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 1 87669
+
+			Align 4: 1983030 2070698 tig00000009_len_87669_reads_203_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 1 87669
+				Negative gap (overlap) between this and next alignment: 2070698 to 2059183 (-11515 bp)
+				Next Alignment: 2059183 2073347 tig00000010_len_14196_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 1 14196
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 11548.
+			Align 5: 2070699 2073347 tig00000010_len_14196_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 11548 14196
+				Negative gap (overlap) between this and next alignment: 2073347 to 2066896 (-6451 bp)
+				Next Alignment: 2066896 2079519 tig00000013_len_12638_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 12638 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 12638 to 6172.
+			Align 6: 2073348 2079519 tig00000013_len_12638_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 6172 1
+				The next alignment (2071758 2079315 tig00000012_len_7558_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 7558 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 2079519 to 2073281 (-6238 bp)
+				Next Alignment: 2073281 2651319 tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 578039 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 578039 to 571800.
+			Align 8: 2079520 2651319 tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 571800 1
+				Gap between this and next alignment: 2651319 to 2653575 (2255 bp)
+				Next Alignment: 2653575 2834629 tig00000008_len_181055_reads_408_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 1 181055
+
+			Align 9: 2653575 2834629 tig00000008_len_181055_reads_408_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 1 181055
+				Gap between this and next alignment: 2834629 to 2844095 (9465 bp)
+				Next Alignment: 2844095 3158109 tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 1 314015
+
+			Align 10: 2844095 3158109 tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 1 314015
+				Gap between this and next alignment: 3158109 to 3165273 (7163 bp)
+				Next Alignment: 3165273 3226098 tig00000001_len_60846_reads_107_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 1 60846
+
+			Align 11: 3165273 3226098 tig00000001_len_60846_reads_107_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 1 60846
+				The next alignment (3208172 3221850 tig00000003_len_13679_reads_19_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 13679 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 3226098 to 3218912 (-7186 bp)
+				Next Alignment: 3218912 4998548 tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 1 1779657
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 7188.
+			Align 13: 3226099 4998548 tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 7188 1779657
+			END in gap: 4998548 to 5000040 (1492 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/arash/asmReview/EVAL/sim5M.Colormap/contigs_reports/nucmer_output/sim5M-Colormap.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 4972713
+
+	SNPs: 1495
+	Insertions: 59
+	Deletions: 18
+
+	Positive Gaps: 7
+		Internal Gaps: 0
+		External Gaps: 7
+		External Gap Total: 27327
+		External Gap Average: 3904
+	Negative Gaps: 5
+		Internal Overlaps: 0
+		External Overlaps: 5
+		External Overlaps Total: -31739
+		External Overlaps Average: -6348
+	Contigs with Redundant Alignments: 2 (21237)

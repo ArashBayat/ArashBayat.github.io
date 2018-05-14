@@ -1,0 +1,19 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+2926896	3311482	2	385648	sim5M	Consensus_utg000001l	99.67		True
+local misassembly
+3311368	4991285	385649	2070178	sim5M	Consensus_utg000001l	99.72		True
+CONTIG	Consensus_utg000001l	2070178	correct
+1330998	1997370	1	668143	sim5M	Consensus_utg000002l	99.72		True
+CONTIG	Consensus_utg000002l	668145	correct
+37459	345207	308589	1	sim5M	Consensus_utg000003l	99.71		True
+CONTIG	Consensus_utg000003l	308590	correct
+2132370	2508510	1	377569	sim5M	Consensus_utg000004l	99.49		True
+CONTIG	Consensus_utg000004l	377569	correct
+350062	1222145	874118	1	sim5M	Consensus_utg000005l	99.76		True
+CONTIG	Consensus_utg000005l	874118	correct
+1215149	1327287	112443	1	sim5M	Consensus_utg000006l	99.6		True
+CONTIG	Consensus_utg000006l	112443	correct
+2008577	2139137	130900	1	sim5M	Consensus_utg000007l	99.72		True
+CONTIG	Consensus_utg000007l	130900	correct
+2498896	2925324	427859	1	sim5M	Consensus_utg000008l	99.54		True
+CONTIG	Consensus_utg000008l	427859	correct

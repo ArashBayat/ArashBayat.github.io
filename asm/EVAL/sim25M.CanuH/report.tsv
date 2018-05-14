@@ -1,0 +1,49 @@
+Assembly	sim25M.CanuH
+# contigs (>= 0 bp)	182
+# contigs (>= 1000 bp)	182
+# contigs (>= 5000 bp)	181
+# contigs (>= 10000 bp)	157
+# contigs (>= 25000 bp)	82
+# contigs (>= 50000 bp)	58
+Total length (>= 0 bp)	26035048
+Total length (>= 1000 bp)	26035048
+Total length (>= 5000 bp)	26030864
+Total length (>= 10000 bp)	25835536
+Total length (>= 25000 bp)	24819217
+Total length (>= 50000 bp)	23943432
+# contigs	182
+Largest contig	1544089
+Total length	26035048
+Reference length	25000020
+GC (%)	43.68
+Reference GC (%)	43.69
+N50	556356
+NG50	644130
+N75	303817
+NG75	326121
+L50	15
+LG50	14
+L75	30
+LG75	27
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	99.266
+Duplication ratio	1.049
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	1.05
+# indels per 100 kbp	3.92
+Largest alignment	1544089
+Total aligned length	26035008
+NA50	556355
+NGA50	644130
+NA75	303817
+NGA75	326121
+LA50	15
+LGA50	14
+LA75	30
+LGA75	27

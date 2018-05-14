@@ -1,0 +1,130 @@
+/usr/local/bin/quast.py -o EVAL/sim5M.MiniCL.cr -R /home/arash/asmReview/sim5M/ref.fa --threads 16 ASM/sim5M.MiniCL.cr.fa
+
+Version: 4.6.0
+
+System information:
+  OS: Linux-4.13.0-36-generic-x86_64-with-Ubuntu-16.04-xenial (linux_64)
+  Python version: 2.7.12
+  CPUs number: 16
+
+Started: 2018-04-01 13:23:11
+
+Logging to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/quast.log
+
+CWD: /home/arash/asmReview
+Main parameters: 
+  Threads: 16, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/arash/asmReview/sim5M/ref.fa ==> ref
+
+Contigs:
+  Pre-processing...
+  ASM/sim5M.MiniCL.cr.fa ==> sim5M.MiniCL.cr
+
+2018-04-01 13:23:20
+Running Basic statistics processor...
+  Reference genome:
+    ref.fa, length = 5000040, num fragments = 1, GC % = 35.84
+  Contig files: 
+    sim5M.MiniCL.cr
+  Calculating N50 and L50...
+    sim5M.MiniCL.cr, N50 = 9117, L50 = 680, Total length = 16044187, GC % = 36.16, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/basic_stats/GC_content_plot.pdf
+  Drawing sim5M.MiniCL.cr GC content plot...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/basic_stats/sim5M.MiniCL.cr_GC_content_plot.pdf
+Done.
+
+2018-04-01 13:23:30
+Running Contig analyzer...
+NOTICE: Previous try of E-MEM compilation was unsuccessful! For forced retrying, please remove /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/make.emem.failed and restart QUAST. Currently, QUAST will use Nucmer which is absolutely fine, albeit slower.
+  sim5M.MiniCL.cr
+  Logging to files /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/contigs_report_sim5M-MiniCL-cr.stdout and contigs_report_sim5M-MiniCL-cr.stderr...
+  Aligning contigs to the reference
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/nucmer -c 65 -l 65 --maxmatch \
+  -p EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr EVAL/sim5M.MiniCL.cr/quast_corrected_input/ref.fa \
+  EVAL/sim5M.MiniCL.cr/quast_corrected_input/sim5M-MiniCL-cr.fa >> EVAL/sim5M.MiniCL.cr/contigs_reports/contigs_report_sim5M-MiniCL-cr.stdout \
+  2>> EVAL/sim5M.MiniCL.cr/contigs_reports/contigs_report_sim5M-MiniCL-cr.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/delta-filter -i 95.0 -l \
+  0 EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.delta > EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.fdelta \
+  2> EVAL/sim5M.MiniCL.cr/contigs_reports/contigs_report_sim5M-MiniCL-cr.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummerplot --html --layout \
+  -p EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.delta \
+  > EVAL/sim5M.MiniCL.cr/contigs_reports/contigs_report_sim5M-MiniCL-cr.stdout 2> \
+  EVAL/sim5M.MiniCL.cr/contigs_reports/contigs_report_sim5M-MiniCL-cr.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/gnuplot/src/gnuplot EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.gp \
+  > /dev/null 2> EVAL/sim5M.MiniCL.cr/contigs_reports/contigs_report_sim5M-MiniCL-cr.stderr
+  MUMmer plot saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/sim5M-MiniCL-cr_mummerplot.html
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/show-coords EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.delta \
+  > EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.coords_tmp \
+  2> EVAL/sim5M.MiniCL.cr/contigs_reports/contigs_report_sim5M-MiniCL-cr.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/show-snps -S -T -H EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.delta \
+  < EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.coords.headless \
+  > EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.all_snps 2> \
+  EVAL/sim5M.MiniCL.cr/contigs_reports/contigs_report_sim5M-MiniCL-cr.stderr
+  Analysis is finished.
+
+  Gzipping /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.all_snps to reduce disk space usage...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.all_snps.gz
+  Creating total report...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2018-04-01 13:32:30
+Running NA-NGA calculation...
+  sim5M.MiniCL.cr, Largest alignment = 24005, NA50 = 7939, NGA50 = 12004, LA50 = 751, LGA50 = 177
+  Drawing cumulative plot...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/aligned_stats/NGAx_plot.pdf
+Done.
+
+2018-04-01 13:32:32
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  sim5M.MiniCL.cr
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2018-04-01 13:32:36
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2018-04-01 13:32:39
+RESULTS:
+  Text versions of total report are saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/report.html
+  PDF version (tables and plots) is saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/report.pdf
+  Icarus (contig browser) is saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/icarus.html
+  Log saved to /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/quast.log
+
+Finished: 2018-04-01 13:32:39
+Elapsed time: 0:09:28.289663
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

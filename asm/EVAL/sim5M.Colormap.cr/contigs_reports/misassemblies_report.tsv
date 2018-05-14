@@ -1,0 +1,14 @@
+Assembly	sim5M.Colormap.cr
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	1
+# mismatches	11236
+# indels	7009
+    # indels (<= 5 bp)	6997
+    # indels (> 5 bp)	12
+Indels length	8134

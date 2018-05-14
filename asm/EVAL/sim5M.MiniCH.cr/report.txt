@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     sim5M.MiniCH.cr
+# contigs (>= 0 bp)          2000           
+# contigs (>= 1000 bp)       1990           
+# contigs (>= 5000 bp)       1607           
+# contigs (>= 10000 bp)      474            
+# contigs (>= 25000 bp)      0              
+# contigs (>= 50000 bp)      0              
+Total length (>= 0 bp)       15688889       
+Total length (>= 1000 bp)    15681889       
+Total length (>= 5000 bp)    14295341       
+Total length (>= 10000 bp)   5879882        
+Total length (>= 25000 bp)   0              
+Total length (>= 50000 bp)   0              
+# contigs                    1998           
+Largest contig               23137          
+Total length                 15688017       
+Reference length             5000040        
+GC (%)                       35.91          
+Reference GC (%)             35.84          
+N50                          8894           
+NG50                         12626          
+N75                          6845           
+NG75                         11468          
+L50                          683            
+LG50                         171            
+L75                          1185           
+LG75                         275            
+# misassemblies              4              
+# misassembled contigs       4              
+Misassembled contigs length  33833          
+# local misassemblies        17             
+# unaligned mis. contigs     0              
+# unaligned contigs          119 + 25 part  
+Unaligned length             1266588        
+Genome fraction (%)          93.857         
+Duplication ratio            3.073          
+# N's per 100 kbp            0.00           
+# mismatches per 100 kbp     62.46          
+# indels per 100 kbp         545.91         
+Largest alignment            23137          
+Total aligned length         14415597       
+NA50                         8305           
+NGA50                        12208          
+NA75                         6064           
+NGA75                        11069          
+LA50                         714            
+LGA50                        175            
+LA75                         1260           
+LGA75                        283            

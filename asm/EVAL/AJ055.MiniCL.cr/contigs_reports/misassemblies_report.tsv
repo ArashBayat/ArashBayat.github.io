@@ -1,0 +1,14 @@
+Assembly	AJ055.MiniCL.cr
+# misassemblies	99
+    # relocations	92
+    # translocations	0
+    # inversions	7
+# misassembled contigs	89
+Misassembled contigs length	1352097
+# local misassemblies	47
+# unaligned mis. contigs	6
+# mismatches	6680
+# indels	62531
+    # indels (<= 5 bp)	62286
+    # indels (> 5 bp)	245
+Indels length	77538

@@ -1,0 +1,49 @@
+Assembly	AJ292.MiniCL
+# contigs (>= 0 bp)	6
+# contigs (>= 1000 bp)	6
+# contigs (>= 5000 bp)	6
+# contigs (>= 10000 bp)	6
+# contigs (>= 25000 bp)	6
+# contigs (>= 50000 bp)	6
+Total length (>= 0 bp)	5414604
+Total length (>= 1000 bp)	5414604
+Total length (>= 5000 bp)	5414604
+Total length (>= 10000 bp)	5414604
+Total length (>= 25000 bp)	5414604
+Total length (>= 50000 bp)	5414604
+# contigs	6
+Largest contig	1660035
+Total length	5414604
+Reference length	5445112
+GC (%)	57.57
+Reference GC (%)	57.62
+N50	1327492
+NG50	1327492
+N75	720527
+NG75	720527
+L50	2
+LG50	2
+L75	4
+LG75	4
+# misassemblies	3
+# misassembled contigs	2
+Misassembled contigs length	1029778
+# local misassemblies	1
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 1 part
+Unaligned length	3766
+Genome fraction (%)	98.916
+Duplication ratio	1.005
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	17.79
+# indels per 100 kbp	409.22
+Largest alignment	1660035
+Total aligned length	5410760
+NA50	1327480
+NGA50	1327480
+NA75	638853
+NGA75	638853
+LA50	2
+LGA50	2
+LA75	4
+LGA75	4

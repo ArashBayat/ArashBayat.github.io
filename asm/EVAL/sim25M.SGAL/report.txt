@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     sim25M.SGAL
+# contigs (>= 0 bp)          21366      
+# contigs (>= 1000 bp)       5935       
+# contigs (>= 5000 bp)       1201       
+# contigs (>= 10000 bp)      328        
+# contigs (>= 25000 bp)      17         
+# contigs (>= 50000 bp)      0          
+Total length (>= 0 bp)       26598754   
+Total length (>= 1000 bp)    21480767   
+Total length (>= 5000 bp)    10834917   
+Total length (>= 10000 bp)   4790298    
+Total length (>= 25000 bp)   504137     
+Total length (>= 50000 bp)   0          
+# contigs                    8469       
+Largest contig               38190      
+Total length                 23298318   
+Reference length             25000020   
+GC (%)                       43.52      
+Reference GC (%)             43.69      
+N50                          4598       
+NG50                         4134       
+N75                          2163       
+NG75                         1755       
+L50                          1372       
+LG50                         1567       
+L75                          3239       
+LG75                         3893       
+# misassemblies              0          
+# misassembled contigs       0          
+Misassembled contigs length  0          
+# local misassemblies        0          
+# unaligned mis. contigs     0          
+# unaligned contigs          0 + 0 part 
+Unaligned length             0          
+Genome fraction (%)          92.125     
+Duplication ratio            1.012      
+# N's per 100 kbp            0.00       
+# mismatches per 100 kbp     0.18       
+# indels per 100 kbp         0.05       
+Largest alignment            38190      
+Total aligned length         23298298   
+NA50                         4598       
+NGA50                        4134       
+NA75                         2163       
+NGA75                        1755       
+LA50                         1372       
+LGA50                        1567       
+LA75                         3239       
+LGA75                        3893       

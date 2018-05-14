@@ -1,0 +1,14 @@
+Assembly	AJ218.MiniCH.cr
+# misassemblies	50
+    # relocations	46
+    # translocations	0
+    # inversions	4
+# misassembled contigs	48
+Misassembled contigs length	558811
+# local misassemblies	56
+# unaligned mis. contigs	11
+# mismatches	5341
+# indels	44793
+    # indels (<= 5 bp)	44622
+    # indels (> 5 bp)	171
+Indels length	56184

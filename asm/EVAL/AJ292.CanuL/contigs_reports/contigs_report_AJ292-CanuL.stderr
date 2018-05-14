@@ -1,0 +1,13 @@
+Writing filtered delta file /home/arash/asmReview/EVAL/AJ292.CanuL/contigs_reports/nucmer_output/AJ292-CanuL.filter
+Reading delta file /home/arash/asmReview/EVAL/AJ292.CanuL/contigs_reports/nucmer_output/AJ292-CanuL.delta
+Writing plot files /home/arash/asmReview/EVAL/AJ292.CanuL/contigs_reports/nucmer_output/AJ292-CanuL.fplot, /home/arash/asmReview/EVAL/AJ292.CanuL/contigs_reports/nucmer_output/AJ292-CanuL.rplot
+Writing gnuplot script /home/arash/asmReview/EVAL/AJ292.CanuL/contigs_reports/nucmer_output/AJ292-CanuL.gp
+Rendering plot /home/arash/asmReview/EVAL/AJ292.CanuL/contigs_reports/nucmer_output/AJ292-CanuL.html
+.ntref 4.97
+# reading input file "/home/arash/asmReview/EVAL/AJ292.CanuL/quast_corrected_input/AJ292-CanuL.fa" of length 5490587
+# matching query-file "/home/arash/asmReview/EVAL/AJ292.CanuL/quast_corrected_input/AJ292-CanuL.fa"
+# against subject-file "/home/arash/asmReview/EVAL/AJ292.CanuL/contigs_reports/nucmer_output/AJ292-CanuL.ntref"
+# COMPLETETIME /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/AJ292.CanuL/contigs_reports/nucmer_output/AJ292-CanuL.ntref 21.70
+# SPACE /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/AJ292.CanuL/contigs_reports/nucmer_output/AJ292-CanuL.ntref 10.60
+4: FINISHING DATA
+WARNING: there was a problem deleting the temporary output files

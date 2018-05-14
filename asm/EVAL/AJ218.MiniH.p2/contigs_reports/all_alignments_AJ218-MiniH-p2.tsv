@@ -1,0 +1,16 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+2622368	5465981	1	2843735	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c_pilon_pilon	99.99		True
+fake: not a misassembly [linear representation of circular genome]
+1	2622348	2843736	5466181	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c_pilon_pilon	99.99		True
+CONTIG	Consensus_utg000001c_pilon_pilon	5466185	correct
+2792631	2799949	1	7327	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c_pilon_pilon	99.07		True
+unknown
+209506	210602	84515	83419	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c_pilon_pilon	100.0		True
+unknown
+3069598	3071528	95971	97900	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c_pilon_pilon	99.64		True
+unknown
+2135541	2136741	171106	172306	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c_pilon_pilon	100.0		True
+unknown
+2791953	2792618	201709	202368	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c_pilon_pilon	99.1		True
+unknown
+CONTIG	Consensus_utg000002c_pilon_pilon	202370	mis_unaligned

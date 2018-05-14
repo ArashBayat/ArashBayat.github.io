@@ -1,0 +1,14 @@
+Assembly	AJ292.SpadesLRL
+# misassemblies	2
+    # relocations	2
+    # translocations	0
+    # inversions	0
+# misassembled contigs	2
+Misassembled contigs length	2554195
+# local misassemblies	0
+# unaligned mis. contigs	0
+# mismatches	256
+# indels	89
+    # indels (<= 5 bp)	89
+    # indels (> 5 bp)	0
+Indels length	99

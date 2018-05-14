@@ -1,0 +1,14 @@
+reference chromosomes:
+	KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 (total length: 5445112 bp, maximal covered length: 1696173 bp)
+
+total genome size: 5445112
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+AJ292-SoDe2H             | 31.15038% | 1.01696     | 2744      | -         | -         | -         | -         |

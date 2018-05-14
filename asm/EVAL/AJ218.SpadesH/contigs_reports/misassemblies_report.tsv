@@ -1,0 +1,14 @@
+Assembly	AJ218.SpadesH
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	10
+# unaligned mis. contigs	0
+# mismatches	425
+# indels	62
+    # indels (<= 5 bp)	57
+    # indels (> 5 bp)	5
+Indels length	305

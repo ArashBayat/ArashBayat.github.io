@@ -1,0 +1,13 @@
+Writing filtered delta file /home/arash/asmReview/EVAL/sim25M.CanuL/contigs_reports/nucmer_output/sim25M-CanuL.filter
+Reading delta file /home/arash/asmReview/EVAL/sim25M.CanuL/contigs_reports/nucmer_output/sim25M-CanuL.delta
+Writing plot files /home/arash/asmReview/EVAL/sim25M.CanuL/contigs_reports/nucmer_output/sim25M-CanuL.fplot, /home/arash/asmReview/EVAL/sim25M.CanuL/contigs_reports/nucmer_output/sim25M-CanuL.rplot
+Writing gnuplot script /home/arash/asmReview/EVAL/sim25M.CanuL/contigs_reports/nucmer_output/sim25M-CanuL.gp
+Rendering plot /home/arash/asmReview/EVAL/sim25M.CanuL/contigs_reports/nucmer_output/sim25M-CanuL.html
+f 31.66
+# reading input file "/home/arash/asmReview/EVAL/sim25M.CanuL/quast_corrected_input/sim25M-CanuL.fa" of length 22821360
+# matching query-file "/home/arash/asmReview/EVAL/sim25M.CanuL/quast_corrected_input/sim25M-CanuL.fa"
+# against subject-file "/home/arash/asmReview/EVAL/sim25M.CanuL/contigs_reports/nucmer_output/sim25M-CanuL.ntref"
+# COMPLETETIME /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/sim25M.CanuL/contigs_reports/nucmer_output/sim25M-CanuL.ntref 98.71
+# SPACE /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/sim25M.CanuL/contigs_reports/nucmer_output/sim25M-CanuL.ntref 46.41
+4: FINISHING DATA
+WARNING: there was a problem deleting the temporary output files

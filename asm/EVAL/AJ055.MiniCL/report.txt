@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     AJ055.MiniCL
+# contigs (>= 0 bp)          16          
+# contigs (>= 1000 bp)       16          
+# contigs (>= 5000 bp)       16          
+# contigs (>= 10000 bp)      16          
+# contigs (>= 25000 bp)      16          
+# contigs (>= 50000 bp)      16          
+Total length (>= 0 bp)       5634250     
+Total length (>= 1000 bp)    5634250     
+Total length (>= 5000 bp)    5634250     
+Total length (>= 10000 bp)   5634250     
+Total length (>= 25000 bp)   5634250     
+Total length (>= 50000 bp)   5634250     
+# contigs                    16          
+Largest contig               1138302     
+Total length                 5634250     
+Reference length             5504133     
+GC (%)                       57.13       
+Reference GC (%)             57.38       
+N50                          470381      
+NG50                         470381      
+N75                          298434      
+NG75                         298434      
+L50                          4           
+LG50                         4           
+L75                          7           
+LG75                         7           
+# misassemblies              0           
+# misassembled contigs       0           
+Misassembled contigs length  0           
+# local misassemblies        2           
+# unaligned mis. contigs     0           
+# unaligned contigs          0 + 2 part  
+Unaligned length             166422      
+Genome fraction (%)          98.626      
+Duplication ratio            1.007       
+# N's per 100 kbp            0.00        
+# mismatches per 100 kbp     34.91       
+# indels per 100 kbp         639.88      
+Largest alignment            1138217     
+Total aligned length         5467427     
+NA50                         470380      
+NGA50                        470380      
+NA75                         298434      
+NGA75                        298434      
+LA50                         4           
+LGA50                        4           
+LA75                         7           
+LGA75                        7           

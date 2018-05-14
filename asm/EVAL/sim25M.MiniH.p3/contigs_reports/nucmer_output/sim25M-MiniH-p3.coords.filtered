@@ -1,0 +1,16 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+4223269 4475955 | 1 253354 | 252687 253354 | 99.47 | sim25M Consensus_utg000001l_pilon_pilon_pilon
+4471633 11588663 | 4 7117838 | 7117031 7117835 | 99.98 | sim25M Consensus_utg000002l_pilon_pilon_pilon
+11790393 11854974 | 65387 1 | 64582 65387 | 97.65 | sim25M Consensus_utg000003l_pilon_pilon_pilon
+11627944 11802526 | 174574 1 | 174583 174574 | 99.63 | sim25M Consensus_utg000004l_pilon_pilon_pilon
+23459166 24997186 | 1501 1539884 | 1538021 1538384 | 99.96 | sim25M Consensus_utg000005l_pilon_pilon_pilon
+13159742 20804115 | 7645271 1 | 7644374 7645271 | 99.98 | sim25M Consensus_utg000006l_pilon_pilon_pilon
+2474949 4227618 | 1752971 1 | 1752670 1752971 | 99.97 | sim25M Consensus_utg000007l_pilon_pilon_pilon
+715805 2465045 | 1749255 1 | 1749241 1749255 | 99.99 | sim25M Consensus_utg000008l_pilon_pilon_pilon
+20830896 23470912 | 2640041 1 | 2640017 2640041 | 99.99 | sim25M Consensus_utg000009l_pilon_pilon_pilon
+2124 714433 | 1 712322 | 712310 712322 | 99.99 | sim25M Consensus_utg000010l_pilon_pilon_pilon
+12862492 13169714 | 307225 1 | 307223 307225 | 99.99 | sim25M Consensus_utg000011l_pilon_pilon_pilon
+11854966 12862325 | 1315188 307226 | 1007360 1007963 | 99.87 | sim25M Consensus_utg000011l_pilon_pilon_pilon
+4215105 4232582 | 17553 1 | 17478 17553 | 99.1 | sim25M Consensus_utg000012l_pilon_pilon_pilon
+11597995 11638465 | 40550 1 | 40471 40550 | 99.69 | sim25M Consensus_utg000013l_pilon_pilon_pilon

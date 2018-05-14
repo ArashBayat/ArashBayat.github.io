@@ -1,0 +1,30 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+2622368	3706660	1	1088953	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.44		True
+local misassembly
+3706986	3904067	1088954	1286923	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.42		True
+local misassembly
+3904207	4056405	1286946	1439718	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.49		True
+local misassembly
+4056790	5465981	1439719	2854769	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.47		True
+fake: not a misassembly [linear representation of circular genome]
+1	431860	2854770	3288491	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.45		True
+local misassembly
+432192	912562	3288492	3770866	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.49		True
+local misassembly
+912452	1950377	3770878	4812974	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.48		True
+local misassembly
+1950351	1953212	4813161	4816024	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.2		True
+local misassembly
+1952641	2622348	4816046	5488523	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.44		True
+CONTIG	Consensus_utg000001c	5488527	correct
+2792631	2799949	1	7360	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c	98.57		True
+unknown
+209506	210602	84815	83716	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c	99.73		True
+unknown
+3069598	3071525	96313	98244	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c	99.48		True
+unknown
+2135541	2136741	171737	172946	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c	99.26		True
+unknown
+2791953	2792618	202456	203121	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c	98.21		True
+unknown
+CONTIG	Consensus_utg000002c	203123	mis_unaligned

@@ -1,0 +1,14 @@
+Assembly	AJ055.SoDe2L
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	197
+# unaligned mis. contigs	0
+# mismatches	85
+# indels	31
+    # indels (<= 5 bp)	29
+    # indels (> 5 bp)	2
+Indels length	142

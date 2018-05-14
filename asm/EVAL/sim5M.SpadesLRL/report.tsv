@@ -1,0 +1,49 @@
+Assembly	sim5M.SpadesLRL
+# contigs (>= 0 bp)	100
+# contigs (>= 1000 bp)	28
+# contigs (>= 5000 bp)	19
+# contigs (>= 10000 bp)	19
+# contigs (>= 25000 bp)	15
+# contigs (>= 50000 bp)	12
+Total length (>= 0 bp)	5029581
+Total length (>= 1000 bp)	5008561
+Total length (>= 5000 bp)	4994572
+Total length (>= 10000 bp)	4994572
+Total length (>= 25000 bp)	4947236
+Total length (>= 50000 bp)	4833699
+# contigs	38
+Largest contig	866471
+Total length	5015744
+Reference length	5000040
+GC (%)	35.85
+Reference GC (%)	35.84
+N50	503768
+NG50	503768
+N75	334297
+NG75	334297
+L50	4
+LG50	4
+L75	7
+LG75	7
+# misassemblies	2
+# misassembled contigs	2
+Misassembled contigs length	707703
+# local misassemblies	3
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	99.714
+Duplication ratio	1.006
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	47.86
+# indels per 100 kbp	1.91
+Largest alignment	866471
+Total aligned length	5010201
+NA50	494811
+NGA50	494811
+NA75	294247
+NGA75	294247
+LA50	4
+LGA50	4
+LA75	8
+LGA75	8

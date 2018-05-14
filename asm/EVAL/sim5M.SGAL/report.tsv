@@ -1,0 +1,49 @@
+Assembly	sim5M.SGAL
+# contigs (>= 0 bp)	1817
+# contigs (>= 1000 bp)	667
+# contigs (>= 5000 bp)	334
+# contigs (>= 10000 bp)	156
+# contigs (>= 25000 bp)	16
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	5121547
+Total length (>= 1000 bp)	4776595
+Total length (>= 5000 bp)	3894551
+Total length (>= 10000 bp)	2631081
+Total length (>= 25000 bp)	510612
+Total length (>= 50000 bp)	0
+# contigs	800
+Largest contig	46979
+Total length	4868971
+Reference length	5000040
+GC (%)	35.74
+Reference GC (%)	35.84
+N50	10870
+NG50	10435
+N75	5920
+NG75	5659
+L50	138
+LG50	144
+L75	290
+LG75	307
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	96.530
+Duplication ratio	1.009
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	0.00
+# indels per 100 kbp	0.10
+Largest alignment	46979
+Total aligned length	4868971
+NA50	10870
+NGA50	10435
+NA75	5920
+NGA75	5659
+LA50	138
+LGA50	144
+LA75	290
+LGA75	307

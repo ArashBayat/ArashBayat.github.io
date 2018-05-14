@@ -1,0 +1,44 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     sim25M.MiniCL.cr
+# contigs (>= 0 bp)          2000            
+# contigs (>= 1000 bp)       1988            
+# contigs (>= 5000 bp)       1604            
+# contigs (>= 10000 bp)      538             
+# contigs (>= 25000 bp)      2               
+# contigs (>= 50000 bp)      0               
+Total length (>= 0 bp)       16137699        
+Total length (>= 1000 bp)    16130858        
+Total length (>= 5000 bp)    14722734        
+Total length (>= 10000 bp)   6765125         
+Total length (>= 25000 bp)   53068           
+Total length (>= 50000 bp)   0               
+# contigs                    1995            
+Largest contig               27394           
+Total length                 16135811        
+Reference length             25000020        
+GC (%)                       43.96           
+Reference GC (%)             43.69           
+N50                          9229            
+NG50                         6747            
+N75                          6955            
+L50                          674             
+LG50                         1232            
+L75                          1174            
+# misassemblies              12              
+# misassembled contigs       10              
+Misassembled contigs length  68879           
+# local misassemblies        40              
+# unaligned mis. contigs     5               
+# unaligned contigs          494 + 60 part   
+Unaligned length             5245791         
+Genome fraction (%)          34.622          
+Duplication ratio            1.258           
+# N's per 100 kbp            0.00            
+# mismatches per 100 kbp     192.40          
+# indels per 100 kbp         1327.84         
+Largest alignment            27391           
+Total aligned length         10884419        
+NA50                         6383            
+NGA50                        -               
+LA50                         849             

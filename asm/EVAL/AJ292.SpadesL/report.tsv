@@ -1,0 +1,49 @@
+Assembly	AJ292.SpadesL
+# contigs (>= 0 bp)	169
+# contigs (>= 1000 bp)	91
+# contigs (>= 5000 bp)	72
+# contigs (>= 10000 bp)	67
+# contigs (>= 25000 bp)	53
+# contigs (>= 50000 bp)	33
+Total length (>= 0 bp)	5408471
+Total length (>= 1000 bp)	5385651
+Total length (>= 5000 bp)	5340398
+Total length (>= 10000 bp)	5309383
+Total length (>= 25000 bp)	5085532
+Total length (>= 50000 bp)	4319171
+# contigs	104
+Largest contig	569275
+Total length	5395329
+Reference length	5445112
+GC (%)	57.70
+Reference GC (%)	57.62
+N50	127859
+NG50	122970
+N75	60489
+NG75	60489
+L50	12
+LG50	13
+L75	29
+LG75	29
+# misassemblies	1
+# misassembled contigs	1
+Misassembled contigs length	1084
+# local misassemblies	11
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	98.987
+Duplication ratio	1.001
+# N's per 100 kbp	1.04
+# mismatches per 100 kbp	6.22
+# indels per 100 kbp	1.02
+Largest alignment	569275
+Total aligned length	5394955
+NA50	127859
+NGA50	122970
+NA75	60489
+NGA75	60489
+LA50	12
+LGA50	13
+LA75	29
+LGA75	29

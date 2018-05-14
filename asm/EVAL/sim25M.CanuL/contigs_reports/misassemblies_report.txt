@@ -1,0 +1,16 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     sim25M.CanuL
+# misassemblies              1           
+    # relocations            1           
+    # translocations         0           
+    # inversions             0           
+# misassembled contigs       1           
+Misassembled contigs length  12658       
+# local misassemblies        0           
+# unaligned mis. contigs     0           
+# mismatches                 4894        
+# indels                     16298       
+    # indels (<= 5 bp)       16293       
+    # indels (> 5 bp)        5           
+Indels length                17730       

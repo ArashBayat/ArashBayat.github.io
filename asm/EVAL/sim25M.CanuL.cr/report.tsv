@@ -1,0 +1,45 @@
+Assembly	sim25M.CanuL.cr
+# contigs (>= 0 bp)	2000
+# contigs (>= 1000 bp)	1800
+# contigs (>= 5000 bp)	1384
+# contigs (>= 10000 bp)	423
+# contigs (>= 25000 bp)	1
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	13804774
+Total length (>= 1000 bp)	13751456
+Total length (>= 5000 bp)	12332410
+Total length (>= 10000 bp)	5220112
+Total length (>= 25000 bp)	27290
+Total length (>= 50000 bp)	0
+# contigs	1827
+Largest contig	27290
+Total length	13771338
+Reference length	25000020
+GC (%)	43.80
+Reference GC (%)	43.69
+N50	8908
+NG50	4760
+N75	6712
+L50	600
+LG50	1419
+L75	1043
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	0
+# unaligned contigs	36 + 2 part
+Unaligned length	137327
+Genome fraction (%)	41.056
+Duplication ratio	1.328
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	89.88
+# indels per 100 kbp	314.12
+Largest alignment	27290
+Total aligned length	13626586
+NA50	8884
+NGA50	4658
+NA75	6678
+LA50	601
+LGA50	1426
+LA75	1046

@@ -1,0 +1,14 @@
+Assembly	sim25M.SpadesLRL
+# misassemblies	87
+    # relocations	87
+    # translocations	0
+    # inversions	0
+# misassembled contigs	39
+Misassembled contigs length	8316509
+# local misassemblies	53
+# unaligned mis. contigs	0
+# mismatches	12967
+# indels	788
+    # indels (<= 5 bp)	687
+    # indels (> 5 bp)	101
+Indels length	2704

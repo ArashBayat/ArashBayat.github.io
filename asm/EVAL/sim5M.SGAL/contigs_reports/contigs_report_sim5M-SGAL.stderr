@@ -1,0 +1,13 @@
+Writing filtered delta file /home/arash/asmReview/EVAL/sim5M.SGAL/contigs_reports/nucmer_output/sim5M-SGAL.filter
+Reading delta file /home/arash/asmReview/EVAL/sim5M.SGAL/contigs_reports/nucmer_output/sim5M-SGAL.delta
+Writing plot files /home/arash/asmReview/EVAL/sim5M.SGAL/contigs_reports/nucmer_output/sim5M-SGAL.fplot, /home/arash/asmReview/EVAL/sim5M.SGAL/contigs_reports/nucmer_output/sim5M-SGAL.rplot
+Writing gnuplot script /home/arash/asmReview/EVAL/sim5M.SGAL/contigs_reports/nucmer_output/sim5M-SGAL.gp
+Rendering plot /home/arash/asmReview/EVAL/sim5M.SGAL/contigs_reports/nucmer_output/sim5M-SGAL.html
+m5M-SGAL.ntref 3.82
+# reading input file "/home/arash/asmReview/EVAL/sim5M.SGAL/quast_corrected_input/sim5M-SGAL.fa" of length 4869770
+# matching query-file "/home/arash/asmReview/EVAL/sim5M.SGAL/quast_corrected_input/sim5M-SGAL.fa"
+# against subject-file "/home/arash/asmReview/EVAL/sim5M.SGAL/contigs_reports/nucmer_output/sim5M-SGAL.ntref"
+# COMPLETETIME /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/sim5M.SGAL/contigs_reports/nucmer_output/sim5M-SGAL.ntref 12.03
+# SPACE /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/sim5M.SGAL/contigs_reports/nucmer_output/sim5M-SGAL.ntref 9.58
+4: FINISHING DATA
+WARNING: there was a problem deleting the temporary output files

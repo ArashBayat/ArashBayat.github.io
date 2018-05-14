@@ -1,0 +1,14 @@
+Assembly	AJ292.SpadesH
+# misassemblies	1
+    # relocations	1
+    # translocations	0
+    # inversions	0
+# misassembled contigs	1
+Misassembled contigs length	271842
+# local misassemblies	16
+# unaligned mis. contigs	0
+# mismatches	223
+# indels	40
+    # indels (<= 5 bp)	33
+    # indels (> 5 bp)	7
+Indels length	343

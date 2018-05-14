@@ -1,0 +1,14 @@
+Assembly	AJ292.SoDe2H
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	859
+# unaligned mis. contigs	3
+# mismatches	59
+# indels	47
+    # indels (<= 5 bp)	29
+    # indels (> 5 bp)	18
+Indels length	824

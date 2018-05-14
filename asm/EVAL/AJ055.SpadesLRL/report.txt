@@ -1,0 +1,52 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assembly AJ055.SpadesLRL contains continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                     AJ055.SpadesLRL
+# contigs (>= 0 bp)          72             
+# contigs (>= 1000 bp)       15             
+# contigs (>= 5000 bp)       12             
+# contigs (>= 10000 bp)      11             
+# contigs (>= 25000 bp)      10             
+# contigs (>= 50000 bp)      9              
+Total length (>= 0 bp)       5677347        
+Total length (>= 1000 bp)    5662727        
+Total length (>= 5000 bp)    5653948        
+Total length (>= 10000 bp)   5646162        
+Total length (>= 25000 bp)   5635515        
+Total length (>= 50000 bp)   5598181        
+# contigs                    16             
+Largest contig               1845647        
+Total length                 5663299        
+Reference length             5504133        
+GC (%)                       57.25          
+Reference GC (%)             57.38          
+N50                          1571477        
+NG50                         1571477        
+N75                          552169         
+NG75                         552169         
+L50                          2              
+LG50                         2              
+L75                          4              
+LG75                         4              
+# misassemblies              1              
+# misassembled contigs       1              
+Misassembled contigs length  1845647        
+# local misassemblies        1              
+# unaligned mis. contigs     0              
+# unaligned contigs          0 + 1 part     
+Unaligned length             164688         
+Genome fraction (%)          99.882         
+Duplication ratio            1.000          
+# N's per 100 kbp            1.77           
+# mismatches per 100 kbp     5.57           
+# indels per 100 kbp         1.75           
+Largest alignment            1587076        
+Total aligned length         5498433        
+NA50                         1571477        
+NGA50                        1571477        
+NA75                         552169         
+NGA75                        552169         
+LA50                         2              
+LGA50                        2              
+LA75                         4              
+LGA75                        4              

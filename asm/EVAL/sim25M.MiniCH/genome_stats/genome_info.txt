@@ -1,0 +1,14 @@
+reference chromosomes:
+	sim25M (total length: 25000020 bp, maximal covered length: 24984262 bp)
+
+total genome size: 25000020
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+sim25M-MiniCH            | 99.93697% | 1.01104     | 4         | -         | -         | -         | -         |

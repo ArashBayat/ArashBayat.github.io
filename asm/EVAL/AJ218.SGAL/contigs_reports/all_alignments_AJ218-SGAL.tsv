@@ -1,0 +1,2310 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+2411583	2418631	1	7049	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-0_7049	100.0		True
+CONTIG	unplaced-0_7049	7049	correct
+4833729	4839286	5558	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-2_5558	100.0		True
+CONTIG	unplaced-2_5558	5558	correct
+1277369	1277877	509	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-3_509	100.0		True
+CONTIG	unplaced-3_509	509	correct
+3427839	3434221	1	6383	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-4_6383	100.0		True
+CONTIG	unplaced-4_6383	6383	correct
+2818124	2821466	3343	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-6_3343	100.0		True
+CONTIG	unplaced-6_3343	3343	correct
+3389264	3395661	1	6398	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-7_6398	100.0		True
+CONTIG	unplaced-7_6398	6398	correct
+3474415	3475912	1498	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-9_1498	100.0		True
+CONTIG	unplaced-9_1498	1498	correct
+4942850	4945630	2781	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-10_2781	100.0		True
+CONTIG	unplaced-10_2781	2781	correct
+3636910	3641180	1	4271	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-11_4271	100.0		True
+CONTIG	unplaced-11_4271	4271	correct
+4980959	4981704	746	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-12_746	100.0		True
+CONTIG	unplaced-12_746	746	correct
+4770165	4776196	1	6032	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-13_6032	100.0		True
+CONTIG	unplaced-13_6032	6032	correct
+2070946	2081049	1	10104	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-14_10104	100.0		True
+CONTIG	unplaced-14_10104	10104	correct
+2010448	2015875	5428	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-16_5428	100.0		True
+CONTIG	unplaced-16_5428	5428	correct
+2847801	2849662	1	1862	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-19_1862	100.0		True
+CONTIG	unplaced-19_1862	1862	correct
+4809569	4823745	1	14177	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-20_14177	100.0		True
+CONTIG	unplaced-20_14177	14177	correct
+2997855	3002440	1	4586	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-21_4586	100.0		True
+CONTIG	unplaced-21_4586	4586	correct
+775420	776654	1235	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-23_1235	99.92		True
+CONTIG	unplaced-23_1235	1235	correct
+51909	57034	1	5126	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-24_5126	100.0		True
+CONTIG	unplaced-24_5126	5126	correct
+3083834	3086845	1	3012	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-25_3012	100.0		True
+CONTIG	unplaced-25_3012	3012	correct
+3492018	3497087	5070	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-27_5070	100.0		True
+CONTIG	unplaced-27_5070	5070	correct
+4608134	4614220	4	6090	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-28_6090	99.97		True
+CONTIG	unplaced-28_6090	6090	correct
+4968301	4968907	1	607	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-29_607	100.0		True
+CONTIG	unplaced-29_607	607	correct
+287530	288953	1	1424	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-30_1424	100.0		True
+CONTIG	unplaced-30_1424	1424	correct
+2675385	2690926	15542	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-32_15542	100.0		True
+CONTIG	unplaced-32_15542	15542	correct
+4416039	4418547	2509	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-33_2509	100.0		True
+CONTIG	unplaced-33_2509	2509	correct
+CONTIG	unplaced-34_10076	10076	unaligned
+3856408	3863134	1	6727	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-35_6727	100.0		True
+CONTIG	unplaced-35_6727	6727	correct
+2733486	2736904	3419	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-38_3419	100.0		True
+CONTIG	unplaced-38_3419	3419	correct
+479937	491496	11560	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-39_11560	100.0		True
+CONTIG	unplaced-39_11560	11560	correct
+3086826	3099563	1	12738	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-40_12738	100.0		True
+CONTIG	unplaced-40_12738	12738	correct
+2587048	2588151	1104	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-41_1104	100.0		True
+CONTIG	unplaced-41_1104	1104	correct
+1671680	1673903	1	2224	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-42_2224	100.0		True
+CONTIG	unplaced-42_2224	2224	correct
+2116469	2117260	1	792	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-43_792	100.0		True
+CONTIG	unplaced-43_792	792	correct
+1172254	1174311	1	2058	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-44_2058	100.0		True
+CONTIG	unplaced-44_2058	2058	correct
+5082397	5083558	1	1162	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-49_1162	100.0		True
+CONTIG	unplaced-49_1162	1162	correct
+1313809	1324901	1	11093	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-53_11093	100.0		True
+CONTIG	unplaced-53_11093	11093	correct
+2620694	2623267	1	2575	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-54_2575	99.96		True
+CONTIG	unplaced-54_2575	2575	correct
+4755362	4760983	5622	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-55_5622	100.0		True
+CONTIG	unplaced-55_5622	5622	correct
+283897	285427	1531	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-59_1531	100.0		True
+CONTIG	unplaced-59_1531	1531	correct
+984536	990911	6376	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-61_6376	100.0		True
+CONTIG	unplaced-61_6376	6376	correct
+4833283	4833849	1	567	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-62_567	100.0		True
+CONTIG	unplaced-62_567	567	correct
+2395521	2396885	1	1365	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-63_1365	100.0		True
+CONTIG	unplaced-63_1365	1365	correct
+1	5498	5498	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-64_14039	100.0		True
+fake: not a misassembly [linear representation of circular genome]
+5457441	5465981	14039	5499	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-64_14039	100.0		True
+CONTIG	unplaced-64_14039	14039	correct
+4458287	4460831	1	2545	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-66_2545	100.0		True
+CONTIG	unplaced-66_2545	2545	correct
+3295904	3299219	3316	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-67_3316	100.0		True
+CONTIG	unplaced-67_3316	3316	correct
+5435385	5437038	1654	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-68_1654	100.0		True
+CONTIG	unplaced-68_1654	1654	correct
+933120	936390	3271	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-69_3271	100.0		True
+CONTIG	unplaced-69_3271	3271	correct
+3178885	3183998	1	5114	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-70_5114	100.0		True
+CONTIG	unplaced-70_5114	5114	correct
+1294254	1295052	799	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-73_799	100.0		True
+CONTIG	unplaced-73_799	799	correct
+1263648	1264524	1	877	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-75_877	100.0		True
+CONTIG	unplaced-75_877	877	correct
+3283188	3283806	1	619	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-76_619	100.0		True
+CONTIG	unplaced-76_619	619	correct
+4644536	4649149	4614	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-78_4614	100.0		True
+CONTIG	unplaced-78_4614	4614	correct
+4695899	4696693	795	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-79_795	100.0		True
+CONTIG	unplaced-79_795	795	correct
+3554042	3555908	1	1867	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-81_1867	100.0		True
+CONTIG	unplaced-81_1867	1867	correct
+1054639	1068228	1	13590	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-82_13590	100.0		True
+CONTIG	unplaced-82_13590	13590	correct
+4616898	4619591	2694	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-84_2694	100.0		True
+CONTIG	unplaced-84_2694	2694	correct
+2586204	2587183	980	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-91_980	100.0		True
+CONTIG	unplaced-91_980	980	correct
+5045321	5045848	1	528	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-92_528	100.0		True
+CONTIG	unplaced-92_528	528	correct
+5336447	5340235	1	3789	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-93_3789	100.0		True
+CONTIG	unplaced-93_3789	3789	correct
+4194908	4197031	2124	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-94_2124	100.0		True
+CONTIG	unplaced-94_2124	2124	correct
+1624039	1624555	1	517	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-95_517	100.0		True
+CONTIG	unplaced-95_517	517	correct
+2403517	2411527	8011	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-96_8011	99.98		True
+CONTIG	unplaced-96_8011	8011	correct
+3763220	3772225	9006	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-98_9006	100.0		True
+CONTIG	unplaced-98_9006	9006	correct
+4242720	4243649	930	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-99_930	100.0		True
+CONTIG	unplaced-99_930	930	correct
+2821426	2823394	1969	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-100_1969	100.0		True
+CONTIG	unplaced-100_1969	1969	correct
+4732607	4737639	1	5033	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-103_5033	100.0		True
+CONTIG	unplaced-103_5033	5033	correct
+4874988	4879496	4509	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-104_4509	100.0		True
+CONTIG	unplaced-104_4509	4509	correct
+4108292	4109558	1	1267	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-105_1267	100.0		True
+CONTIG	unplaced-105_1267	1267	correct
+4662015	4668633	1	6619	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-106_6619	100.0		True
+CONTIG	unplaced-106_6619	6619	correct
+1030579	1034467	1	3889	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-107_3889	100.0		True
+CONTIG	unplaced-107_3889	3889	correct
+3838869	3839541	673	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-108_673	100.0		True
+CONTIG	unplaced-108_673	673	correct
+1535362	1536252	891	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-110_891	100.0		True
+CONTIG	unplaced-110_891	891	correct
+4726853	4728235	1383	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-112_1383	100.0		True
+CONTIG	unplaced-112_1383	1383	correct
+CONTIG	unplaced-113_12312	12312	unaligned
+110714	111846	1133	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-114_1133	100.0		True
+CONTIG	unplaced-114_1133	1133	correct
+1353421	1356740	1	3320	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-115_3320	100.0		True
+CONTIG	unplaced-115_3320	3320	correct
+1384408	1389438	5031	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-116_5031	100.0		True
+CONTIG	unplaced-116_5031	5031	correct
+5120380	5124370	1	3991	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-117_3991	100.0		True
+CONTIG	unplaced-117_3991	3991	correct
+4585469	4586472	1004	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-118_1004	100.0		True
+CONTIG	unplaced-118_1004	1004	correct
+3705143	3713745	8603	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-121_8603	100.0		True
+CONTIG	unplaced-121_8603	8603	correct
+1600260	1606589	1	6330	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-122_6330	100.0		True
+CONTIG	unplaced-122_6330	6330	correct
+4728091	4731403	1	3313	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-123_3313	100.0		True
+CONTIG	unplaced-123_3313	3313	correct
+5218369	5222059	3691	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-125_3691	100.0		True
+CONTIG	unplaced-125_3691	3691	correct
+1037421	1039945	2525	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-126_2525	100.0		True
+CONTIG	unplaced-126_2525	2525	correct
+3405424	3409263	1	3840	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-127_3840	100.0		True
+CONTIG	unplaced-127_3840	3840	correct
+2469146	2473529	4384	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-129_4384	100.0		True
+CONTIG	unplaced-129_4384	4384	correct
+4599253	4607741	1	8489	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-130_8489	100.0		True
+CONTIG	unplaced-130_8489	8489	correct
+2670482	2673377	1	2896	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-131_2896	100.0		True
+CONTIG	unplaced-131_2896	2896	correct
+3125916	3129297	1	3382	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-133_3382	100.0		True
+CONTIG	unplaced-133_3382	3382	correct
+5333284	5336566	3283	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-134_3283	100.0		True
+CONTIG	unplaced-134_3283	3283	correct
+803633	805996	2364	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-135_2364	100.0		True
+CONTIG	unplaced-135_2364	2364	correct
+3281982	3282491	1	510	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-136_510	100.0		True
+CONTIG	unplaced-136_510	510	correct
+3617366	3619345	1	1980	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-137_1980	100.0		True
+CONTIG	unplaced-137_1980	1980	correct
+2650167	2652129	1963	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-138_1963	100.0		True
+CONTIG	unplaced-138_1963	1963	correct
+3619322	3625239	5918	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-139_5918	100.0		True
+CONTIG	unplaced-139_5918	5918	correct
+5243289	5248943	5655	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-140_5655	100.0		True
+CONTIG	unplaced-140_5655	5655	correct
+2104214	2107657	3444	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-141_3444	100.0		True
+CONTIG	unplaced-141_3444	3444	correct
+1832736	1834352	1	1617	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-143_1617	100.0		True
+CONTIG	unplaced-143_1617	1617	correct
+727925	731383	1	3459	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-144_3459	100.0		True
+CONTIG	unplaced-144_3459	3459	correct
+2744410	2745565	1156	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-149_1156	100.0		True
+CONTIG	unplaced-149_1156	1156	correct
+3920834	3930831	1	9998	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-150_9998	100.0		True
+CONTIG	unplaced-150_9998	9998	correct
+1514197	1515363	1168	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-151_1168	99.91		True
+CONTIG	unplaced-151_1168	1168	correct
+2211675	2227204	15530	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-152_15530	100.0		True
+CONTIG	unplaced-152_15530	15530	correct
+1778527	1780039	1513	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-155_1513	100.0		True
+CONTIG	unplaced-155_1513	1513	correct
+1144232	1145362	1	1131	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-157_1131	100.0		True
+CONTIG	unplaced-157_1131	1131	correct
+227489	228906	1418	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-158_1418	100.0		True
+CONTIG	unplaced-158_1418	1418	correct
+5205205	5214829	9625	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-159_9625	100.0		True
+CONTIG	unplaced-159_9625	9625	correct
+2477648	2488836	11189	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-160_11189	100.0		True
+CONTIG	unplaced-160_11189	11189	correct
+2916439	2917022	1	584	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-161_584	100.0		True
+CONTIG	unplaced-161_584	584	correct
+661363	666799	1	5437	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-162_5437	100.0		True
+CONTIG	unplaced-162_5437	5437	correct
+2736761	2738154	1394	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-165_1394	100.0		True
+CONTIG	unplaced-165_1394	1394	correct
+4159555	4160631	1	1077	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-166_1077	100.0		True
+CONTIG	unplaced-166_1077	1077	correct
+288821	290710	1890	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-172_1890	100.0		True
+CONTIG	unplaced-172_1890	1890	correct
+2803302	2805743	1	2442	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-173_2442	100.0		True
+CONTIG	unplaced-173_2442	2442	correct
+1154421	1156561	2141	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-174_2141	100.0		True
+CONTIG	unplaced-174_2141	2141	correct
+745452	774882	1	29431	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-177_29431	100.0		True
+CONTIG	unplaced-177_29431	29431	correct
+1797290	1798187	1	898	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-178_898	100.0		True
+CONTIG	unplaced-178_898	898	correct
+CONTIG	unplaced-179_10261	10261	unaligned
+38213	50085	1	11873	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-180_11873	100.0		True
+CONTIG	unplaced-180_11873	11873	correct
+2041098	2047572	6475	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-181_6475	100.0		True
+CONTIG	unplaced-181_6475	6475	correct
+4138133	4141090	1	2958	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-182_2958	100.0		True
+CONTIG	unplaced-182_2958	2958	correct
+1933903	1934577	1	675	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-184_675	100.0		True
+CONTIG	unplaced-184_675	675	correct
+599760	600625	866	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-185_866	100.0		True
+CONTIG	unplaced-185_866	866	correct
+2655773	2657638	1	1866	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-186_1866	100.0		True
+CONTIG	unplaced-186_1866	1866	correct
+4753904	4754766	863	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-187_863	100.0		True
+CONTIG	unplaced-187_863	863	correct
+3146169	3153516	7348	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-188_7348	100.0		True
+CONTIG	unplaced-188_7348	7348	correct
+5035157	5045091	9935	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-189_9935	100.0		True
+CONTIG	unplaced-189_9935	9935	correct
+1673928	1676165	2238	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-190_2238	100.0		True
+CONTIG	unplaced-190_2238	2238	correct
+3131663	3135628	1	3966	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-191_3966	100.0		True
+CONTIG	unplaced-191_3966	3966	correct
+2718926	2720987	2062	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-192_2062	100.0		True
+CONTIG	unplaced-192_2062	2062	correct
+2970673	2974374	3702	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-195_3702	100.0		True
+CONTIG	unplaced-195_3702	3702	correct
+369045	371042	1	1998	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-196_1998	100.0		True
+CONTIG	unplaced-196_1998	1998	correct
+2785343	2787030	1688	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-197_1688	100.0		True
+CONTIG	unplaced-197_1688	1688	correct
+684143	686938	2796	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-198_2796	100.0		True
+CONTIG	unplaced-198_2796	2796	correct
+1923305	1924125	821	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-199_821	100.0		True
+CONTIG	unplaced-199_821	821	correct
+2371985	2376715	1	4731	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-200_4731	100.0		True
+CONTIG	unplaced-200_4731	4731	correct
+2488714	2493512	4799	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-203_4799	100.0		True
+CONTIG	unplaced-203_4799	4799	correct
+2701596	2706417	4822	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-204_4822	100.0		True
+CONTIG	unplaced-204_4822	4822	correct
+4140991	4149559	1	8569	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-205_8569	100.0		True
+CONTIG	unplaced-205_8569	8569	correct
+1958901	1963716	4816	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-207_4816	100.0		True
+CONTIG	unplaced-207_4816	4816	correct
+4649011	4650489	1479	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-208_1479	100.0		True
+CONTIG	unplaced-208_1479	1479	correct
+2493411	2494556	1146	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-210_1146	100.0		True
+CONTIG	unplaced-210_1146	1146	correct
+4650482	4652330	1	1849	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-211_1849	100.0		True
+CONTIG	unplaced-211_1849	1849	correct
+1790030	1796412	6383	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-212_6383	100.0		True
+CONTIG	unplaced-212_6383	6383	correct
+2502208	2504308	1	2101	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-213_2101	100.0		True
+CONTIG	unplaced-213_2101	2101	correct
+1899091	1900904	1814	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-214_1814	100.0		True
+CONTIG	unplaced-214_1814	1814	correct
+4924244	4927179	2936	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-216_2936	100.0		True
+CONTIG	unplaced-216_2936	2936	correct
+1453006	1471389	1	18384	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-217_18384	100.0		True
+CONTIG	unplaced-217_18384	18384	correct
+3337845	3338471	627	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-218_627	100.0		True
+CONTIG	unplaced-218_627	627	correct
+2098048	2104143	6096	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-220_6096	100.0		True
+CONTIG	unplaced-220_6096	6096	correct
+5391593	5393273	1	1681	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-221_1681	100.0		True
+CONTIG	unplaced-221_1681	1681	correct
+1357409	1375302	17894	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-222_17894	100.0		True
+CONTIG	unplaced-222_17894	17894	correct
+1916405	1923358	1	6954	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-224_6954	100.0		True
+CONTIG	unplaced-224_6954	6954	correct
+4987842	4990585	1	2744	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-225_2744	100.0		True
+CONTIG	unplaced-225_2744	2744	correct
+5062769	5069967	1	7199	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-226_7199	100.0		True
+CONTIG	unplaced-226_7199	7199	correct
+329500	330139	640	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-227_640	100.0		True
+CONTIG	unplaced-227_640	640	correct
+3559928	3562664	2737	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-228_2737	100.0		True
+CONTIG	unplaced-228_2737	2737	correct
+3363902	3378986	15085	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-230_15085	100.0		True
+CONTIG	unplaced-230_15085	15085	correct
+3563313	3571467	8155	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-231_8155	100.0		True
+CONTIG	unplaced-231_8155	8155	correct
+3571530	3575680	1	4151	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-232_4151	100.0		True
+CONTIG	unplaced-232_4151	4151	correct
+2473899	2475294	1396	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-233_1396	100.0		True
+CONTIG	unplaced-233_1396	1396	correct
+491401	495528	4128	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-234_4128	100.0		True
+CONTIG	unplaced-234_4128	4128	correct
+1796860	1797432	573	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-236_573	100.0		True
+CONTIG	unplaced-236_573	573	correct
+5453702	5457303	3602	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-237_3602	100.0		True
+CONTIG	unplaced-237_3602	3602	correct
+1235188	1245081	1	9894	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-241_9894	100.0		True
+CONTIG	unplaced-241_9894	9894	correct
+1998421	2009752	1	11332	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-242_11332	100.0		True
+CONTIG	unplaced-242_11332	11332	correct
+97651	98191	541	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-243_541	100.0		True
+CONTIG	unplaced-243_541	541	correct
+2588198	2604936	16739	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-244_16739	100.0		True
+CONTIG	unplaced-244_16739	16739	correct
+3952442	3957695	1	5254	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-245_5254	100.0		True
+CONTIG	unplaced-245_5254	5254	correct
+776513	780220	1	3708	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-246_3708	100.0		True
+CONTIG	unplaced-246_3708	3708	correct
+4491586	4496097	4512	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-247_4512	100.0		True
+CONTIG	unplaced-247_4512	4512	correct
+24799	30617	1	5819	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-248_5819	100.0		True
+CONTIG	unplaced-248_5819	5819	correct
+5005030	5013494	8465	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-249_8465	100.0		True
+CONTIG	unplaced-249_8465	8465	correct
+1201844	1205870	4027	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-250_4027	100.0		True
+CONTIG	unplaced-250_4027	4027	correct
+85613	86268	1	656	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-251_656	100.0		True
+CONTIG	unplaced-251_656	656	correct
+3113033	3126038	1	13006	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-252_13006	100.0		True
+CONTIG	unplaced-252_13006	13006	correct
+2844625	2847762	3138	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-253_3138	100.0		True
+CONTIG	unplaced-253_3138	3138	correct
+1581808	1585184	1	3377	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-255_3377	100.0		True
+CONTIG	unplaced-255_3377	3377	correct
+100228	103196	1	2969	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-258_2969	100.0		True
+CONTIG	unplaced-258_2969	2969	correct
+3911833	3919804	7972	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-260_7972	100.0		True
+CONTIG	unplaced-260_7972	7972	correct
+1509461	1510701	1241	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-261_1241	100.0		True
+CONTIG	unplaced-261_1241	1241	correct
+1151409	1153325	1	1917	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-262_1917	100.0		True
+CONTIG	unplaced-262_1917	1917	correct
+5060964	5062365	1402	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-263_1402	100.0		True
+CONTIG	unplaced-263_1402	1402	correct
+3475768	3488879	13112	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-265_13112	100.0		True
+CONTIG	unplaced-265_13112	13112	correct
+2396775	2399695	2921	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-266_2921	100.0		True
+CONTIG	unplaced-266_2921	2921	correct
+5407895	5413564	1	5670	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-268_5670	100.0		True
+CONTIG	unplaced-268_5670	5670	correct
+1272163	1272702	540	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-269_540	100.0		True
+CONTIG	unplaced-269_540	540	correct
+CONTIG	unplaced-271_1665	1665	unaligned
+476505	480075	3571	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-273_3571	100.0		True
+CONTIG	unplaced-273_3571	3571	correct
+3981017	3984417	3401	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-274_3401	100.0		True
+CONTIG	unplaced-274_3401	3401	correct
+1829975	1832717	1	2743	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-275_2743	100.0		True
+CONTIG	unplaced-275_2743	2743	correct
+1117089	1119319	1	2231	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-276_2231	100.0		True
+CONTIG	unplaced-276_2231	2231	correct
+CONTIG	unplaced-281_3225	3225	unaligned
+3410685	3413385	2701	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-283_2701	100.0		True
+CONTIG	unplaced-283_2701	2701	correct
+1810012	1818938	8927	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-284_8927	100.0		True
+CONTIG	unplaced-284_8927	8927	correct
+2697810	2698600	1	791	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-286_791	100.0		True
+CONTIG	unplaced-286_791	791	correct
+1577098	1578676	1	1579	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-287_1579	100.0		True
+CONTIG	unplaced-287_1579	1579	correct
+1822247	1825081	1	2835	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-288_2835	100.0		True
+CONTIG	unplaced-288_2835	2835	correct
+2607872	2608524	1	653	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-289_653	100.0		True
+CONTIG	unplaced-289_653	653	correct
+2513584	2515469	1886	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-290_1886	100.0		True
+CONTIG	unplaced-290_1886	1886	correct
+4385585	4393809	1	8225	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-291_8225	100.0		True
+CONTIG	unplaced-291_8225	8225	correct
+2242091	2249731	7641	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-292_7641	100.0		True
+CONTIG	unplaced-292_7641	7641	correct
+1169445	1172259	2815	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-293_2815	100.0		True
+CONTIG	unplaced-293_2815	2815	correct
+4887423	4900770	13348	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-294_13348	100.0		True
+CONTIG	unplaced-294_13348	13348	correct
+4460819	4463344	2526	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-295_2526	100.0		True
+CONTIG	unplaced-295_2526	2526	correct
+4870333	4874879	1	4547	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-296_4547	100.0		True
+CONTIG	unplaced-296_4547	4547	correct
+3718068	3721322	1	3255	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-297_3255	100.0		True
+CONTIG	unplaced-297_3255	3255	correct
+3611050	3617303	1	6254	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-302_6254	100.0		True
+CONTIG	unplaced-302_6254	6254	correct
+1471431	1473403	1973	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-303_1973	100.0		True
+CONTIG	unplaced-303_1973	1973	correct
+1798144	1799339	1	1196	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-304_1196	100.0		True
+CONTIG	unplaced-304_1196	1196	correct
+1402674	1407024	1	4351	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-306_4351	100.0		True
+CONTIG	unplaced-306_4351	4351	correct
+3016611	3027171	1	10561	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-308_10561	100.0		True
+CONTIG	unplaced-308_10561	10561	correct
+3188677	3197232	8557	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-309_8557	99.99		True
+CONTIG	unplaced-309_8557	8557	correct
+4625497	4635929	10433	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-312_10433	100.0		True
+CONTIG	unplaced-312_10433	10433	correct
+2320774	2323601	1	2828	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-313_2828	100.0		True
+CONTIG	unplaced-313_2828	2828	correct
+556972	557707	736	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-314_736	100.0		True
+CONTIG	unplaced-314_736	736	correct
+209506	209655	150	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-315_5644	100.0		True
+CONTIG	unplaced-315_5644	5644	correct_unaligned
+2583640	2584239	1	600	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-316_600	100.0		True
+CONTIG	unplaced-316_600	600	correct
+5098651	5101335	2685	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-318_2685	100.0		True
+CONTIG	unplaced-318_2685	2685	correct
+3784486	3785658	1	1173	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-319_1173	100.0		True
+CONTIG	unplaced-319_1173	1173	correct
+4824621	4833396	8776	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-320_8776	100.0		True
+CONTIG	unplaced-320_8776	8776	correct
+341683	344519	1	2837	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-321_2837	100.0		True
+CONTIG	unplaced-321_2837	2837	correct
+4088045	4091958	1	3914	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-323_3914	100.0		True
+CONTIG	unplaced-323_3914	3914	correct
+1826795	1826951	157	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-325_4087	98.73		True
+CONTIG	unplaced-325_4087	4087	correct_unaligned
+2873348	2882864	9517	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-326_9517	100.0		True
+CONTIG	unplaced-326_9517	9517	correct
+5032784	5035095	2312	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-327_2312	100.0		True
+CONTIG	unplaced-327_2312	2312	correct
+1268886	1269928	1	1043	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-328_1043	100.0		True
+CONTIG	unplaced-328_1043	1043	correct
+CONTIG	unplaced-330_6529	6529	unaligned
+4326576	4339793	13218	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-333_13218	100.0		True
+CONTIG	unplaced-333_13218	13218	correct
+1068245	1071603	1	3359	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-334_3359	100.0		True
+CONTIG	unplaced-334_3359	3359	correct
+2442643	2445150	2508	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-336_2508	100.0		True
+CONTIG	unplaced-336_2508	2508	correct
+112976	120843	7868	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-337_7868	100.0		True
+CONTIG	unplaced-337_7868	7868	correct
+4027092	4033487	6396	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-338_6396	100.0		True
+CONTIG	unplaced-338_6396	6396	correct
+2316987	2320901	3915	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-339_3915	100.0		True
+CONTIG	unplaced-339_3915	3915	correct
+344381	346119	1	1739	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-340_1739	100.0		True
+CONTIG	unplaced-340_1739	1739	correct
+3275640	3281075	5436	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-343_5436	100.0		True
+CONTIG	unplaced-343_5436	5436	correct
+4714301	4724204	9904	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-344_9904	100.0		True
+CONTIG	unplaced-344_9904	9904	correct
+3648980	3651418	1	2439	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-347_2439	100.0		True
+CONTIG	unplaced-347_2439	2439	correct
+2781703	2785345	3643	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-348_3643	100.0		True
+CONTIG	unplaced-348_3643	3643	correct
+2554487	2559859	1	5373	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-350_5373	100.0		True
+CONTIG	unplaced-350_5373	5373	correct
+2944650	2948376	3727	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-354_3727	100.0		True
+CONTIG	unplaced-354_3727	3727	correct
+4863449	4866381	1	2933	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-355_2933	100.0		True
+CONTIG	unplaced-355_2933	2933	correct
+3785518	3793838	1	8321	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-356_8321	100.0		True
+CONTIG	unplaced-356_8321	8321	correct
+1868656	1874188	1	5533	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-357_5533	100.0		True
+CONTIG	unplaced-357_5533	5533	correct
+2445142	2450452	1	5311	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-359_5311	100.0		True
+CONTIG	unplaced-359_5311	5311	correct
+3289030	3291950	1	2921	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-361_2921	100.0		True
+CONTIG	unplaced-361_2921	2921	correct
+2905825	2912161	1	6337	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-363_6337	100.0		True
+CONTIG	unplaced-363_6337	6337	correct
+1753029	1762502	1	9474	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-366_9474	100.0		True
+CONTIG	unplaced-366_9474	9474	correct
+70453	74233	1	3781	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-370_3781	100.0		True
+CONTIG	unplaced-370_3781	3781	correct
+179959	180647	1	689	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-371_689	100.0		True
+CONTIG	unplaced-371_689	689	correct
+4162463	4175829	13367	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-372_13367	100.0		True
+CONTIG	unplaced-372_13367	13367	correct
+4036149	4039890	3742	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-374_3742	100.0		True
+CONTIG	unplaced-374_3742	3742	correct
+5225324	5232775	7452	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-375_7452	100.0		True
+CONTIG	unplaced-375_7452	7452	correct
+CONTIG	unplaced-377_2135	2135	unaligned
+CONTIG	unplaced-378_2379	2379	unaligned
+5371993	5373833	1841	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-380_1841	100.0		True
+CONTIG	unplaced-380_1841	1841	correct
+2495660	2500352	1	4693	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-381_4693	100.0		True
+CONTIG	unplaced-381_4693	4693	correct
+1047174	1048270	1	1097	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-382_1097	100.0		True
+CONTIG	unplaced-382_1097	1097	correct
+2751404	2755191	1	3788	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-383_3788	100.0		True
+CONTIG	unplaced-383_3788	3788	correct
+4175684	4177340	1	1657	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-384_1657	100.0		True
+CONTIG	unplaced-384_1657	1657	correct
+1762383	1766636	1	4254	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-390_4254	100.0		True
+CONTIG	unplaced-390_4254	4254	correct
+1967525	1968073	1	549	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-391_549	100.0		True
+CONTIG	unplaced-391_549	549	correct
+1052667	1054560	1894	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-392_1894	100.0		True
+CONTIG	unplaced-392_1894	1894	correct
+5266391	5271846	1	5456	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-393_5456	100.0		True
+CONTIG	unplaced-393_5456	5456	correct
+2865060	2873476	8417	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-394_8417	100.0		True
+CONTIG	unplaced-394_8417	8417	correct
+4002744	4010377	7634	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-395_7634	100.0		True
+CONTIG	unplaced-395_7634	7634	correct
+2127677	2132536	1	4860	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-396_4860	99.98		True
+CONTIG	unplaced-396_4860	4860	correct
+2885148	2890897	5750	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-397_5750	100.0		True
+CONTIG	unplaced-397_5750	5750	correct
+155132	168039	1	12908	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-399_12908	100.0		True
+CONTIG	unplaced-399_12908	12908	correct
+3651285	3660492	9208	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-400_9208	100.0		True
+CONTIG	unplaced-400_9208	9208	correct
+2310278	2317132	6855	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-401_6855	100.0		True
+CONTIG	unplaced-401_6855	6855	correct
+154352	155112	1	761	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-402_761	100.0		True
+CONTIG	unplaced-402_761	761	correct
+5084457	5089342	4886	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-403_4886	100.0		True
+CONTIG	unplaced-403_4886	4886	correct
+786569	798173	1	11605	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-407_11605	100.0		True
+CONTIG	unplaced-407_11605	11605	correct
+4934562	4941161	6600	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-408_6600	100.0		True
+CONTIG	unplaced-408_6600	6600	correct
+3265794	3275743	1	9950	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-409_9950	100.0		True
+CONTIG	unplaced-409_9950	9950	correct
+1667529	1668255	1	727	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-413_727	100.0		True
+CONTIG	unplaced-413_727	727	correct
+420503	426806	6304	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-416_6304	100.0		True
+CONTIG	unplaced-416_6304	6304	correct
+799438	800016	579	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-417_579	100.0		True
+CONTIG	unplaced-417_579	579	correct
+5158718	5159487	1	770	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-418_770	100.0		True
+CONTIG	unplaced-418_770	770	correct
+3002314	3005189	1	2876	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-419_2876	100.0		True
+CONTIG	unplaced-419_2876	2876	correct
+3933726	3935124	1399	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-420_1399	100.0		True
+CONTIG	unplaced-420_1399	1399	correct
+3678249	3681633	3385	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-421_3385	100.0		True
+CONTIG	unplaced-421_3385	3385	correct
+5381831	5388351	1	6521	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-423_6521	100.0		True
+CONTIG	unplaced-423_6521	6521	correct
+2723686	2727847	4162	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-424_4162	100.0		True
+CONTIG	unplaced-424_4162	4162	correct
+3978180	3979064	1	885	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-425_885	100.0		True
+CONTIG	unplaced-425_885	885	correct
+3795705	3797524	1820	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-427_1820	100.0		True
+CONTIG	unplaced-427_1820	1820	correct
+1730719	1732121	1404	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-428_1404	99.93		True
+CONTIG	unplaced-428_1404	1404	correct
+5071289	5073177	1	1889	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-431_1889	100.0		True
+CONTIG	unplaced-431_1889	1889	correct
+4746998	4748607	1	1610	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-432_1610	100.0		True
+CONTIG	unplaced-432_1610	1610	correct
+2093512	2098061	4550	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-434_4550	100.0		True
+CONTIG	unplaced-434_4550	4550	correct
+4990507	4991193	687	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-435_687	100.0		True
+CONTIG	unplaced-435_687	687	correct
+346110	369184	1	23075	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-438_23075	100.0		True
+CONTIG	unplaced-438_23075	23075	correct
+1510628	1511295	1	668	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-440_668	100.0		True
+CONTIG	unplaced-440_668	668	correct
+CONTIG	unplaced-441_4079	4079	unaligned
+4641437	4643193	1757	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-442_1757	100.0		True
+CONTIG	unplaced-442_1757	1757	correct
+1542192	1549215	1	7024	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-443_7024	100.0		True
+CONTIG	unplaced-443_7024	7024	correct
+3135619	3136132	514	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-444_514	100.0		True
+CONTIG	unplaced-444_514	514	correct
+3010733	3015602	1	4870	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-446_4870	100.0		True
+CONTIG	unplaced-446_4870	4870	correct
+1773939	1778439	4501	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-447_4501	100.0		True
+CONTIG	unplaced-447_4501	4501	correct
+2518037	2518774	738	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-448_738	100.0		True
+CONTIG	unplaced-448_738	738	correct
+1278038	1281364	1	3327	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-452_3327	100.0		True
+CONTIG	unplaced-452_3327	3327	correct
+4463373	4464192	1	820	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-454_820	100.0		True
+CONTIG	unplaced-454_820	820	correct
+1934530	1935078	1	549	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-456_549	100.0		True
+CONTIG	unplaced-456_549	549	correct
+1715118	1716402	1285	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-457_1285	100.0		True
+CONTIG	unplaced-457_1285	1285	correct
+5045863	5060979	15117	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-458_15117	100.0		True
+CONTIG	unplaced-458_15117	15117	correct
+4707743	4709075	1333	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-459_1333	100.0		True
+CONTIG	unplaced-459_1333	1333	correct
+659789	661381	1	1593	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-460_1593	100.0		True
+CONTIG	unplaced-460_1593	1593	correct
+1676025	1686371	1	10347	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-462_10347	100.0		True
+CONTIG	unplaced-462_10347	10347	correct
+5343887	5354942	11056	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-463_11056	100.0		True
+CONTIG	unplaced-463_11056	11056	correct
+654142	659319	1	5178	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-469_5178	100.0		True
+CONTIG	unplaced-469_5178	5178	correct
+263007	264455	1	1449	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-473_1449	100.0		True
+CONTIG	unplaced-473_1449	1449	correct
+3663723	3666601	2879	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-474_2879	100.0		True
+CONTIG	unplaced-474_2879	2879	correct
+2022395	2026477	1	4083	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-475_4083	100.0		True
+CONTIG	unplaced-475_4083	4083	correct
+3880958	3894571	1	13614	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-476_13614	100.0		True
+CONTIG	unplaced-476_13614	13614	correct
+2342612	2349092	6481	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-478_6481	100.0		True
+CONTIG	unplaced-478_6481	6481	correct
+309344	316436	7093	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-481_7093	100.0		True
+CONTIG	unplaced-481_7093	7093	correct
+5389391	5390754	1364	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-484_1364	100.0		True
+CONTIG	unplaced-484_1364	1364	correct
+3213871	3218118	1	4248	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-485_4248	100.0		True
+CONTIG	unplaced-485_4248	4248	correct
+2673252	2675511	2260	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-486_2260	100.0		True
+CONTIG	unplaced-486_2260	2260	correct
+1552052	1556555	1	4504	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-489_4504	100.0		True
+CONTIG	unplaced-489_4504	4504	correct
+2380074	2394703	14630	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-491_14630	100.0		True
+CONTIG	unplaced-491_14630	14630	correct
+3991700	3996603	1	4904	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-492_4904	100.0		True
+CONTIG	unplaced-492_4904	4904	correct
+4480033	4491598	11566	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-493_11566	100.0		True
+CONTIG	unplaced-493_11566	11566	correct
+1826810	1828467	1	1658	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-494_1658	100.0		True
+CONTIG	unplaced-494_1658	1658	correct
+3997599	4001196	3598	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-495_3598	100.0		True
+CONTIG	unplaced-495_3598	3598	correct
+4114616	4118840	1	4225	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-496_4225	100.0		True
+CONTIG	unplaced-496_4225	4225	correct
+2227082	2228167	1086	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-497_1086	100.0		True
+CONTIG	unplaced-497_1086	1086	correct
+1400543	1401191	649	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-500_649	100.0		True
+CONTIG	unplaced-500_649	649	correct
+2515343	2518164	2822	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-501_2822	100.0		True
+CONTIG	unplaced-501_2822	2822	correct
+1300548	1313924	13377	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-502_13377	100.0		True
+CONTIG	unplaced-502_13377	13377	correct
+1805811	1807206	1	1396	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-504_1396	100.0		True
+CONTIG	unplaced-504_1396	1396	correct
+2160907	2163284	1	2378	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-505_2378	100.0		True
+CONTIG	unplaced-505_2378	2378	correct
+928048	933233	5186	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-506_5186	100.0		True
+CONTIG	unplaced-506_5186	5186	correct
+1585055	1586468	1414	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-510_1414	100.0		True
+CONTIG	unplaced-510_1414	1414	correct
+51243	52054	1	812	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-511_812	100.0		True
+CONTIG	unplaced-511_812	812	correct
+3839418	3842156	1	2739	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-513_2741	100.0		True
+CONTIG	unplaced-513_2741	2741	correct
+2349123	2353488	1	4366	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-514_4366	100.0		True
+CONTIG	unplaced-514_4366	4366	correct
+5014570	5016558	1	1989	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-515_1989	100.0		True
+CONTIG	unplaced-515_1989	1989	correct
+2277128	2280055	2928	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-516_2928	100.0		True
+CONTIG	unplaced-516_2928	2928	correct
+2116088	2116599	512	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-522_512	100.0		True
+CONTIG	unplaced-522_512	512	correct
+5370715	5372043	1329	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-525_1329	100.0		True
+CONTIG	unplaced-525_1329	1329	correct
+5131201	5132672	1	1472	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-527_1472	100.0		True
+CONTIG	unplaced-527_1472	1472	correct
+709618	712257	2640	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-528_2640	100.0		True
+CONTIG	unplaced-528_2640	2640	correct
+1448930	1449887	1	958	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-529_958	100.0		True
+CONTIG	unplaced-529_958	958	correct
+4640130	4641461	1	1332	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-531_1332	100.0		True
+CONTIG	unplaced-531_1332	1332	correct
+1630821	1640902	10082	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-532_10082	100.0		True
+CONTIG	unplaced-532_10082	10082	correct
+712124	719687	1	7564	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-533_7564	100.0		True
+CONTIG	unplaced-533_7564	7564	correct
+4658916	4661987	1	3072	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-534_3072	100.0		True
+CONTIG	unplaced-534_3072	3072	correct
+5090495	5093107	2613	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-535_2613	100.0		True
+CONTIG	unplaced-535_2613	2613	correct
+2795359	2796282	1	924	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-537_924	99.24		True
+CONTIG	unplaced-537_924	924	correct
+1624539	1630109	5571	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-538_5571	100.0		True
+CONTIG	unplaced-538_5571	5571	correct
+5290994	5293412	1	2419	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-539_2419	100.0		True
+CONTIG	unplaced-539_2419	2419	correct
+1035281	1037409	2129	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-540_2129	100.0		True
+CONTIG	unplaced-540_2129	2129	correct
+1578685	1580845	1	2161	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-542_2161	100.0		True
+CONTIG	unplaced-542_2161	2161	correct
+2450321	2465967	15647	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-545_15647	100.0		True
+CONTIG	unplaced-545_15647	15647	correct
+232215	234638	2425	2	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-546_2425	100.0		True
+CONTIG	unplaced-546_2425	2425	correct
+3822738	3827009	4272	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-547_4272	100.0		True
+CONTIG	unplaced-547_4272	4272	correct
+2665018	2669420	4403	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-548_4403	100.0		True
+CONTIG	unplaced-548_4403	4403	correct
+4149421	4159693	10274	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-549_10274	99.99		True
+CONTIG	unplaced-549_10274	10274	correct
+1262926	1263700	775	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-550_775	100.0		True
+CONTIG	unplaced-550_775	775	correct
+3557406	3559868	2463	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-551_2463	100.0		True
+CONTIG	unplaced-551_2463	2463	correct
+1174576	1175081	1	506	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-554_506	100.0		True
+CONTIG	unplaced-554_506	506	correct
+3863007	3868092	5086	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-556_5086	100.0		True
+CONTIG	unplaced-556_5086	5086	correct
+4615002	4616555	1554	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-558_1554	100.0		True
+CONTIG	unplaced-558_1554	1554	correct
+2341932	2342752	1	821	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-559_821	100.0		True
+CONTIG	unplaced-559_821	821	correct
+330427	336499	6073	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-561_6073	100.0		True
+CONTIG	unplaced-561_6073	6073	correct
+1906648	1907196	1	549	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-563_549	100.0		True
+CONTIG	unplaced-563_549	549	correct
+3284058	3286292	1	2235	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-564_2235	100.0		True
+CONTIG	unplaced-564_2235	2235	correct
+CONTIG	unplaced-565_1320	1320	unaligned
+3170818	3174752	3935	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-566_3935	100.0		True
+CONTIG	unplaced-566_3935	3935	correct
+5235834	5243386	1	7553	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-567_7553	100.0		True
+CONTIG	unplaced-567_7553	7553	correct
+1788909	1789713	1	805	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-568_805	100.0		True
+CONTIG	unplaced-568_805	805	correct
+1043052	1044366	1	1315	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-569_1315	100.0		True
+CONTIG	unplaced-569_1315	1315	correct
+3174633	3178859	1	4227	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-571_4227	100.0		True
+CONTIG	unplaced-571_4227	4227	correct
+1630320	1630941	1	622	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-572_622	100.0		True
+CONTIG	unplaced-572_622	622	correct
+2253256	2268460	1	15205	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-574_15205	100.0		True
+CONTIG	unplaced-574_15205	15205	correct
+4589331	4596478	1	7148	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-575_7148	100.0		True
+CONTIG	unplaced-575_7148	7148	correct
+5003285	5005053	1769	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-576_1769	100.0		True
+CONTIG	unplaced-576_1769	1769	correct
+2823702	2837876	14175	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-577_14175	100.0		True
+CONTIG	unplaced-577_14175	14175	correct
+5119381	5120508	1	1128	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-578_1128	100.0		True
+CONTIG	unplaced-578_1128	1128	correct
+210454	210602	1885	1737	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-579_1885	100.0		True
+CONTIG	unplaced-579_1885	1885	correct_unaligned
+1787351	1788370	1020	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-582_1020	100.0		True
+CONTIG	unplaced-582_1020	1020	correct
+1486622	1487398	1	777	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-584_777	100.0		True
+CONTIG	unplaced-584_777	777	correct
+4695192	4696043	1	852	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-586_852	100.0		True
+CONTIG	unplaced-586_852	852	correct
+4385086	4385716	1	631	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-587_631	100.0		True
+CONTIG	unplaced-587_631	631	correct
+4992247	4995474	1	3228	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-588_3228	100.0		True
+CONTIG	unplaced-588_3228	3228	correct
+1703617	1709639	6023	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-589_6023	100.0		True
+CONTIG	unplaced-589_6023	6023	correct
+3463810	3473851	10042	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-590_10042	100.0		True
+CONTIG	unplaced-590_10042	10042	correct
+4839155	4846557	1	7403	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-594_7403	100.0		True
+CONTIG	unplaced-594_7403	7403	correct
+1966551	1967546	997	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-596_997	99.9		True
+CONTIG	unplaced-596_997	997	correct
+1245193	1250763	1	5571	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-598_5571	100.0		True
+CONTIG	unplaced-598_5571	5571	correct
+1721922	1722910	989	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-599_989	100.0		True
+CONTIG	unplaced-599_989	989	correct
+2962646	2964466	1	1821	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-600_1821	100.0		True
+CONTIG	unplaced-600_1821	1821	correct
+2855000	2855806	807	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-602_807	100.0		True
+CONTIG	unplaced-602_807	807	correct
+3697505	3705107	7603	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-603_7603	100.0		True
+CONTIG	unplaced-603_7603	7603	correct
+518036	520501	2466	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-604_2466	100.0		True
+CONTIG	unplaced-604_2466	2466	correct
+504654	505869	1216	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-605_1216	100.0		True
+CONTIG	unplaced-605_1216	1216	correct
+811103	815174	4072	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-607_4072	100.0		True
+CONTIG	unplaced-607_4072	4072	correct
+1401052	1402782	1	1731	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-609_1731	100.0		True
+CONTIG	unplaced-609_1731	1731	correct
+59742	63987	4246	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-610_4246	100.0		True
+CONTIG	unplaced-610_4246	4246	correct
+2936533	2943384	1	6852	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-611_6852	100.0		True
+CONTIG	unplaced-611_6852	6852	correct
+3745358	3755837	10480	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-613_10480	100.0		True
+CONTIG	unplaced-613_10480	10480	correct
+505745	511099	1	5355	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-614_5355	100.0		True
+CONTIG	unplaced-614_5355	5355	correct
+4991227	4992057	831	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-615_831	100.0		True
+CONTIG	unplaced-615_831	831	correct
+4403465	4411265	7801	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-616_7801	100.0		True
+CONTIG	unplaced-616_7801	7801	correct
+1993839	1996088	2250	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-618_2250	100.0		True
+CONTIG	unplaced-618_2250	2250	correct
+946483	948693	1	2211	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-620_2211	100.0		True
+CONTIG	unplaced-620_2211	2211	correct
+969030	970410	1381	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-621_1381	100.0		True
+CONTIG	unplaced-621_1381	1381	correct
+1867327	1868701	1	1375	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-623_1375	100.0		True
+CONTIG	unplaced-623_1375	1375	correct
+1644868	1667548	1	22681	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-624_22681	100.0		True
+CONTIG	unplaced-624_22681	22681	correct
+862209	865892	3684	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-625_3684	100.0		True
+CONTIG	unplaced-625_3684	3684	correct
+64326	66383	2058	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-626_2058	100.0		True
+CONTIG	unplaced-626_2058	2058	correct
+4440715	4451301	1	10587	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-628_10587	100.0		True
+CONTIG	unplaced-628_10587	10587	correct
+3842188	3844144	1	1957	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-631_1957	100.0		True
+CONTIG	unplaced-631_1957	1957	correct
+4995330	5002087	1	6758	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-633_6758	100.0		True
+CONTIG	unplaced-633_6758	6758	correct
+1580706	1581949	1	1244	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-634_1244	100.0		True
+CONTIG	unplaced-634_1244	1244	correct
+800125	803746	3622	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-637_3622	100.0		True
+CONTIG	unplaced-637_3622	3622	correct
+4900759	4902148	1390	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-638_1390	100.0		True
+CONTIG	unplaced-638_1390	1390	correct
+2394703	2395664	962	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-639_962	100.0		True
+CONTIG	unplaced-639_962	962	correct
+1296403	1300556	1	4154	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-640_4154	100.0		True
+CONTIG	unplaced-640_4154	4154	correct
+953082	955219	2138	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-641_2138	100.0		True
+CONTIG	unplaced-641_2138	2138	correct
+178583	179292	710	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-642_710	100.0		True
+CONTIG	unplaced-642_710	710	correct
+2747383	2750280	2898	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-643_2898	100.0		True
+CONTIG	unplaced-643_2898	2898	correct
+CONTIG	unplaced-645_532	532	unaligned
+3755702	3763321	7620	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-648_7620	100.0		True
+CONTIG	unplaced-648_7620	7620	correct
+2500226	2502172	1	1947	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-649_1947	100.0		True
+CONTIG	unplaced-649_1947	1947	correct
+380596	388830	8235	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-650_8235	100.0		True
+CONTIG	unplaced-650_8235	8235	correct
+4953602	4956427	2826	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-651_2826	100.0		True
+CONTIG	unplaced-651_2826	2826	correct
+4638337	4640112	1	1776	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-653_1776	100.0		True
+CONTIG	unplaced-653_1776	1776	correct
+2418507	2419010	504	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-654_504	100.0		True
+CONTIG	unplaced-654_504	504	correct
+3599731	3601526	1	1796	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-655_1796	100.0		True
+CONTIG	unplaced-655_1796	1796	correct
+1901923	1905595	3673	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-656_3673	100.0		True
+CONTIG	unplaced-656_3673	3673	correct
+5013384	5014551	1	1168	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-657_1168	100.0		True
+CONTIG	unplaced-657_1168	1168	correct
+86246	87046	801	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-658_801	100.0		True
+CONTIG	unplaced-658_801	801	correct
+2548185	2554618	1	6434	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-659_6434	100.0		True
+CONTIG	unplaced-659_6434	6434	correct
+2300746	2301834	1	1089	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-660_1089	100.0		True
+CONTIG	unplaced-660_1089	1089	correct
+1686363	1687641	1	1279	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-662_1279	100.0		True
+CONTIG	unplaced-662_1279	1279	correct
+2113205	2115673	1	2469	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-663_2469	100.0		True
+CONTIG	unplaced-663_2469	2469	correct
+1342846	1347450	1	4605	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-665_4605	100.0		True
+CONTIG	unplaced-665_4605	4605	correct
+2336207	2341559	1	5353	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-666_5353	100.0		True
+CONTIG	unplaced-666_5353	5353	correct
+1508666	1509482	817	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-668_817	100.0		True
+CONTIG	unplaced-668_817	817	correct
+1968098	1969091	1	994	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-672_994	100.0		True
+CONTIG	unplaced-672_994	994	correct
+4597425	4599368	1944	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-673_1944	100.0		True
+CONTIG	unplaced-673_1944	1944	correct
+2518879	2538621	1	19743	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-676_19743	100.0		True
+CONTIG	unplaced-676_19743	19743	correct
+CONTIG	unplaced-677_5008	5008	unaligned
+600948	601693	746	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-679_746	100.0		True
+CONTIG	unplaced-679_746	746	correct
+1928188	1929104	1	917	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-682_917	100.0		True
+CONTIG	unplaced-682_917	917	correct
+1498089	1499522	1434	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-683_1434	100.0		True
+CONTIG	unplaced-683_1434	1434	correct
+1184665	1187260	1	2596	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-684_2596	100.0		True
+CONTIG	unplaced-684_2596	2596	correct
+3333046	3334738	1693	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-686_1693	100.0		True
+CONTIG	unplaced-686_1693	1693	correct
+3099520	3100778	1259	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-687_1259	100.0		True
+CONTIG	unplaced-687_1259	1259	correct
+1347440	1350653	3214	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-689_3214	100.0		True
+CONTIG	unplaced-689_3214	3214	correct
+2750848	2751471	624	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-691_624	100.0		True
+CONTIG	unplaced-691_624	624	correct
+4010317	4022663	1	12347	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-694_12347	100.0		True
+CONTIG	unplaced-694_12347	12347	correct
+3331525	3333177	1653	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-695_1653	100.0		True
+CONTIG	unplaced-695_1653	1653	correct
+1503271	1505741	1	2471	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-696_2471	100.0		True
+CONTIG	unplaced-696_2471	2471	correct
+4671817	4681454	9638	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-697_9638	100.0		True
+CONTIG	unplaced-697_9638	9638	correct
+2623318	2626273	2956	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-698_2956	100.0		True
+CONTIG	unplaced-698_2956	2956	correct
+89003	96265	7263	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-700_7263	100.0		True
+CONTIG	unplaced-700_7263	7263	correct
+5174038	5177854	1	3817	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-702_3817	100.0		True
+CONTIG	unplaced-702_3817	3817	correct
+2662730	2664957	1	2228	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-704_2228	100.0		True
+CONTIG	unplaced-704_2228	2228	correct
+4947270	4952565	1	5296	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-705_5296	100.0		True
+CONTIG	unplaced-705_5296	5296	correct
+3395603	3396154	1	552	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-708_552	100.0		True
+CONTIG	unplaced-708_552	552	correct
+1716275	1718333	2059	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-709_2059	99.95		True
+CONTIG	unplaced-709_2059	2059	correct
+1502527	1503191	665	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-710_665	100.0		True
+CONTIG	unplaced-710_665	665	correct
+3633312	3637009	3698	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-711_3698	100.0		True
+CONTIG	unplaced-711_3698	3698	correct
+3069598	3069741	144	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-713_2624	100.0		True
+CONTIG	unplaced-713_2624	2624	correct_unaligned
+2228034	2231003	2974	5	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-715_2974	99.97		True
+CONTIG	unplaced-715_2974	2974	correct
+1929040	1929544	1	505	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-717_505	100.0		True
+CONTIG	unplaced-717_505	505	correct
+4794779	4796070	1	1292	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-718_1292	100.0		True
+CONTIG	unplaced-718_1292	1292	correct
+1145223	1146715	1	1493	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-719_1493	100.0		True
+CONTIG	unplaced-719_1493	1493	correct
+2718078	2718881	1	804	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-723_804	100.0		True
+CONTIG	unplaced-723_804	804	correct
+3353024	3358834	5811	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-725_5811	100.0		True
+CONTIG	unplaced-725_5811	5811	correct
+4177818	4182584	4767	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-728_4767	100.0		True
+CONTIG	unplaced-728_4767	4767	correct
+4776351	4782126	1	5776	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-729_5776	100.0		True
+CONTIG	unplaced-729_5776	5776	correct
+3310664	3313586	1	2923	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-730_2923	100.0		True
+CONTIG	unplaced-730_2923	2923	correct
+4319128	4321078	1951	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-732_1951	100.0		True
+CONTIG	unplaced-732_1951	1951	correct
+1668268	1670527	1	2260	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-735_2260	100.0		True
+CONTIG	unplaced-735_2260	2260	correct
+4928937	4932495	1	3559	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-737_3559	100.0		True
+CONTIG	unplaced-737_3559	3559	correct
+2901764	2902460	697	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-742_697	100.0		True
+CONTIG	unplaced-742_697	697	correct
+1506338	1507362	1	1025	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-747_1025	100.0		True
+CONTIG	unplaced-747_1025	1025	correct
+3984430	3986932	1	2503	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-748_2503	100.0		True
+CONTIG	unplaced-748_2503	2503	correct
+542478	557038	1	14561	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-749_14561	100.0		True
+CONTIG	unplaced-749_14561	14561	correct
+3035216	3039580	4365	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-751_4365	100.0		True
+CONTIG	unplaced-751_4365	4365	correct
+2282602	2283930	1	1329	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-752_1329	100.0		True
+CONTIG	unplaced-752_1329	1329	correct
+234508	239118	4612	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-753_4612	99.98		True
+CONTIG	unplaced-753_4612	4612	correct
+3641470	3644613	3144	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-755_3144	100.0		True
+CONTIG	unplaced-755_3144	3144	correct
+290882	293149	1	2268	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-758_2268	100.0		True
+CONTIG	unplaced-758_2268	2268	correct
+2107647	2108637	1	991	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-759_991	100.0		True
+CONTIG	unplaced-759_991	991	correct
+1881322	1887856	1	6535	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-760_6535	100.0		True
+CONTIG	unplaced-760_6535	6535	correct
+3183868	3188805	1	4938	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-761_4938	100.0		True
+CONTIG	unplaced-761_4938	4938	correct
+5445724	5446283	1	560	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-762_560	100.0		True
+CONTIG	unplaced-762_560	560	correct
+2902547	2903565	1019	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-764_1019	100.0		True
+CONTIG	unplaced-764_1019	1019	correct
+98484	99111	1	628	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-766_628	100.0		True
+CONTIG	unplaced-766_628	628	correct
+5390898	5391716	1	819	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-768_819	100.0		True
+CONTIG	unplaced-768_819	819	correct
+4226632	4242481	1	15850	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-769_15850	100.0		True
+CONTIG	unplaced-769_15850	15850	correct
+570758	575497	4740	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-770_4740	100.0		True
+CONTIG	unplaced-770_4740	4740	correct
+1944265	1948694	1	4430	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-771_4430	100.0		True
+CONTIG	unplaced-771_4430	4430	correct
+937803	940626	2824	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-772_2824	100.0		True
+CONTIG	unplaced-772_2824	2824	correct
+604378	612854	8477	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-773_8477	100.0		True
+CONTIG	unplaced-773_8477	8477	correct
+CONTIG	unplaced-775_20983	20983	unaligned
+1856558	1866810	10253	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-776_10253	100.0		True
+CONTIG	unplaced-776_10253	10253	correct
+103090	110374	1	7285	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-777_7285	100.0		True
+CONTIG	unplaced-777_7285	7285	correct
+2186222	2192996	1	6775	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-778_6775	100.0		True
+CONTIG	unplaced-778_6775	6775	correct
+3725176	3734771	9596	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-779_9596	100.0		True
+CONTIG	unplaced-779_9596	9596	correct
+3578578	3595782	1	17205	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-783_17205	100.0		True
+CONTIG	unplaced-783_17205	17205	correct
+336363	337160	798	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-784_798	100.0		True
+CONTIG	unplaced-784_798	798	correct
+4846645	4853401	6757	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-786_6757	100.0		True
+CONTIG	unplaced-786_6757	6757	correct
+2801248	2802729	1	1482	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-787_1482	100.0		True
+CONTIG	unplaced-787_1482	1482	correct
+3969191	3969927	737	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-788_737	100.0		True
+CONTIG	unplaced-788_737	737	correct
+414330	415511	1	1182	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-790_1182	100.0		True
+CONTIG	unplaced-790_1182	1182	correct
+378227	380699	2473	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-791_2473	100.0		True
+CONTIG	unplaced-791_2473	2473	correct
+188643	197140	8498	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-792_8498	100.0		True
+CONTIG	unplaced-792_8498	8498	correct
+5185144	5205133	19990	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-793_19990	100.0		True
+CONTIG	unplaced-793_19990	19990	correct
+4690369	4694925	1	4557	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-794_4557	100.0		True
+CONTIG	unplaced-794_4557	4557	correct
+4530564	4541236	1	10673	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-795_10673	100.0		True
+CONTIG	unplaced-795_10673	10673	correct
+275953	279334	1	3382	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-796_3382	100.0		True
+CONTIG	unplaced-796_3382	3382	correct
+2994846	2997982	3137	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-798_3137	100.0		True
+CONTIG	unplaced-798_3137	3137	correct
+964393	968257	1	3865	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-800_3865	100.0		True
+CONTIG	unplaced-800_3865	3865	correct
+2859026	2861378	2353	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-801_2353	100.0		True
+CONTIG	unplaced-801_2353	2353	correct
+5368460	5369218	1	759	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-803_759	100.0		True
+CONTIG	unplaced-803_759	759	correct
+1499545	1501132	1	1588	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-804_1588	100.0		True
+CONTIG	unplaced-804_1588	1588	correct
+1720051	1722051	1	2001	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-805_2001	100.0		True
+CONTIG	unplaced-805_2001	2001	correct
+495581	504766	1	9186	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-806_9186	100.0		True
+CONTIG	unplaced-806_9186	9186	correct
+4495966	4510474	14509	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-807_14509	100.0		True
+CONTIG	unplaced-807_14509	14509	correct
+2197477	2210627	1	13151	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-808_13151	100.0		True
+CONTIG	unplaced-808_13151	13151	correct
+2037129	2041220	1	4092	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-809_4092	100.0		True
+CONTIG	unplaced-809_4092	4092	correct
+3772441	3783925	11485	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-810_11485	100.0		True
+CONTIG	unplaced-810_11485	11485	correct
+2399651	2403538	1	3888	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-811_3888	100.0		True
+CONTIG	unplaced-811_3888	3888	correct
+4418529	4420823	2295	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-813_2295	100.0		True
+CONTIG	unplaced-813_2295	2295	correct
+1294914	1295922	1	1009	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-815_1009	100.0		True
+CONTIG	unplaced-815_1009	1009	correct
+CONTIG	unplaced-816_1471	1471	unaligned
+256501	263038	6538	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-819_6538	100.0		True
+CONTIG	unplaced-819_6538	6538	correct
+2652020	2654318	2299	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-820_2299	100.0		True
+CONTIG	unplaced-820_2299	2299	correct
+3509914	3511465	1	1552	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-822_1552	100.0		True
+CONTIG	unplaced-822_1552	1552	correct
+2297568	2300759	3192	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-823_3192	100.0		True
+CONTIG	unplaced-823_3192	3192	correct
+467148	467887	1	740	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-825_740	100.0		True
+CONTIG	unplaced-825_740	740	correct
+4885619	4887559	1941	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-826_1941	100.0		True
+CONTIG	unplaced-826_1941	1941	correct
+1926018	1928124	1	2107	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-827_2107	100.0		True
+CONTIG	unplaced-827_2107	2107	correct
+891327	895152	3826	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-828_3826	100.0		True
+CONTIG	unplaced-828_3826	3826	correct
+587264	589174	1	1911	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-829_1911	100.0		True
+CONTIG	unplaced-829_1911	1911	correct
+2764303	2772619	1	8317	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-830_8317	100.0		True
+CONTIG	unplaced-830_8317	8317	correct
+1177097	1184772	1	7676	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-831_7676	100.0		True
+CONTIG	unplaced-831_7676	7676	correct
+1843708	1848764	1	5057	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-832_5057	100.0		True
+CONTIG	unplaced-832_5057	5057	correct
+2418961	2423724	1	4764	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-834_4764	100.0		True
+CONTIG	unplaced-834_4764	4764	correct
+CONTIG	unplaced-835_530	530	unaligned
+5393178	5394996	1819	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-838_1819	100.0		True
+CONTIG	unplaced-838_1819	1819	correct
+3555885	3557417	1	1533	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-839_1533	100.0		True
+CONTIG	unplaced-839_1533	1533	correct
+1586341	1600284	13944	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-840_13944	100.0		True
+CONTIG	unplaced-840_13944	13944	correct
+557573	569192	1	11620	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-841_11620	100.0		True
+CONTIG	unplaced-841_11620	11620	correct
+3291970	3296021	1	4052	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-842_4052	100.0		True
+CONTIG	unplaced-842_4052	4052	correct
+2182657	2185758	3102	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-843_3102	100.0		True
+CONTIG	unplaced-843_3102	3102	correct
+1220496	1234996	1	14501	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-844_14501	100.0		True
+CONTIG	unplaced-844_14501	14501	correct
+4200605	4206038	1	5434	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-848_5434	100.0		True
+CONTIG	unplaced-848_5434	5434	correct
+1536229	1542304	6076	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-850_6076	100.0		True
+CONTIG	unplaced-850_6076	6076	correct
+1338683	1342459	3777	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-852_3777	100.0		True
+CONTIG	unplaced-852_3777	3777	correct
+951282	953223	1	1942	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-853_1942	100.0		True
+CONTIG	unplaced-853_1942	1942	correct
+1876033	1877923	1891	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-854_1891	100.0		True
+CONTIG	unplaced-854_1891	1891	correct
+1768310	1773948	1	5639	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-855_5639	100.0		True
+CONTIG	unplaced-855_5639	5639	correct
+3871332	3874611	1	3280	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-857_3280	100.0		True
+CONTIG	unplaced-857_3280	3280	correct
+5404701	5407879	1	3179	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-861_3179	100.0		True
+CONTIG	unplaced-861_3179	3179	correct
+4762828	4770014	7187	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-862_7187	100.0		True
+CONTIG	unplaced-862_7187	7187	correct
+2268332	2269693	1362	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-864_1362	100.0		True
+CONTIG	unplaced-864_1362	1362	correct
+3826988	3833879	1	6892	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-865_6892	100.0		True
+CONTIG	unplaced-865_6892	6892	correct
+2584220	2585692	1473	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-866_1473	100.0		True
+CONTIG	unplaced-866_1473	1473	correct
+2706276	2718067	11792	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-867_11792	100.0		True
+CONTIG	unplaced-867_11792	11792	correct
+2919331	2928094	1	8764	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-868_8764	100.0		True
+CONTIG	unplaced-868_8764	8764	correct
+3028813	3035233	6421	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-869_6421	100.0		True
+CONTIG	unplaced-869_6421	6421	correct
+CONTIG	unplaced-873_7736	7736	unaligned
+5069820	5071090	1271	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-875_1271	100.0		True
+CONTIG	unplaced-875_1271	1271	correct
+1848790	1853420	4631	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-876_4631	100.0		True
+CONTIG	unplaced-876_4631	4631	correct
+1874090	1875127	1038	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-877_1038	100.0		True
+CONTIG	unplaced-877_1038	1038	correct
+2742151	2743808	1658	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-878_1658	100.0		True
+CONTIG	unplaced-878_1658	1658	correct
+2440496	2442761	2266	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-881_2266	100.0		True
+CONTIG	unplaced-881_2266	2266	correct
+1970855	1971488	634	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-882_634	100.0		True
+CONTIG	unplaced-882_634	634	correct
+3601569	3609807	1	8239	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-884_8239	100.0		True
+CONTIG	unplaced-884_8239	8239	correct
+3334718	3337979	1	3262	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-885_3262	100.0		True
+CONTIG	unplaced-885_3262	3262	correct
+4761247	4762064	818	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-886_818	100.0		True
+CONTIG	unplaced-886_818	818	correct
+CONTIG	unplaced-887_1156	1156	unaligned
+3541442	3554049	12608	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-888_12608	100.0		True
+CONTIG	unplaced-888_12608	12608	correct
+5360960	5362554	1	1595	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-889_1595	100.0		True
+CONTIG	unplaced-889_1595	1595	correct
+2855956	2858956	1	3001	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-890_3001	100.0		True
+CONTIG	unplaced-890_3001	3001	correct
+2891362	2895818	1	4457	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-891_4457	100.0		True
+CONTIG	unplaced-891_4457	4457	correct
+3378998	3381810	2813	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-893_2813	100.0		True
+CONTIG	unplaced-893_2813	2813	correct
+253408	256635	3228	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-896_3228	100.0		True
+CONTIG	unplaced-896_3228	3228	correct
+4689789	4690494	1	706	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-899_706	100.0		True
+CONTIG	unplaced-899_706	706	correct
+834224	843831	9608	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-900_9608	100.0		True
+CONTIG	unplaced-900_9608	9608	correct
+4001080	4002742	1663	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-902_1663	100.0		True
+CONTIG	unplaced-902_1663	1663	correct
+2720993	2723797	1	2805	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-905_2805	100.0		True
+CONTIG	unplaced-905_2805	2805	correct
+1534766	1535373	1	608	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-906_608	100.0		True
+CONTIG	unplaced-906_608	608	correct
+388698	399336	10639	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-907_10639	100.0		True
+CONTIG	unplaced-907_10639	10639	correct
+2805627	2809437	3811	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-912_3811	100.0		True
+CONTIG	unplaced-912_3811	3811	correct
+1112612	1117207	1	4596	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-915_4596	100.0		True
+CONTIG	unplaced-915_4596	4596	correct
+4411152	4415999	4848	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-916_4848	100.0		True
+CONTIG	unplaced-916_4848	4848	correct
+1972611	1977228	4618	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-917_4618	100.0		True
+CONTIG	unplaced-917_4618	4618	correct
+3046557	3068069	1	21513	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-918_21513	100.0		True
+CONTIG	unplaced-918_21513	21513	correct
+2809445	2814808	5364	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-919_5364	100.0		True
+CONTIG	unplaced-919_5364	5364	correct
+4400813	4401966	1154	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-920_1154	100.0		True
+CONTIG	unplaced-920_1154	1154	correct
+1085239	1087932	2694	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-922_2694	100.0		True
+CONTIG	unplaced-922_2694	2694	correct
+1006471	1011483	1	5014	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-923_5014	99.98		True
+CONTIG	unplaced-923_5014	5014	correct
+4544504	4559780	1	15277	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-924_15277	100.0		True
+CONTIG	unplaced-924_15277	15277	correct
+5214693	5216115	1	1423	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-926_1423	100.0		True
+CONTIG	unplaced-926_1423	1423	correct
+1119227	1121000	1	1774	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-928_1774	100.0		True
+CONTIG	unplaced-928_1774	1774	correct
+2916899	2917762	864	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-930_864	100.0		True
+CONTIG	unplaced-930_864	864	correct
+4932508	4934691	2184	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-931_2184	100.0		True
+CONTIG	unplaced-931_2184	2184	correct
+2132522	2135689	1	3168	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-934_3168	100.0		True
+CONTIG	unplaced-934_3168	3168	correct
+CONTIG	unplaced-935_1561	1561	unaligned
+4636888	4637523	1	636	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-936_636	100.0		True
+CONTIG	unplaced-936_636	636	correct
+2852931	2854995	1	2065	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-938_2065	100.0		True
+CONTIG	unplaced-938_2065	2065	correct
+167910	175240	7331	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-939_7331	100.0		True
+CONTIG	unplaced-939_7331	7331	correct
+2136596	2141596	1	5001	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-942_5001	100.0		True
+CONTIG	unplaced-942_5001	5001	correct
+911860	913748	1	1889	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-943_1889	100.0		True
+CONTIG	unplaced-943_1889	1889	correct
+4782167	4785272	1	3106	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-944_3106	100.0		True
+CONTIG	unplaced-944_3106	3106	correct
+920446	922592	2147	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-945_2147	100.0		True
+CONTIG	unplaced-945_2147	2147	correct
+3520987	3521853	1	867	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-946_867	100.0		True
+CONTIG	unplaced-946_867	867	correct
+1804770	1805593	824	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-947_824	100.0		True
+CONTIG	unplaced-947_824	824	correct
+2295396	2297044	1649	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-950_1649	100.0		True
+CONTIG	unplaced-950_1649	1649	correct
+1718224	1720055	1832	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-956_1832	100.0		True
+CONTIG	unplaced-956_1832	1832	correct
+1153183	1154556	1374	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-957_1374	100.0		True
+CONTIG	unplaced-957_1374	1374	correct
+809969	811240	1	1272	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-958_1272	100.0		True
+CONTIG	unplaced-958_1272	1272	correct
+4133275	4138073	4799	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-959_4799	100.0		True
+CONTIG	unplaced-959_4799	4799	correct
+940497	946617	6121	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-963_6121	100.0		True
+CONTIG	unplaced-963_6121	6121	correct
+806018	810095	4078	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-964_4078	100.0		True
+CONTIG	unplaced-964_4078	4078	correct
+3247837	3259396	1	11560	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-965_11560	100.0		True
+CONTIG	unplaced-965_11560	11560	correct
+780098	786709	6612	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-966_6612	100.0		True
+CONTIG	unplaced-966_6612	6612	correct
+1693269	1697604	1	4336	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-967_4336	100.0		True
+CONTIG	unplaced-967_4336	4336	correct
+2646320	2650288	1	3969	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-969_3969	100.0		True
+CONTIG	unplaced-969_3969	3969	correct
+3153567	3157396	3830	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-970_3830	100.0		True
+CONTIG	unplaced-970_3830	3830	correct
+4224783	4226611	1	1829	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-972_1829	100.0		True
+CONTIG	unplaced-972_1829	1829	correct
+4902016	4919223	17208	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-975_17208	100.0		True
+CONTIG	unplaced-975_17208	17208	correct
+2849568	2853048	3481	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-976_3481	100.0		True
+CONTIG	unplaced-976_3481	3481	correct
+CONTIG	unplaced-977_2396	2396	unaligned
+2009773	2010298	526	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-978_526	100.0		True
+CONTIG	unplaced-978_526	526	correct
+3804456	3813716	1	9261	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-979_9261	100.0		True
+CONTIG	unplaced-979_9261	9261	correct
+1420667	1430434	1	9768	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-980_9768	100.0		True
+CONTIG	unplaced-980_9768	9768	correct
+738579	739382	1	804	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-983_804	100.0		True
+CONTIG	unplaced-983_804	804	correct
+CONTIG	unplaced-984_7185	7185	unaligned
+4696545	4706194	9650	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-986_9650	100.0		True
+CONTIG	unplaced-986_9650	9650	correct
+3224868	3229728	4861	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-988_4861	100.0		True
+CONTIG	unplaced-988_4861	4861	correct
+2081050	2087459	6410	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-989_6410	100.0		True
+CONTIG	unplaced-989_6410	6410	correct
+990892	1004856	1	13965	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-990_13965	100.0		True
+CONTIG	unplaced-990_13965	13965	correct
+303680	309403	1	5724	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-991_5724	100.0		True
+CONTIG	unplaced-991_5724	5724	correct
+74324	79482	5159	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-992_5159	100.0		True
+CONTIG	unplaced-992_5159	5159	correct
+3537393	3541542	4150	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-993_4150	100.0		True
+CONTIG	unplaced-993_4150	4150	correct
+2654439	2655774	1	1336	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-994_1336	100.0		True
+CONTIG	unplaced-994_1336	1336	correct
+2021150	2022518	1369	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-995_1369	100.0		True
+CONTIG	unplaced-995_1369	1369	correct
+1855535	1856125	591	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-996_591	100.0		True
+CONTIG	unplaced-996_591	591	correct
+2047440	2071068	23629	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-999_23629	100.0		True
+CONTIG	unplaced-999_23629	23629	correct
+666930	674493	7564	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1000_7564	100.0		True
+CONTIG	unplaced-1000_7564	7564	correct
+634418	638225	1	3808	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1002_3808	100.0		True
+CONTIG	unplaced-1002_3808	3808	correct
+1391053	1400665	1	9613	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1004_9613	100.0		True
+CONTIG	unplaced-1004_9613	9613	correct
+200123	202802	2680	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1007_2680	100.0		True
+CONTIG	unplaced-1007_2680	2680	correct
+686829	703069	16241	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1008_16241	100.0		True
+CONTIG	unplaced-1008_16241	16241	correct
+968117	969170	1	1054	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1009_1054	100.0		True
+CONTIG	unplaced-1009_1054	1054	correct
+4737496	4740081	1	2586	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1010_2586	100.0		True
+CONTIG	unplaced-1010_2586	2586	correct
+2323455	2328452	4998	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1011_4998	100.0		True
+CONTIG	unplaced-1011_4998	4998	correct
+474466	476489	1	2024	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1012_2024	100.0		True
+CONTIG	unplaced-1012_2024	2024	correct
+1969110	1970983	1874	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1013_1882	100.0		True
+CONTIG	unplaced-1013_1882	1882	correct
+5172509	5173433	925	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1016_925	99.89		True
+CONTIG	unplaced-1016_925	925	correct
+1039931	1043053	3123	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1017_3123	100.0		True
+CONTIG	unplaced-1017_3123	3123	correct
+2465962	2469273	1	3312	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1020_3312	100.0		True
+CONTIG	unplaced-1020_3312	3312	correct
+175121	178693	1	3573	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1021_3573	100.0		True
+CONTIG	unplaced-1021_3573	3573	correct
+1511384	1512509	1126	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1022_1126	100.0		True
+CONTIG	unplaced-1022_1126	1126	correct
+1137801	1139725	1	1925	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1023_1925	100.0		True
+CONTIG	unplaced-1023_1925	1925	correct
+2158014	2160964	2951	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1024_2951	100.0		True
+CONTIG	unplaced-1024_2951	2951	correct
+5248810	5257548	1	8739	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1027_8739	100.0		True
+CONTIG	unplaced-1027_8739	8739	correct
+3979414	3980722	1309	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1029_1309	100.0		True
+CONTIG	unplaced-1029_1309	1309	correct
+2604815	2608003	1	3189	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1030_3189	100.0		True
+CONTIG	unplaced-1030_3189	3189	correct
+2154270	2157679	1	3410	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1032_3410	100.0		True
+CONTIG	unplaced-1032_3410	3410	correct
+4033813	4036298	2486	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1033_2486	100.0		True
+CONTIG	unplaced-1033_2486	2486	correct
+2509859	2513481	1	3623	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1035_3623	100.0		True
+CONTIG	unplaced-1035_3623	3623	correct
+4422483	4429629	7147	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1038_7147	100.0		True
+CONTIG	unplaced-1038_7147	7147	correct
+913625	920566	6942	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1040_6942	100.0		True
+CONTIG	unplaced-1040_6942	6942	correct
+2609708	2619917	1	10210	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1041_10210	100.0		True
+CONTIG	unplaced-1041_10210	10210	correct
+1475668	1484011	1	8344	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1042_8344	100.0		True
+CONTIG	unplaced-1042_8344	8344	correct
+3473827	3474419	593	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1044_593	100.0		True
+CONTIG	unplaced-1044_593	593	correct
+1895954	1896746	793	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1045_793	100.0		True
+CONTIG	unplaced-1045_793	793	correct
+2935315	2936656	1	1342	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1046_1342	100.0		True
+CONTIG	unplaced-1046_1342	1342	correct
+1941505	1942532	1	1028	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1047_1028	100.0		True
+CONTIG	unplaced-1047_1028	1028	correct
+3424899	3427855	1	2957	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1048_2957	100.0		True
+CONTIG	unplaced-1048_2957	2957	correct
+3682113	3683432	1	1320	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1050_1320	100.0		True
+CONTIG	unplaced-1050_1320	1320	correct
+2903452	2905795	1	2344	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1051_2344	100.0		True
+CONTIG	unplaced-1051_2344	2344	correct
+3434084	3446795	12712	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1052_12712	100.0		True
+CONTIG	unplaced-1052_12712	12712	correct
+4879390	4885762	1	6373	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1053_6373	100.0		True
+CONTIG	unplaced-1053_6373	6373	correct
+3683460	3697652	1	14193	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1055_14193	99.99		True
+CONTIG	unplaced-1055_14193	14193	correct
+4363638	4371868	1	8231	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1059_8231	100.0		True
+CONTIG	unplaced-1059_8231	8231	correct
+111824	112958	1	1135	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1061_1135	100.0		True
+CONTIG	unplaced-1061_1135	1135	correct
+4563639	4582389	18751	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1062_18751	100.0		True
+CONTIG	unplaced-1062_18751	18751	correct
+575360	587190	11831	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1065_11831	100.0		True
+CONTIG	unplaced-1065_11831	11831	correct
+1501290	1502598	1	1309	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1067_1309	100.0		True
+CONTIG	unplaced-1067_1309	1309	correct
+2895847	2901716	1	5870	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1069_5870	100.0		True
+CONTIG	unplaced-1069_5870	5870	correct
+4342540	4363772	21233	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1070_21233	100.0		True
+CONTIG	unplaced-1070_21233	21233	correct
+5117803	5119513	1	1711	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1071_1711	100.0		True
+CONTIG	unplaced-1071_1711	1711	correct
+5446396	5451846	5451	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1075_5451	100.0		True
+CONTIG	unplaced-1075_5451	5451	correct
+5126331	5130829	4499	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1076_4499	100.0		True
+CONTIG	unplaced-1076_4499	4499	correct
+3919820	3920968	1149	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1077_1149	100.0		True
+CONTIG	unplaced-1077_1149	1149	correct
+2912035	2914911	1	2877	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1078_2877	100.0		True
+CONTIG	unplaced-1078_2877	2877	correct
+1556479	1557805	1327	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1079_1327	100.0		True
+CONTIG	unplaced-1079_1327	1327	correct
+3452665	3463792	1	11128	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1080_11128	100.0		True
+CONTIG	unplaced-1080_11128	11128	correct
+4022973	4026940	3968	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1081_3968	100.0		True
+CONTIG	unplaced-1081_3968	3968	correct
+437191	449125	11935	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1084_11935	100.0		True
+CONTIG	unplaced-1084_11935	11935	correct
+5092994	5096528	3535	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1085_3535	100.0		True
+CONTIG	unplaced-1085_3535	3535	correct
+3721325	3724228	2904	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1086_2904	100.0		True
+CONTIG	unplaced-1086_2904	2904	correct
+4919091	4922397	3307	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1089_3307	100.0		True
+CONTIG	unplaced-1089_3307	3307	correct
+2738185	2742258	4074	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1091_4074	100.0		True
+CONTIG	unplaced-1091_4074	4074	correct
+399323	403333	4011	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1092_4011	100.0		True
+CONTIG	unplaced-1092_4011	4011	correct
+1930735	1931479	1	745	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1094_745	100.0		True
+CONTIG	unplaced-1094_745	745	correct
+CONTIG	unplaced-1095_1900	1900	unaligned
+5303700	5304719	1020	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1098_1020	100.0		True
+CONTIG	unplaced-1098_1020	1020	correct
+1487460	1497505	10046	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1099_10046	100.0		True
+CONTIG	unplaced-1099_10046	10046	correct
+3381799	3383513	1	1715	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1100_1715	100.0		True
+CONTIG	unplaced-1100_1715	1715	correct
+3338329	3340218	1	1890	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1101_1890	100.0		True
+CONTIG	unplaced-1101_1890	1890	correct
+1828595	1830113	1	1519	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1102_1519	100.0		True
+CONTIG	unplaced-1102_1519	1519	correct
+2645651	2646465	1	815	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1104_815	100.0		True
+CONTIG	unplaced-1104_815	815	correct
+2249655	2253400	1	3746	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1105_3746	100.0		True
+CONTIG	unplaced-1105_3746	3746	correct
+2118233	2119903	1671	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1106_1671	100.0		True
+CONTIG	unplaced-1106_1671	1671	correct
+1271554	1272301	748	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1107_748	100.0		True
+CONTIG	unplaced-1107_748	748	correct
+2659473	2661164	1	1692	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1109_1692	100.0		True
+CONTIG	unplaced-1109_1692	1692	correct
+2799805	2801211	1	1407	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1110_1407	100.0		True
+CONTIG	unplaced-1110_1407	1407	correct
+2657509	2659594	2086	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1111_2086	100.0		True
+CONTIG	unplaced-1111_2086	2086	correct
+2786891	2789628	2738	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1112_2738	100.0		True
+CONTIG	unplaced-1112_2738	2738	correct
+3218619	3224887	6269	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1113_6269	100.0		True
+CONTIG	unplaced-1113_6269	6269	correct
+3340679	3353152	12474	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1115_12474	100.0		True
+CONTIG	unplaced-1115_12474	12474	correct
+2108666	2112444	1	3779	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1116_3779	100.0		True
+CONTIG	unplaced-1116_3779	3779	correct
+2018626	2021223	2598	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1117_2598	100.0		True
+CONTIG	unplaced-1117_2598	2598	correct
+2966174	2966885	712	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1119_712	100.0		True
+CONTIG	unplaced-1119_712	712	correct
+1866837	1867464	628	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1120_628	100.0		True
+CONTIG	unplaced-1120_628	628	correct
+5271729	5290716	18988	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1121_18988	100.0		True
+CONTIG	unplaced-1121_18988	18988	correct
+979494	984519	5026	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1122_5026	100.0		True
+CONTIG	unplaced-1122_5026	5026	correct
+955378	964541	1	9164	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1123_9164	100.0		True
+CONTIG	unplaced-1123_9164	9164	correct
+638084	651693	1	13610	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1126_13610	100.0		True
+CONTIG	unplaced-1126_13610	13610	correct
+2755050	2764437	9388	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1127_9388	100.0		True
+CONTIG	unplaced-1127_9388	9388	correct
+3660498	3661635	1138	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1130_1138	100.0		True
+CONTIG	unplaced-1130_1138	1138	correct
+1187263	1201982	1	14720	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1131_14720	100.0		True
+CONTIG	unplaced-1131_14720	14720	correct
+202786	203309	524	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1132_524	100.0		True
+CONTIG	unplaced-1132_524	524	correct
+707973	709755	1	1783	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1134_1783	100.0		True
+CONTIG	unplaced-1134_1783	1783	correct
+1942485	1943727	1	1243	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1135_1243	100.0		True
+CONTIG	unplaced-1135_1243	1243	correct
+4982288	4983117	1	830	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1137_830	100.0		True
+CONTIG	unplaced-1137_830	830	correct
+1948672	1958854	10184	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1139_10184	99.99		True
+CONTIG	unplaced-1139_10184	10184	correct
+3735033	3738028	1	2996	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1140_2996	100.0		True
+CONTIG	unplaced-1140_2996	2996	correct
+316305	329624	1	13320	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1142_13320	100.0		True
+CONTIG	unplaced-1142_13320	13320	correct
+1295958	1296528	1	571	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1144_571	100.0		True
+CONTIG	unplaced-1144_571	571	correct
+2272904	2277258	1	4355	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1145_4355	100.0		True
+CONTIG	unplaced-1145_4355	4355	correct
+948569	951430	2862	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1147_2862	100.0		True
+CONTIG	unplaced-1147_2862	2862	correct
+3741595	3742750	1156	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1148_1156	100.0		True
+CONTIG	unplaced-1148_1156	1156	correct
+2296905	2297699	1	795	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1149_795	100.0		True
+CONTIG	unplaced-1149_795	795	correct
+659232	659911	1	680	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1152_680	100.0		True
+CONTIG	unplaced-1152_680	680	correct
+1450142	1453059	1	2918	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1153_2918	100.0		True
+CONTIG	unplaced-1153_2918	2918	correct
+1254789	1262926	1	8138	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1154_8138	100.0		True
+CONTIG	unplaced-1154_8138	8138	correct
+522564	526934	4371	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1155_4371	100.0		True
+CONTIG	unplaced-1155_4371	4371	correct
+5373684	5381822	1	8139	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1157_8139	100.0		True
+CONTIG	unplaced-1157_8139	8139	correct
+2269683	2272914	1	3232	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1159_3232	100.0		True
+CONTIG	unplaced-1159_3232	3232	correct
+1108153	1112727	1	4575	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1160_4575	100.0		True
+CONTIG	unplaced-1160_4575	4575	correct
+536850	542601	5752	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1161_5752	100.0		True
+CONTIG	unplaced-1161_5752	5752	correct
+1848676	1848761	877	962	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1162_962	100.0		True
+CONTIG	unplaced-1162_962	962	correct_unaligned
+4853256	4863566	1	10311	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1163_10311	100.0		True
+CONTIG	unplaced-1163_10311	10311	correct
+3738046	3741713	3668	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1164_3668	100.0		True
+CONTIG	unplaced-1164_3668	3668	correct
+4205962	4224779	18818	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1165_18818	100.0		True
+CONTIG	unplaced-1165_18818	18818	correct
+293893	299941	6049	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1166_6049	100.0		True
+CONTIG	unplaced-1166_6049	6049	correct
+4619474	4625611	6138	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1167_6138	99.98		True
+CONTIG	unplaced-1167_6138	6138	correct
+2192972	2196614	1	3643	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1168_3643	100.0		True
+CONTIG	unplaced-1168_3643	3643	correct
+1889149	1891768	1	2620	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1169_2620	100.0		True
+CONTIG	unplaced-1169_2620	2620	correct
+4981745	4982284	1	540	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1170_540	100.0		True
+CONTIG	unplaced-1170_540	540	correct
+2817099	2818225	1127	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1171_1127	100.0		True
+CONTIG	unplaced-1171_1127	1127	correct
+1507432	1508765	1334	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1172_1334	100.0		True
+CONTIG	unplaced-1172_1334	1334	correct
+1723329	1730232	1	6904	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1173_6904	100.0		True
+CONTIG	unplaced-1173_6904	6904	correct
+5296896	5300104	3209	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1174_3209	100.0		True
+CONTIG	unplaced-1174_3209	3209	correct
+293017	294003	987	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1177_987	100.0		True
+CONTIG	unplaced-1177_987	987	correct
+3039740	3046668	6929	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1178_6929	100.0		True
+CONTIG	unplaced-1178_6929	6929	correct
+2789488	2792095	1	2608	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1179_2608	100.0		True
+CONTIG	unplaced-1179_2608	2608	correct
+1083877	1084786	1	910	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1180_910	100.0		True
+CONTIG	unplaced-1180_910	910	correct
+2772607	2781699	9093	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1181_9093	100.0		True
+CONTIG	unplaced-1181_9093	9093	correct
+CONTIG	unplaced-1183_2265	2265	unaligned
+3844011	3849780	5770	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1185_5770	100.0		True
+CONTIG	unplaced-1185_5770	5770	correct
+5215981	5218512	1	2532	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1187_2532	100.0		True
+CONTIG	unplaced-1187_2532	2532	correct
+CONTIG	unplaced-1188_879	879	unaligned
+371076	375057	3982	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1189_3982	100.0		True
+CONTIG	unplaced-1189_3982	3982	correct
+5160264	5172649	12386	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1190_12386	100.0		True
+CONTIG	unplaced-1190_12386	12386	correct
+2964447	2966305	1	1859	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1193_1859	100.0		True
+CONTIG	unplaced-1193_1859	1859	correct
+1963650	1966478	2830	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1194_2830	99.96		True
+CONTIG	unplaced-1194_2830	2830	correct
+4339662	4342654	2993	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1196_2993	100.0		True
+CONTIG	unplaced-1196_2993	2993	correct
+4296605	4306106	1	9502	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1199_9502	100.0		True
+CONTIG	unplaced-1199_9502	9502	correct
+595504	599697	4194	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1200_4194	100.0		True
+CONTIG	unplaced-1200_4194	4194	correct
+1264723	1265260	1	538	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1201_538	100.0		True
+CONTIG	unplaced-1201_538	538	correct
+2559719	2566159	1	6441	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1203_6441	100.0		True
+CONTIG	unplaced-1203_6441	6441	correct
+3101767	3106873	1	5107	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1206_5107	100.0		True
+CONTIG	unplaced-1206_5107	5107	correct
+3867946	3871147	3202	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1208_3202	100.0		True
+CONTIG	unplaced-1208_3202	3202	correct
+1925267	1925834	1	568	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1209_568	100.0		True
+CONTIG	unplaced-1209_568	568	correct
+4973483	4975532	2050	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1210_2050	100.0		True
+CONTIG	unplaced-1210_2050	2050	correct
+1808540	1809501	962	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1211_962	100.0		True
+CONTIG	unplaced-1211_962	962	correct
+3340148	3340682	1	535	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1212_536	100.0		True
+CONTIG	unplaced-1212_536	536	correct
+1120858	1127291	6434	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1213_6434	100.0		True
+CONTIG	unplaced-1213_6434	6434	correct
+4927073	4929075	2003	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1214_2003	100.0		True
+CONTIG	unplaced-1214_2003	2003	correct
+4785149	4793548	1	8400	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1216_8400	100.0		True
+CONTIG	unplaced-1216_8400	8400	correct
+3207177	3213989	6813	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1218_6813	100.0		True
+CONTIG	unplaced-1218_6813	6813	correct
+1731985	1732493	1	509	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1221_509	100.0		True
+CONTIG	unplaced-1221_509	509	correct
+2174852	2182678	7827	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1222_7827	100.0		True
+CONTIG	unplaced-1222_7827	7827	correct
+1749898	1752677	1	2780	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1223_2780	100.0		True
+CONTIG	unplaced-1223_2780	2780	correct
+4724275	4726966	1	2692	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1224_2692	100.0		True
+CONTIG	unplaced-1224_2692	2692	correct
+825103	834216	9114	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1225_9114	100.0		True
+CONTIG	unplaced-1225_9114	9114	correct
+612723	619876	7154	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1226_7154	100.0		True
+CONTIG	unplaced-1226_7154	7154	correct
+2328337	2332855	1	4519	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1227_4519	100.0		True
+CONTIG	unplaced-1227_4519	4519	correct
+4129027	4133402	4376	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1228_4376	100.0		True
+CONTIG	unplaced-1228_4376	4376	correct
+3299197	3309026	9830	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1229_9830	100.0		True
+CONTIG	unplaced-1229_9830	9830	correct
+1445933	1448793	1	2861	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1230_2861	100.0		True
+CONTIG	unplaced-1230_2861	2861	correct
+137340	138225	1	886	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1232_886	100.0		True
+CONTIG	unplaced-1232_886	886	correct
+468713	474451	5739	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1233_5739	100.0		True
+CONTIG	unplaced-1233_5739	5739	correct
+2301697	2310406	8710	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1235_8710	100.0		True
+CONTIG	unplaced-1235_8710	8710	correct
+3259373	3265887	1	6515	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1237_6515	100.0		True
+CONTIG	unplaced-1237_6515	6515	correct
+2376726	2380097	1	3372	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1238_3372	100.0		True
+CONTIG	unplaced-1238_3372	3372	correct
+3959576	3966708	1	7133	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1239_7133	100.0		True
+CONTIG	unplaced-1239_7133	7133	correct
+520531	522699	2169	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1240_2169	100.0		True
+CONTIG	unplaced-1240_2169	2169	correct
+569168	570724	1557	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1241_1557	100.0		True
+CONTIG	unplaced-1241_1557	1557	correct
+1836366	1843654	7289	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1242_7289	100.0		True
+CONTIG	unplaced-1242_7289	7289	correct
+1713112	1714827	1	1716	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1243_1716	100.0		True
+CONTIG	unplaced-1243_1716	1716	correct
+1046569	1047315	747	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1246_747	100.0		True
+CONTIG	unplaced-1246_747	747	correct
+1995975	1998556	1	2582	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1247_2582	100.0		True
+CONTIG	unplaced-1247_2582	2582	correct
+3384252	3389130	1	4879	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1248_4879	100.0		True
+CONTIG	unplaced-1248_4879	4879	correct
+2743788	2744530	743	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1249_743	100.0		True
+CONTIG	unplaced-1249_743	743	correct
+1324899	1338681	1	13783	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1255_13783	100.0		True
+CONTIG	unplaced-1255_13783	13783	correct
+1084673	1085359	687	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1258_687	100.0		True
+CONTIG	unplaced-1258_687	687	correct
+4182446	4184754	2309	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1260_2309	100.0		True
+CONTIG	unplaced-1260_2309	2309	correct
+2966875	2970669	1	3795	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1262_3795	100.0		True
+CONTIG	unplaced-1262_3795	3795	correct
+2698462	2701377	1	2916	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1263_2916	100.0		True
+CONTIG	unplaced-1263_2916	2916	correct
+1818958	1822391	1	3434	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1265_3434	100.0		True
+CONTIG	unplaced-1265_3434	3434	correct
+3100722	3101901	1180	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1266_1180	100.0		True
+CONTIG	unplaced-1266_1180	1180	correct
+2582656	2583633	1	978	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1268_978	100.0		True
+CONTIG	unplaced-1268_978	978	correct
+1880259	1881135	1	877	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1269_877	100.0		True
+CONTIG	unplaced-1269_877	877	correct
+CONTIG	unplaced-1271_10870	10870	unaligned
+681506	684231	2726	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1272_2726	100.0		True
+CONTIG	unplaced-1272_2726	2726	correct
+1853521	1854670	1150	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1273_1150	100.0		True
+CONTIG	unplaced-1273_1150	1150	correct
+2750223	2750846	624	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1275_624	100.0		True
+CONTIG	unplaced-1275_624	624	correct
+5369231	5370149	1	919	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1276_919	100.0		True
+CONTIG	unplaced-1276_919	919	correct
+3358711	3364022	5312	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1277_5312	100.0		True
+CONTIG	unplaced-1277_5312	5312	correct
+3236597	3247960	1	11364	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1278_11364	100.0		True
+CONTIG	unplaced-1278_11364	11364	correct
+CONTIG	unplaced-1279_6143	6143	unaligned
+2864640	2865207	568	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1280_568	100.0		True
+CONTIG	unplaced-1280_568	568	correct
+5018557	5032788	1	14232	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1281_14232	100.0		True
+CONTIG	unplaced-1281_14232	14232	correct
+4393684	4400924	1	7241	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1283_7241	100.0		True
+CONTIG	unplaced-1283_7241	7241	correct
+5305339	5327462	1	22124	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1284_22124	100.0		True
+CONTIG	unplaced-1284_22124	22124	correct
+4971944	4972695	752	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1285_752	100.0		True
+CONTIG	unplaced-1285_752	752	correct
+3449083	3452676	1	3594	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1290_3594	100.0		True
+CONTIG	unplaced-1290_3594	3594	correct
+2948418	2962783	14366	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1291_14366	100.0		True
+CONTIG	unplaced-1291_14366	14366	correct
+628778	634530	1	5753	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1292_5753	100.0		True
+CONTIG	unplaced-1292_5753	5753	correct
+5073207	5082389	9183	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1294_9183	100.0		True
+CONTIG	unplaced-1294_9183	9183	correct
+5413448	5426383	12936	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1296_12936	100.0		True
+CONTIG	unplaced-1296_12936	12936	correct
+4681450	4686152	4703	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1297_4703	100.0		True
+CONTIG	unplaced-1297_4703	4703	correct
+1687513	1688229	717	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1299_717	100.0		True
+CONTIG	unplaced-1299_717	717	correct
+1088050	1107552	1	19503	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1304_19503	100.0		True
+CONTIG	unplaced-1304_19503	19503	correct
+1159771	1167947	1	8177	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1306_8177	100.0		True
+CONTIG	unplaced-1306_8177	8177	correct
+2476062	2477658	1	1597	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1307_1597	100.0		True
+CONTIG	unplaced-1307_1597	1597	correct
+3009673	3010866	1	1194	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1308_1194	100.0		True
+CONTIG	unplaced-1308_1194	1194	correct
+2890994	2891507	514	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1310_514	100.0		True
+CONTIG	unplaced-1310_514	514	correct
+4866519	4867077	559	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1311_559	100.0		True
+CONTIG	unplaced-1311_559	559	correct
+CONTIG	unplaced-1312_519	519	unaligned
+3413367	3425035	1	11669	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1313_11669	100.0		True
+CONTIG	unplaced-1313_11669	11669	correct
+1253738	1254854	1117	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1315_1117	100.0		True
+CONTIG	unplaced-1315_1117	1117	correct
+2580289	2582635	2347	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1316_2347	100.0		True
+CONTIG	unplaced-1316_2347	2347	correct
+1430551	1445796	15246	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1317_15246	100.0		True
+CONTIG	unplaced-1317_15246	15246	correct
+3813728	3822881	1	9154	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1319_9154	100.0		True
+CONTIG	unplaced-1319_9154	9154	correct
+CONTIG	unplaced-1320_17630	17630	unaligned
+1549117	1552176	1	3060	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1323_3060	100.0		True
+CONTIG	unplaced-1323_3060	3060	correct
+1130039	1137759	7721	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1325_7721	100.0		True
+CONTIG	unplaced-1325_7721	7721	correct
+4306096	4311613	5518	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1326_5518	100.0		True
+CONTIG	unplaced-1326_5518	5518	correct
+2727861	2733435	1	5575	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1327_5575	100.0		True
+CONTIG	unplaced-1327_5575	5575	correct
+1071454	1084010	12557	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1328_12557	100.0		True
+CONTIG	unplaced-1328_12557	12557	correct
+1250635	1253877	3243	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1329_3243	100.0		True
+CONTIG	unplaced-1329_3243	3243	correct
+299822	303647	3826	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1330_3826	100.0		True
+CONTIG	unplaced-1330_3826	3826	correct
+2475306	2476195	1	890	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1331_890	100.0		True
+CONTIG	unplaced-1331_890	890	correct
+815121	816355	1	1235	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1332_1235	100.0		True
+CONTIG	unplaced-1332_1235	1235	correct
+4635791	4636936	1146	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1333_1146	100.0		True
+CONTIG	unplaced-1333_1146	1146	correct
+CONTIG	unplaced-1334_3139	3139	unaligned
+2283913	2291598	7686	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1336_7686	100.0		True
+CONTIG	unplaced-1336_7686	7686	correct
+1907142	1914002	1	6861	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1337_6861	100.0		True
+CONTIG	unplaced-1337_6861	6861	correct
+4434805	4440850	6046	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1340_6046	100.0		True
+CONTIG	unplaced-1340_6046	6046	correct
+2120745	2125454	4710	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1341_4710	100.0		True
+CONTIG	unplaced-1341_4710	4710	correct
+4652348	4658855	6508	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1344_6508	100.0		True
+CONTIG	unplaced-1344_6508	6508	correct
+2814996	2817207	2212	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1345_2212	100.0		True
+CONTIG	unplaced-1345_2212	2212	correct
+922612	928158	1	5547	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1348_5547	100.0		True
+CONTIG	unplaced-1348_5547	5547	correct
+1924345	1924992	648	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1349_648	100.0		True
+CONTIG	unplaced-1349_648	648	correct
+4464237	4479958	15722	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1350_15722	100.0		True
+CONTIG	unplaced-1350_15722	15722	correct
+CONTIG	unplaced-1351_1233	1233	unaligned
+CONTIG	unplaced-1352_5261	5261	unaligned
+3073042	3076169	3128	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1353_3128	100.0		True
+CONTIG	unplaced-1353_3128	3128	correct
+3969813	3978318	8506	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1356_8506	100.0		True
+CONTIG	unplaced-1356_8506	8506	correct
+3313933	3327949	1	14017	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1357_14017	100.0		True
+CONTIG	unplaced-1357_14017	14017	correct
+4740059	4746948	1	6890	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1358_6890	100.0		True
+CONTIG	unplaced-1358_6890	6890	correct
+3229779	3236725	1	6947	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1359_6947	100.0		True
+CONTIG	unplaced-1359_6947	6947	correct
+866099	891467	25369	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1361_25369	100.0		True
+CONTIG	unplaced-1361_25369	25369	correct
+2115650	2116161	512	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1363_512	100.0		True
+CONTIG	unplaced-1363_512	512	correct
+5183253	5185167	1915	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1367_1915	100.0		True
+CONTIG	unplaced-1367_1915	1915	correct
+4559650	4563769	4120	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1368_4120	100.0		True
+CONTIG	unplaced-1368_4120	4120	correct
+2016278	2018751	1	2474	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1369_2474	100.0		True
+CONTIG	unplaced-1369_2474	2474	correct
+5293417	5296682	3266	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1373_3266	100.0		True
+CONTIG	unplaced-1373_3266	3266	correct
+2608386	2609817	1	1432	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1374_1432	100.0		True
+CONTIG	unplaced-1374_1432	1432	correct
+674346	681621	7276	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1375_7276	100.0		True
+CONTIG	unplaced-1375_7276	7276	correct
+589067	595495	6429	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1377_6429	100.0		True
+CONTIG	unplaced-1377_6429	6429	correct
+2141629	2154385	1	12757	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1379_12757	100.0		True
+CONTIG	unplaced-1379_12757	12757	correct
+739246	745163	1	5918	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1380_5918	100.0		True
+CONTIG	unplaced-1380_5918	5918	correct
+1767380	1767880	1	501	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1381_501	100.0		True
+CONTIG	unplaced-1381_501	501	correct
+264378	274964	10587	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1383_10587	100.0		True
+CONTIG	unplaced-1383_10587	10587	correct
+3966619	3969215	1	2597	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1385_2597	100.0		True
+CONTIG	unplaced-1385_2597	2597	correct
+1034342	1035100	759	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1386_759	100.0		True
+CONTIG	unplaced-1386_759	759	correct
+4197007	4200740	1	3734	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1388_3734	100.0		True
+CONTIG	unplaced-1388_3734	3734	correct
+2538556	2548186	1	9631	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1389_9631	100.0		True
+CONTIG	unplaced-1389_9631	9631	correct
+1914867	1916469	1	1603	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1391_1603	100.0		True
+CONTIG	unplaced-1391_1603	1603	correct
+1575756	1577236	1	1481	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1393_1481	100.0		True
+CONTIG	unplaced-1393_1481	1481	correct
+203202	203903	702	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1394_702	100.0		True
+CONTIG	unplaced-1394_702	702	correct
+3894492	3911290	1	16799	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1397_16799	100.0		True
+CONTIG	unplaced-1397_16799	16799	correct
+3793764	3795521	1758	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1398_1758	100.0		True
+CONTIG	unplaced-1398_1758	1758	correct
+4748602	4750499	1898	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1399_1898	100.0		True
+CONTIG	unplaced-1399_1898	1898	correct
+5173405	5173907	1	503	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1400_503	100.0		True
+CONTIG	unplaced-1400_503	503	correct
+449010	451667	2658	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1404_2658	100.0		True
+CONTIG	unplaced-1404_2658	2658	correct
+2292871	2295541	2671	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1405_2671	100.0		True
+CONTIG	unplaced-1405_2671	2671	correct
+3409186	3410828	1643	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1407_1643	100.0		True
+CONTIG	unplaced-1407_1643	1643	correct
+415370	420625	1	5256	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1408_5256	100.0		True
+CONTIG	unplaced-1408_5256	5256	correct
+CONTIG	unplaced-1410_6112	6112	unaligned
+651747	654043	1	2297	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1411_2297	100.0		True
+CONTIG	unplaced-1411_2297	2297	correct
+5354932	5361070	1	6139	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1412_6139	100.0		True
+CONTIG	unplaced-1412_6139	6139	correct
+2210616	2211365	1	750	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1413_750	100.0		True
+CONTIG	unplaced-1413_750	750	correct
+731265	735149	1	3885	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1415_3885	100.0		True
+CONTIG	unplaced-1415_3885	3885	correct
+4985133	4987097	1965	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1418_1965	100.0		True
+CONTIG	unplaced-1418_1965	1965	correct
+4261922	4296439	34519	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1419_34519	99.99		True
+CONTIG	unplaced-1419_34519	34519	correct
+5233204	5235958	1	2755	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1421_2755	100.0		True
+CONTIG	unplaced-1421_2755	2755	correct
+2436619	2440637	1	4019	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1422_4019	100.0		True
+CONTIG	unplaced-1422_4019	4019	correct
+816957	824282	7326	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1424_7326	100.0		True
+CONTIG	unplaced-1424_7326	7326	correct
+3129277	3131187	1	1911	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1425_1911	100.0		True
+CONTIG	unplaced-1425_1911	1911	correct
+1854543	1855538	996	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1427_996	100.0		True
+CONTIG	unplaced-1427_996	996	correct
+2332935	2335835	2901	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1431_2901	100.0		True
+CONTIG	unplaced-1431_2901	2901	correct
+2974256	2982688	1	8433	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1432_8433	100.0		True
+CONTIG	unplaced-1432_8433	8433	correct
+2861534	2864775	1	3242	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1433_3242	100.0		True
+CONTIG	unplaced-1433_3242	3242	correct
+3535704	3537191	1488	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1434_1488	100.0		True
+CONTIG	unplaced-1434_1488	1488	correct
+1350647	1353361	1	2715	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1436_2715	100.0		True
+CONTIG	unplaced-1436_2715	2715	correct
+1128865	1130169	1305	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1437_1305	100.0		True
+CONTIG	unplaced-1437_1305	1305	correct
+3511413	3519512	1	8100	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1439_8100	100.0		True
+CONTIG	unplaced-1439_8100	8100	correct
+5083590	5084590	1001	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1440_1001	100.0		True
+CONTIG	unplaced-1440_1001	1001	correct
+211486	227625	1	16140	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1441_16140	100.0		True
+CONTIG	unplaced-1441_16140	16140	correct
+1712646	1713244	1	599	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1443_599	100.0		True
+CONTIG	unplaced-1443_599	599	correct
+4091938	4108419	16482	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1444_16482	100.0		True
+CONTIG	unplaced-1444_16482	16482	correct
+1834654	1836363	1710	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1445_1710	100.0		True
+CONTIG	unplaced-1445_1710	1710	correct
+87027	88903	1877	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1446_1877	100.0		True
+CONTIG	unplaced-1446_1877	1877	correct
+2837744	2844750	1	7007	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1448_7007	100.0		True
+CONTIG	unplaced-1448_7007	7007	correct
+526919	536839	1	9921	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1449_9921	100.0		True
+CONTIG	unplaced-1449_9921	9921	correct
+1697471	1703164	5694	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1450_5694	100.0		True
+CONTIG	unplaced-1450_5694	5694	correct
+3327949	3329023	1	1075	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1451_1075	100.0		True
+CONTIG	unplaced-1451_1075	1075	correct
+4371944	4380529	8586	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1452_8586	100.0		True
+CONTIG	unplaced-1452_8586	8586	correct
+CONTIG	unplaced-1453_1439	1439	unaligned
+2566152	2580276	14125	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1455_14125	100.0		True
+CONTIG	unplaced-1455_14125	14125	correct
+1383106	1384307	1202	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1457_1202	100.0		True
+CONTIG	unplaced-1457_1202	1202	correct
+121957	137480	15524	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1458_15524	100.0		True
+CONTIG	unplaced-1458_15524	15524	correct
+5426246	5435522	1	9277	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1462_9277	100.0		True
+CONTIG	unplaced-1462_9277	9277	correct
+3068048	3069740	1693	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1464_1693	100.0		True
+CONTIG	unplaced-1464_1693	1693	correct
+451542	456709	1	5168	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1466_5168	100.0		True
+CONTIG	unplaced-1466_5168	5168	correct
+3644469	3649110	1	4642	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1468_4642	100.0		True
+CONTIG	unplaced-1468_4642	4642	correct
+846540	858688	1	12149	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1471_12149	100.0		True
+CONTIG	unplaced-1471_12149	12149	correct
+5451961	5452935	1	975	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1478_975	100.0		True
+CONTIG	unplaced-1478_975	975	correct
+5436950	5445852	8903	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1479_8903	100.0		True
+CONTIG	unplaced-1479_8903	8903	correct
+4945950	4946972	1023	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1480_1023	100.0		True
+CONTIG	unplaced-1480_1023	1023	correct
+895034	911986	16953	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1482_16953	100.0		True
+CONTIG	unplaced-1482_16953	16953	correct
+4118828	4129161	10334	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1483_10334	100.0		True
+CONTIG	unplaced-1483_10334	10334	correct
+4250300	4261943	1	11644	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1488_11644	100.0		True
+CONTIG	unplaced-1488_11644	11644	correct
+4401947	4403579	1633	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1489_1633	100.0		True
+CONTIG	unplaced-1489_1633	1633	correct
+79369	85636	6268	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1490_6268	100.0		True
+CONTIG	unplaced-1490_6268	6268	correct
+30507	33241	1	2735	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1491_2735	100.0		True
+CONTIG	unplaced-1491_2735	2735	correct
+5101188	5116261	1	15074	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1492_15074	100.0		True
+CONTIG	unplaced-1492_15074	15074	correct
+4184654	4195029	1	10376	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1495_10376	100.0		True
+CONTIG	unplaced-1495_10376	10376	correct
+228913	231931	1	3019	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1496_3019	100.0		True
+CONTIG	unplaced-1496_3019	3019	correct
+143850	147580	3731	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1497_3731	100.0		True
+CONTIG	unplaced-1497_3731	3731	correct
+3164361	3170841	1	6481	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1501_6481	100.0		True
+CONTIG	unplaced-1501_6481	6481	correct
+5124235	5126472	1	2238	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1502_2238	100.0		True
+CONTIG	unplaced-1502_2238	2238	correct
+1977849	1993863	1	16015	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1504_16015	100.0		True
+CONTIG	unplaced-1504_16015	16015	correct
+2163141	2165636	1	2496	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1505_2496	100.0		True
+CONTIG	unplaced-1505_2496	2496	correct
+2026391	2036977	10587	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1506_10587	100.0		True
+CONTIG	unplaced-1506_10587	10587	correct
+179390	180094	1	705	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1507_705	100.0		True
+CONTIG	unplaced-1507_705	705	correct
+816228	817096	1	869	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1510_869	100.0		True
+CONTIG	unplaced-1510_869	869	correct
+3528065	3535842	1	7778	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1511_7778	100.0		True
+CONTIG	unplaced-1511_7778	7778	correct
+4956404	4966042	1	9639	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1516_9639	100.0		True
+CONTIG	unplaced-1516_9639	9639	correct
+1406887	1415632	8746	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1520_8746	100.0		True
+CONTIG	unplaced-1520_8746	8746	correct
+1011352	1012342	1	991	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1521_991	100.0		True
+CONTIG	unplaced-1521_991	991	correct
+4711212	4714418	1	3207	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1523_3207	100.0		True
+CONTIG	unplaced-1523_3207	3207	correct
+CONTIG	unplaced-1525_596	596	unaligned
+2125319	2127690	1	2372	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1526_2372	100.0		True
+CONTIG	unplaced-1526_2372	2372	correct
+3609695	3611185	1491	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1527_1491	100.0		True
+CONTIG	unplaced-1527_1491	1491	correct
+CONTIG	unplaced-1528_1365	1365	unaligned
+970272	979446	1	9175	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1529_9175	100.0		True
+CONTIG	unplaced-1529_9175	9175	correct
+279206	283907	4702	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1530_4702	100.0		True
+CONTIG	unplaced-1530_4702	4702	correct
+1877984	1879900	1917	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1531_1917	100.0		True
+CONTIG	unplaced-1531_1917	1917	correct
+3833748	3835368	1	1621	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1533_1621	100.0		True
+CONTIG	unplaced-1533_1621	1621	correct
+1167923	1169544	1	1622	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1534_1622	100.0		True
+CONTIG	unplaced-1534_1622	1622	correct
+1139745	1144247	4503	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1535_4503	100.0		True
+CONTIG	unplaced-1535_4503	4503	correct
+3108501	3110003	1	1503	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1538_1503	100.0		True
+CONTIG	unplaced-1538_1503	1503	correct
+3595760	3599720	1	3961	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1539_3961	100.0		True
+CONTIG	unplaced-1539_3961	3961	correct
+824321	825121	1	801	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1540_801	100.0		True
+CONTIG	unplaced-1540_801	801	correct
+4380490	4383671	3182	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1541_3182	100.0		True
+CONTIG	unplaced-1541_3182	3182	correct
+3142815	3146140	1	3326	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1542_3326	100.0		True
+CONTIG	unplaced-1542_3326	3326	correct
+4975998	4977169	1172	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1543_1172	100.0		True
+CONTIG	unplaced-1543_1172	1172	correct
+719713	721558	1	1846	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1544_1846	100.0		True
+CONTIG	unplaced-1544_1846	1846	correct
+4614218	4615116	899	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1545_899	100.0		True
+CONTIG	unplaced-1545_899	899	correct
+2918410	2919468	1059	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1546_1059	100.0		True
+CONTIG	unplaced-1546_1059	1059	correct
+1004890	1006599	1710	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1547_1710	100.0		True
+CONTIG	unplaced-1547_1710	1710	correct
+4383706	4385085	1	1380	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1548_1380	100.0		True
+CONTIG	unplaced-1548_1380	1380	correct
+2353473	2371251	1	17779	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1551_17779	100.0		True
+CONTIG	unplaced-1551_17779	17779	correct
+1688456	1693281	1	4826	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1553_4826	100.0		True
+CONTIG	unplaced-1553_4826	4826	correct
+3575637	3578712	3076	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1555_3076	100.0		True
+CONTIG	unplaced-1555_3076	3076	correct
+4668520	4671940	1	3421	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1556_3421	100.0		True
+CONTIG	unplaced-1556_3421	3421	correct
+2626266	2645617	1	19352	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1557_19352	100.0		True
+CONTIG	unplaced-1557_19352	19352	correct
+3986809	3991447	4639	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1559_4639	100.0		True
+CONTIG	unplaced-1559_4639	4639	correct
+1475278	1475797	1	520	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1560_520	100.0		True
+CONTIG	unplaced-1560_520	520	correct
+1281235	1294260	1	13026	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1561_13026	100.0		True
+CONTIG	unplaced-1561_13026	13026	correct
+1900824	1901973	1	1150	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1562_1150	100.0		True
+CONTIG	unplaced-1562_1150	1150	correct
+2797312	2799434	1	2123	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1563_2123	99.81		True
+CONTIG	unplaced-1563_2123	2123	correct
+510962	512766	1805	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1566_1805	100.0		True
+CONTIG	unplaced-1566_1805	1805	correct
+2279932	2282747	1	2816	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1571_2816	100.0		True
+CONTIG	unplaced-1571_2816	2816	correct
+274987	276059	1	1073	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1573_1073	100.0		True
+CONTIG	unplaced-1573_1073	1073	correct
+209506	210594	1	1089	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1574_1089	100.0		True
+CONTIG	unplaced-1574_1089	1089	correct
+3946954	3951269	1	4316	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1575_4316	100.0		True
+CONTIG	unplaced-1575_4316	4316	correct
+3005275	3009661	1	4387	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1578_4387	100.0		True
+CONTIG	unplaced-1578_4387	4387	correct
+66274	70580	4307	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1579_4307	100.0		True
+CONTIG	unplaced-1579_4307	4307	correct
+4429605	4434811	1	5207	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1582_5207	100.0		True
+CONTIG	unplaced-1582_5207	5207	correct
+3078590	3083065	1	4476	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1583_4476	100.0		True
+CONTIG	unplaced-1583_4476	4476	correct
+4966352	4968059	1	1708	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1584_1708	100.0		True
+CONTIG	unplaced-1584_1708	1708	correct
+3446688	3449198	2511	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1586_2511	100.0		True
+CONTIG	unplaced-1586_2511	2511	correct
+3742641	3745018	2378	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1587_2378	100.0		True
+CONTIG	unplaced-1587_2378	2378	correct
+2435190	2436726	1537	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1588_1537	100.0		True
+CONTIG	unplaced-1588_1537	1537	correct
+210464	211611	1	1148	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1591_1148	100.0		True
+CONTIG	unplaced-1591_1148	1148	correct
+858543	862140	3598	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1592_3598	100.0		True
+CONTIG	unplaced-1592_3598	3598	correct
+1784333	1785941	1609	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1593_1609	100.0		True
+CONTIG	unplaced-1593_1609	1609	correct
+703021	707993	1	4973	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1594_4973	100.0		True
+CONTIG	unplaced-1594_4973	4973	correct
+2746016	2747516	1501	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1595_1501	100.0		True
+CONTIG	unplaced-1595_1501	1501	correct
+3951290	3952152	863	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1596_863	100.0		True
+CONTIG	unplaced-1596_863	863	correct
+374925	378240	1	3316	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1597_3316	100.0		True
+CONTIG	unplaced-1597_3316	3316	correct
+4582257	4585574	1	3318	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1598_3318	100.0		True
+CONTIG	unplaced-1598_3318	3318	correct
+3835233	3838994	3762	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1599_3762	100.0		True
+CONTIG	unplaced-1599_3762	3762	correct
+5096385	5098791	1	2407	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1600_2407	100.0		True
+CONTIG	unplaced-1600_2407	2407	correct
+512900	517804	4905	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1602_4905	100.0		True
+CONTIG	unplaced-1602_4905	4905	correct
+4823738	4824768	1	1031	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1606_1031	100.0		True
+CONTIG	unplaced-1606_1031	1031	correct
+2291611	2293012	1	1402	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1608_1402	100.0		True
+CONTIG	unplaced-1608_1402	1402	correct
+735016	738622	1	3607	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1611_3607	100.0		True
+CONTIG	unplaced-1611_3607	3607	correct
+3562578	3563409	832	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1612_832	100.0		True
+CONTIG	unplaced-1612_832	832	correct
+1566008	1575896	9889	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1614_9889	100.0		True
+CONTIG	unplaced-1614_9889	9889	correct
+4109431	4114612	5182	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1617_5182	100.0		True
+CONTIG	unplaced-1617_5182	5182	correct
+1048129	1052777	4649	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1619_4649	100.0		True
+CONTIG	unplaced-1619_4649	4649	correct
+3496939	3509920	12982	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1620_12982	100.0		True
+CONTIG	unplaced-1620_12982	12982	correct
+3197458	3206746	9289	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1621_9289	100.0		True
+CONTIG	unplaced-1621_9289	9289	correct
+239110	253079	1	13970	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1625_13970	100.0		True
+CONTIG	unplaced-1625_13970	13970	correct
+3930874	3932326	1	1453	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1626_1453	100.0		True
+CONTIG	unplaced-1626_1453	1453	correct
+5362588	5368496	5909	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1627_5909	100.0		True
+CONTIG	unplaced-1627_5909	5909	correct
+5340100	5344028	3929	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1628_3929	100.0		True
+CONTIG	unplaced-1628_3929	3929	correct
+203768	209323	5556	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1630_5556	100.0		True
+CONTIG	unplaced-1630_5556	5556	correct
+2494442	2495679	1	1238	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1634_1238	100.0		True
+CONTIG	unplaced-1634_1238	1238	correct
+3849648	3856416	6769	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1635_6769	100.0		True
+CONTIG	unplaced-1635_6769	6769	correct
+4797219	4809537	12319	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1636_12319	100.0		True
+CONTIG	unplaced-1636_12319	12319	correct
+721447	728018	1	6572	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1642_6572	100.0		True
+CONTIG	unplaced-1642_6572	6572	correct
+5116275	5117768	1	1494	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1643_1494	100.0		True
+CONTIG	unplaced-1643_1494	1494	correct
+4710415	4711160	746	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1644_746	100.0		True
+CONTIG	unplaced-1644_746	746	correct
+4420927	4422151	1	1225	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1645_1225	100.0		True
+CONTIG	unplaced-1645_1225	1225	correct
+4160493	4162234	1742	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1646_1742	100.0		True
+CONTIG	unplaced-1646_1742	1742	correct
+2504168	2509982	1	5815	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1647_5815	100.0		True
+CONTIG	unplaced-1647_5815	5815	correct
+56918	59881	2964	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1648_2964	100.0		True
+CONTIG	unplaced-1648_2964	2964	correct
+4311559	4318842	1	7284	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1649_7284	100.0		True
+CONTIG	unplaced-1649_7284	7284	correct
+5257590	5266525	8936	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1650_8936	100.0		True
+CONTIG	unplaced-1650_8936	8936	correct
+619741	628871	1	9131	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1651_9131	100.0		True
+CONTIG	unplaced-1651_9131	9131	correct
+1936620	1939815	3196	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1653_3196	100.0		True
+CONTIG	unplaced-1653_3196	3196	correct
+33132	38356	5225	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1654_5225	100.0		True
+CONTIG	unplaced-1654_5225	5225	correct
+1557742	1565663	7922	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1657_7922	100.0		True
+CONTIG	unplaced-1657_7922	7922	correct
+843990	846548	2559	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1658_2559	100.0		True
+CONTIG	unplaced-1658_2559	2559	correct
+1891750	1895884	4135	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1660_4135	100.0		True
+CONTIG	unplaced-1660_4135	4135	correct
+140663	143966	3304	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1661_3304	100.0		True
+CONTIG	unplaced-1661_3304	3304	correct
+426786	436432	1	9647	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1663_9647	100.0		True
+CONTIG	unplaced-1663_9647	9647	correct
+2661601	2662680	1080	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1664_1080	100.0		True
+CONTIG	unplaced-1664_1080	1080	correct
+3328883	3331660	1	2778	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1665_2778	100.0		True
+CONTIG	unplaced-1665_2778	2778	correct
+4510384	4530653	1	20270	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1666_20270	100.0		True
+CONTIG	unplaced-1666_20270	20270	correct
+2796525	2797433	1	909	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1668_909	99.67		True
+CONTIG	unplaced-1668_909	909	correct
+936443	937804	1362	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1669_1362	100.0		True
+CONTIG	unplaced-1669_1362	1362	correct
+2087378	2093524	1	6147	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1670_6147	100.0		True
+CONTIG	unplaced-1670_6147	6147	correct
+1799394	1804788	1	5395	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1673_5395	100.0		True
+CONTIG	unplaced-1673_5395	5395	correct
+1211371	1220171	8801	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1675_8801	100.0		True
+CONTIG	unplaced-1675_8801	8801	correct
+3874493	3880971	1	6479	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1678_6479	100.0		True
+CONTIG	unplaced-1678_6479	6479	correct
+2423709	2434875	11167	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1679_11167	100.0		True
+CONTIG	unplaced-1679_11167	11167	correct
+2168522	2174968	6447	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1681_6447	100.0		True
+CONTIG	unplaced-1681_6447	6447	correct
+337026	341786	4761	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1682_4761	100.0		True
+CONTIG	unplaced-1682_4761	4761	correct
+1513676	1514214	539	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1683_539	100.0		True
+CONTIG	unplaced-1683_539	539	correct
+5327317	5333425	6109	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1684_6109	100.0		True
+CONTIG	unplaced-1684_6109	6109	correct
+4243511	4249147	5637	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1685_5637	100.0		True
+CONTIG	unplaced-1685_5637	5637	correct
+2791957	2794917	1	2961	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1687_2961	99.63		True
+CONTIG	unplaced-1687_2961	2961	correct
+1127157	1128999	1843	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1688_1843	100.0		True
+CONTIG	unplaced-1688_1843	1843	correct
+4596370	4597546	1	1177	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1690_1177	100.0		True
+CONTIG	unplaced-1690_1177	1177	correct
+3136114	3142771	1	6658	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1691_6658	100.0		True
+CONTIG	unplaced-1691_6658	6658	correct
+2928080	2935299	7220	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1693_7220	100.0		True
+CONTIG	unplaced-1693_7220	7220	correct
+3957564	3959711	1	2148	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1694_2148	100.0		True
+CONTIG	unplaced-1694_2148	2148	correct
+2982690	2994859	12170	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1695_12170	100.0		True
+CONTIG	unplaced-1695_12170	12170	correct
+1375336	1378849	1	3514	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1697_3514	100.0		True
+CONTIG	unplaced-1697_3514	3514	correct
+CONTIG	unplaced-1698_1444	1444	unaligned
+3519405	3520553	1149	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1700_1149	100.0		True
+CONTIG	unplaced-1700_1149	1149	correct
+2882811	2885275	1	2465	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1702_2465	100.0		True
+CONTIG	unplaced-1702_2465	2465	correct
+1484005	1486543	1	2539	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1703_2539	100.0		True
+CONTIG	unplaced-1703_2539	2539	correct
+1389296	1391043	1748	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1704_1748	100.0		True
+CONTIG	unplaced-1704_1748	1748	correct
+1265620	1268898	1	3279	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1708_3279	100.0		True
+CONTIG	unplaced-1708_3279	3279	correct
+4039749	4088148	1	48400	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1709_48400	100.0		True
+CONTIG	unplaced-1709_48400	48400	correct
+1732363	1741033	8671	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1710_8671	100.0		True
+CONTIG	unplaced-1710_8671	8671	correct
+4977572	4979995	2425	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1711_2425	99.96		True
+CONTIG	unplaced-1711_2425	2425	correct
+3071390	3073155	1	1766	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1712_1766	100.0		True
+CONTIG	unplaced-1712_1766	1766	correct
+2232151	2242225	1	10075	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1714_10075	100.0		True
+CONTIG	unplaced-1714_10075	10075	correct
+5089201	5090630	1430	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1715_1430	100.0		True
+CONTIG	unplaced-1715_1430	1430	correct
+1529403	1534783	1	5381	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1716_5381	100.0		True
+CONTIG	unplaced-1716_5381	5381	correct
+120785	122092	1	1308	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1718_1308	100.0		True
+CONTIG	unplaced-1718_1308	1308	correct
+180647	188774	8128	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1719_8128	100.0		True
+CONTIG	unplaced-1719_8128	8128	correct
+1612721	1624130	11410	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1720_11410	100.0		True
+CONTIG	unplaced-1720_11410	11410	correct
+3625100	3633070	1	7971	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1723_7971	100.0		True
+CONTIG	unplaced-1723_7971	7971	correct
+1012345	1026058	13714	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1725_13714	100.0		True
+CONTIG	unplaced-1725_13714	13714	correct
+4922268	4923806	1539	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1726_1539	100.0		True
+CONTIG	unplaced-1726_1539	1539	correct
+3286347	3289174	1	2828	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1727_2828	100.0		True
+CONTIG	unplaced-1727_2828	2828	correct
+2914893	2916559	1	1667	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1729_1667	100.0		True
+CONTIG	unplaced-1729_1667	1667	correct
+3489833	3492149	2317	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1730_2317	100.0		True
+CONTIG	unplaced-1730_2317	2317	correct
+1275349	1276118	1	770	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1732_770	100.0		True
+CONTIG	unplaced-1732_770	770	correct
+3110379	3110988	1	610	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1734_610	100.0		True
+CONTIG	unplaced-1734_610	610	correct
+456576	463530	6955	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1736_6955	100.0		True
+CONTIG	unplaced-1736_6955	6955	correct
+403212	414465	1	11254	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1737_11254	100.0		True
+CONTIG	unplaced-1737_11254	11254	correct
+5365	24941	19577	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1738_19577	100.0		True
+CONTIG	unplaced-1738_19577	19577	correct
+4754758	4755386	629	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1739_629	100.0		True
+CONTIG	unplaced-1739_629	629	correct
+1606518	1612862	6345	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1740_6345	100.0		True
+CONTIG	unplaced-1740_6345	6345	correct
+3934986	3947023	1	12038	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1742_12038	100.0		True
+CONTIG	unplaced-1742_12038	12038	correct
+5016436	5018432	1997	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1744_1997	100.0		True
+CONTIG	unplaced-1744_1997	1997	correct
+4451174	4458406	7233	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1745_7233	100.0		True
+CONTIG	unplaced-1745_7233	7233	correct
+4796217	4797209	1	993	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1746_993	100.0		True
+CONTIG	unplaced-1746_993	993	correct
+4643059	4644606	1	1548	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1750_1548	100.0		True
+CONTIG	unplaced-1750_1548	1548	correct
+1896644	1899097	2454	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1751_2454	100.0		True
+CONTIG	unplaced-1751_2454	2454	correct
+3932623	3933380	1	758	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1753_758	100.0		True
+CONTIG	unplaced-1753_758	758	correct
+4750480	4753283	1	2804	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1755_2804	100.0		True
+CONTIG	unplaced-1755_2804	2804	correct
+3396022	3405543	9522	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1757_9522	100.0		True
+CONTIG	unplaced-1757_9522	9522	correct
+2619788	2620837	1050	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1758_1050	100.0		True
+CONTIG	unplaced-1758_1050	1050	correct
+285296	287669	1	2374	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1759_2374	100.0		True
+CONTIG	unplaced-1759_2374	2374	correct
+5388218	5389519	1302	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1762_1302	100.0		True
+CONTIG	unplaced-1762_1302	1302	correct
+1931342	1931897	556	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1764_556	100.0		True
+CONTIG	unplaced-1764_556	556	correct
+CONTIG	unplaced-1767_639	639	unaligned
+4637423	4638302	880	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1768_880	100.0		True
+CONTIG	unplaced-1768_880	880	correct
+3996464	3997743	1	1280	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1769_1280	100.0		True
+CONTIG	unplaced-1769_1280	1280	correct
+1146703	1151543	4841	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1770_4841	100.0		True
+CONTIG	unplaced-1770_4841	4841	correct
+3157264	3164483	1	7220	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1771_7220	100.0		True
+CONTIG	unplaced-1771_7220	7220	correct
+2165621	2168539	2919	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1772_2919	100.0		True
+CONTIG	unplaced-1772_2919	2919	correct
+1270596	1271697	1102	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1775_1102	99.64		True
+CONTIG	unplaced-1775_1102	1102	correct
+1044250	1046691	2442	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1779_2442	100.0		True
+CONTIG	unplaced-1779_2442	2442	correct
+601888	604516	1	2629	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1780_2629	100.0		True
+CONTIG	unplaced-1780_2629	2629	correct
+1971482	1972398	917	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1781_917	100.0		True
+CONTIG	unplaced-1781_917	917	correct
+1025921	1030674	4754	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1782_4754	100.0		True
+CONTIG	unplaced-1782_4754	4754	correct
+1740937	1750042	1	9106	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1785_9106	100.0		True
+CONTIG	unplaced-1785_9106	9106	correct
+5370056	5370800	745	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1789_745	100.0		True
+CONTIG	unplaced-1789_745	745	correct
+197022	200255	1	3234	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1792_3234	100.0		True
+CONTIG	unplaced-1792_3234	3234	correct
+1640773	1644975	1	4203	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1793_4203	100.0		True
+CONTIG	unplaced-1793_4203	4203	correct
+2690907	2697932	1	7026	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1794_7026	100.0		True
+CONTIG	unplaced-1794_7026	7026	correct
+2230999	2232162	1164	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1795_1164	100.0		True
+CONTIG	unplaced-1795_1164	1164	correct
+1825113	1826797	1685	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1797_1685	100.0		True
+CONTIG	unplaced-1797_1685	1685	correct
+4686807	4689906	1	3100	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1801_3100	100.0		True
+CONTIG	unplaced-1801_3100	3100	correct
+1156549	1159910	3362	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1802_3362	100.0		True
+CONTIG	unplaced-1802_3362	3362	correct
+1378863	1383197	4335	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1803_4335	100.0		True
+CONTIG	unplaced-1803_4335	4335	correct
+5138215	5158859	20645	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1804_20645	100.0		True
+CONTIG	unplaced-1804_20645	20645	correct
+3666561	3678358	1	11798	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1807_11798	100.0		True
+CONTIG	unplaced-1807_11798	11798	correct
+3714032	3718082	1	4051	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1808_4051	100.0		True
+CONTIG	unplaced-1808_4051	4051	correct
+3077280	3078221	942	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1809_942	100.0		True
+CONTIG	unplaced-1809_942	942	correct
+1516188	1529405	13218	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1810_13218	100.0		True
+CONTIG	unplaced-1810_13218	13218	correct
+1415802	1420672	4871	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1811_4871	100.0		True
+CONTIG	unplaced-1811_4871	4871	correct
+147473	154327	6855	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1812_6855	100.0		True
+CONTIG	unplaced-1812_6855	6855	correct
+3797562	3804584	1	7023	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1813_7023	100.0		True
+CONTIG	unplaced-1813_7023	7023	correct
+3521731	3527741	6011	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1814_6011	100.0		True
+CONTIG	unplaced-1814_6011	6011	correct
+5395012	5399488	1	4477	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1815_4477	100.0		True
+CONTIG	unplaced-1815_4477	4477	correct
+1709502	1712773	3272	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1816_3272	100.0		True
+CONTIG	unplaced-1816_3272	3272	correct
+4970596	4971807	1	1212	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1817_1212	100.0		True
+CONTIG	unplaced-1817_1212	1212	correct
+CONTIG	unplaced-1818_556	556	unaligned
+4586452	4589450	2999	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1819_2999	100.0		True
+CONTIG	unplaced-1819_2999	2999	correct
+138099	140657	1	2559	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1820_2559	100.0		True
+CONTIG	unplaced-1820_2559	2559	correct
+2943388	2944780	1	1393	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	unplaced-1821_1393	100.0		True
+CONTIG	unplaced-1821_1393	1393	correct

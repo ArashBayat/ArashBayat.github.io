@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     sim25M.MiniH
+# contigs (>= 0 bp)          13          
+# contigs (>= 1000 bp)       13          
+# contigs (>= 5000 bp)       13          
+# contigs (>= 10000 bp)      13          
+# contigs (>= 25000 bp)      12          
+# contigs (>= 50000 bp)      11          
+Total length (>= 0 bp)       25094927    
+Total length (>= 1000 bp)    25094927    
+Total length (>= 5000 bp)    25094927    
+Total length (>= 10000 bp)   25094927    
+Total length (>= 25000 bp)   25077342    
+Total length (>= 50000 bp)   25036692    
+# contigs                    13          
+Largest contig               7666928     
+Total length                 25094927    
+Reference length             25000020    
+GC (%)                       43.71       
+Reference GC (%)             43.69       
+N50                          7138142     
+NG50                         7138142     
+N75                          1757646     
+NG75                         1757646     
+L50                          2           
+LG50                         2           
+L75                          4           
+LG75                         4           
+# misassemblies              0           
+# misassembled contigs       0           
+Misassembled contigs length  0           
+# local misassemblies        1           
+# unaligned mis. contigs     0           
+# unaligned contigs          0 + 1 part  
+Unaligned length             1078        
+Genome fraction (%)          99.790      
+Duplication ratio            1.006       
+# N's per 100 kbp            0.00        
+# mismatches per 100 kbp     3.00        
+# indels per 100 kbp         201.47      
+Largest alignment            7665207     
+Total aligned length         25089836    
+NA50                         7138139     
+NGA50                        7138139     
+NA75                         1757645     
+NGA75                        1757645     
+LA50                         2           
+LGA50                        2           
+LA75                         4           
+LGA75                        4           

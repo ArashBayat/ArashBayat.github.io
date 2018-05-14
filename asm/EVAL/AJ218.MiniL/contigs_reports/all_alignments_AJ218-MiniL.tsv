@@ -1,0 +1,54 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+2561073	2927321	4024	371938	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001l	99.28		True
+local misassembly
+2927545	3165127	371939	610816	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001l	99.04		True
+CONTIG	Consensus_utg000001l	610819	correct
+971415	1149992	179576	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002l	99.22		True
+local misassembly
+634011	971219	518510	179577	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002l	99.25		True
+local misassembly
+4936	633887	1150332	518512	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002l	99.33		True
+CONTIG	Consensus_utg000002l	1150335	correct
+1484017	1516493	32634	3	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000003l	98.81		True
+local misassembly
+1335629	1484017	181900	32733	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000003l	99.1		True
+CONTIG	Consensus_utg000003l	181900	correct
+3602104	4199329	600501	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000004l	99.19		True
+CONTIG	Consensus_utg000004l	600502	correct
+1519252	2013338	496782	4	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000005l	99.21		True
+CONTIG	Consensus_utg000005l	496782	correct
+4390273	4462325	2	72464	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000006l	99.2		True
+local misassembly
+4462561	5465981	72468	1080916	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000006l	99.29		True
+fake: not a misassembly [linear representation of circular genome]
+1	4704	1080917	1085648	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000006l	97.11		True
+CONTIG	Consensus_utg000006l	1085648	correct
+1165986	1337385	1	172281	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000007l	99.25		True
+CONTIG	Consensus_utg000007l	172281	correct
+3163816	3247782	1	84568	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000008l	98.84		True
+local misassembly
+3247878	3349285	84569	186543	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000008l	99.12		True
+local misassembly
+3349373	3596663	186544	435055	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000008l	99.19		True
+CONTIG	Consensus_utg000008l	435058	correct
+2247429	2550958	304982	3	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000009l	99.29		True
+local misassembly
+2223339	2247220	328958	304983	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000009l	99.4		True
+local misassembly
+2038950	2223109	513839	328959	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000009l	99.43		True
+CONTIG	Consensus_utg000009l	513841	correct
+4348013	4389512	41716	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000010l	99.22		True
+local misassembly
+4198170	4347861	192203	41717	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000010l	99.19		True
+CONTIG	Consensus_utg000010l	192205	correct
+2793196	2799949	2	6814	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000011c	97.0		True
+unknown
+209506	210602	84436	83338	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000011c	99.46		True
+unknown
+3069598	3071525	95961	97897	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000011c	99.12		True
+unknown
+2135541	2136741	171430	172637	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000011c	99.34		True
+unknown
+2791953	2793186	202223	203476	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000011c	95.66		True
+unknown
+CONTIG	Consensus_utg000011c	203490	mis_unaligned

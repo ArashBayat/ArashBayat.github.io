@@ -1,0 +1,14 @@
+reference chromosomes:
+	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 (total length: 5465981 bp, maximal covered length: 5464783 bp)
+
+total genome size: 5465981
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+AJ218-MiniH              | 99.97808% | 1.00659     | 4         | -         | -         | -         | -         |

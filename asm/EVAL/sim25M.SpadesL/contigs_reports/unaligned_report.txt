@@ -1,0 +1,9 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assembly sim25M.SpadesL contains continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                       sim25M.SpadesL
+# fully unaligned contigs      0             
+Fully unaligned length         0             
+# partially unaligned contigs  2             
+Partially unaligned length     1680          
+# N's                          300           

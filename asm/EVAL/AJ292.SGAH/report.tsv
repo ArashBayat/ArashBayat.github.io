@@ -1,0 +1,49 @@
+Assembly	AJ292.SGAH
+# contigs (>= 0 bp)	2148
+# contigs (>= 1000 bp)	1174
+# contigs (>= 5000 bp)	352
+# contigs (>= 10000 bp)	108
+# contigs (>= 25000 bp)	3
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	5660136
+Total length (>= 1000 bp)	5319179
+Total length (>= 5000 bp)	3226072
+Total length (>= 10000 bp)	1540333
+Total length (>= 25000 bp)	78946
+Total length (>= 50000 bp)	0
+# contigs	1357
+Largest contig	27490
+Total length	5453167
+Reference length	5445112
+GC (%)	57.79
+Reference GC (%)	57.62
+N50	6126
+NG50	6126
+N75	3477
+NG75	3480
+L50	262
+LG50	262
+L75	562
+LG75	560
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	97.769
+Duplication ratio	1.024
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	0.06
+# indels per 100 kbp	0.19
+Largest alignment	27490
+Total aligned length	5453165
+NA50	6126
+NGA50	6126
+NA75	3477
+NGA75	3480
+LA50	262
+LGA50	262
+LA75	562
+LGA75	560

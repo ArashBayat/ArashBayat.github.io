@@ -1,0 +1,130 @@
+/usr/local/bin/quast.py -o EVAL/AJ292.MiniCL.cr -R /home/arash/asmReview/AJ292/ref.fa --threads 16 ASM/AJ292.MiniCL.cr.fa
+
+Version: 4.6.0
+
+System information:
+  OS: Linux-4.13.0-36-generic-x86_64-with-Ubuntu-16.04-xenial (linux_64)
+  Python version: 2.7.12
+  CPUs number: 16
+
+Started: 2018-04-03 03:13:17
+
+Logging to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/quast.log
+
+CWD: /home/arash/asmReview
+Main parameters: 
+  Threads: 16, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/arash/asmReview/AJ292/ref.fa ==> ref
+
+Contigs:
+  Pre-processing...
+  ASM/AJ292.MiniCL.cr.fa ==> AJ292.MiniCL.cr
+
+2018-04-03 03:13:20
+Running Basic statistics processor...
+  Reference genome:
+    ref.fa, length = 5445112, num fragments = 1, GC % = 57.62
+  Contig files: 
+    AJ292.MiniCL.cr
+  Calculating N50 and L50...
+    AJ292.MiniCL.cr, N50 = 15758, L50 = 492, Total length = 20116984, GC % = 57.11, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/basic_stats/GC_content_plot.pdf
+  Drawing AJ292.MiniCL.cr GC content plot...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/basic_stats/AJ292.MiniCL.cr_GC_content_plot.pdf
+Done.
+
+2018-04-03 03:13:25
+Running Contig analyzer...
+NOTICE: Previous try of E-MEM compilation was unsuccessful! For forced retrying, please remove /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/make.emem.failed and restart QUAST. Currently, QUAST will use Nucmer which is absolutely fine, albeit slower.
+  AJ292.MiniCL.cr
+  Logging to files /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/contigs_reports/contigs_report_AJ292-MiniCL-cr.stdout and contigs_report_AJ292-MiniCL-cr.stderr...
+  Aligning contigs to the reference
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/nucmer -c 65 -l 65 --maxmatch \
+  -p EVAL/AJ292.MiniCL.cr/contigs_reports/nucmer_output/AJ292-MiniCL-cr EVAL/AJ292.MiniCL.cr/quast_corrected_input/ref.fa \
+  EVAL/AJ292.MiniCL.cr/quast_corrected_input/AJ292-MiniCL-cr.fa >> EVAL/AJ292.MiniCL.cr/contigs_reports/contigs_report_AJ292-MiniCL-cr.stdout \
+  2>> EVAL/AJ292.MiniCL.cr/contigs_reports/contigs_report_AJ292-MiniCL-cr.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/delta-filter -i 95.0 -l \
+  0 EVAL/AJ292.MiniCL.cr/contigs_reports/nucmer_output/AJ292-MiniCL-cr.delta > EVAL/AJ292.MiniCL.cr/contigs_reports/nucmer_output/AJ292-MiniCL-cr.fdelta \
+  2> EVAL/AJ292.MiniCL.cr/contigs_reports/contigs_report_AJ292-MiniCL-cr.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummerplot --html --layout \
+  -p EVAL/AJ292.MiniCL.cr/contigs_reports/nucmer_output/AJ292-MiniCL-cr EVAL/AJ292.MiniCL.cr/contigs_reports/nucmer_output/AJ292-MiniCL-cr.delta \
+  > EVAL/AJ292.MiniCL.cr/contigs_reports/contigs_report_AJ292-MiniCL-cr.stdout 2> \
+  EVAL/AJ292.MiniCL.cr/contigs_reports/contigs_report_AJ292-MiniCL-cr.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/gnuplot/src/gnuplot EVAL/AJ292.MiniCL.cr/contigs_reports/nucmer_output/AJ292-MiniCL-cr.gp \
+  > /dev/null 2> EVAL/AJ292.MiniCL.cr/contigs_reports/contigs_report_AJ292-MiniCL-cr.stderr
+  MUMmer plot saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/contigs_reports/AJ292-MiniCL-cr_mummerplot.html
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/show-coords EVAL/AJ292.MiniCL.cr/contigs_reports/nucmer_output/AJ292-MiniCL-cr.delta \
+  > EVAL/AJ292.MiniCL.cr/contigs_reports/nucmer_output/AJ292-MiniCL-cr.coords_tmp \
+  2> EVAL/AJ292.MiniCL.cr/contigs_reports/contigs_report_AJ292-MiniCL-cr.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/show-snps -S -T -H EVAL/AJ292.MiniCL.cr/contigs_reports/nucmer_output/AJ292-MiniCL-cr.delta \
+  < EVAL/AJ292.MiniCL.cr/contigs_reports/nucmer_output/AJ292-MiniCL-cr.coords.headless \
+  > EVAL/AJ292.MiniCL.cr/contigs_reports/nucmer_output/AJ292-MiniCL-cr.all_snps 2> \
+  EVAL/AJ292.MiniCL.cr/contigs_reports/contigs_report_AJ292-MiniCL-cr.stderr
+  Analysis is finished.
+
+  Gzipping /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/contigs_reports/nucmer_output/AJ292-MiniCL-cr.all_snps to reduce disk space usage...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/contigs_reports/nucmer_output/AJ292-MiniCL-cr.all_snps.gz
+  Creating total report...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2018-04-03 03:15:42
+Running NA-NGA calculation...
+  AJ292.MiniCL.cr, Largest alignment = 33973, NA50 = 13365, NGA50 = 21475, LA50 = 536, LGA50 = 109
+  Drawing cumulative plot...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/aligned_stats/NGAx_plot.pdf
+Done.
+
+2018-04-03 03:15:44
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  AJ292.MiniCL.cr
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2018-04-03 03:15:49
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2018-04-03 03:15:52
+RESULTS:
+  Text versions of total report are saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/report.html
+  PDF version (tables and plots) is saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/report.pdf
+  Icarus (contig browser) is saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/icarus.html
+  Log saved to /home/arash/asmReview/EVAL/AJ292.MiniCL.cr/quast.log
+
+Finished: 2018-04-03 03:15:52
+Elapsed time: 0:02:35.716024
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

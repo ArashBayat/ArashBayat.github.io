@@ -1,0 +1,9 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assembly sim5M.SoDe2L contains continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                       sim5M.SoDe2L
+# fully unaligned contigs      128         
+Fully unaligned length         133022      
+# partially unaligned contigs  19          
+Partially unaligned length     18157       
+# N's                          67938       

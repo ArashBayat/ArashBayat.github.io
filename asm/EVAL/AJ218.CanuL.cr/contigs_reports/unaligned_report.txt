@@ -1,0 +1,8 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                       AJ218.CanuL.cr
+# fully unaligned contigs      127           
+Fully unaligned length         823980        
+# partially unaligned contigs  184           
+Partially unaligned length     632913        
+# N's                          0             

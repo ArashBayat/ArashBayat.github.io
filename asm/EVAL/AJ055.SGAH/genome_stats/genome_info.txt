@@ -1,0 +1,14 @@
+reference chromosomes:
+	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 (total length: 5504133 bp, maximal covered length: 5380659 bp)
+
+total genome size: 5504133
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+AJ055-SGAH               | 97.75670% | 1.02369     | 219       | -         | -         | -         | -         |

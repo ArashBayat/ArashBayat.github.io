@@ -1,0 +1,6 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+1 1005358 | 1005216 1 | 1005358 1005216 | 99.98 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 QC.B.A_0
+991191 5445112 | 5458553 1005217 | 4453922 4453337 | 99.98 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 QC.B.A_0
+987940 1009598 | 21660 1 | 21659 21660 | 99.57 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 QC.B.A_1
+992464 1009062 | 16594 1 | 16599 16594 | 99.78 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 QC.B.A_2

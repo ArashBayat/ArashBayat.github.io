@@ -1,0 +1,14 @@
+Assembly	AJ055.Colormap
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	12
+# unaligned mis. contigs	0
+# mismatches	1327
+# indels	432
+    # indels (<= 5 bp)	423
+    # indels (> 5 bp)	9
+Indels length	980

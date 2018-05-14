@@ -1,0 +1,14 @@
+Assembly	AJ292.CanuH.cr
+# misassemblies	11
+    # relocations	11
+    # translocations	0
+    # inversions	0
+# misassembled contigs	11
+Misassembled contigs length	222190
+# local misassemblies	29
+# unaligned mis. contigs	0
+# mismatches	1571
+# indels	10847
+    # indels (<= 5 bp)	10720
+    # indels (> 5 bp)	127
+Indels length	14286

@@ -1,0 +1,813 @@
+gnuplot 5.0 patchlevel 3
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [sim5M]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 5000040
+Analyzing contigs...
+CONTIG: Consensus_utg000001l (654063bp)
+Best alignment score: 652362.4 (LEN: 654063, IDY: 99.74), Total number of alignments: 93
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2510265 2514586 | 80705 85024 | 4322 4320 | 96.86 | sim5M Consensus_utg000001l
+			Skipping alignment 2135772 2140087 | 80705 85018 | 4316 4314 | 96.86 | sim5M Consensus_utg000001l
+			Skipping alignment 502949 507278 | 85024 80696 | 4330 4329 | 96.2 | sim5M Consensus_utg000001l
+			Skipping alignment 1215445 1219783 | 85027 80696 | 4339 4332 | 96.09 | sim5M Consensus_utg000001l
+			Skipping alignment 1837355 1841683 | 80696 85024 | 4329 4329 | 95.9 | sim5M Consensus_utg000001l
+			Skipping alignment 615735 618412 | 85022 82345 | 2678 2678 | 95.76 | sim5M Consensus_utg000001l
+			Skipping alignment 1434271 1436695 | 84122 81699 | 2425 2424 | 95.85 | sim5M Consensus_utg000001l
+			Skipping alignment 3433211 3435628 | 85018 82605 | 2418 2414 | 95.25 | sim5M Consensus_utg000001l
+			Skipping alignment 2508549 2510265 | 78678 80398 | 1717 1721 | 95.71 | sim5M Consensus_utg000001l
+			Skipping alignment 2134081 2135772 | 78703 80398 | 1692 1696 | 95.58 | sim5M Consensus_utg000001l
+			Skipping alignment 2135777 2137192 | 374240 375661 | 1416 1422 | 97.4 | sim5M Consensus_utg000001l
+			Skipping alignment 2510270 2511685 | 374240 375661 | 1416 1422 | 97.12 | sim5M Consensus_utg000001l
+			Skipping alignment 1837369 1838784 | 374240 375661 | 1416 1422 | 96.98 | sim5M Consensus_utg000001l
+			Skipping alignment 505849 507264 | 375661 374240 | 1416 1422 | 96.62 | sim5M Consensus_utg000001l
+			Skipping alignment 1218352 1219769 | 375661 374240 | 1418 1422 | 96.49 | sim5M Consensus_utg000001l
+			Skipping alignment 528494 529924 | 375661 374233 | 1431 1429 | 95.69 | sim5M Consensus_utg000001l
+			Skipping alignment 546033 547453 | 375660 374241 | 1421 1420 | 95.52 | sim5M Consensus_utg000001l
+			Skipping alignment 718601 719911 | 81787 83097 | 1311 1311 | 97.03 | sim5M Consensus_utg000001l
+			Skipping alignment 507269 508416 | 80398 79247 | 1148 1152 | 96.01 | sim5M Consensus_utg000001l
+			Skipping alignment 4956694 4957829 | 85015 83880 | 1136 1136 | 95.78 | sim5M Consensus_utg000001l
+			Skipping alignment 1836267 1837364 | 79296 80398 | 1098 1103 | 95.19 | sim5M Consensus_utg000001l
+			Skipping alignment 4956736 4957751 | 632100 631088 | 1016 1013 | 95.59 | sim5M Consensus_utg000001l
+			Skipping alignment 3433259 3434275 | 632100 631088 | 1017 1013 | 95.49 | sim5M Consensus_utg000001l
+			Skipping alignment 2139028 2140037 | 631089 632094 | 1010 1006 | 96.05 | sim5M Consensus_utg000001l
+			Skipping alignment 2513521 2514530 | 631089 632094 | 1010 1006 | 96.05 | sim5M Consensus_utg000001l
+			Skipping alignment 1215501 1216517 | 632100 631088 | 1017 1013 | 95.1 | sim5M Consensus_utg000001l
+			Skipping alignment 503005 504014 | 632094 631088 | 1010 1007 | 95.16 | sim5M Consensus_utg000001l
+			Skipping alignment 2513423 2514365 | 472378 473323 | 943 946 | 97.04 | sim5M Consensus_utg000001l
+			Skipping alignment 2138930 2139872 | 472378 473323 | 943 946 | 96.83 | sim5M Consensus_utg000001l
+			Skipping alignment 503169 504111 | 473323 472378 | 943 946 | 96.41 | sim5M Consensus_utg000001l
+			Skipping alignment 1215674 1216614 | 473321 472378 | 941 944 | 96.61 | sim5M Consensus_utg000001l
+			Skipping alignment 3433429 3434372 | 473323 472378 | 944 946 | 96.2 | sim5M Consensus_utg000001l
+			Skipping alignment 615959 616895 | 473323 472378 | 937 946 | 96.09 | sim5M Consensus_utg000001l
+			Skipping alignment 1840518 1841460 | 472378 473323 | 943 946 | 95.98 | sim5M Consensus_utg000001l
+			Skipping alignment 1219774 1220714 | 80398 79455 | 941 944 | 95.44 | sim5M Consensus_utg000001l
+			Skipping alignment 1731551 1732489 | 472378 473323 | 939 946 | 95.14 | sim5M Consensus_utg000001l
+			Skipping alignment 4956907 4957829 | 473323 472399 | 923 925 | 96.76 | sim5M Consensus_utg000001l
+			Skipping alignment 198349 199252 | 631198 632100 | 904 903 | 95.38 | sim5M Consensus_utg000001l
+			Skipping alignment 1436696 1437588 | 84125 85018 | 893 894 | 95.2 | sim5M Consensus_utg000001l
+			Skipping alignment 717793 718606 | 85024 84213 | 814 812 | 95.09 | sim5M Consensus_utg000001l
+			Skipping alignment 198349 199085 | 472586 473323 | 737 738 | 96.21 | sim5M Consensus_utg000001l
+			Skipping alignment 1039265 1039930 | 653137 652467 | 666 671 | 95.53 | sim5M Consensus_utg000001l
+			Skipping alignment 718017 718601 | 473323 472738 | 585 586 | 96.42 | sim5M Consensus_utg000001l
+			Skipping alignment 3681332 3681875 | 240101 239557 | 544 545 | 96.51 | sim5M Consensus_utg000001l
+			Skipping alignment 4831126 4831626 | 84290 83785 | 501 506 | 95.66 | sim5M Consensus_utg000001l
+			Skipping alignment 3151494 3151976 | 632001 631517 | 483 485 | 95.88 | sim5M Consensus_utg000001l
+			Skipping alignment 1729383 1729820 | 375225 375662 | 438 438 | 97.03 | sim5M Consensus_utg000001l
+			Skipping alignment 1436271 1436695 | 375661 375237 | 425 425 | 97.65 | sim5M Consensus_utg000001l
+			Skipping alignment 4831126 4831549 | 472810 472379 | 424 432 | 95.83 | sim5M Consensus_utg000001l
+			Skipping alignment 3151559 3151976 | 473323 472905 | 418 419 | 96.42 | sim5M Consensus_utg000001l
+			Skipping alignment 2994954 2995337 | 652814 652426 | 384 389 | 95.63 | sim5M Consensus_utg000001l
+			Skipping alignment 2994954 2995337 | 631730 631342 | 384 389 | 95.37 | sim5M Consensus_utg000001l
+			Skipping alignment 2994954 2995337 | 84596 84210 | 384 387 | 95.09 | sim5M Consensus_utg000001l
+			Skipping alignment 2994954 2995337 | 510999 511385 | 384 387 | 95.09 | sim5M Consensus_utg000001l
+			Skipping alignment 2994954 2995329 | 473117 472738 | 376 380 | 96.05 | sim5M Consensus_utg000001l
+			Skipping alignment 4831126 4831500 | 8064 7683 | 375 382 | 95.29 | sim5M Consensus_utg000001l
+			Skipping alignment 718601 718937 | 375325 375661 | 337 337 | 98.22 | sim5M Consensus_utg000001l
+			Skipping alignment 4831126 4831453 | 631422 631088 | 328 335 | 96.42 | sim5M Consensus_utg000001l
+			Skipping alignment 1729058 1729386 | 375241 374911 | 329 331 | 96.98 | sim5M Consensus_utg000001l
+			Skipping alignment 2646169 2646486 | 484074 484395 | 318 322 | 96.27 | sim5M Consensus_utg000001l
+			Skipping alignment 2562828 2563144 | 484395 484078 | 317 318 | 97.48 | sim5M Consensus_utg000001l
+			Skipping alignment 2562834 2563144 | 468848 469159 | 311 312 | 98.72 | sim5M Consensus_utg000001l
+			Skipping alignment 922788 923097 | 469159 468848 | 310 312 | 98.4 | sim5M Consensus_utg000001l
+			Skipping alignment 922788 923103 | 484078 484395 | 316 318 | 96.23 | sim5M Consensus_utg000001l
+			Skipping alignment 2646173 2646482 | 469159 468848 | 310 312 | 97.76 | sim5M Consensus_utg000001l
+			Skipping alignment 2222579 2222894 | 484391 484077 | 316 315 | 96.24 | sim5M Consensus_utg000001l
+			Skipping alignment 2222582 2222893 | 468850 469159 | 312 310 | 97.13 | sim5M Consensus_utg000001l
+			Skipping alignment 3908266 3908575 | 484388 484078 | 310 311 | 96.78 | sim5M Consensus_utg000001l
+			Skipping alignment 1100859 1101180 | 484393 484078 | 322 316 | 95.05 | sim5M Consensus_utg000001l
+			Skipping alignment 1991605 1991915 | 484388 484076 | 311 313 | 95.53 | sim5M Consensus_utg000001l
+			Skipping alignment 745852 746155 | 469161 468856 | 304 306 | 97.71 | sim5M Consensus_utg000001l
+			Skipping alignment 745854 746160 | 484078 484385 | 307 308 | 96.76 | sim5M Consensus_utg000001l
+			Skipping alignment 2877384 2877687 | 469159 468854 | 304 306 | 97.39 | sim5M Consensus_utg000001l
+			Skipping alignment 82383 82683 | 484080 484382 | 301 303 | 97.69 | sim5M Consensus_utg000001l
+			Skipping alignment 2877384 2877686 | 484078 484382 | 303 305 | 96.72 | sim5M Consensus_utg000001l
+			Skipping alignment 98385 98682 | 484374 484078 | 298 297 | 96.99 | sim5M Consensus_utg000001l
+			Skipping alignment 922786 923083 | 80698 80397 | 298 302 | 95.03 | sim5M Consensus_utg000001l
+			Skipping alignment 2562848 2563144 | 80397 80696 | 297 300 | 95.35 | sim5M Consensus_utg000001l
+			Skipping alignment 4743032 4743311 | 472378 472659 | 280 282 | 95.04 | sim5M Consensus_utg000001l
+			Skipping alignment 1434271 1434533 | 472642 472378 | 263 265 | 97.74 | sim5M Consensus_utg000001l
+			Skipping alignment 4875454 4875717 | 484115 484380 | 264 266 | 96.62 | sim5M Consensus_utg000001l
+			Skipping alignment 4743082 4743311 | 7683 7911 | 230 229 | 95.65 | sim5M Consensus_utg000001l
+			Skipping alignment 156903 157120 | 375475 375258 | 218 218 | 95.87 | sim5M Consensus_utg000001l
+			Skipping alignment 1434271 1434483 | 7894 7683 | 213 212 | 96.71 | sim5M Consensus_utg000001l
+			Skipping alignment 98480 98683 | 468959 469160 | 204 202 | 97.06 | sim5M Consensus_utg000001l
+			Skipping alignment 197683 197876 | 472573 472378 | 194 196 | 95.41 | sim5M Consensus_utg000001l
+			Skipping alignment 889227 889388 | 85019 84859 | 162 161 | 95.06 | sim5M Consensus_utg000001l
+			Skipping alignment 2051047 2051171 | 468856 468981 | 125 126 | 97.62 | sim5M Consensus_utg000001l
+			Skipping alignment 96351 96460 | 468848 468957 | 110 110 | 98.18 | sim5M Consensus_utg000001l
+			Skipping alignment 1340871 1340953 | 49715 49633 | 83 83 | 96.39 | sim5M Consensus_utg000001l
+			Skipping alignment 3325683 3325752 | 49716 49647 | 70 70 | 100.0 | sim5M Consensus_utg000001l
+			Skipping alignment 3325684 3325753 | 49707 49638 | 70 70 | 100.0 | sim5M Consensus_utg000001l
+		One align captures most of this contig: 3440665 4093029 | 1 654063 | 652365 654063 | 99.74 | sim5M Consensus_utg000001l
+
+CONTIG: Consensus_utg000002l (730533bp)
+Best alignment score: 728414.5 (LEN: 730533, IDY: 99.71), Total number of alignments: 82
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2134081 2140103 | 541891 535859 | 6023 6033 | 98.76 | sim5M Consensus_utg000002l
+			Skipping alignment 502948 508983 | 535867 541915 | 6036 6049 | 96.94 | sim5M Consensus_utg000002l
+			Skipping alignment 1836267 1841695 | 541297 535856 | 5429 5442 | 96.73 | sim5M Consensus_utg000002l
+			Skipping alignment 1215449 1220714 | 535869 541138 | 5266 5270 | 96.8 | sim5M Consensus_utg000002l
+			Skipping alignment 525602 530513 | 535878 540787 | 4912 4910 | 95.24 | sim5M Consensus_utg000002l
+			Skipping alignment 3521134 3525444 | 540195 535868 | 4311 4328 | 96.88 | sim5M Consensus_utg000002l
+			Skipping alignment 1729383 1732702 | 539209 535884 | 3320 3326 | 95.74 | sim5M Consensus_utg000002l
+			Skipping alignment 615741 618412 | 535873 538551 | 2672 2679 | 96.83 | sim5M Consensus_utg000002l
+			Skipping alignment 1434271 1436695 | 536769 539197 | 2425 2429 | 96.91 | sim5M Consensus_utg000002l
+			Skipping alignment 3433206 3435628 | 535863 538291 | 2423 2429 | 95.76 | sim5M Consensus_utg000002l
+			Skipping alignment 3519114 3520828 | 541916 540195 | 1715 1722 | 95.82 | sim5M Consensus_utg000002l
+			Skipping alignment 3813935 3815350 | 540190 538773 | 1416 1418 | 97.39 | sim5M Consensus_utg000002l
+			Skipping alignment 718601 719911 | 539109 537798 | 1311 1312 | 97.26 | sim5M Consensus_utg000002l
+			Skipping alignment 4956694 4957829 | 535874 537011 | 1136 1138 | 97.19 | sim5M Consensus_utg000002l
+			Skipping alignment 4070116 4071118 | 536933 535924 | 1003 1010 | 96.34 | sim5M Consensus_utg000002l
+			Skipping alignment 198349 199319 | 536825 535852 | 971 974 | 95.59 | sim5M Consensus_utg000002l
+			Skipping alignment 3911787 3912730 | 537031 536089 | 944 943 | 97.25 | sim5M Consensus_utg000002l
+			Skipping alignment 1436696 1437589 | 536766 535872 | 894 895 | 96.09 | sim5M Consensus_utg000002l
+			Skipping alignment 717792 718606 | 535867 536678 | 815 812 | 96.45 | sim5M Consensus_utg000002l
+			Skipping alignment 2246915 2247639 | 536960 536239 | 725 722 | 95.18 | sim5M Consensus_utg000002l
+			Skipping alignment 197683 198350 | 536838 537507 | 668 670 | 96.27 | sim5M Consensus_utg000002l
+			Skipping alignment 4831627 4832284 | 536528 535873 | 658 656 | 95.14 | sim5M Consensus_utg000002l
+			Skipping alignment 3151461 3151976 | 535991 536506 | 516 516 | 96.71 | sim5M Consensus_utg000002l
+			Skipping alignment 4831126 4831626 | 536601 537107 | 501 507 | 97.04 | sim5M Consensus_utg000002l
+			Skipping alignment 4742801 4743311 | 39741 40251 | 511 511 | 95.31 | sim5M Consensus_utg000002l
+			Skipping alignment 2200339 2200828 | 536350 535860 | 490 491 | 95.93 | sim5M Consensus_utg000002l
+			Skipping alignment 2994954 2995337 | 536295 536681 | 384 387 | 96.12 | sim5M Consensus_utg000002l
+			Skipping alignment 67995 68381 | 54058 54443 | 387 386 | 95.89 | sim5M Consensus_utg000002l
+			Skipping alignment 1356629 1357015 | 54058 54443 | 387 386 | 95.89 | sim5M Consensus_utg000002l
+			Skipping alignment 198493 198879 | 54058 54443 | 387 386 | 95.63 | sim5M Consensus_utg000002l
+			Skipping alignment 2139280 2139666 | 54058 54443 | 387 386 | 95.63 | sim5M Consensus_utg000002l
+			Skipping alignment 2513773 2514159 | 54058 54443 | 387 386 | 95.63 | sim5M Consensus_utg000002l
+			Skipping alignment 4091400 4091786 | 54058 54443 | 387 386 | 95.63 | sim5M Consensus_utg000002l
+			Skipping alignment 4070368 4070754 | 54058 54443 | 387 386 | 95.37 | sim5M Consensus_utg000002l
+			Skipping alignment 616165 616550 | 54443 54058 | 386 386 | 95.12 | sim5M Consensus_utg000002l
+			Skipping alignment 4957113 4957498 | 54443 54058 | 386 386 | 95.12 | sim5M Consensus_utg000002l
+			Skipping alignment 3912146 3912524 | 54066 54443 | 379 378 | 95.8 | sim5M Consensus_utg000002l
+			Skipping alignment 1729058 1729386 | 539193 539522 | 329 330 | 96.97 | sim5M Consensus_utg000002l
+			Skipping alignment 922785 923104 | 404000 403682 | 320 319 | 98.44 | sim5M Consensus_utg000002l
+			Skipping alignment 922788 923103 | 487208 487525 | 316 318 | 98.43 | sim5M Consensus_utg000002l
+			Skipping alignment 2562829 2563144 | 403683 403997 | 316 315 | 99.05 | sim5M Consensus_utg000002l
+			Skipping alignment 2646173 2646486 | 487208 487523 | 314 316 | 98.73 | sim5M Consensus_utg000002l
+			Skipping alignment 3923458 3923775 | 487208 487525 | 318 318 | 97.18 | sim5M Consensus_utg000002l
+			Skipping alignment 3908265 3908575 | 487519 487208 | 311 312 | 98.72 | sim5M Consensus_utg000002l
+			Skipping alignment 3923454 3923775 | 404001 403683 | 322 319 | 96.27 | sim5M Consensus_utg000002l
+			Skipping alignment 2222582 2222893 | 487517 487208 | 312 310 | 98.09 | sim5M Consensus_utg000002l
+			Skipping alignment 3908265 3908575 | 403688 403997 | 311 310 | 98.07 | sim5M Consensus_utg000002l
+			Skipping alignment 2877382 2877687 | 487206 487513 | 306 308 | 98.38 | sim5M Consensus_utg000002l
+			Skipping alignment 2222582 2222893 | 403690 403997 | 312 308 | 98.08 | sim5M Consensus_utg000002l
+			Skipping alignment 181991 182299 | 680150 680461 | 309 312 | 96.81 | sim5M Consensus_utg000002l
+			Skipping alignment 2562840 2563146 | 172022 172327 | 307 306 | 98.7 | sim5M Consensus_utg000002l
+			Skipping alignment 745854 746160 | 172325 172019 | 307 307 | 98.05 | sim5M Consensus_utg000002l
+			Skipping alignment 1991605 1991918 | 487518 487203 | 314 316 | 95.25 | sim5M Consensus_utg000002l
+			Skipping alignment 284056 284363 | 680461 680150 | 308 312 | 96.47 | sim5M Consensus_utg000002l
+			Skipping alignment 745854 746155 | 487208 487511 | 302 304 | 98.68 | sim5M Consensus_utg000002l
+			Skipping alignment 922788 923091 | 172325 172022 | 304 304 | 98.36 | sim5M Consensus_utg000002l
+			Skipping alignment 745854 746155 | 403997 403696 | 302 302 | 98.68 | sim5M Consensus_utg000002l
+			Skipping alignment 2222586 2222893 | 172022 172325 | 308 304 | 97.73 | sim5M Consensus_utg000002l
+			Skipping alignment 82383 82685 | 487210 487514 | 303 305 | 97.38 | sim5M Consensus_utg000002l
+			Skipping alignment 3908271 3908575 | 172022 172325 | 305 304 | 97.7 | sim5M Consensus_utg000002l
+			Skipping alignment 82383 82685 | 403995 403693 | 303 303 | 97.36 | sim5M Consensus_utg000002l
+			Skipping alignment 3923458 3923762 | 172325 172023 | 305 303 | 96.72 | sim5M Consensus_utg000002l
+			Skipping alignment 82383 82684 | 172323 172022 | 302 302 | 97.02 | sim5M Consensus_utg000002l
+			Skipping alignment 98385 98682 | 487504 487208 | 298 297 | 98.33 | sim5M Consensus_utg000002l
+			Skipping alignment 98385 98682 | 172031 172325 | 298 295 | 97.99 | sim5M Consensus_utg000002l
+			Skipping alignment 98385 98682 | 403703 403997 | 298 295 | 97.65 | sim5M Consensus_utg000002l
+			Skipping alignment 1991605 1991904 | 403689 403988 | 300 300 | 95.68 | sim5M Consensus_utg000002l
+			Skipping alignment 3520827 3521125 | 487505 487208 | 299 298 | 95.35 | sim5M Consensus_utg000002l
+			Skipping alignment 182029 182304 | 441617 441342 | 276 276 | 97.83 | sim5M Consensus_utg000002l
+			Skipping alignment 284051 284325 | 441342 441617 | 275 276 | 97.83 | sim5M Consensus_utg000002l
+			Skipping alignment 1896013 1896287 | 441342 441617 | 275 276 | 97.83 | sim5M Consensus_utg000002l
+			Skipping alignment 1896018 1896289 | 680461 680186 | 272 276 | 96.38 | sim5M Consensus_utg000002l
+			Skipping alignment 2608639 2608908 | 680188 680461 | 270 274 | 95.99 | sim5M Consensus_utg000002l
+			Skipping alignment 2370328 2370597 | 441347 441617 | 270 271 | 97.05 | sim5M Consensus_utg000002l
+			Skipping alignment 4875454 4875717 | 487245 487510 | 264 266 | 98.5 | sim5M Consensus_utg000002l
+			Skipping alignment 4875454 4875717 | 403960 403697 | 264 264 | 98.86 | sim5M Consensus_utg000002l
+			Skipping alignment 4875454 4875717 | 172288 172025 | 264 264 | 98.11 | sim5M Consensus_utg000002l
+			Skipping alignment 1437346 1437586 | 308893 309132 | 241 240 | 95.85 | sim5M Consensus_utg000002l
+			Skipping alignment 1215470 1215699 | 309122 308893 | 230 230 | 95.22 | sim5M Consensus_utg000002l
+			Skipping alignment 889243 889380 | 309122 308985 | 138 138 | 97.83 | sim5M Consensus_utg000002l
+			Skipping alignment 1437499 1437587 | 89314 89227 | 89 88 | 96.63 | sim5M Consensus_utg000002l
+		One align captures most of this contig: 2320391 3049035 | 730533 1 | 728645 730533 | 99.71 | sim5M Consensus_utg000002l
+
+CONTIG: Consensus_utg000003l (177185bp)
+Best alignment score: 172130.3 (LEN: 173466, IDY: 99.23), Total number of alignments: 29
+			Looking for the best set of alignments (out of 29 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2370328 2370599 | 13993 13722 | 272 272 | 97.79 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 2608639 2608912 | 13724 13997 | 274 274 | 98.18 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 284044 284327 | 14005 13722 | 284 284 | 98.59 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 182027 182326 | 13722 14020 | 300 299 | 98.33 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 73035 73123 | 68573 68481 | 89 93 | 95.7 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 889219 889386 | 68474 68643 | 168 170 | 95.88 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 3911577 3911788 | 68470 68682 | 212 213 | 95.33 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 3151461 3151976 | 68604 69120 | 516 517 | 95.74 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 4831627 4832289 | 69142 68479 | 663 664 | 95.33 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 717792 718606 | 68476 69292 | 815 817 | 95.48 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 1436697 1437573 | 69380 68502 | 877 879 | 95.79 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 198349 199311 | 69440 68474 | 963 967 | 95.77 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 4070115 4071124 | 69549 68531 | 1010 1019 | 95.09 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 4956697 4957829 | 68493 69626 | 1133 1134 | 96.57 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 3911787 3912730 | 69646 68702 | 944 945 | 96.09 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 4831126 4831626 | 69215 69722 | 501 508 | 96.26 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 197683 198350 | 69453 70118 | 668 666 | 95.37 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 615741 618412 | 68484 71162 | 2672 2679 | 96.24 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 718601 719911 | 71721 70410 | 1311 1312 | 96.8 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 1434271 1436695 | 69384 71809 | 2425 2426 | 96.05 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 1729383 1732706 | 71821 68493 | 3324 3329 | 95.9 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 3813935 3815350 | 72801 71385 | 1416 1417 | 97.32 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 3521125 3525444 | 72815 68479 | 4320 4337 | 95.9 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 1215449 1220716 | 68480 73748 | 5268 5269 | 96.25 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 3519730 3520828 | 73904 72806 | 1099 1099 | 95.45 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 502948 508367 | 68478 73904 | 5420 5427 | 96.02 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 2509167 2514598 | 73904 68467 | 5432 5438 | 96.75 | sim5M Consensus_utg000003l
+		Skipping redundant alignment 2134674 2140106 | 73904 68466 | 5433 5439 | 96.64 | sim5M Consensus_utg000003l
+			The best set is below. Score: 172130.3, number of alignments: 1, unaligned bases: 3719
+		This contig is partially unaligned. (Aligned 173466 out of 177185 bases)
+		Alignment: 1737347 1909926 | 173466 1 | 172580 173466 | 99.23 | sim5M Consensus_utg000003l
+		Unaligned bases: 173467 to 177185 (3719)
+
+CONTIG: Consensus_utg000004l (1348395bp)
+Best alignment score: 1338194.1 (LEN: 1341548, IDY: 99.75), Total number of alignments: 182
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2508550 2514587 | 102926 96872 | 6038 6055 | 96.81 | sim5M Consensus_utg000004l
+			Skipping alignment 2134081 2140094 | 102902 96872 | 6014 6031 | 96.7 | sim5M Consensus_utg000004l
+			Skipping alignment 1836267 1841684 | 102306 96872 | 5418 5435 | 95.9 | sim5M Consensus_utg000004l
+			Skipping alignment 2509325 2514585 | 816443 811166 | 5261 5278 | 96.72 | sim5M Consensus_utg000004l
+			Skipping alignment 2134832 2140074 | 816443 811187 | 5243 5257 | 96.67 | sim5M Consensus_utg000004l
+			Skipping alignment 1836423 1841682 | 816445 811166 | 5260 5280 | 96.17 | sim5M Consensus_utg000004l
+			Skipping alignment 2134834 2139635 | 142435 137637 | 4802 4799 | 95.05 | sim5M Consensus_utg000004l
+			Skipping alignment 2135181 2139795 | 124504 119875 | 4615 4630 | 95.55 | sim5M Consensus_utg000004l
+			Skipping alignment 2509674 2514288 | 124504 119875 | 4615 4630 | 95.44 | sim5M Consensus_utg000004l
+			Skipping alignment 3521125 3525447 | 815511 811162 | 4323 4350 | 96.0 | sim5M Consensus_utg000004l
+			Skipping alignment 3521125 3525444 | 101213 96873 | 4320 4341 | 96.18 | sim5M Consensus_utg000004l
+			Skipping alignment 1838348 1841669 | 1326291 1329617 | 3322 3327 | 95.98 | sim5M Consensus_utg000004l
+			Skipping alignment 2136756 2140083 | 1326291 1329619 | 3328 3329 | 95.78 | sim5M Consensus_utg000004l
+			Skipping alignment 2511249 2514570 | 1326291 1329613 | 3322 3323 | 95.77 | sim5M Consensus_utg000004l
+			Skipping alignment 1729383 1732702 | 814516 811184 | 3320 3333 | 95.36 | sim5M Consensus_utg000004l
+			Skipping alignment 1215467 1218790 | 1329613 1326291 | 3324 3323 | 95.53 | sim5M Consensus_utg000004l
+			Skipping alignment 1729382 1732708 | 100218 96882 | 3327 3337 | 95.07 | sim5M Consensus_utg000004l
+			Skipping alignment 502958 506286 | 1329619 1326290 | 3329 3330 | 95.21 | sim5M Consensus_utg000004l
+			Skipping alignment 2511907 2514581 | 212613 209940 | 2675 2674 | 96.9 | sim5M Consensus_utg000004l
+			Skipping alignment 2137414 2140087 | 212613 209939 | 2674 2675 | 96.57 | sim5M Consensus_utg000004l
+			Skipping alignment 1839006 1841678 | 212613 209940 | 2673 2674 | 96.34 | sim5M Consensus_utg000004l
+			Skipping alignment 3522770 3525442 | 212613 209934 | 2673 2680 | 95.83 | sim5M Consensus_utg000004l
+			Skipping alignment 2136768 2139192 | 1032850 1030416 | 2425 2435 | 96.67 | sim5M Consensus_utg000004l
+			Skipping alignment 2511261 2513685 | 1032850 1030416 | 2425 2435 | 96.67 | sim5M Consensus_utg000004l
+			Skipping alignment 1838360 1840780 | 1032850 1030416 | 2421 2435 | 95.85 | sim5M Consensus_utg000004l
+			Skipping alignment 3522126 3524543 | 1032850 1030416 | 2418 2435 | 95.73 | sim5M Consensus_utg000004l
+			Skipping alignment 1729395 1731813 | 1032850 1030416 | 2419 2435 | 95.52 | sim5M Consensus_utg000004l
+			Skipping alignment 1434271 1436695 | 1328724 1326303 | 2425 2422 | 95.76 | sim5M Consensus_utg000004l
+			Skipping alignment 3433207 3435628 | 811166 813595 | 2422 2430 | 95.07 | sim5M Consensus_utg000004l
+			Skipping alignment 3433211 3435628 | 209938 212353 | 2418 2416 | 95.42 | sim5M Consensus_utg000004l
+			Skipping alignment 3519115 3520828 | 102926 101204 | 1714 1723 | 95.3 | sim5M Consensus_utg000004l
+			Skipping alignment 3434110 3435628 | 1030416 1031940 | 1519 1525 | 95.21 | sim5M Consensus_utg000004l
+			Skipping alignment 3813928 3815350 | 123914 122483 | 1423 1432 | 96.03 | sim5M Consensus_utg000004l
+			Skipping alignment 3813935 3815350 | 101199 99780 | 1416 1420 | 96.76 | sim5M Consensus_utg000004l
+			Skipping alignment 3813935 3815350 | 815497 814077 | 1416 1421 | 96.69 | sim5M Consensus_utg000004l
+			Skipping alignment 3813936 3815349 | 141494 140074 | 1414 1421 | 95.92 | sim5M Consensus_utg000004l
+			Skipping alignment 2136856 2138166 | 313050 314362 | 1311 1313 | 97.18 | sim5M Consensus_utg000004l
+			Skipping alignment 2511349 2512659 | 313050 314362 | 1311 1313 | 97.18 | sim5M Consensus_utg000004l
+			Skipping alignment 504875 506185 | 314362 313050 | 1311 1313 | 97.11 | sim5M Consensus_utg000004l
+			Skipping alignment 718601 719911 | 100117 98804 | 1311 1314 | 97.03 | sim5M Consensus_utg000004l
+			Skipping alignment 3522214 3523522 | 313050 314362 | 1309 1313 | 97.03 | sim5M Consensus_utg000004l
+			Skipping alignment 718601 719911 | 814415 813101 | 1311 1315 | 96.81 | sim5M Consensus_utg000004l
+			Skipping alignment 1217378 1218690 | 314362 313050 | 1313 1313 | 96.81 | sim5M Consensus_utg000004l
+			Skipping alignment 1838448 1839757 | 313050 314362 | 1310 1313 | 96.8 | sim5M Consensus_utg000004l
+			Skipping alignment 545063 546369 | 314358 313050 | 1307 1309 | 96.41 | sim5M Consensus_utg000004l
+			Skipping alignment 718601 719911 | 1032762 1031446 | 1311 1317 | 95.6 | sim5M Consensus_utg000004l
+			Skipping alignment 1435297 1436607 | 314362 313050 | 1311 1313 | 95.89 | sim5M Consensus_utg000004l
+			Skipping alignment 718601 719905 | 122820 121515 | 1305 1306 | 96.17 | sim5M Consensus_utg000004l
+			Skipping alignment 527526 528831 | 314356 313050 | 1306 1307 | 96.02 | sim5M Consensus_utg000004l
+			Skipping alignment 2137435 2138576 | 1144082 1142936 | 1142 1147 | 95.73 | sim5M Consensus_utg000004l
+			Skipping alignment 2511928 2513069 | 1144082 1142936 | 1142 1147 | 95.73 | sim5M Consensus_utg000004l
+			Skipping alignment 4956694 4957829 | 96881 98018 | 1136 1138 | 96.14 | sim5M Consensus_utg000004l
+			Skipping alignment 4956698 4957829 | 811181 812314 | 1132 1134 | 96.21 | sim5M Consensus_utg000004l
+			Skipping alignment 1546529 1547671 | 1328107 1326970 | 1143 1138 | 95.02 | sim5M Consensus_utg000004l
+			Skipping alignment 4956697 4957829 | 209949 211075 | 1133 1127 | 95.86 | sim5M Consensus_utg000004l
+			Skipping alignment 4070115 4071124 | 812237 811218 | 1010 1020 | 95.1 | sim5M Consensus_utg000004l
+			Skipping alignment 3814152 3815171 | 70421 69402 | 1020 1020 | 95.0 | sim5M Consensus_utg000004l
+			Skipping alignment 4070115 4071118 | 97941 96929 | 1004 1013 | 95.16 | sim5M Consensus_utg000004l
+			Skipping alignment 718601 719579 | 140410 139427 | 979 984 | 96.04 | sim5M Consensus_utg000004l
+			Skipping alignment 198349 199301 | 210894 209938 | 953 957 | 95.62 | sim5M Consensus_utg000004l
+			Skipping alignment 3911787 3912730 | 98038 97094 | 944 945 | 96.41 | sim5M Consensus_utg000004l
+			Skipping alignment 3911787 3912728 | 812334 811391 | 942 944 | 96.4 | sim5M Consensus_utg000004l
+			Skipping alignment 3911787 3912730 | 211095 210159 | 944 937 | 96.29 | sim5M Consensus_utg000004l
+			Skipping alignment 3519888 3520828 | 816443 815502 | 941 942 | 95.65 | sim5M Consensus_utg000004l
+			Skipping alignment 3911787 3912730 | 1328462 1329400 | 944 939 | 95.23 | sim5M Consensus_utg000004l
+			Skipping alignment 2513688 2514582 | 1032851 1033745 | 895 895 | 95.98 | sim5M Consensus_utg000004l
+			Skipping alignment 2139195 2140087 | 1032851 1033744 | 893 894 | 95.97 | sim5M Consensus_utg000004l
+			Skipping alignment 502955 503846 | 1033744 1032851 | 892 894 | 95.53 | sim5M Consensus_utg000004l
+			Skipping alignment 1436696 1437588 | 97773 96879 | 893 895 | 95.31 | sim5M Consensus_utg000004l
+			Skipping alignment 4956694 4957583 | 1033742 1032851 | 890 892 | 95.63 | sim5M Consensus_utg000004l
+			Skipping alignment 615739 616635 | 1033744 1032851 | 897 894 | 95.22 | sim5M Consensus_utg000004l
+			Skipping alignment 3524546 3525438 | 1032851 1033744 | 893 894 | 95.2 | sim5M Consensus_utg000004l
+			Skipping alignment 1840784 1841660 | 1032852 1033729 | 877 878 | 95.79 | sim5M Consensus_utg000004l
+			Skipping alignment 1215472 1216349 | 1033729 1032851 | 878 879 | 95.45 | sim5M Consensus_utg000004l
+			Skipping alignment 1436696 1437573 | 812069 811189 | 878 881 | 95.23 | sim5M Consensus_utg000004l
+			Skipping alignment 2513776 2514587 | 313055 312240 | 812 816 | 96.33 | sim5M Consensus_utg000004l
+			Skipping alignment 1840871 1841686 | 313055 312240 | 816 816 | 95.48 | sim5M Consensus_utg000004l
+			Skipping alignment 3524634 3525444 | 313055 312241 | 811 815 | 95.09 | sim5M Consensus_utg000004l
+			Skipping alignment 2139283 2140079 | 313055 312258 | 797 798 | 96.62 | sim5M Consensus_utg000004l
+			Skipping alignment 717810 718606 | 1033737 1032939 | 797 799 | 96.12 | sim5M Consensus_utg000004l
+			Skipping alignment 1436784 1437581 | 313055 312258 | 798 798 | 96.12 | sim5M Consensus_utg000004l
+			Skipping alignment 4956701 4957495 | 312259 313055 | 795 797 | 96.11 | sim5M Consensus_utg000004l
+			Skipping alignment 198496 199283 | 313055 312263 | 788 793 | 95.59 | sim5M Consensus_utg000004l
+			Skipping alignment 3433244 3434019 | 312279 313055 | 776 777 | 95.12 | sim5M Consensus_utg000004l
+			Skipping alignment 617660 618412 | 314362 313609 | 753 754 | 98.01 | sim5M Consensus_utg000004l
+			Skipping alignment 719159 719911 | 212613 211860 | 753 754 | 98.01 | sim5M Consensus_utg000004l
+			Skipping alignment 1546940 1547671 | 314362 313630 | 732 733 | 95.23 | sim5M Consensus_utg000004l
+			Skipping alignment 2246915 2247639 | 812263 811540 | 725 724 | 95.33 | sim5M Consensus_utg000004l
+			Skipping alignment 197683 198350 | 138134 138807 | 668 674 | 95.85 | sim5M Consensus_utg000004l
+			Skipping alignment 197683 198350 | 812141 812810 | 668 670 | 96.27 | sim5M Consensus_utg000004l
+			Skipping alignment 197683 198350 | 97845 98512 | 668 668 | 96.41 | sim5M Consensus_utg000004l
+			Skipping alignment 197683 198350 | 1030487 1031156 | 668 670 | 95.97 | sim5M Consensus_utg000004l
+			Skipping alignment 4091441 4092107 | 635214 634549 | 667 666 | 96.1 | sim5M Consensus_utg000004l
+			Skipping alignment 197683 198347 | 72527 71859 | 665 669 | 95.22 | sim5M Consensus_utg000004l
+			Skipping alignment 198534 199202 | 635214 634547 | 669 668 | 95.22 | sim5M Consensus_utg000004l
+			Skipping alignment 197683 198350 | 1328655 1327987 | 668 669 | 95.07 | sim5M Consensus_utg000004l
+			Skipping alignment 197683 198350 | 210907 211569 | 668 663 | 95.36 | sim5M Consensus_utg000004l
+			Skipping alignment 4831627 4832284 | 210598 209940 | 658 659 | 95.3 | sim5M Consensus_utg000004l
+			Skipping alignment 4831627 4832268 | 312905 312263 | 642 643 | 95.02 | sim5M Consensus_utg000004l
+			Skipping alignment 3912146 3912730 | 313050 312465 | 585 586 | 96.42 | sim5M Consensus_utg000004l
+			Skipping alignment 4090803 4091344 | 72085 72628 | 542 544 | 95.04 | sim5M Consensus_utg000004l
+			Skipping alignment 1436696 1437222 | 210835 210310 | 527 526 | 95.64 | sim5M Consensus_utg000004l
+			Skipping alignment 3151461 3151976 | 210061 210576 | 516 516 | 96.51 | sim5M Consensus_utg000004l
+			Skipping alignment 3151461 3151976 | 312367 312883 | 516 517 | 96.32 | sim5M Consensus_utg000004l
+			Skipping alignment 3151461 3151976 | 1033627 1033111 | 516 517 | 95.74 | sim5M Consensus_utg000004l
+			Skipping alignment 3151461 3151973 | 811291 811804 | 513 514 | 95.72 | sim5M Consensus_utg000004l
+			Skipping alignment 4831126 4831626 | 811902 812410 | 501 509 | 96.27 | sim5M Consensus_utg000004l
+			Skipping alignment 4831126 4831626 | 210671 211171 | 501 501 | 97.41 | sim5M Consensus_utg000004l
+			Skipping alignment 4831126 4831626 | 97608 98114 | 501 507 | 96.06 | sim5M Consensus_utg000004l
+			Skipping alignment 4831126 4831626 | 1328888 1328386 | 501 503 | 95.27 | sim5M Consensus_utg000004l
+			Skipping alignment 3435140 3435628 | 314358 313869 | 489 490 | 97.14 | sim5M Consensus_utg000004l
+			Skipping alignment 2200339 2200823 | 811651 811166 | 485 486 | 95.27 | sim5M Consensus_utg000004l
+			Skipping alignment 2200339 2200821 | 210420 209937 | 483 484 | 95.26 | sim5M Consensus_utg000004l
+			Skipping alignment 2200339 2200802 | 312727 312263 | 464 465 | 95.48 | sim5M Consensus_utg000004l
+			Skipping alignment 3814914 3815351 | 1326291 1326728 | 438 438 | 97.03 | sim5M Consensus_utg000004l
+			Skipping alignment 2247201 2247639 | 313055 312616 | 439 440 | 96.14 | sim5M Consensus_utg000004l
+			Skipping alignment 3814926 3815350 | 1032850 1032426 | 425 425 | 97.65 | sim5M Consensus_utg000004l
+			Skipping alignment 2247238 2247639 | 635214 634813 | 402 402 | 96.52 | sim5M Consensus_utg000004l
+			Skipping alignment 2994954 2995337 | 953014 952626 | 384 389 | 95.89 | sim5M Consensus_utg000004l
+			Skipping alignment 4051036 4051424 | 314356 313967 | 389 390 | 95.64 | sim5M Consensus_utg000004l
+			Skipping alignment 2994954 2995337 | 1329194 1328808 | 384 387 | 96.12 | sim5M Consensus_utg000004l
+			Skipping alignment 2994954 2995337 | 210365 210750 | 384 386 | 95.61 | sim5M Consensus_utg000004l
+			Skipping alignment 2994954 2995337 | 1033322 1032936 | 384 387 | 95.09 | sim5M Consensus_utg000004l
+			Skipping alignment 3815014 3815350 | 313050 313387 | 337 338 | 97.93 | sim5M Consensus_utg000004l
+			Skipping alignment 4831293 4831626 | 1030416 1030756 | 334 341 | 95.01 | sim5M Consensus_utg000004l
+			Skipping alignment 3814602 3814930 | 1326294 1325966 | 329 329 | 97.57 | sim5M Consensus_utg000004l
+			Skipping alignment 2510937 2511265 | 1326294 1325966 | 329 329 | 97.26 | sim5M Consensus_utg000004l
+			Skipping alignment 2136444 2136772 | 1326294 1325966 | 329 329 | 96.66 | sim5M Consensus_utg000004l
+			Skipping alignment 2562828 2563144 | 518113 517797 | 317 317 | 98.43 | sim5M Consensus_utg000004l
+			Skipping alignment 2646170 2646483 | 517794 518108 | 314 315 | 98.41 | sim5M Consensus_utg000004l
+			Skipping alignment 3923458 3923773 | 696633 696312 | 316 322 | 95.05 | sim5M Consensus_utg000004l
+			Skipping alignment 3908265 3908575 | 518107 517797 | 311 311 | 98.4 | sim5M Consensus_utg000004l
+			Skipping alignment 3923458 3923775 | 517797 518113 | 318 317 | 95.92 | sim5M Consensus_utg000004l
+			Skipping alignment 2222580 2222893 | 340687 340378 | 314 310 | 97.45 | sim5M Consensus_utg000004l
+			Skipping alignment 2222582 2222893 | 518105 517797 | 312 309 | 97.76 | sim5M Consensus_utg000004l
+			Skipping alignment 2877384 2877690 | 340378 340685 | 307 308 | 98.05 | sim5M Consensus_utg000004l
+			Skipping alignment 82383 82685 | 696631 696320 | 303 312 | 96.47 | sim5M Consensus_utg000004l
+			Skipping alignment 2562841 2563144 | 340680 340378 | 304 303 | 99.01 | sim5M Consensus_utg000004l
+			Skipping alignment 3908272 3908577 | 340680 340376 | 306 305 | 98.04 | sim5M Consensus_utg000004l
+			Skipping alignment 2646173 2646475 | 340378 340680 | 303 303 | 98.68 | sim5M Consensus_utg000004l
+			Skipping alignment 2877384 2877687 | 517797 518101 | 304 305 | 98.03 | sim5M Consensus_utg000004l
+			Skipping alignment 3923458 3923764 | 340378 340682 | 307 305 | 97.07 | sim5M Consensus_utg000004l
+			Skipping alignment 82383 82685 | 517799 518102 | 303 304 | 97.04 | sim5M Consensus_utg000004l
+			Skipping alignment 98385 98687 | 340672 340372 | 303 301 | 97.37 | sim5M Consensus_utg000004l
+			Skipping alignment 82383 82683 | 340380 340680 | 301 301 | 97.34 | sim5M Consensus_utg000004l
+			Skipping alignment 98385 98682 | 518092 517797 | 298 296 | 97.65 | sim5M Consensus_utg000004l
+			Skipping alignment 3520827 3521125 | 340673 340378 | 299 296 | 95.32 | sim5M Consensus_utg000004l
+			Skipping alignment 4875454 4875717 | 517834 518098 | 264 265 | 98.87 | sim5M Consensus_utg000004l
+			Skipping alignment 4875454 4875717 | 340415 340678 | 264 264 | 98.48 | sim5M Consensus_utg000004l
+			Skipping alignment 3911787 3912050 | 1030680 1030416 | 264 265 | 97.37 | sim5M Consensus_utg000004l
+			Skipping alignment 4957586 4957829 | 1030416 1030660 | 244 245 | 97.56 | sim5M Consensus_utg000004l
+			Skipping alignment 2740854 2741093 | 1033742 1033502 | 240 241 | 95.85 | sim5M Consensus_utg000004l
+			Skipping alignment 3435632 3435864 | 813847 813614 | 233 234 | 96.15 | sim5M Consensus_utg000004l
+			Skipping alignment 3435632 3435864 | 139842 139609 | 233 234 | 95.73 | sim5M Consensus_utg000004l
+			Skipping alignment 3435632 3435864 | 122253 122020 | 233 234 | 95.73 | sim5M Consensus_utg000004l
+			Skipping alignment 2740864 2741093 | 811187 811416 | 230 230 | 95.22 | sim5M Consensus_utg000004l
+			Skipping alignment 3448294 3448505 | 1030630 1030416 | 212 215 | 95.81 | sim5M Consensus_utg000004l
+			Skipping alignment 4743090 4743294 | 1030622 1030416 | 205 207 | 95.65 | sim5M Consensus_utg000004l
+			Skipping alignment 3911587 3911788 | 811165 811369 | 202 205 | 95.61 | sim5M Consensus_utg000004l
+			Skipping alignment 2200658 2200824 | 484292 484124 | 167 169 | 96.45 | sim5M Consensus_utg000004l
+			Skipping alignment 1841519 1841688 | 484291 484124 | 170 168 | 95.88 | sim5M Consensus_utg000004l
+			Skipping alignment 1417540 1417703 | 634711 634547 | 164 165 | 95.76 | sim5M Consensus_utg000004l
+			Skipping alignment 1039263 1039427 | 1013815 1013652 | 165 164 | 95.76 | sim5M Consensus_utg000004l
+			Skipping alignment 3525279 3525439 | 484293 484132 | 161 162 | 95.06 | sim5M Consensus_utg000004l
+			Skipping alignment 889245 889389 | 1033729 1033585 | 145 145 | 98.62 | sim5M Consensus_utg000004l
+			Skipping alignment 1437429 1437573 | 484294 484150 | 145 145 | 98.62 | sim5M Consensus_utg000004l
+			Skipping alignment 4956707 4956851 | 484150 484294 | 145 145 | 97.24 | sim5M Consensus_utg000004l
+			Skipping alignment 2740864 2741001 | 484148 484285 | 138 138 | 97.83 | sim5M Consensus_utg000004l
+			Skipping alignment 1437454 1437584 | 828478 828347 | 131 132 | 96.99 | sim5M Consensus_utg000004l
+			Skipping alignment 1232590 1232720 | 1033740 1033610 | 131 131 | 97.73 | sim5M Consensus_utg000004l
+			Skipping alignment 3151975 3152102 | 811293 811166 | 128 128 | 95.35 | sim5M Consensus_utg000004l
+			Skipping alignment 681270 681381 | 278245 278132 | 112 114 | 98.25 | sim5M Consensus_utg000004l
+			Skipping alignment 683760 683871 | 275746 275635 | 112 112 | 100.0 | sim5M Consensus_utg000004l
+			Skipping alignment 292356 292456 | 767242 767142 | 101 101 | 96.04 | sim5M Consensus_utg000004l
+			Skipping alignment 157531 157627 | 767142 767238 | 97 97 | 98.97 | sim5M Consensus_utg000004l
+			Skipping alignment 73031 73123 | 811264 811172 | 93 93 | 95.7 | sim5M Consensus_utg000004l
+			Skipping alignment 73031 73120 | 484225 484134 | 90 92 | 96.74 | sim5M Consensus_utg000004l
+			Skipping alignment 2960156 2960243 | 1033655 1033743 | 88 89 | 96.63 | sim5M Consensus_utg000004l
+			Skipping alignment 73031 73112 | 210033 209952 | 82 82 | 98.78 | sim5M Consensus_utg000004l
+			Skipping alignment 3325684 3325757 | 936828 936901 | 74 74 | 98.65 | sim5M Consensus_utg000004l
+			Skipping alignment 3325686 3325752 | 936826 936892 | 67 67 | 100.0 | sim5M Consensus_utg000004l
+		One align captures most of this contig: 406305 1744573 | 1 1341548 | 1338269 1341548 | 99.75 | sim5M Consensus_utg000004l
+
+CONTIG: Consensus_utg000005l (704173bp)
+Best alignment score: 701563.6 (LEN: 704169, IDY: 99.63), Total number of alignments: 66
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 3813935 3815345 | 678041 676633 | 1411 1409 | 95.12 | sim5M Consensus_utg000005l
+			Skipping alignment 2513443 2514584 | 664221 663081 | 1142 1141 | 97.12 | sim5M Consensus_utg000005l
+			Skipping alignment 2138950 2140086 | 664221 663084 | 1137 1138 | 96.84 | sim5M Consensus_utg000005l
+			Skipping alignment 502956 504091 | 663084 664221 | 1136 1138 | 96.31 | sim5M Consensus_utg000005l
+			Skipping alignment 1840538 1841669 | 664221 663088 | 1132 1134 | 96.56 | sim5M Consensus_utg000005l
+			Skipping alignment 1215464 1216594 | 663089 664221 | 1131 1133 | 96.38 | sim5M Consensus_utg000005l
+			Skipping alignment 3524301 3525436 | 664221 663084 | 1136 1138 | 95.79 | sim5M Consensus_utg000005l
+			Skipping alignment 615750 616875 | 663088 664221 | 1126 1134 | 95.86 | sim5M Consensus_utg000005l
+			Skipping alignment 4070115 4071124 | 664143 663127 | 1010 1017 | 95.78 | sim5M Consensus_utg000005l
+			Skipping alignment 198349 199291 | 664034 663087 | 943 948 | 95.47 | sim5M Consensus_utg000005l
+			Skipping alignment 3911808 3912730 | 664221 663299 | 923 923 | 96.97 | sim5M Consensus_utg000005l
+			Skipping alignment 1436696 1437587 | 663975 663084 | 892 892 | 95.63 | sim5M Consensus_utg000005l
+			Skipping alignment 717811 718606 | 663092 663887 | 796 796 | 96.11 | sim5M Consensus_utg000005l
+			Skipping alignment 2246915 2247639 | 664169 663449 | 725 721 | 95.04 | sim5M Consensus_utg000005l
+			Skipping alignment 198646 199306 | 537683 538346 | 661 664 | 96.09 | sim5M Consensus_utg000005l
+			Skipping alignment 2139433 2140092 | 537683 538346 | 660 664 | 95.03 | sim5M Consensus_utg000005l
+			Skipping alignment 615740 616398 | 538341 537683 | 659 659 | 95.45 | sim5M Consensus_utg000005l
+			Skipping alignment 1841021 1841678 | 537683 538340 | 658 658 | 95.59 | sim5M Consensus_utg000005l
+			Skipping alignment 1215453 1216111 | 538340 537683 | 659 658 | 95.14 | sim5M Consensus_utg000005l
+			Skipping alignment 2513926 2514581 | 537683 538340 | 656 658 | 95.14 | sim5M Consensus_utg000005l
+			Skipping alignment 3151461 3151976 | 538220 537705 | 516 516 | 96.12 | sim5M Consensus_utg000005l
+			Skipping alignment 3151461 3151976 | 663200 663715 | 516 516 | 95.55 | sim5M Consensus_utg000005l
+			Skipping alignment 616471 616971 | 537182 537682 | 501 501 | 97.41 | sim5M Consensus_utg000005l
+			Skipping alignment 3009112 3009621 | 449124 448614 | 510 511 | 95.5 | sim5M Consensus_utg000005l
+			Skipping alignment 4090819 4091329 | 448614 449124 | 511 511 | 95.5 | sim5M Consensus_utg000005l
+			Skipping alignment 1216335 1216845 | 449124 448614 | 511 511 | 95.3 | sim5M Consensus_utg000005l
+			Skipping alignment 2513347 2513853 | 537682 537182 | 507 501 | 97.04 | sim5M Consensus_utg000005l
+			Skipping alignment 544020 544530 | 449124 448614 | 511 511 | 95.11 | sim5M Consensus_utg000005l
+			Skipping alignment 1216184 1216690 | 537182 537682 | 507 501 | 96.65 | sim5M Consensus_utg000005l
+			Skipping alignment 1840442 1840948 | 537682 537182 | 507 501 | 96.25 | sim5M Consensus_utg000005l
+			Skipping alignment 2138854 2139360 | 537682 537182 | 507 501 | 96.25 | sim5M Consensus_utg000005l
+			Skipping alignment 503681 504187 | 537182 537682 | 507 501 | 96.06 | sim5M Consensus_utg000005l
+			Skipping alignment 3433941 3434448 | 537182 537682 | 508 501 | 95.87 | sim5M Consensus_utg000005l
+			Skipping alignment 3524206 3524711 | 537682 537182 | 506 501 | 95.66 | sim5M Consensus_utg000005l
+			Skipping alignment 1731475 1731977 | 537682 537182 | 503 501 | 95.27 | sim5M Consensus_utg000005l
+			Skipping alignment 2200339 2200814 | 663560 663084 | 476 477 | 95.21 | sim5M Consensus_utg000005l
+			Skipping alignment 543901 544375 | 537214 537682 | 475 469 | 96.0 | sim5M Consensus_utg000005l
+			Skipping alignment 3912291 3912730 | 537683 538122 | 440 440 | 96.82 | sim5M Consensus_utg000005l
+			Skipping alignment 3911788 3912218 | 537605 537182 | 431 424 | 96.06 | sim5M Consensus_utg000005l
+			Skipping alignment 2994954 2995337 | 663505 663890 | 384 386 | 95.61 | sim5M Consensus_utg000005l
+			Skipping alignment 3448294 3448673 | 537556 537182 | 380 375 | 95.79 | sim5M Consensus_utg000005l
+			Skipping alignment 1434271 1434609 | 537349 537682 | 339 334 | 95.58 | sim5M Consensus_utg000005l
+			Skipping alignment 4070115 4070448 | 537509 537182 | 334 328 | 96.71 | sim5M Consensus_utg000005l
+			Skipping alignment 82383 82676 | 635748 636041 | 294 294 | 95.95 | sim5M Consensus_utg000005l
+			Skipping alignment 3911787 3912067 | 448845 449124 | 281 280 | 95.37 | sim5M Consensus_utg000005l
+			Skipping alignment 478483 478757 | 664221 663946 | 275 276 | 95.29 | sim5M Consensus_utg000005l
+			Skipping alignment 922825 923088 | 581605 581868 | 264 264 | 99.24 | sim5M Consensus_utg000005l
+			Skipping alignment 2562843 2563107 | 581868 581605 | 265 264 | 98.87 | sim5M Consensus_utg000005l
+			Skipping alignment 2646210 2646473 | 581605 581868 | 264 264 | 98.86 | sim5M Consensus_utg000005l
+			Skipping alignment 745891 746154 | 581605 581868 | 264 264 | 98.48 | sim5M Consensus_utg000005l
+			Skipping alignment 2877421 2877684 | 581605 581868 | 264 264 | 98.11 | sim5M Consensus_utg000005l
+			Skipping alignment 2222589 2222856 | 581868 581605 | 268 264 | 97.76 | sim5M Consensus_utg000005l
+			Skipping alignment 3908274 3908538 | 581868 581605 | 265 264 | 97.74 | sim5M Consensus_utg000005l
+			Skipping alignment 3923495 3923760 | 581605 581868 | 266 264 | 96.62 | sim5M Consensus_utg000005l
+			Skipping alignment 98385 98645 | 581862 581605 | 261 258 | 98.08 | sim5M Consensus_utg000005l
+			Skipping alignment 4743057 4743311 | 664215 663961 | 255 255 | 96.86 | sim5M Consensus_utg000005l
+			Skipping alignment 4957569 4957823 | 449124 448870 | 255 255 | 96.86 | sim5M Consensus_utg000005l
+			Skipping alignment 1434271 1434513 | 663978 664221 | 243 244 | 98.36 | sim5M Consensus_utg000005l
+			Skipping alignment 3448294 3448522 | 448895 449124 | 229 230 | 95.65 | sim5M Consensus_utg000005l
+			Skipping alignment 4861995 4862191 | 449124 448928 | 197 197 | 96.95 | sim5M Consensus_utg000005l
+			Skipping alignment 4743115 4743311 | 568319 568122 | 197 198 | 96.46 | sim5M Consensus_utg000005l
+			Skipping alignment 4070115 4070297 | 448942 449124 | 183 183 | 96.17 | sim5M Consensus_utg000005l
+			Skipping alignment 889245 889389 | 663098 663243 | 145 146 | 96.58 | sim5M Consensus_utg000005l
+			Skipping alignment 197683 197793 | 568208 568319 | 111 112 | 95.54 | sim5M Consensus_utg000005l
+			Skipping alignment 197683 197783 | 664047 664147 | 101 101 | 100.0 | sim5M Consensus_utg000005l
+		One align captures most of this contig: 4295638 4997661 | 1 704169 | 702024 704169 | 99.63 | sim5M Consensus_utg000005l
+
+CONTIG: Consensus_utg000006l (307105bp)
+Best alignment score: 306333.2 (LEN: 307101, IDY: 99.75), Total number of alignments: 75
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2513629 2514602 | 151638 150666 | 974 973 | 95.4 | sim5M Consensus_utg000006l
+			Skipping alignment 1840724 1841688 | 151638 150674 | 965 965 | 95.67 | sim5M Consensus_utg000006l
+			Skipping alignment 2139136 2140102 | 151638 150674 | 967 965 | 95.25 | sim5M Consensus_utg000006l
+			Skipping alignment 615739 616694 | 150684 151638 | 956 955 | 95.52 | sim5M Consensus_utg000006l
+			Skipping alignment 3433206 3434161 | 150679 151633 | 956 955 | 95.31 | sim5M Consensus_utg000006l
+			Skipping alignment 4956696 4957642 | 150694 151638 | 947 945 | 95.37 | sim5M Consensus_utg000006l
+			Skipping alignment 4070224 4071124 | 151638 150733 | 901 906 | 95.38 | sim5M Consensus_utg000006l
+			Skipping alignment 717815 718606 | 150702 151491 | 792 790 | 95.47 | sim5M Consensus_utg000006l
+			Skipping alignment 3911994 3912730 | 151638 150900 | 737 739 | 96.08 | sim5M Consensus_utg000006l
+			Skipping alignment 2246917 2247639 | 282571 281850 | 723 722 | 95.18 | sim5M Consensus_utg000006l
+			Skipping alignment 544106 544773 | 152305 151637 | 668 669 | 96.41 | sim5M Consensus_utg000006l
+			Skipping alignment 1216421 1217088 | 152305 151637 | 668 669 | 96.41 | sim5M Consensus_utg000006l
+			Skipping alignment 2512949 2513616 | 151637 152305 | 668 669 | 96.41 | sim5M Consensus_utg000006l
+			Skipping alignment 503918 504585 | 152305 151637 | 668 669 | 96.26 | sim5M Consensus_utg000006l
+			Skipping alignment 2138456 2139123 | 151637 152305 | 668 669 | 96.26 | sim5M Consensus_utg000006l
+			Skipping alignment 1434340 1435007 | 152305 151637 | 668 669 | 96.11 | sim5M Consensus_utg000006l
+			Skipping alignment 1840047 1840711 | 151637 152305 | 665 669 | 95.37 | sim5M Consensus_utg000006l
+			Skipping alignment 477992 478656 | 151640 152305 | 665 666 | 95.65 | sim5M Consensus_utg000006l
+			Skipping alignment 616707 617369 | 152305 151637 | 663 669 | 95.22 | sim5M Consensus_utg000006l
+			Skipping alignment 1731077 1731744 | 151637 152305 | 668 669 | 95.07 | sim5M Consensus_utg000006l
+			Skipping alignment 4831627 4832289 | 151341 150680 | 663 662 | 95.8 | sim5M Consensus_utg000006l
+			Skipping alignment 1039275 1039921 | 281598 282242 | 647 645 | 95.22 | sim5M Consensus_utg000006l
+			Skipping alignment 3151461 3151976 | 150802 151319 | 516 518 | 96.53 | sim5M Consensus_utg000006l
+			Skipping alignment 526563 527051 | 152305 151816 | 489 490 | 95.51 | sim5M Consensus_utg000006l
+			Skipping alignment 2994954 2995337 | 281906 282294 | 384 389 | 95.89 | sim5M Consensus_utg000006l
+			Skipping alignment 2994954 2995337 | 151107 151494 | 384 388 | 95.88 | sim5M Consensus_utg000006l
+			Skipping alignment 181990 182312 | 65424 65745 | 323 322 | 98.14 | sim5M Consensus_utg000006l
+			Skipping alignment 284044 284364 | 167725 168046 | 321 322 | 98.14 | sim5M Consensus_utg000006l
+			Skipping alignment 2370328 2370635 | 167737 168045 | 308 309 | 97.73 | sim5M Consensus_utg000006l
+			Skipping alignment 2370328 2370635 | 65732 65425 | 308 308 | 97.73 | sim5M Consensus_utg000006l
+			Skipping alignment 2562839 2563142 | 267576 267879 | 304 304 | 97.38 | sim5M Consensus_utg000006l
+			Skipping alignment 745848 746148 | 251540 251842 | 301 303 | 97.37 | sim5M Consensus_utg000006l
+			Skipping alignment 922790 923092 | 267879 267576 | 303 304 | 97.04 | sim5M Consensus_utg000006l
+			Skipping alignment 2646175 2646477 | 267879 267576 | 303 304 | 97.04 | sim5M Consensus_utg000006l
+			Skipping alignment 1895991 1896289 | 167710 168009 | 299 300 | 98.33 | sim5M Consensus_utg000006l
+			Skipping alignment 3923460 3923762 | 267879 267578 | 303 302 | 97.37 | sim5M Consensus_utg000006l
+			Skipping alignment 2562849 2563144 | 251842 251545 | 296 298 | 98.66 | sim5M Consensus_utg000006l
+			Skipping alignment 2222585 2222891 | 267576 267879 | 307 304 | 96.43 | sim5M Consensus_utg000006l
+			Skipping alignment 1100867 1101178 | 267576 267879 | 312 304 | 96.17 | sim5M Consensus_utg000006l
+			Skipping alignment 2877384 2877678 | 251545 251842 | 295 298 | 97.99 | sim5M Consensus_utg000006l
+			Skipping alignment 3908280 3908576 | 251842 251544 | 297 299 | 97.66 | sim5M Consensus_utg000006l
+			Skipping alignment 745856 746155 | 267879 267579 | 300 301 | 97.01 | sim5M Consensus_utg000006l
+			Skipping alignment 922788 923082 | 251545 251842 | 295 298 | 97.65 | sim5M Consensus_utg000006l
+			Skipping alignment 2646173 2646467 | 251545 251842 | 295 298 | 97.65 | sim5M Consensus_utg000006l
+			Skipping alignment 2222595 2222893 | 251842 251545 | 299 298 | 97.02 | sim5M Consensus_utg000006l
+			Skipping alignment 129576 129875 | 267576 267876 | 300 301 | 96.03 | sim5M Consensus_utg000006l
+			Skipping alignment 82386 82685 | 220265 220564 | 300 300 | 96.35 | sim5M Consensus_utg000006l
+			Skipping alignment 3923458 3923754 | 251545 251842 | 297 298 | 96.99 | sim5M Consensus_utg000006l
+			Skipping alignment 82383 82675 | 251547 251842 | 293 296 | 96.28 | sim5M Consensus_utg000006l
+			Skipping alignment 2009283 2009581 | 267877 267580 | 299 298 | 95.33 | sim5M Consensus_utg000006l
+			Skipping alignment 4929433 4929725 | 267879 267585 | 293 295 | 95.95 | sim5M Consensus_utg000006l
+			Skipping alignment 113807 114097 | 234072 234367 | 291 296 | 95.61 | sim5M Consensus_utg000006l
+			Skipping alignment 1896005 1896289 | 65745 65461 | 285 285 | 98.6 | sim5M Consensus_utg000006l
+			Skipping alignment 115818 116112 | 236094 236384 | 295 291 | 95.93 | sim5M Consensus_utg000006l
+			Skipping alignment 2608639 2608912 | 65463 65736 | 274 274 | 98.18 | sim5M Consensus_utg000006l
+			Skipping alignment 4875454 4875711 | 251582 251842 | 258 261 | 98.08 | sim5M Consensus_utg000006l
+			Skipping alignment 2608639 2608856 | 168007 167789 | 218 219 | 98.63 | sim5M Consensus_utg000006l
+			Skipping alignment 3814947 3815164 | 192965 193182 | 218 218 | 95.87 | sim5M Consensus_utg000006l
+			Skipping alignment 3911787 3911981 | 152112 152305 | 195 194 | 95.9 | sim5M Consensus_utg000006l
+			Skipping alignment 2795293 2795467 | 150674 150844 | 175 171 | 95.43 | sim5M Consensus_utg000006l
+			Skipping alignment 2051047 2051171 | 253876 253752 | 125 125 | 96.8 | sim5M Consensus_utg000006l
+			Skipping alignment 2246915 2247037 | 152183 152305 | 123 123 | 95.93 | sim5M Consensus_utg000006l
+			Skipping alignment 157515 157631 | 57297 57412 | 117 116 | 96.58 | sim5M Consensus_utg000006l
+			Skipping alignment 4862081 4862191 | 152305 152195 | 111 111 | 96.4 | sim5M Consensus_utg000006l
+			Skipping alignment 1171526 1171633 | 192554 192447 | 108 108 | 95.37 | sim5M Consensus_utg000006l
+			Skipping alignment 4957655 4957755 | 152305 152205 | 101 101 | 100.0 | sim5M Consensus_utg000006l
+			Skipping alignment 1171526 1171626 | 57313 57413 | 101 101 | 96.04 | sim5M Consensus_utg000006l
+			Skipping alignment 4070115 4070211 | 152209 152305 | 97 97 | 98.97 | sim5M Consensus_utg000006l
+			Skipping alignment 1215455 1215547 | 277156 277248 | 93 93 | 95.7 | sim5M Consensus_utg000006l
+			Skipping alignment 889229 889320 | 277159 277248 | 92 90 | 96.74 | sim5M Consensus_utg000006l
+			Skipping alignment 1841589 1841681 | 277244 277156 | 93 89 | 95.7 | sim5M Consensus_utg000006l
+			Skipping alignment 615753 615834 | 277167 277248 | 82 82 | 98.78 | sim5M Consensus_utg000006l
+			Skipping alignment 3911603 3911683 | 277168 277248 | 81 81 | 98.77 | sim5M Consensus_utg000006l
+			Skipping alignment 3152016 3152096 | 277237 277156 | 81 82 | 96.34 | sim5M Consensus_utg000006l
+		One align captures most of this contig: 43245 349597 | 307101 1 | 306353 307101 | 99.75 | sim5M Consensus_utg000006l
+
+CONTIG: Consensus_utg000007l (23471bp)
+Best alignment score: 23407.6 (LEN: 23471, IDY: 99.73), Total number of alignments: 1
+		One align captures most of this contig: 6019 29425 | 1 23471 | 23407 23471 | 99.73 | sim5M Consensus_utg000007l
+
+CONTIG: Consensus_utg000008l (225441bp)
+Best alignment score: 224494.1 (LEN: 225441, IDY: 99.58), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4133695 4134010 | 52625 52308 | 316 318 | 97.48 | sim5M Consensus_utg000008l
+			Skipping alignment 4136245 4136560 | 50066 49751 | 316 316 | 97.48 | sim5M Consensus_utg000008l
+		One align captures most of this contig: 4084274 4308973 | 1 225441 | 224700 225441 | 99.58 | sim5M Consensus_utg000008l
+
+CONTIG: Consensus_utg000009l (318488bp)
+Best alignment score: 317691.8 (LEN: 318488, IDY: 99.75), Total number of alignments: 54
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2508574 2514592 | 129966 135996 | 6019 6031 | 98.76 | sim5M Consensus_utg000009l
+			Skipping alignment 502954 508959 | 135985 129966 | 6006 6020 | 96.83 | sim5M Consensus_utg000009l
+			Skipping alignment 1836268 1841696 | 130562 136004 | 5429 5443 | 96.6 | sim5M Consensus_utg000009l
+			Skipping alignment 1215470 1220714 | 135971 130719 | 5245 5253 | 96.71 | sim5M Consensus_utg000009l
+			Skipping alignment 525611 530513 | 135971 131068 | 4903 4904 | 95.26 | sim5M Consensus_utg000009l
+			Skipping alignment 3521134 3525278 | 131659 135824 | 4145 4166 | 96.88 | sim5M Consensus_utg000009l
+			Skipping alignment 1729383 1732708 | 132645 135980 | 3326 3336 | 95.63 | sim5M Consensus_utg000009l
+			Skipping alignment 615739 618412 | 135985 133305 | 2674 2681 | 96.43 | sim5M Consensus_utg000009l
+			Skipping alignment 1434271 1436695 | 135088 132657 | 2425 2432 | 96.83 | sim5M Consensus_utg000009l
+			Skipping alignment 3433570 3435628 | 135628 133567 | 2059 2062 | 96.56 | sim5M Consensus_utg000009l
+			Skipping alignment 3519139 3520828 | 129966 131659 | 1690 1694 | 95.81 | sim5M Consensus_utg000009l
+			Skipping alignment 3813935 3815350 | 131664 133083 | 1416 1420 | 97.54 | sim5M Consensus_utg000009l
+			Skipping alignment 718601 719911 | 132745 134059 | 1311 1315 | 97.03 | sim5M Consensus_utg000009l
+			Skipping alignment 4956689 4957829 | 135987 134846 | 1141 1142 | 96.76 | sim5M Consensus_utg000009l
+			Skipping alignment 1546529 1547671 | 134471 133326 | 1143 1146 | 95.82 | sim5M Consensus_utg000009l
+			Skipping alignment 198349 199311 | 135032 135996 | 963 965 | 95.35 | sim5M Consensus_utg000009l
+			Skipping alignment 3911787 3912730 | 134826 135769 | 944 944 | 96.93 | sim5M Consensus_utg000009l
+			Skipping alignment 1436696 1437588 | 135091 135984 | 893 894 | 95.97 | sim5M Consensus_utg000009l
+			Skipping alignment 717810 718606 | 135976 135179 | 797 798 | 96.62 | sim5M Consensus_utg000009l
+			Skipping alignment 4070116 4070834 | 134924 135643 | 719 720 | 97.78 | sim5M Consensus_utg000009l
+			Skipping alignment 1215822 1216543 | 243811 243085 | 722 727 | 95.33 | sim5M Consensus_utg000009l
+			Skipping alignment 67718 68437 | 243087 243811 | 720 725 | 95.18 | sim5M Consensus_utg000009l
+			Skipping alignment 197683 198350 | 135019 134350 | 668 670 | 96.12 | sim5M Consensus_utg000009l
+			Skipping alignment 4831627 4832289 | 135329 135990 | 663 662 | 95.03 | sim5M Consensus_utg000009l
+			Skipping alignment 3151461 3151976 | 135867 135351 | 516 517 | 97.1 | sim5M Consensus_utg000009l
+			Skipping alignment 4831126 4831626 | 135256 134750 | 501 507 | 96.25 | sim5M Consensus_utg000009l
+			Skipping alignment 2514104 2514594 | 196384 196873 | 491 490 | 95.93 | sim5M Consensus_utg000009l
+			Skipping alignment 1215449 1215933 | 196868 196384 | 485 485 | 95.46 | sim5M Consensus_utg000009l
+			Skipping alignment 4956695 4957168 | 196859 196384 | 474 476 | 95.4 | sim5M Consensus_utg000009l
+			Skipping alignment 1437112 1437588 | 196384 196859 | 477 476 | 95.18 | sim5M Consensus_utg000009l
+			Skipping alignment 717815 718278 | 196847 196384 | 464 464 | 95.69 | sim5M Consensus_utg000009l
+			Skipping alignment 615738 616192 | 196866 196412 | 455 455 | 95.61 | sim5M Consensus_utg000009l
+			Skipping alignment 718167 718606 | 243811 243372 | 440 440 | 95.92 | sim5M Consensus_utg000009l
+			Skipping alignment 1039529 1039930 | 243811 243409 | 402 403 | 96.28 | sim5M Consensus_utg000009l
+			Skipping alignment 2994954 2995337 | 135563 135176 | 384 388 | 95.88 | sim5M Consensus_utg000009l
+			Skipping alignment 1729058 1729386 | 132661 132332 | 329 330 | 96.36 | sim5M Consensus_utg000009l
+			Skipping alignment 3151461 3151784 | 196743 196420 | 324 324 | 95.99 | sim5M Consensus_utg000009l
+			Skipping alignment 2562835 2563144 | 218688 219000 | 310 313 | 98.41 | sim5M Consensus_utg000009l
+			Skipping alignment 922788 923096 | 219000 218688 | 309 313 | 98.08 | sim5M Consensus_utg000009l
+			Skipping alignment 2646173 2646481 | 219000 218688 | 309 313 | 98.08 | sim5M Consensus_utg000009l
+			Skipping alignment 3923457 3923771 | 219001 218685 | 315 317 | 96.24 | sim5M Consensus_utg000009l
+			Skipping alignment 3908266 3908575 | 218688 219000 | 310 313 | 97.45 | sim5M Consensus_utg000009l
+			Skipping alignment 2877384 2877687 | 219000 218693 | 304 308 | 97.73 | sim5M Consensus_utg000009l
+			Skipping alignment 745854 746155 | 219000 218695 | 302 306 | 98.04 | sim5M Consensus_utg000009l
+			Skipping alignment 82383 82685 | 218998 218692 | 303 307 | 96.74 | sim5M Consensus_utg000009l
+			Skipping alignment 98385 98682 | 218702 219000 | 298 299 | 97.02 | sim5M Consensus_utg000009l
+			Skipping alignment 82385 82681 | 4880 5178 | 297 299 | 95.65 | sim5M Consensus_utg000009l
+			Skipping alignment 4875454 4875717 | 218963 218696 | 264 268 | 97.76 | sim5M Consensus_utg000009l
+			Skipping alignment 4743130 4743311 | 134924 135105 | 182 182 | 96.15 | sim5M Consensus_utg000009l
+			Skipping alignment 889219 889387 | 196869 196703 | 169 167 | 96.45 | sim5M Consensus_utg000009l
+			Skipping alignment 3908273 3908397 | 46735 46859 | 125 125 | 98.4 | sim5M Consensus_utg000009l
+			Skipping alignment 96359 96483 | 46735 46859 | 125 125 | 96.8 | sim5M Consensus_utg000009l
+			Skipping alignment 197683 197805 | 243208 243085 | 123 124 | 95.16 | sim5M Consensus_utg000009l
+		One align captures most of this contig: 2004417 2322114 | 1 318488 | 317698 318488 | 99.75 | sim5M Consensus_utg000009l
+
+CONTIG: Consensus_utg000010l (102499bp)
+Best alignment score: 102253.0 (LEN: 102499, IDY: 99.76), Total number of alignments: 5
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2562835 2563149 | 89626 89940 | 315 315 | 95.25 | sim5M Consensus_utg000010l
+			Skipping alignment 3923456 3923768 | 89937 89626 | 313 312 | 95.22 | sim5M Consensus_utg000010l
+			Skipping alignment 82386 82685 | 89930 89630 | 300 301 | 96.69 | sim5M Consensus_utg000010l
+			Skipping alignment 2646182 2646481 | 89926 89626 | 300 301 | 95.36 | sim5M Consensus_utg000010l
+		One align captures most of this contig: 1902191 2004447 | 1 102499 | 102257 102499 | 99.76 | sim5M Consensus_utg000010l
+
+CONTIG: Consensus_utg000011l (413350bp)
+Best alignment score: 411944.6 (LEN: 413350, IDY: 99.66), Total number of alignments: 41
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2137674 2140106 | 17157 19589 | 2433 2433 | 95.85 | sim5M Consensus_utg000011l
+			Skipping alignment 2512167 2514591 | 17157 19580 | 2425 2424 | 95.88 | sim5M Consensus_utg000011l
+			Skipping alignment 1215449 1217870 | 19579 17157 | 2422 2423 | 95.34 | sim5M Consensus_utg000011l
+			Skipping alignment 1839267 1841692 | 17159 19587 | 2426 2429 | 95.1 | sim5M Consensus_utg000011l
+			Skipping alignment 615739 618152 | 19575 17157 | 2414 2419 | 95.46 | sim5M Consensus_utg000011l
+			Skipping alignment 3523030 3525438 | 17157 19575 | 2409 2419 | 95.37 | sim5M Consensus_utg000011l
+			Skipping alignment 1434271 1435789 | 18676 17157 | 1519 1520 | 95.53 | sim5M Consensus_utg000011l
+			Skipping alignment 4070115 4071124 | 18511 19527 | 1010 1017 | 95.77 | sim5M Consensus_utg000011l
+			Skipping alignment 198354 199306 | 18625 19580 | 953 956 | 95.51 | sim5M Consensus_utg000011l
+			Skipping alignment 3911787 3912730 | 18414 19357 | 944 944 | 96.4 | sim5M Consensus_utg000011l
+			Skipping alignment 717831 718606 | 19542 18767 | 776 776 | 95.24 | sim5M Consensus_utg000011l
+			Skipping alignment 197683 198350 | 18607 17940 | 668 668 | 95.51 | sim5M Consensus_utg000011l
+			Skipping alignment 2139455 2139970 | 301453 301969 | 516 517 | 97.1 | sim5M Consensus_utg000011l
+			Skipping alignment 198668 199183 | 301453 301969 | 516 517 | 96.71 | sim5M Consensus_utg000011l
+			Skipping alignment 2513948 2514463 | 301453 301969 | 516 517 | 96.52 | sim5M Consensus_utg000011l
+			Skipping alignment 615861 616376 | 301969 301453 | 516 517 | 96.32 | sim5M Consensus_utg000011l
+			Skipping alignment 717919 718434 | 301969 301453 | 516 517 | 96.32 | sim5M Consensus_utg000011l
+			Skipping alignment 4831649 4832164 | 301453 301969 | 516 517 | 95.94 | sim5M Consensus_utg000011l
+			Skipping alignment 1436956 1437471 | 301453 301969 | 516 517 | 95.74 | sim5M Consensus_utg000011l
+			Skipping alignment 1841043 1841558 | 301453 301969 | 516 517 | 95.74 | sim5M Consensus_utg000011l
+			Skipping alignment 4956809 4957323 | 301969 301453 | 515 517 | 95.55 | sim5M Consensus_utg000011l
+			Skipping alignment 1215574 1216086 | 301969 301456 | 513 514 | 95.72 | sim5M Consensus_utg000011l
+			Skipping alignment 4091575 4092090 | 301453 301969 | 516 517 | 95.16 | sim5M Consensus_utg000011l
+			Skipping alignment 4831126 4831626 | 18845 18338 | 501 508 | 95.87 | sim5M Consensus_utg000011l
+			Skipping alignment 719419 719907 | 17157 17646 | 489 490 | 97.14 | sim5M Consensus_utg000011l
+			Skipping alignment 4070543 4071025 | 301453 301936 | 483 484 | 96.07 | sim5M Consensus_utg000011l
+			Skipping alignment 3912313 3912730 | 301453 301871 | 418 419 | 96.42 | sim5M Consensus_utg000011l
+			Skipping alignment 2200339 2200698 | 301610 301969 | 360 360 | 95.56 | sim5M Consensus_utg000011l
+			Skipping alignment 3310459 3310709 | 139678 139929 | 251 252 | 96.43 | sim5M Consensus_utg000011l
+			Skipping alignment 3313124 3313374 | 142350 142600 | 251 251 | 96.81 | sim5M Consensus_utg000011l
+			Skipping alignment 1217889 1218122 | 16921 17153 | 234 233 | 96.15 | sim5M Consensus_utg000011l
+			Skipping alignment 528031 528264 | 16921 17153 | 234 233 | 95.73 | sim5M Consensus_utg000011l
+			Skipping alignment 545570 545803 | 16921 17153 | 234 233 | 95.73 | sim5M Consensus_utg000011l
+			Skipping alignment 1215449 1215576 | 301327 301454 | 128 128 | 95.35 | sim5M Consensus_utg000011l
+			Skipping alignment 4754099 4754215 | 340717 340602 | 117 116 | 97.44 | sim5M Consensus_utg000011l
+			Skipping alignment 73042 73123 | 301413 301333 | 82 81 | 96.34 | sim5M Consensus_utg000011l
+			Skipping alignment 1340871 1340944 | 127349 127276 | 74 74 | 98.65 | sim5M Consensus_utg000011l
+			Skipping alignment 3490141 3490210 | 127280 127349 | 70 70 | 100.0 | sim5M Consensus_utg000011l
+			Skipping alignment 3490154 3490223 | 127281 127350 | 70 70 | 100.0 | sim5M Consensus_utg000011l
+			Skipping alignment 1340869 1340935 | 127347 127281 | 67 67 | 100.0 | sim5M Consensus_utg000011l
+		One align captures most of this contig: 3040328 3452408 | 413350 1 | 412081 413350 | 99.66 | sim5M Consensus_utg000011l
+
+CONTIG: Consensus_utg000012l (69401bp)
+Best alignment score: 68895.4 (LEN: 69395, IDY: 99.28), Total number of alignments: 1
+		One align captures most of this contig: 348699 417725 | 69395 1 | 69027 69395 | 99.28 | sim5M Consensus_utg000012l
+
+CONTIG: Consensus_utg000013l (13652bp)
+Best alignment score: 13574.2 (LEN: 13652, IDY: 99.43), Total number of alignments: 1
+		One align captures most of this contig: 3036684 3050265 | 13652 1 | 13582 13652 | 99.43 | sim5M Consensus_utg000013l
+
+Analyzing coverage...
+Writing SNPs into /home/arash/asmReview/EVAL/sim5M.MiniCL/contigs_reports/nucmer_output/sim5M-MiniCL.used_snps.gz
+	Reference sim5M: 13 total alignments. 1 total regions.
+		Region: 1 to 5000040 (5000040 bp)
+			START in gap: 1 to 6019 (6018 bp)
+			Align 1: 6019 29425 Consensus_utg000007l 1 23471
+				Gap between this and next alignment: 29425 to 43245 (13819 bp)
+				Next Alignment: 43245 349597 Consensus_utg000006l 307101 1
+
+			Align 2: 43245 349597 Consensus_utg000006l 307101 1
+				Negative gap (overlap) between this and next alignment: 349597 to 348699 (-898 bp)
+				Next Alignment: 348699 417725 Consensus_utg000012l 69395 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 69395 to 68496.
+			Align 3: 349598 417725 Consensus_utg000012l 68496 1
+				Negative gap (overlap) between this and next alignment: 417725 to 406305 (-11420 bp)
+				Next Alignment: 406305 1744573 Consensus_utg000004l 1 1341548
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 11459.
+			Align 4: 417726 1744573 Consensus_utg000004l 11459 1341548
+				Negative gap (overlap) between this and next alignment: 1744573 to 1737347 (-7226 bp)
+				Next Alignment: 1737347 1909926 Consensus_utg000003l 173466 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 173466 to 165801.
+			Align 5: 1744574 1909926 Consensus_utg000003l 165801 1
+				Negative gap (overlap) between this and next alignment: 1909926 to 1902191 (-7735 bp)
+				Next Alignment: 1902191 2004447 Consensus_utg000010l 1 102499
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 7763.
+			Align 6: 1909927 2004447 Consensus_utg000010l 7763 102499
+				Negative gap (overlap) between this and next alignment: 2004447 to 2004417 (-30 bp)
+				Next Alignment: 2004417 2322114 Consensus_utg000009l 1 318488
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 32.
+			Align 7: 2004448 2322114 Consensus_utg000009l 32 318488
+				Negative gap (overlap) between this and next alignment: 2322114 to 2320391 (-1723 bp)
+				Next Alignment: 2320391 3049035 Consensus_utg000002l 730533 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 730533 to 728789.
+			Align 8: 2322115 3049035 Consensus_utg000002l 728789 1
+				Negative gap (overlap) between this and next alignment: 3049035 to 3036684 (-12351 bp)
+				Next Alignment: 3036684 3050265 Consensus_utg000013l 13652 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 13652 to 1249.
+			Align 9: 3049036 3050265 Consensus_utg000013l 1249 1
+				Negative gap (overlap) between this and next alignment: 3050265 to 3040328 (-9937 bp)
+				Next Alignment: 3040328 3452408 Consensus_utg000011l 413350 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 413350 to 403380.
+			Align 10: 3050266 3452408 Consensus_utg000011l 403380 1
+				Negative gap (overlap) between this and next alignment: 3452408 to 3440665 (-11743 bp)
+				Next Alignment: 3440665 4093029 Consensus_utg000001l 1 654063
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 11809.
+			Align 11: 3452409 4093029 Consensus_utg000001l 11809 654063
+				Negative gap (overlap) between this and next alignment: 4093029 to 4084274 (-8755 bp)
+				Next Alignment: 4084274 4308973 Consensus_utg000008l 1 225441
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 8989.
+			Align 12: 4093030 4308973 Consensus_utg000008l 8989 225441
+				Negative gap (overlap) between this and next alignment: 4308973 to 4295638 (-13335 bp)
+				Next Alignment: 4295638 4997661 Consensus_utg000005l 1 704169
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 13714.
+			Align 13: 4308974 4997661 Consensus_utg000005l 13714 704169
+			END in gap: 4997661 to 5000040 (2379 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/arash/asmReview/EVAL/sim5M.MiniCL/contigs_reports/nucmer_output/sim5M-MiniCL.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 1 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 3719
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 4977824
+
+	SNPs: 286
+	Insertions: 13148
+	Deletions: 237
+
+	Positive Gaps: 3
+		Internal Gaps: 0
+		External Gaps: 3
+		External Gap Total: 22216
+		External Gap Average: 7405
+	Negative Gaps: 11
+		Internal Overlaps: 0
+		External Overlaps: 11
+		External Overlaps Total: -85153
+		External Overlaps Average: -7741
+	Contigs with Redundant Alignments: 0 (0)

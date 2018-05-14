@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     AJ292.MiniH.p2
+# contigs (>= 0 bp)          1             
+# contigs (>= 1000 bp)       1             
+# contigs (>= 5000 bp)       1             
+# contigs (>= 10000 bp)      1             
+# contigs (>= 25000 bp)      1             
+# contigs (>= 50000 bp)      1             
+Total length (>= 0 bp)       5445266       
+Total length (>= 1000 bp)    5445266       
+Total length (>= 5000 bp)    5445266       
+Total length (>= 10000 bp)   5445266       
+Total length (>= 25000 bp)   5445266       
+Total length (>= 50000 bp)   5445266       
+# contigs                    1             
+Largest contig               5445266       
+Total length                 5445266       
+Reference length             5445112       
+GC (%)                       57.62         
+Reference GC (%)             57.62         
+N50                          5445266       
+NG50                         5445266       
+N75                          5445266       
+NG75                         5445266       
+L50                          1             
+LG50                         1             
+L75                          1             
+LG75                         1             
+# misassemblies              0             
+# misassembled contigs       0             
+Misassembled contigs length  0             
+# local misassemblies        0             
+# unaligned mis. contigs     0             
+# unaligned contigs          0 + 0 part    
+Unaligned length             0             
+Genome fraction (%)          99.999        
+Duplication ratio            1.000         
+# N's per 100 kbp            0.00          
+# mismatches per 100 kbp     0.24          
+# indels per 100 kbp         5.20          
+Largest alignment            5445266       
+Total aligned length         5445266       
+NA50                         5445266       
+NGA50                        5445266       
+NA75                         5445266       
+NGA75                        5445266       
+LA50                         1             
+LGA50                        1             
+LA75                         1             
+LGA75                        1             

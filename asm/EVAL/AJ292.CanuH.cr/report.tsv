@@ -1,0 +1,49 @@
+Assembly	AJ292.CanuH.cr
+# contigs (>= 0 bp)	2000
+# contigs (>= 1000 bp)	1967
+# contigs (>= 5000 bp)	1499
+# contigs (>= 10000 bp)	1012
+# contigs (>= 25000 bp)	48
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	21970960
+Total length (>= 1000 bp)	21947330
+Total length (>= 5000 bp)	20603850
+Total length (>= 10000 bp)	16941458
+Total length (>= 25000 bp)	1380928
+Total length (>= 50000 bp)	0
+# contigs	1996
+Largest contig	34672
+Total length	21969846
+Reference length	5445112
+GC (%)	57.43
+Reference GC (%)	57.62
+N50	15750
+NG50	22572
+N75	10514
+NG75	21040
+L50	545
+LG50	105
+L75	967
+LG75	168
+# misassemblies	11
+# misassembled contigs	11
+Misassembled contigs length	222190
+# local misassemblies	29
+# unaligned mis. contigs	0
+# unaligned contigs	118 + 41 part
+Unaligned length	298319
+Genome fraction (%)	97.050
+Duplication ratio	4.101
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	29.73
+# indels per 100 kbp	205.26
+Largest alignment	33826
+Total aligned length	21649361
+NA50	15576
+NGA50	22440
+NA75	10289
+NGA75	20846
+LA50	550
+LGA50	106
+LA75	979
+LGA75	169

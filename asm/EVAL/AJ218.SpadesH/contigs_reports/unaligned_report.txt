@@ -1,0 +1,9 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assembly AJ218.SpadesH contains continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                       AJ218.SpadesH
+# fully unaligned contigs      8            
+Fully unaligned length         44615        
+# partially unaligned contigs  7            
+Partially unaligned length     144072       
+# N's                          728          

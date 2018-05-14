@@ -1,0 +1,12 @@
+Writing filtered delta file /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.filter
+Reading delta file /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.delta
+Writing plot files /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.fplot, /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.rplot
+Writing gnuplot script /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.gp
+Rendering plot /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.html
+ "/home/arash/asmReview/EVAL/sim5M.MiniCL.cr/quast_corrected_input/sim5M-MiniCL-cr.fa" of length 16046185
+# matching query-file "/home/arash/asmReview/EVAL/sim5M.MiniCL.cr/quast_corrected_input/sim5M-MiniCL-cr.fa"
+# against subject-file "/home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.ntref"
+# COMPLETETIME /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.ntref 179.61
+# SPACE /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/sim5M.MiniCL.cr/contigs_reports/nucmer_output/sim5M-MiniCL-cr.ntref 20.71
+4: FINISHING DATA
+WARNING: there was a problem deleting the temporary output files

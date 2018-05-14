@@ -1,0 +1,9 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+4100650	5504133	1	1403503	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055	tig00000001_pilon	99.99		True
+fake: not a misassembly [linear representation of circular genome]
+1	4093860	1403504	5497400	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055	tig00000001_pilon	99.99		True
+CONTIG	tig00000001_pilon	5497403	correct
+CONTIG	tig00000002_pilon	24115	unaligned
+218986	220079	137954	139047	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055	tig00000003_pilon	100.0		True
+CONTIG	tig00000003_pilon	178136	correct_unaligned
+CONTIG	tig00000004_pilon	27871	unaligned

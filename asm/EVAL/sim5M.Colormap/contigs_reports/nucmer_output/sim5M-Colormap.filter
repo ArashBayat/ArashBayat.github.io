@@ -1,0 +1,150 @@
+/home/arash/asmReview/EVAL/sim5M.Colormap/quast_corrected_input/ref.fa /home/arash/asmReview/EVAL/sim5M.Colormap/quast_corrected_input/sim5M-Colormap.fa
+NUCMER
+>sim5M tig00000001_len_60846_reads_107_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 5000040 60846
+3165273 3226098 1 60846 106 106 0
+-48727
+-1
+-1
+-1
+-1
+-1
+-1
+96
+-9
+-2
+-3
+-6
+-10
+-26
+7
+-5
+-4
+-9
+-1
+-1
+-1
+15
+-5
+-7
+12
+-9
+-6
+8
+-2666
+8
+-11
+-4
+0
+>sim5M tig00000002_len_1779657_reads_4134_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 5000040 1779657
+3218912 4998548 1 1779657 547 547 0
+672503
+-11
+-15
+9
+-6
+-1291
+-5
+-5
+-14
+-2
+-3
+6
+-22
+-7
+-2
+-13
+-21
+-3
+-597
+-8
+16
+-14
+3
+22
+-12
+-7
+-3
+-17
+-11
+-1
+-1
+10
+6
+9
+-20
+-8
+-9
+-4
+-1
+-22
+631084
+578
+0
+>sim5M tig00000004_len_1259797_reads_2902_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 5000040 1259797
+718387 1978180 3 1259797 341 341 0
+-156277
+0
+>sim5M tig00000005_len_368449_reads_834_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 5000040 368449
+350288 718736 1 368449 115 115 0
+0
+>sim5M tig00000006_len_348184_reads_777_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 5000040 348184
+1080 349263 348184 1 106 106 0
+0
+>sim5M tig00000007_len_314015_reads_698_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 5000040 314015
+2844095 3158109 1 314015 116 116 0
+0
+>sim5M tig00000008_len_181055_reads_408_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 5000040 181055
+2653575 2834629 1 181055 54 54 0
+0
+>sim5M tig00000009_len_87669_reads_203_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 5000040 87669
+1983030 2070698 1 87669 22 22 0
+0
+>sim5M tig00000010_len_14196_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 5000040 14196
+2059183 2073347 1 14196 79 79 0
+-8168
+9
+10
+-6
+-7
+-18
+-3
+-22
+-1
+-10
+-6
+-1
+-9
+-1
+-10
+-11
+4
+-7
+-5
+-10
+-3
+-21
+8
+-12
+-9
+-6
+-8
+-10
+-7
+9
+-17
+-1
+-9
+-5
+-7
+-13
+-8
+-12
+-2
+-2
+-1
+0
+>sim5M tig00000011_len_578039_reads_1311_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no 5000040 578039
+2073281 2651319 578039 1 180 180 0
+148318
+-281487
+0

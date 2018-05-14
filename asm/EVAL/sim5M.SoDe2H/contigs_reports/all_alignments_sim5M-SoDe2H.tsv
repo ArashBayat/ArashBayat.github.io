@@ -1,0 +1,2216 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+3541855	3557514	1	15627	sim5M	scaffold1_31.8	98.44		True
+local misassembly
+3557787	3560358	15900	18471	sim5M	scaffold1_31.8	100.0		True
+indel: indel (> 5bp)
+3560546	3565075	18669	23194	sim5M	scaffold1_31.8	98.35		True
+CONTIG	scaffold1_31.8	23194	correct
+CONTIG	scaffold2_31.5	4009	unaligned
+1160916	1165443	5143	614	sim5M	scaffold3_31.3	98.41		True
+indel: indel (> 5bp)
+1155745	1160735	10293	5314	sim5M	scaffold3_31.3	95.75		True
+CONTIG	scaffold3_31.3	10293	correct
+1904632	1908512	1	3881	sim5M	scaffold4_32.3	99.2		True
+local misassembly
+1908814	1910103	4166	5455	sim5M	scaffold4_32.3	100.0		True
+local misassembly
+1910386	1910472	5740	5826	sim5M	scaffold4_32.3	100.0		True
+CONTIG	scaffold4_32.3	5924	correct
+4533073	4533149	1424	1348	sim5M	scaffold5_32.7	100.0		True
+CONTIG	scaffold5_32.7	1507	correct_unaligned
+862897	870037	7161	1	sim5M	scaffold6_30.9	95.18		True
+indel: indel (> 5bp)
+862416	862741	7635	7310	sim5M	scaffold6_30.9	97.24		True
+indel: indel (<= 5bp)
+861393	862240	8655	7808	sim5M	scaffold6_30.9	100.0		True
+CONTIG	scaffold6_30.9	8734	correct
+3660355	3669908	1	9527	sim5M	scaffold7_35.4	97.06		True
+CONTIG	scaffold7_35.4	9527	correct
+1095095	1095808	1	708	sim5M	scaffold8_30.2	97.62		True
+local misassembly
+1096360	1097576	1236	2452	sim5M	scaffold8_30.2	98.03		True
+local misassembly
+1097843	1098129	2701	2987	sim5M	scaffold8_30.2	100.0		True
+CONTIG	scaffold8_30.2	3108	correct
+1420483	1423059	1	2570	sim5M	scaffold9_30.1	97.91		True
+indel: indel (> 5bp)
+1423316	1423392	2820	2896	sim5M	scaffold9_30.1	100.0		True
+indel: indel (<= 5bp)
+1423561	1423869	3062	3372	sim5M	scaffold9_30.1	95.83		True
+CONTIG	scaffold9_30.1	3372	correct
+3723797	3735798	1	11995	sim5M	scaffold10_31.0	98.07		True
+indel: indel (<= 5bp)
+3736000	3742917	12193	19093	sim5M	scaffold10_31.0	97.69		True
+CONTIG	scaffold10_31.0	19093	correct
+4625549	4628864	1	3313	sim5M	scaffold11_31.2	99.76		True
+CONTIG	scaffold11_31.2	3313	correct
+CONTIG	scaffold12_31.0	1924	unaligned
+CONTIG	scaffold13_36.2	687	unaligned
+3307547	3307897	756	412	sim5M	scaffold14_37.0	96.01		True
+CONTIG	scaffold14_37.0	756	correct
+1501036	1504158	1	3116	sim5M	scaffold15_31.1	99.07		True
+indel: indel (<= 5bp)
+1504341	1509525	3303	8473	sim5M	scaffold15_31.1	98.53		True
+CONTIG	scaffold15_31.1	8473	correct
+4832267	4846909	14606	1	sim5M	scaffold16_29.9	96.71		True
+CONTIG	scaffold16_29.9	14606	correct
+1364606	1366645	4547	2517	sim5M	scaffold17_30.3	95.94		True
+CONTIG	scaffold17_30.3	7399	correct_unaligned
+567371	577391	1	9999	sim5M	scaffold18_30.5	96.51		True
+indel: indel (> 5bp)
+577481	580221	10080	12818	sim5M	scaffold18_30.5	99.02		True
+CONTIG	scaffold18_30.5	12818	correct
+CONTIG	scaffold19_30.8	2778	unaligned
+4250310	4253269	2942	1	sim5M	scaffold20_29.2	96.89		True
+indel: indel (> 5bp)
+4240905	4250186	12316	3059	sim5M	scaffold20_29.2	95.16		True
+CONTIG	scaffold20_29.2	12316	correct
+3919048	3919147	1	100	sim5M	scaffold21_30.3	100.0		True
+local misassembly
+3919433	3923478	368	4390	sim5M	scaffold21_30.3	97.6		True
+CONTIG	scaffold21_30.3	4390	correct
+3982129	3983787	1650	1	sim5M	scaffold22_32.0	97.71		True
+indel: indel (<= 5bp)
+3976851	3981960	6899	1815	sim5M	scaffold22_32.0	96.95		True
+CONTIG	scaffold22_32.0	6899	correct
+453291	458689	1	5408	sim5M	scaffold23_31.2	97.97		True
+CONTIG	scaffold23_31.2	5408	correct
+512067	515320	3095	6341	sim5M	scaffold24_30.5	98.96		True
+CONTIG	scaffold24_30.5	6440	correct
+1343811	1343966	1270	1425	sim5M	scaffold25_29.2	100.0		True
+CONTIG	scaffold25_29.2	1499	correct_unaligned
+179397	179491	1166	1260	sim5M	scaffold27_31.6	100.0		True
+CONTIG	scaffold27_31.6	1332	correct_unaligned
+CONTIG	scaffold28_31.9	6237	unaligned
+2094983	2115570	1	20547	sim5M	scaffold29_31.2	97.97		True
+CONTIG	scaffold29_31.2	20694	correct
+4759496	4771368	11871	1	sim5M	scaffold30_31.1	97.42		True
+CONTIG	scaffold30_31.1	11871	correct
+CONTIG	scaffold31_28.5	4735	unaligned
+CONTIG	scaffold32_28.0	1270	unaligned
+1531397	1536723	1	5322	sim5M	scaffold33_29.9	98.12		True
+indel: indel (<= 5bp)
+1536837	1543394	5440	11995	sim5M	scaffold33_29.9	96.76		True
+CONTIG	scaffold33_29.9	11995	correct
+CONTIG	scaffold34_30.7	3325	unaligned
+652442	655988	167	3685	sim5M	scaffold35_29.3	97.29		True
+CONTIG	scaffold35_29.3	3685	correct
+33502	35863	104	2453	sim5M	scaffold36_32.0	95.18		True
+CONTIG	scaffold36_32.0	2549	correct
+CONTIG	scaffold38_30.5	3055	unaligned
+CONTIG	scaffold39_31.2	3205	unaligned
+4774605	4784858	10241	1	sim5M	scaffold40_31.0	97.74		True
+CONTIG	scaffold40_31.0	10352	correct
+2689611	2697310	1	7706	sim5M	scaffold41_30.8	99.31		True
+CONTIG	scaffold41_30.8	9378	correct
+1713376	1713453	187	110	sim5M	scaffold42_30.7	100.0		True
+indel: indel (> 5bp)
+1709950	1713274	3595	281	sim5M	scaffold42_30.7	97.2		True
+indel: indel (<= 5bp)
+1684681	1709831	28850	3710	sim5M	scaffold42_30.7	97.28		True
+CONTIG	scaffold42_30.7	28850	correct
+1425043	1434273	9214	1	sim5M	scaffold43_31.5	96.82		True
+CONTIG	scaffold43_31.5	9785	correct
+CONTIG	scaffold44_33.1	2079	unaligned
+CONTIG	scaffold45_33.5	5531	unaligned
+4253252	4271373	1	18095	sim5M	scaffold46_31.2	98.47		True
+CONTIG	scaffold46_31.2	18095	correct
+3935572	3949966	14534	167	sim5M	scaffold47_30.1	98.0		True
+CONTIG	scaffold47_30.1	14653	correct
+CONTIG	scaffold48_29.2	503	unaligned
+1290600	1302884	12246	1	sim5M	scaffold49_30.7	97.03		True
+indel: indel (> 5bp)
+1289862	1290507	12969	12331	sim5M	scaffold49_30.7	98.3		True
+CONTIG	scaffold49_30.7	12969	correct
+4784836	4793386	1	8510	sim5M	scaffold50_30.8	95.08		True
+CONTIG	scaffold50_30.8	8611	correct
+2590893	2593475	2573	1	sim5M	scaffold52_32.3	96.13		True
+indel: stretch of mismatches
+2589635	2590778	3831	2688	sim5M	scaffold52_32.3	100.0		True
+CONTIG	scaffold52_32.3	3893	correct
+3829934	3838620	8644	1	sim5M	scaffold53_29.8	96.44		True
+CONTIG	scaffold53_29.8	8798	correct
+CONTIG	scaffold54_31.4	1556	unaligned
+3904973	3905106	1	134	sim5M	scaffold55_29.2	100.0		True
+local misassembly
+3905754	3908284	748	3287	sim5M	scaffold55_29.2	97.01		True
+CONTIG	scaffold55_29.2	3287	correct
+797668	804026	1	6318	sim5M	scaffold56_31.5	96.1		True
+indel: indel (<= 5bp)
+804163	804369	6454	6660	sim5M	scaffold56_31.5	100.0		True
+CONTIG	scaffold56_31.5	6759	correct
+86002	96369	10332	1	sim5M	scaffold58_31.2	96.31		True
+CONTIG	scaffold58_31.2	10332	correct
+1398389	1403504	5106	1	sim5M	scaffold59_31.3	97.01		True
+CONTIG	scaffold59_31.3	5106	correct
+3530993	3540319	9300	1	sim5M	scaffold60_31.0	98.55		True
+CONTIG	scaffold60_31.0	9403	correct
+4116005	4130254	1	14249	sim5M	scaffold61_31.7	98.3		True
+CONTIG	scaffold61_31.7	14249	correct
+2281220	2281299	80	1	sim5M	scaffold62_28.5	100.0		True
+indel: indel (> 5bp)
+2280628	2281088	658	198	sim5M	scaffold62_28.5	100.0		True
+local misassembly
+2277011	2280182	4285	1100	sim5M	scaffold62_28.5	97.65		True
+CONTIG	scaffold62_28.5	4285	correct
+CONTIG	scaffold63_25.4	1704	unaligned
+1789632	1791806	3593	1438	sim5M	scaffold64_32.8	95.72		True
+CONTIG	scaffold64_32.8	3593	correct
+773692	781476	1	7780	sim5M	scaffold65_30.8	97.23		True
+CONTIG	scaffold65_30.8	7846	correct
+2959189	2964941	990	6740	sim5M	scaffold66_29.3	96.74		True
+CONTIG	scaffold66_29.3	6740	correct
+1979171	1979962	794	1	sim5M	scaffold67_30.1	97.37		True
+indel: indel (> 5bp)
+1974280	1978979	5678	959	sim5M	scaffold67_30.1	95.48		True
+CONTIG	scaffold67_30.1	6200	correct
+3321159	3322207	1049	1	sim5M	scaffold68_29.0	99.81		True
+indel: indel (> 5bp)
+3313334	3321000	8857	1197	sim5M	scaffold68_29.0	98.75		True
+CONTIG	scaffold68_29.0	13672	correct
+1666629	1672056	1	5414	sim5M	scaffold69_31.6	98.29		True
+indel: indel (> 5bp)
+1672167	1675823	5517	9156	sim5M	scaffold69_31.6	97.81		True
+local misassembly
+1676099	1680130	9438	13461	sim5M	scaffold69_31.6	97.28		True
+CONTIG	scaffold69_31.6	13461	correct
+4583996	4586138	1	2134	sim5M	scaffold70_32.9	96.09		True
+CONTIG	scaffold70_32.9	2134	correct
+CONTIG	scaffold71_29.1	525	unaligned
+CONTIG	scaffold72_34.2	2078	unaligned
+2980615	2992823	12183	1	sim5M	scaffold73_30.0	96.37		True
+CONTIG	scaffold73_30.0	12183	correct
+3742895	3745952	1	3065	sim5M	scaffold74_29.1	98.92		True
+local misassembly
+3746233	3747951	3352	5069	sim5M	scaffold74_29.1	97.85		True
+CONTIG	scaffold74_29.1	5069	correct
+3889224	3889560	328	1	sim5M	scaffold75_31.0	95.55		True
+indel: indel (<= 5bp)
+3883443	3889135	6100	419	sim5M	scaffold75_31.0	96.73		True
+CONTIG	scaffold75_31.0	6100	correct
+CONTIG	scaffold76_30.7	2504	unaligned
+2782761	2788710	5969	1	sim5M	scaffold77_30.3	97.48		True
+local misassembly
+2770249	2782000	18429	6708	sim5M	scaffold77_30.3	97.72		True
+local misassembly
+2757866	2768868	30737	19791	sim5M	scaffold77_30.3	95.36		True
+CONTIG	scaffold77_30.3	30737	correct
+3971471	3976857	1	5368	sim5M	scaffold78_30.5	96.24		True
+CONTIG	scaffold78_30.5	5368	correct
+2752289	2754568	1	2288	sim5M	scaffold79_31.0	99.39		True
+CONTIG	scaffold79_31.0	2288	correct
+1526334	1530759	4418	1	sim5M	scaffold80_33.7	96.82		True
+CONTIG	scaffold80_33.7	5643	correct
+CONTIG	scaffold82_36.9	897	unaligned
+CONTIG	scaffold83_33.0	4338	unaligned
+4743798	4746710	2900	1	sim5M	scaffold84_28.9	95.39		True
+CONTIG	scaffold84_28.9	2900	correct
+CONTIG	scaffold85_28.4	632	unaligned
+1749553	1756541	1	6969	sim5M	scaffold86_31.5	96.73		True
+CONTIG	scaffold86_31.5	6969	correct
+2947799	2955035	2224	9450	sim5M	scaffold88_31.5	97.52		True
+CONTIG	scaffold88_31.5	9450	correct
+4575015	4577627	2602	1	sim5M	scaffold89_30.4	96.04		True
+CONTIG	scaffold89_30.4	2699	correct
+951850	951951	1	102	sim5M	scaffold90_30.1	100.0		True
+local misassembly
+952192	952814	341	963	sim5M	scaffold90_30.1	100.0		True
+local misassembly
+953089	954837	1240	2990	sim5M	scaffold90_30.1	99.37		True
+CONTIG	scaffold90_30.1	2990	correct
+CONTIG	scaffold91_30.5	7711	unaligned
+CONTIG	scaffold92_29.5	7849	unaligned
+4156725	4158164	1595	156	sim5M	scaffold93_28.4	99.1		True
+indel: indel (> 5bp)
+4154856	4156491	3472	1837	sim5M	scaffold93_28.4	99.21		True
+CONTIG	scaffold93_28.4	3472	correct
+CONTIG	scaffold94_28.9	506	unaligned
+4717422	4717500	462	384	sim5M	scaffold95_33.9	100.0		True
+unknown
+4717145	4717296	726	576	sim5M	scaffold95_33.9	98.68		True
+unknown
+CONTIG	scaffold95_33.9	726	mis_unaligned
+CONTIG	scaffold96_30.4	521	unaligned
+3799015	3803702	84	4762	sim5M	scaffold97_29.3	98.12		True
+CONTIG	scaffold97_29.3	4846	correct
+CONTIG	scaffold98_31.7	1062	unaligned
+3193770	3207499	437	14134	sim5M	scaffold99_30.5	96.2		True
+CONTIG	scaffold99_30.5	14196	correct
+822326	827249	1	4914	sim5M	scaffold100_30.8	96.68		True
+CONTIG	scaffold100_30.8	4914	correct
+519012	522655	1	3638	sim5M	scaffold101_31.6	98.66		True
+local misassembly
+522871	523915	3860	4902	sim5M	scaffold101_31.6	97.32		True
+CONTIG	scaffold101_31.6	5169	correct
+2249890	2270206	20313	1	sim5M	scaffold102_31.2	98.15		True
+CONTIG	scaffold102_31.2	20359	correct
+4665586	4665796	421	209	sim5M	scaffold103_31.9	95.79		True
+local misassembly
+4665186	4665305	823	702	sim5M	scaffold103_31.9	96.72		True
+local misassembly
+4660903	4664873	5097	1132	sim5M	scaffold103_31.9	95.25		True
+CONTIG	scaffold103_31.9	5401	correct
+351596	367584	15931	1	sim5M	scaffold104_31.2	95.4		True
+indel: indel (> 5bp)
+351244	351362	16293	16175	sim5M	scaffold104_31.2	100.0		True
+local misassembly
+350891	351017	16639	16514	sim5M	scaffold104_31.2	98.43		True
+indel: indel (> 5bp)
+338302	350728	29196	16791	sim5M	scaffold104_31.2	96.22		True
+indel: indel (> 5bp)
+332785	338103	34685	29384	sim5M	scaffold104_31.2	96.79		True
+CONTIG	scaffold104_31.2	34685	correct
+4868044	4875330	1	7294	sim5M	scaffold105_30.4	95.77		True
+CONTIG	scaffold105_30.4	7294	correct
+3100470	3100877	406	1	sim5M	scaffold106_34.0	99.26		True
+CONTIG	scaffold106_34.0	1063	correct_unaligned
+2461244	2467154	5917	1	sim5M	scaffold107_29.9	97.57		True
+CONTIG	scaffold107_29.9	5917	correct
+1396281	1397148	5712	6579	sim5M	scaffold108_31.3	100.0		True
+CONTIG	scaffold108_31.3	6720	correct_unaligned
+3761188	3768863	7649	1	sim5M	scaffold109_30.6	96.71		True
+CONTIG	scaffold109_30.6	7649	correct
+2490500	2499379	8867	1	sim5M	scaffold110_33.4	97.03		True
+CONTIG	scaffold110_33.4	8867	correct
+CONTIG	scaffold111_31.7	2075	unaligned
+CONTIG	scaffold112_29.9	1548	unaligned
+2934664	2939068	4392	1	sim5M	scaffold113_30.2	97.42		True
+CONTIG	scaffold113_30.2	4392	correct
+CONTIG	scaffold114_31.0	1695	unaligned
+2456820	2459561	2737	1	sim5M	scaffold115_30.3	99.12		True
+CONTIG	scaffold115_30.3	2889	correct
+CONTIG	scaffold116_33.5	1722	unaligned
+3415975	3418991	3004	1	sim5M	scaffold117_31.8	95.14		True
+indel: indel (> 5bp)
+3412408	3415812	6555	3151	sim5M	scaffold117_31.8	100.0		True
+indel: indel (> 5bp)
+3410295	3412246	8656	6710	sim5M	scaffold117_31.8	99.64		True
+CONTIG	scaffold117_31.8	8656	correct
+CONTIG	scaffold118_30.3	1369	unaligned
+4141614	4154854	1	13181	sim5M	scaffold119_29.0	96.45		True
+CONTIG	scaffold119_29.0	13181	correct
+4601318	4602535	1221	1	sim5M	scaffold120_31.1	98.77		True
+CONTIG	scaffold120_31.1	1221	correct
+498230	502294	4067	1	sim5M	scaffold121_30.9	97.69		True
+CONTIG	scaffold121_30.9	4067	correct
+CONTIG	scaffold122_33.7	1031	unaligned
+1260653	1266961	1	6292	sim5M	scaffold123_31.3	96.55		True
+CONTIG	scaffold123_31.3	6292	correct
+3571752	3573813	104	2153	sim5M	scaffold124_34.1	95.15		True
+indel: indel (<= 5bp)
+3573924	3574523	2260	2859	sim5M	scaffold124_34.1	100.0		True
+CONTIG	scaffold124_34.1	2859	correct
+1950961	1956695	5701	1	sim5M	scaffold125_29.7	95.84		True
+CONTIG	scaffold125_29.7	5701	correct
+4162482	4169429	1	6941	sim5M	scaffold126_29.6	98.56		True
+local misassembly
+4169954	4170081	7450	7579	sim5M	scaffold126_29.6	96.92		True
+local misassembly
+4171114	4177784	8578	15220	sim5M	scaffold126_29.6	97.74		True
+local misassembly
+4177976	4178043	15407	15474	sim5M	scaffold126_29.6	100.0		True
+CONTIG	scaffold126_29.6	15904	correct
+4572132	4574616	2714	232	sim5M	scaffold127_32.5	97.83		True
+CONTIG	scaffold127_32.5	2714	correct
+3118370	3122632	4278	1	sim5M	scaffold128_31.4	98.14		True
+indel: indel (> 5bp)
+3115621	3118245	7015	4393	sim5M	scaffold128_31.4	99.05		True
+CONTIG	scaffold128_31.4	7015	correct
+CONTIG	scaffold129_33.2	1323	unaligned
+CONTIG	scaffold130_31.2	2293	unaligned
+478782	485916	1	7102	sim5M	scaffold131_32.5	98.05		True
+CONTIG	scaffold131_32.5	7102	correct
+2431229	2432199	1355	385	sim5M	scaffold132_32.4	100.0		True
+CONTIG	scaffold132_32.4	1355	correct
+2870527	2872645	2119	1	sim5M	scaffold134_28.1	98.02		True
+CONTIG	scaffold134_28.1	2119	correct
+3608301	3608380	277	198	sim5M	scaffold135_28.7	100.0		True
+indel: indel (<= 5bp)
+3605779	3608149	2807	430	sim5M	scaffold135_28.7	98.44		True
+CONTIG	scaffold135_28.7	2807	correct
+934836	936783	1	1939	sim5M	scaffold136_32.9	95.43		True
+local misassembly
+937020	939041	2176	4203	sim5M	scaffold136_32.9	98.52		True
+CONTIG	scaffold136_32.9	4203	correct
+1819069	1826854	1	7782	sim5M	scaffold138_30.2	97.32		True
+CONTIG	scaffold138_30.2	7782	correct
+4670545	4676330	75	5846	sim5M	scaffold139_32.0	97.1		True
+CONTIG	scaffold139_32.0	5846	correct
+3870731	3875455	4705	1	sim5M	scaffold140_33.4	95.0		True
+CONTIG	scaffold140_33.4	4786	correct
+3506235	3507342	1105	1	sim5M	scaffold141_31.7	98.02		True
+CONTIG	scaffold141_31.7	1105	correct
+4201293	4208936	1	7597	sim5M	scaffold142_31.2	95.87		True
+local misassembly
+4209519	4212487	8147	11107	sim5M	scaffold142_31.2	98.39		True
+indel: indel (> 5bp)
+4212700	4218336	11311	16912	sim5M	scaffold142_31.2	97.55		True
+CONTIG	scaffold142_31.2	16912	correct
+4034580	4039887	5307	1	sim5M	scaffold143_32.2	98.74		True
+indel: indel (<= 5bp)
+4033815	4034403	6073	5481	sim5M	scaffold143_32.2	99.33		True
+CONTIG	scaffold143_32.2	6073	correct
+4846892	4851375	1	4469	sim5M	scaffold144_29.6	95.44		True
+CONTIG	scaffold144_29.6	4469	correct
+2434416	2434647	146	377	sim5M	scaffold145_30.9	100.0		True
+local misassembly
+2435710	2438297	1417	4018	sim5M	scaffold145_30.9	95.71		True
+indel: indel (> 5bp)
+2438386	2438561	4101	4276	sim5M	scaffold145_30.9	100.0		True
+CONTIG	scaffold145_30.9	4276	correct
+4667726	4670281	2539	1	sim5M	scaffold146_29.0	97.81		True
+CONTIG	scaffold146_29.0	2656	correct
+4238581	4238684	1	104	sim5M	scaffold147_29.4	100.0		True
+CONTIG	scaffold147_29.4	2326	correct_unaligned
+987681	988021	1	341	sim5M	scaffold148_34.5	97.65		True
+unknown
+988501	988939	816	1253	sim5M	scaffold148_34.5	98.86		True
+unknown
+CONTIG	scaffold148_34.5	2971	mis_unaligned
+38828	38908	204	284	sim5M	scaffold149_26.7	100.0		True
+unknown
+39191	39358	565	732	sim5M	scaffold149_26.7	100.0		True
+unknown
+CONTIG	scaffold149_26.7	839	mis_unaligned
+1966509	1968016	1516	1	sim5M	scaffold150_30.2	98.94		True
+CONTIG	scaffold150_30.2	2636	correct
+3912708	3918767	6048	1	sim5M	scaffold151_30.4	98.42		True
+CONTIG	scaffold151_30.4	6048	correct
+4060516	4068620	8090	1	sim5M	scaffold152_30.7	96.82		True
+CONTIG	scaffold152_30.7	9549	correct
+2529792	2533495	3690	1	sim5M	scaffold153_29.3	95.33		True
+CONTIG	scaffold153_29.3	3690	correct
+1911931	1912114	409	592	sim5M	scaffold154_27.9	96.74		True
+CONTIG	scaffold154_27.9	592	correct
+594197	596252	1496	3536	sim5M	scaffold155_31.5	98.83		True
+CONTIG	scaffold155_31.5	3536	correct
+1858681	1865563	6876	1	sim5M	scaffold156_29.8	97.58		True
+CONTIG	scaffold156_29.8	6876	correct
+994999	996972	1203	3176	sim5M	scaffold158_29.7	97.01		True
+CONTIG	scaffold158_29.7	3176	correct
+4158458	4162264	3921	113	sim5M	scaffold160_32.2	96.52		True
+CONTIG	scaffold160_32.2	3921	correct
+4178501	4178951	4573	4133	sim5M	scaffold161_29.1	95.79		True
+CONTIG	scaffold161_29.1	4573	correct_unaligned
+407652	415473	291	8099	sim5M	scaffold162_30.5	96.41		True
+CONTIG	scaffold162_30.5	8145	correct
+3382766	3393997	11230	1	sim5M	scaffold163_32.3	98.59		True
+indel: indel (<= 5bp)
+3377345	3382639	16645	11358	sim5M	scaffold163_32.3	97.06		True
+CONTIG	scaffold163_32.3	16645	correct
+CONTIG	scaffold164_32.3	14934	unaligned
+1560982	1567722	1	6698	sim5M	scaffold165_30.8	96.02		True
+indel: indel (> 5bp)
+1567847	1575520	6817	14526	sim5M	scaffold165_30.8	97.11		True
+CONTIG	scaffold165_30.8	14526	correct
+1979998	1986456	1	6454	sim5M	scaffold166_30.0	97.02		True
+CONTIG	scaffold166_30.0	6558	correct
+4553763	4560172	1	6377	sim5M	scaffold167_29.6	95.14		True
+CONTIG	scaffold167_29.6	6377	correct
+1986559	1991623	5063	1	sim5M	scaffold168_30.1	95.65		True
+CONTIG	scaffold168_30.1	5063	correct
+CONTIG	scaffold169_29.6	1359	unaligned
+CONTIG	scaffold170_30.2	1390	unaligned
+3821881	3829686	1	7795	sim5M	scaffold171_30.8	96.36		True
+CONTIG	scaffold171_30.8	7795	correct
+CONTIG	scaffold172_37.8	967	unaligned
+4511096	4513008	1900	1	sim5M	scaffold173_32.4	95.97		True
+CONTIG	scaffold173_32.4	1900	correct
+CONTIG	scaffold174_35.9	582	unaligned
+CONTIG	scaffold175_30.7	6919	unaligned
+2068932	2070334	2078	683	sim5M	scaffold176_30.6	96.65		True
+local misassembly
+2062799	2068658	8232	2366	sim5M	scaffold176_30.6	97.43		True
+CONTIG	scaffold176_30.6	8232	correct
+4021917	4027745	5815	1	sim5M	scaffold178_32.0	96.61		True
+CONTIG	scaffold178_32.0	5815	correct
+957665	957734	1	70	sim5M	scaffold179_33.5	100.0		True
+unknown
+957956	958184	285	513	sim5M	scaffold179_33.5	100.0		True
+unknown
+958375	958932	701	1252	sim5M	scaffold179_33.5	96.24		True
+unknown
+CONTIG	scaffold179_33.5	1972	mis_unaligned
+830923	832637	3637	5360	sim5M	scaffold180_31.4	95.48		True
+CONTIG	scaffold180_31.4	5360	correct_unaligned
+4695799	4708114	1	12325	sim5M	scaffold181_29.1	98.31		True
+local misassembly
+4708459	4717011	12659	21187	sim5M	scaffold181_29.1	98.31		True
+CONTIG	scaffold181_29.1	21312	correct
+CONTIG	scaffold182_31.5	8874	unaligned
+1135276	1135350	75	1	sim5M	scaffold183_30.2	100.0		True
+indel: stretch of mismatches
+1133115	1135067	2225	284	sim5M	scaffold183_30.2	95.14		True
+indel: indel (<= 5bp)
+1132405	1132940	2930	2399	sim5M	scaffold183_30.2	95.52		True
+CONTIG	scaffold183_30.2	2930	correct
+CONTIG	scaffold184_30.2	1541	unaligned
+3185783	3192673	6868	1	sim5M	scaffold185_30.8	98.36		True
+indel: indel (<= 5bp)
+3177569	3185587	15078	7069	sim5M	scaffold185_30.8	99.36		True
+local misassembly
+3174630	3177209	18018	15433	sim5M	scaffold185_30.8	97.84		True
+indel: indel (> 5bp)
+3173576	3174511	19092	18160	sim5M	scaffold185_30.8	97.65		True
+CONTIG	scaffold185_30.8	19092	correct
+CONTIG	scaffold186_26.8	1133	unaligned
+2459766	2461219	1453	1	sim5M	scaffold187_32.8	97.46		True
+CONTIG	scaffold187_32.8	1453	correct
+946589	948148	1	1568	sim5M	scaffold188_33.3	97.96		True
+indel: indel (> 5bp)
+948276	948751	1689	2160	sim5M	scaffold188_33.3	98.74		True
+CONTIG	scaffold188_33.3	2160	correct
+CONTIG	scaffold189_32.1	3617	unaligned
+1766453	1766590	986	849	sim5M	scaffold190_30.3	100.0		True
+CONTIG	scaffold190_30.3	3631	correct_unaligned
+1024961	1026126	3464	4629	sim5M	scaffold191_32.7	99.91		True
+unknown
+1026325	1027951	4821	6441	sim5M	scaffold191_32.7	97.55		True
+unknown
+1028233	1029183	6733	7679	sim5M	scaffold191_32.7	95.06		True
+unknown
+CONTIG	scaffold191_32.7	7761	mis_unaligned
+2788735	2794096	1	5363	sim5M	scaffold192_31.7	95.7		True
+CONTIG	scaffold192_31.7	5363	correct
+CONTIG	scaffold193_29.9	1182	unaligned
+CONTIG	scaffold194_37.2	619	unaligned
+1489316	1494015	1	4707	sim5M	scaffold195_32.0	95.3		True
+indel: indel (> 5bp)
+1494205	1496955	4888	7632	sim5M	scaffold195_32.0	95.08		True
+CONTIG	scaffold195_32.0	10265	correct
+3705781	3709759	3966	1	sim5M	scaffold196_29.6	96.74		True
+indel: indel (> 5bp)
+3705488	3705621	4250	4117	sim5M	scaffold196_29.6	99.25		True
+CONTIG	scaffold196_29.6	4250	correct
+3777645	3797917	1	20256	sim5M	scaffold198_30.6	97.89		True
+local misassembly
+3798188	3798738	20510	21070	sim5M	scaffold198_30.6	98.22		True
+CONTIG	scaffold198_30.6	21122	correct
+3449382	3452895	4202	722	sim5M	scaffold199_30.1	95.14		True
+CONTIG	scaffold199_30.1	4202	correct
+2856595	2868303	11667	1	sim5M	scaffold200_29.8	96.61		True
+CONTIG	scaffold200_29.8	11827	correct
+3510209	3515486	5267	1	sim5M	scaffold201_33.2	96.2		True
+CONTIG	scaffold201_33.2	5267	correct
+3101002	3112251	11218	1	sim5M	scaffold202_32.1	96.97		True
+CONTIG	scaffold202_32.1	11218	correct
+1227020	1230381	3359	1	sim5M	scaffold203_29.5	97.27		True
+CONTIG	scaffold203_29.5	4533	correct
+392438	399233	6782	1	sim5M	scaffold204_30.7	97.25		True
+indel: indel (> 5bp)
+370419	392259	28756	6939	sim5M	scaffold204_30.7	97.98		True
+CONTIG	scaffold204_30.7	28756	correct
+CONTIG	scaffold205_32.7	7661	unaligned
+3214097	3215008	918	1	sim5M	scaffold206_30.2	95.97		True
+CONTIG	scaffold206_30.2	918	correct
+CONTIG	scaffold207_29.4	5285	unaligned
+1109857	1114390	1	4516	sim5M	scaffold208_31.1	95.99		True
+local misassembly
+1114670	1124341	4802	14446	sim5M	scaffold208_31.1	96.03		True
+CONTIG	scaffold208_31.1	14446	correct
+133652	136466	1	2799	sim5M	scaffold209_27.8	95.85		True
+CONTIG	scaffold209_27.8	2799	correct
+1001020	1002066	1	1051	sim5M	scaffold211_33.8	99.52		True
+local misassembly
+1002302	1004781	1281	3752	sim5M	scaffold211_33.8	95.22		True
+indel: indel (> 5bp)
+1004945	1005621	3905	4583	sim5M	scaffold211_33.8	99.71		True
+indel: indel (> 5bp)
+1005865	1006031	4814	4980	sim5M	scaffold211_33.8	100.0		True
+CONTIG	scaffold211_33.8	4980	correct
+CONTIG	scaffold212_35.2	969	unaligned
+157611	163646	1	6009	sim5M	scaffold214_28.9	97.32		True
+CONTIG	scaffold214_28.9	6009	correct
+CONTIG	scaffold215_30.2	2963	unaligned
+2438551	2438680	1	131	sim5M	scaffold216_29.6	99.24		True
+indel: indel (> 5bp)
+2438817	2456514	248	17934	sim5M	scaffold216_29.6	97.95		True
+CONTIG	scaffold216_29.6	17934	correct
+247921	249288	1	1358	sim5M	scaffold217_29.0	95.47		True
+CONTIG	scaffold217_29.0	1358	correct
+1931260	1933090	1	1825	sim5M	scaffold218_31.0	97.54		True
+CONTIG	scaffold218_31.0	1825	correct
+4183689	4190416	1	6729	sim5M	scaffold219_30.2	95.08		True
+indel: indel (> 5bp)
+4190510	4190580	6806	6876	sim5M	scaffold219_30.2	100.0		True
+indel: indel (<= 5bp)
+4190684	4196819	6977	13125	sim5M	scaffold219_30.2	98.2		True
+indel: indel (> 5bp)
+4197093	4199808	13380	16080	sim5M	scaffold219_30.2	95.99		True
+CONTIG	scaffold219_30.2	16080	correct
+3087765	3089785	1	2012	sim5M	scaffold220_31.0	96.09		True
+indel: indel (<= 5bp)
+3089897	3099617	2128	11830	sim5M	scaffold220_31.0	98.78		True
+CONTIG	scaffold220_31.0	11928	correct
+CONTIG	scaffold221_32.2	2761	unaligned
+2835580	2835645	66	1	sim5M	scaffold222_29.2	100.0		True
+CONTIG	scaffold222_29.2	970	correct_unaligned
+4388320	4393749	1	5422	sim5M	scaffold223_30.4	99.02		True
+CONTIG	scaffold223_30.4	5519	correct
+2820936	2831725	10776	1	sim5M	scaffold226_30.0	98.49		True
+CONTIG	scaffold226_30.0	10776	correct
+1075275	1076644	1	1365	sim5M	scaffold227_31.8	96.64		True
+CONTIG	scaffold227_31.8	1365	correct
+CONTIG	scaffold228_29.9	4393	unaligned
+2538630	2548347	9707	1	sim5M	scaffold229_30.4	96.82		True
+CONTIG	scaffold229_30.4	9707	correct
+CONTIG	scaffold230_31.1	1495	unaligned
+CONTIG	scaffold232_30.9	626	unaligned
+3239158	3242885	3728	1	sim5M	scaffold233_30.3	100.0		True
+indel: indel (<= 5bp)
+3228618	3238968	14258	3916	sim5M	scaffold233_30.3	99.01		True
+CONTIG	scaffold233_30.3	14258	correct
+1592649	1601656	1	8996	sim5M	scaffold234_31.3	97.19		True
+CONTIG	scaffold234_31.3	8996	correct
+4505461	4508516	3051	1	sim5M	scaffold235_31.7	97.22		True
+CONTIG	scaffold235_31.7	3051	correct
+CONTIG	scaffold236_29.9	1664	unaligned
+4465734	4476981	1	11229	sim5M	scaffold237_32.4	98.78		True
+CONTIG	scaffold237_32.4	11229	correct
+4947421	4952696	1	5277	sim5M	scaffold238_29.6	98.47		True
+CONTIG	scaffold238_29.6	5277	correct
+2396364	2402653	6280	1	sim5M	scaffold240_30.7	97.3		True
+CONTIG	scaffold240_30.7	6810	correct
+CONTIG	scaffold241_33.6	1594	unaligned
+2794595	2795101	1	500	sim5M	scaffold242_38.6	95.08		True
+CONTIG	scaffold242_38.6	500	correct
+3153042	3164359	1	11287	sim5M	scaffold243_29.8	97.64		True
+CONTIG	scaffold243_29.8	11287	correct
+1415265	1415466	1034	1235	sim5M	scaffold244_31.2	100.0		True
+unknown
+1415571	1415674	1342	1445	sim5M	scaffold244_31.2	100.0		True
+unknown
+CONTIG	scaffold244_31.2	1877	mis_unaligned
+2475247	2477926	2673	1	sim5M	scaffold245_32.0	99.51		True
+indel: indel (<= 5bp)
+2470616	2475110	7287	2807	sim5M	scaffold245_32.0	95.89		True
+CONTIG	scaffold245_32.0	7365	correct
+1734426	1736017	1	1591	sim5M	scaffold246_34.2	98.49		True
+local misassembly
+1736231	1739299	1800	4869	sim5M	scaffold246_34.2	97.43		True
+CONTIG	scaffold246_34.2	4869	correct
+4617048	4622743	1	5688	sim5M	scaffold247_29.9	98.18		True
+local misassembly
+4623099	4625412	6025	8340	sim5M	scaffold247_29.9	96.04		True
+CONTIG	scaffold247_29.9	8456	correct
+2233993	2246390	12375	1	sim5M	scaffold248_31.1	98.93		True
+CONTIG	scaffold248_31.1	12375	correct
+2556414	2562818	6403	1	sim5M	scaffold249_30.2	99.53		True
+indel: indel (<= 5bp)
+2548924	2556233	13902	6587	sim5M	scaffold249_30.2	98.73		True
+CONTIG	scaffold249_30.2	13996	correct
+2879583	2892241	1	12614	sim5M	scaffold250_30.9	97.83		True
+indel: indel (> 5bp)
+2892358	2906741	12719	27091	sim5M	scaffold250_30.9	98.35		True
+indel: indel (<= 5bp)
+2906843	2908501	27196	28856	sim5M	scaffold250_30.9	95.62		True
+CONTIG	scaffold250_30.9	28856	correct
+4930383	4937044	6651	1	sim5M	scaffold251_32.1	97.15		True
+CONTIG	scaffold251_32.1	6651	correct
+607585	610628	3026	1	sim5M	scaffold252_30.1	98.19		True
+CONTIG	scaffold252_30.1	3026	correct
+2614879	2624863	9976	1	sim5M	scaffold253_31.8	97.82		True
+CONTIG	scaffold253_31.8	10045	correct
+1552779	1558917	6106	1	sim5M	scaffold254_30.7	97.1		True
+CONTIG	scaffold254_30.7	6395	correct
+4285743	4285948	690	485	sim5M	scaffold255_30.3	100.0		True
+local misassembly
+4271457	4285497	14927	917	sim5M	scaffold255_30.3	95.29		True
+CONTIG	scaffold255_30.3	14927	correct
+3680078	3681378	1281	1	sim5M	scaffold257_32.3	96.55		True
+CONTIG	scaffold257_32.3	1281	correct
+4577621	4582644	1	5033	sim5M	scaffold258_31.9	95.92		True
+CONTIG	scaffold258_31.9	5033	correct
+2708158	2717013	376	9202	sim5M	scaffold260_29.2	96.23		True
+local misassembly
+2717326	2721179	9506	13363	sim5M	scaffold260_29.2	98.55		True
+CONTIG	scaffold260_29.2	13363	correct
+1073730	1074758	1038	1	sim5M	scaffold261_30.3	99.04		True
+indel: indel (<= 5bp)
+1073127	1073626	1640	1141	sim5M	scaffold261_30.3	100.0		True
+indel: indel (> 5bp)
+1072114	1072872	2637	1886	sim5M	scaffold261_30.3	95.39		True
+CONTIG	scaffold261_30.3	3533	correct
+690586	694277	3691	1	sim5M	scaffold262_30.9	98.38		True
+indel: indel (<= 5bp)
+681481	690431	12784	3845	sim5M	scaffold262_30.9	97.42		True
+CONTIG	scaffold262_30.9	12784	correct
+3036270	3041804	5511	1	sim5M	scaffold264_30.6	95.81		True
+indel: indel (<= 5bp)
+3025801	3036131	15967	5645	sim5M	scaffold264_30.6	98.18		True
+CONTIG	scaffold264_30.6	16151	correct
+3682600	3691700	1	9076	sim5M	scaffold266_30.6	96.61		True
+CONTIG	scaffold266_30.6	9076	correct
+2122440	2125711	1	3268	sim5M	scaffold267_30.4	95.84		True
+indel: indel (> 5bp)
+2125926	2133061	3470	10585	sim5M	scaffold267_30.4	97.43		True
+indel: indel (> 5bp)
+2133224	2134064	10754	11594	sim5M	scaffold267_30.4	100.0		True
+CONTIG	scaffold267_30.4	11594	correct
+CONTIG	scaffold268_31.5	588	unaligned
+3898207	3904855	6645	1	sim5M	scaffold269_29.3	97.63		True
+local misassembly
+3891662	3897879	13166	6960	sim5M	scaffold269_29.3	99.45		True
+CONTIG	scaffold269_29.3	13271	correct
+4629735	4635028	5260	1	sim5M	scaffold270_30.1	95.4		True
+CONTIG	scaffold270_30.1	6026	correct
+581497	581605	1232	1340	sim5M	scaffold272_36.4	100.0		True
+CONTIG	scaffold272_36.4	2208	correct_unaligned
+1124595	1126128	1	1540	sim5M	scaffold273_30.3	99.22		True
+unknown
+1131172	1132403	6563	7794	sim5M	scaffold273_30.3	100.0		True
+unknown
+CONTIG	scaffold273_30.3	7794	mis_unaligned
+3013064	3024632	11651	91	sim5M	scaffold275_31.0	96.32		True
+indel: indel (<= 5bp)
+3012813	3012971	11899	11741	sim5M	scaffold275_31.0	99.37		True
+CONTIG	scaffold275_31.0	12251	correct
+1973566	1973676	111	1	sim5M	scaffold276_31.8	100.0		True
+CONTIG	scaffold276_31.8	1240	correct_unaligned
+4311208	4314903	1	3717	sim5M	scaffold277_29.7	95.73		True
+CONTIG	scaffold277_29.7	3717	correct
+4051819	4056169	232	4554	sim5M	scaffold278_31.8	96.97		True
+indel: indel (> 5bp)
+4056448	4057906	4820	6259	sim5M	scaffold278_31.8	96.71		True
+CONTIG	scaffold278_31.8	7342	correct
+875633	875846	214	1	sim5M	scaffold279_33.6	100.0		True
+local misassembly
+875153	875375	697	475	sim5M	scaffold279_33.6	100.0		True
+indel: indel (> 5bp)
+870169	874951	5648	882	sim5M	scaffold279_33.6	96.82		True
+CONTIG	scaffold279_33.6	5648	correct
+3701451	3702056	953	1553	sim5M	scaffold280_30.8	98.18		True
+CONTIG	scaffold280_30.8	1853	correct_unaligned
+CONTIG	scaffold281_28.7	2030	unaligned
+4534477	4537805	1	3322	sim5M	scaffold283_31.5	97.81		True
+CONTIG	scaffold283_31.5	3322	correct
+CONTIG	scaffold286_32.9	3939	unaligned
+312155	319608	7527	102	sim5M	scaffold287_32.3	95.31		True
+indel: indel (<= 5bp)
+311263	312014	8419	7666	sim5M	scaffold287_32.3	99.73		True
+CONTIG	scaffold287_32.3	8419	correct
+2908603	2914341	1	5725	sim5M	scaffold288_31.5	95.24		True
+indel: indel (<= 5bp)
+2914565	2919299	5944	10633	sim5M	scaffold288_31.5	96.37		True
+indel: indel (> 5bp)
+2919455	2920055	10779	11379	sim5M	scaffold288_31.5	100.0		True
+CONTIG	scaffold288_31.5	11450	correct
+4111830	4115737	1041	4947	sim5M	scaffold289_31.1	95.69		True
+CONTIG	scaffold289_31.1	4947	correct
+931781	934639	1	2845	sim5M	scaffold290_31.2	96.05		True
+CONTIG	scaffold290_31.2	2845	correct
+4109243	4109354	112	1	sim5M	scaffold292_33.8	100.0		True
+CONTIG	scaffold292_33.8	598	correct
+961459	961723	1649	1913	sim5M	scaffold293_31.4	100.0		True
+CONTIG	scaffold293_31.4	1998	correct_unaligned
+2420611	2424873	1	4261	sim5M	scaffold294_31.1	97.08		True
+CONTIG	scaffold294_31.1	4261	correct
+CONTIG	scaffold295_25.9	545	unaligned
+1247942	1253351	1	5414	sim5M	scaffold297_29.7	98.43		True
+CONTIG	scaffold297_29.7	5414	correct
+1357400	1361006	3620	1	sim5M	scaffold298_32.3	96.25		True
+CONTIG	scaffold298_32.3	3706	correct
+3402304	3410291	7968	1	sim5M	scaffold299_30.6	96.7		True
+CONTIG	scaffold299_30.6	7968	correct
+1378498	1382320	3826	1	sim5M	scaffold300_29.4	99.29		True
+indel: indel (> 5bp)
+1375916	1378236	6392	4075	sim5M	scaffold300_29.4	98.97		True
+indel: indel (<= 5bp)
+1370383	1375816	11926	6493	sim5M	scaffold300_29.4	95.19		True
+CONTIG	scaffold300_29.4	11926	correct
+4660403	4660514	112	1	sim5M	scaffold302_32.8	100.0		True
+local misassembly
+4660179	4660245	343	277	sim5M	scaffold302_32.8	100.0		True
+indel: indel (> 5bp)
+4658003	4659931	2513	582	sim5M	scaffold302_32.8	96.33		True
+local misassembly
+4652091	4657785	8376	2717	sim5M	scaffold302_32.8	97.77		True
+CONTIG	scaffold302_32.8	8376	correct
+592497	592585	190	102	sim5M	scaffold303_28.9	100.0		True
+CONTIG	scaffold303_28.9	3204	correct_unaligned
+1936176	1940902	1944	6644	sim5M	scaffold304_30.7	96.03		True
+indel: indel (<= 5bp)
+1941016	1941112	6757	6853	sim5M	scaffold304_30.7	100.0		True
+CONTIG	scaffold304_30.7	8791	correct
+4527106	4532035	1	4941	sim5M	scaffold305_29.1	96.72		True
+CONTIG	scaffold305_29.1	4941	correct
+1019165	1020060	1	890	sim5M	scaffold306_33.6	97.44		True
+indel: indel (> 5bp)
+1020231	1021412	1048	2222	sim5M	scaffold306_33.6	97.21		True
+CONTIG	scaffold306_33.6	2222	correct
+3082067	3083470	1404	1	sim5M	scaffold307_29.6	100.0		True
+indel: indel (> 5bp)
+3070996	3081796	12444	1666	sim5M	scaffold307_29.6	97.99		True
+CONTIG	scaffold307_29.6	12444	correct
+1453146	1453282	137	1	sim5M	scaffold308_31.7	100.0		True
+local misassembly
+1448138	1452704	5115	562	sim5M	scaffold308_31.7	97.16		True
+CONTIG	scaffold308_31.7	5115	correct
+3348786	3358631	1	9845	sim5M	scaffold309_31.3	97.2		True
+indel: indel (> 5bp)
+3358766	3365682	9963	16898	sim5M	scaffold309_31.3	97.38		True
+CONTIG	scaffold309_31.3	16898	correct
+CONTIG	scaffold310_32.6	1758	unaligned
+1221562	1225844	1	4270	sim5M	scaffold311_31.4	96.97		True
+CONTIG	scaffold311_31.4	4270	correct
+4928404	4928704	301	1	sim5M	scaffold312_30.2	100.0		True
+unknown
+4921729	4923488	6961	5213	sim5M	scaffold312_30.2	95.17		True
+unknown
+CONTIG	scaffold312_30.2	6961	mis_unaligned
+1587339	1589356	2014	1	sim5M	scaffold313_31.3	96.98		True
+CONTIG	scaffold313_31.3	2717	correct
+817877	818163	287	1	sim5M	scaffold314_30.5	100.0		True
+indel: indel (> 5bp)
+816236	817763	1916	388	sim5M	scaffold314_30.5	95.82		True
+CONTIG	scaffold314_30.5	1916	correct
+CONTIG	scaffold315_32.3	569	unaligned
+1212861	1212927	615	549	sim5M	scaffold317_27.1	100.0		True
+CONTIG	scaffold317_27.1	718	correct_unaligned
+1403598	1412301	1	8693	sim5M	scaffold318_31.4	97.92		True
+indel: indel (> 5bp)
+1412420	1414211	8803	10604	sim5M	scaffold318_31.4	99.39		True
+CONTIG	scaffold318_31.4	10604	correct
+753765	766401	1	12603	sim5M	scaffold319_31.8	96.54		True
+local misassembly
+766647	770290	12855	16497	sim5M	scaffold319_31.8	99.29		True
+CONTIG	scaffold319_31.8	16566	correct
+442224	453191	1	10934	sim5M	scaffold320_29.6	97.32		True
+CONTIG	scaffold320_29.6	10934	correct
+1145455	1154158	8897	215	sim5M	scaffold321_31.7	96.92		True
+indel: indel (> 5bp)
+1144236	1145187	10099	9148	sim5M	scaffold321_31.7	100.0		True
+CONTIG	scaffold321_31.7	10099	correct
+809019	812233	5820	2616	sim5M	scaffold322_34.5	97.02		True
+CONTIG	scaffold322_34.5	5820	correct
+CONTIG	scaffold324_31.4	4498	unaligned
+2433235	2433399	1	165	sim5M	scaffold325_32.1	100.0		True
+CONTIG	scaffold325_32.1	1027	correct_unaligned
+CONTIG	scaffold326_35.6	745	unaligned
+147021	156693	9654	1	sim5M	scaffold327_31.6	98.4		True
+CONTIG	scaffold327_31.6	9654	correct
+583092	583454	368	1	sim5M	scaffold328_26.7	95.38		True
+indel: indel (> 5bp)
+582825	582944	624	505	sim5M	scaffold328_26.7	100.0		True
+CONTIG	scaffold328_26.7	624	correct
+4416197	4416310	114	1	sim5M	scaffold329_33.9	100.0		True
+indel: indel (<= 5bp)
+4413868	4416088	2449	225	sim5M	scaffold329_33.9	97.71		True
+CONTIG	scaffold329_33.9	2449	correct
+1253329	1260455	1	7140	sim5M	scaffold330_29.4	96.76		True
+CONTIG	scaffold330_29.4	7260	correct
+CONTIG	scaffold332_27.1	1190	unaligned
+3860975	3865635	1	4646	sim5M	scaffold334_32.9	95.36		True
+CONTIG	scaffold334_32.9	4646	correct
+1880134	1893504	13368	1	sim5M	scaffold337_30.1	98.53		True
+CONTIG	scaffold337_30.1	13368	correct
+4891599	4900443	8889	84	sim5M	scaffold338_29.8	97.07		True
+CONTIG	scaffold338_29.8	8889	correct
+1968948	1972429	809	4290	sim5M	scaffold339_28.9	100.0		True
+CONTIG	scaffold339_28.9	4290	correct
+983486	984430	939	1	sim5M	scaffold340_28.3	96.83		True
+CONTIG	scaffold340_28.3	2873	correct_unaligned
+CONTIG	scaffold342_23.4	505	unaligned
+2392046	2395706	1	3660	sim5M	scaffold343_29.9	96.7		True
+CONTIG	scaffold343_29.9	3660	correct
+330634	332705	2068	1	sim5M	scaffold345_37.3	96.92		True
+CONTIG	scaffold345_37.3	2068	correct
+CONTIG	scaffold346_30.2	1285	unaligned
+2309010	2327328	1	18270	sim5M	scaffold347_30.2	97.24		True
+CONTIG	scaffold347_30.2	18313	correct
+84419	84494	76	1	sim5M	scaffold348_32.7	100.0		True
+local misassembly
+84015	84152	480	345	sim5M	scaffold348_32.7	97.83		True
+indel: indel (> 5bp)
+82667	83866	1817	620	sim5M	scaffold348_32.7	99.67		True
+CONTIG	scaffold348_32.7	1817	correct
+81829	82405	577	1	sim5M	scaffold349_31.9	100.0		True
+local misassembly
+68769	81452	13616	959	sim5M	scaffold349_31.9	97.94		True
+CONTIG	scaffold349_31.9	13772	correct
+4479443	4484321	138	5010	sim5M	scaffold351_30.7	98.49		True
+CONTIG	scaffold351_30.7	5010	correct
+182331	182446	1	116	sim5M	scaffold352_34.4	100.0		True
+indel: indel (<= 5bp)
+182565	186971	236	4636	sim5M	scaffold352_34.4	96.49		True
+local misassembly
+187243	187367	4908	5032	sim5M	scaffold352_34.4	100.0		True
+CONTIG	scaffold352_34.4	5032	correct
+1956694	1961507	4830	1	sim5M	scaffold354_30.2	95.41		True
+CONTIG	scaffold354_30.2	4830	correct
+2337267	2339993	2723	1	sim5M	scaffold355_31.4	96.89		True
+CONTIG	scaffold355_31.4	2723	correct
+1082745	1082816	72	1	sim5M	scaffold356_31.2	100.0		True
+unknown
+1081554	1081651	1218	1121	sim5M	scaffold356_31.2	100.0		True
+unknown
+CONTIG	scaffold356_31.2	1301	mis_unaligned
+3525413	3527235	1818	1	sim5M	scaffold357_33.4	98.52		True
+CONTIG	scaffold357_33.4	1901	correct
+1645509	1650019	1	4511	sim5M	scaffold358_31.0	96.3		True
+CONTIG	scaffold358_31.0	4683	correct
+292450	307711	15198	1	sim5M	scaffold359_30.9	96.57		True
+CONTIG	scaffold359_30.9	18798	correct
+4232940	4238504	5538	1	sim5M	scaffold360_32.4	95.29		True
+indel: indel (<= 5bp)
+4224153	4232826	14298	5656	sim5M	scaffold360_32.4	97.22		True
+CONTIG	scaffold360_32.4	14359	correct
+CONTIG	scaffold361_35.4	882	unaligned
+108332	111356	3017	1	sim5M	scaffold362_30.4	98.25		True
+CONTIG	scaffold362_30.4	3017	correct
+1330412	1340890	1	10443	sim5M	scaffold364_31.7	96.39		True
+CONTIG	scaffold364_31.7	10443	correct
+1329860	1330163	305	1	sim5M	scaffold365_30.5	99.67		True
+indel: indel (> 5bp)
+1322189	1329738	7961	421	sim5M	scaffold365_30.5	98.4		True
+indel: indel (> 5bp)
+1310948	1322023	19161	8120	sim5M	scaffold365_30.5	97.38		True
+CONTIG	scaffold365_30.5	19527	correct
+2469275	2469428	148	1	sim5M	scaffold367_28.5	95.45		True
+CONTIG	scaffold367_28.5	2269	correct_unaligned
+CONTIG	scaffold368_32.3	4172	unaligned
+2832348	2834611	1	2257	sim5M	scaffold369_27.4	95.67		True
+CONTIG	scaffold369_27.4	2301	correct
+3754705	3758963	1	4240	sim5M	scaffold370_31.3	96.15		True
+CONTIG	scaffold370_31.3	4240	correct
+1045260	1048051	2984	190	sim5M	scaffold371_33.7	97.97		True
+CONTIG	scaffold371_33.7	2984	correct
+1012872	1013979	1106	1	sim5M	scaffold372_29.0	95.87		True
+indel: indel (<= 5bp)
+1012259	1012668	1706	1306	sim5M	scaffold372_29.0	95.61		True
+indel: indel (> 5bp)
+1012007	1012101	1946	1852	sim5M	scaffold372_29.0	98.95		True
+CONTIG	scaffold372_29.0	2066	correct
+3042093	3043428	2197	863	sim5M	scaffold373_32.6	95.29		True
+CONTIG	scaffold373_32.6	2351	correct
+1454410	1454527	118	1	sim5M	scaffold374_26.3	100.0		True
+CONTIG	scaffold374_26.3	819	correct_unaligned
+CONTIG	scaffold375_30.2	2405	unaligned
+706573	716337	9780	1	sim5M	scaffold377_31.9	97.8		True
+CONTIG	scaffold377_31.9	9780	correct
+3583325	3583426	420	521	sim5M	scaffold378_27.7	100.0		True
+CONTIG	scaffold378_27.7	521	correct
+4900755	4916474	1	15663	sim5M	scaffold379_30.4	98.14		True
+CONTIG	scaffold379_30.4	15663	correct
+3749186	3750183	1	998	sim5M	scaffold380_27.1	98.4		True
+CONTIG	scaffold380_27.1	1068	correct
+CONTIG	scaffold381_29.9	1940	unaligned
+CONTIG	scaffold382_30.1	2851	unaligned
+CONTIG	scaffold383_31.1	7302	unaligned
+1340972	1342504	1	1522	sim5M	scaffold384_30.7	95.37		True
+CONTIG	scaffold384_30.7	1522	correct
+4013378	4021693	139	8436	sim5M	scaffold385_32.4	96.41		True
+CONTIG	scaffold385_32.4	8436	correct
+1604723	1610458	5719	1	sim5M	scaffold386_33.8	96.14		True
+CONTIG	scaffold386_33.8	5811	correct
+4686523	4695680	9146	1	sim5M	scaffold387_31.7	97.12		True
+CONTIG	scaffold387_31.7	9146	correct
+CONTIG	scaffold388_34.1	1599	unaligned
+2647339	2647466	1	128	sim5M	scaffold389_32.1	100.0		True
+local misassembly
+2650718	2656763	3349	9397	sim5M	scaffold389_32.1	97.82		True
+CONTIG	scaffold389_32.1	9397	correct
+3341657	3344870	1	3201	sim5M	scaffold390_30.5	95.58		True
+indel: indel (> 5bp)
+3345034	3347218	3351	5533	sim5M	scaffold390_30.5	95.48		True
+indel: indel (> 5bp)
+3347335	3348644	5643	6943	sim5M	scaffold390_30.5	95.28		True
+CONTIG	scaffold390_30.5	7001	correct
+1772563	1781909	9326	1	sim5M	scaffold391_31.8	96.25		True
+CONTIG	scaffold391_31.8	9326	correct
+4457392	4465204	7801	1	sim5M	scaffold392_31.4	96.26		True
+CONTIG	scaffold392_31.4	7861	correct
+CONTIG	scaffold393_32.5	767	unaligned
+439535	440798	1	1258	sim5M	scaffold394_29.5	95.89		True
+CONTIG	scaffold394_29.5	1353	correct
+CONTIG	scaffold395_33.9	843	unaligned
+4928685	4929450	758	1	sim5M	scaffold396_28.4	95.05		True
+CONTIG	scaffold396_28.4	758	correct
+CONTIG	scaffold398_30.0	2322	unaligned
+1547649	1551217	1	3564	sim5M	scaffold399_30.4	95.81		True
+CONTIG	scaffold399_30.4	3564	correct
+3613926	3618490	1	4541	sim5M	scaffold400_29.6	98.03		True
+CONTIG	scaffold400_29.6	4541	correct
+3261241	3266226	4972	1	sim5M	scaffold401_31.4	97.76		True
+CONTIG	scaffold401_31.4	4972	correct
+4734981	4738000	3016	1	sim5M	scaffold404_28.7	97.49		True
+CONTIG	scaffold404_28.7	3016	correct
+4862462	4867962	5492	1	sim5M	scaffold406_31.1	98.76		True
+CONTIG	scaffold406_31.1	5492	correct
+3992682	4001033	8358	1	sim5M	scaffold408_30.3	95.59		True
+CONTIG	scaffold408_30.3	8358	correct
+1007957	1010917	1	2967	sim5M	scaffold409_33.5	98.01		True
+local misassembly
+1011214	1011770	3250	3806	sim5M	scaffold409_33.5	100.0		True
+CONTIG	scaffold409_33.5	3806	correct
+CONTIG	scaffold410_32.8	1311	unaligned
+CONTIG	scaffold411_27.1	520	unaligned
+4300379	4302870	2496	1	sim5M	scaffold412_33.5	97.72		True
+CONTIG	scaffold412_33.5	2496	correct
+723470	729419	1	5939	sim5M	scaffold413_29.1	97.73		True
+CONTIG	scaffold413_29.1	5939	correct
+1948034	1950051	2770	754	sim5M	scaffold415_30.0	95.17		True
+CONTIG	scaffold415_30.0	2770	correct
+3428936	3433222	4288	1	sim5M	scaffold417_30.0	95.72		True
+CONTIG	scaffold417_30.0	4288	correct
+CONTIG	scaffold418_28.1	577	unaligned
+CONTIG	scaffold419_38.7	652	unaligned
+CONTIG	scaffold420_32.5	1211	unaligned
+2876162	2877403	1239	1	sim5M	scaffold421_34.2	99.36		True
+local misassembly
+2875040	2875886	2351	1505	sim5M	scaffold421_34.2	100.0		True
+indel: indel (> 5bp)
+2872652	2874762	4720	2610	sim5M	scaffold421_34.2	100.0		True
+CONTIG	scaffold421_34.2	4720	correct
+3592510	3599308	6823	1	sim5M	scaffold422_31.9	96.14		True
+indel: indel (<= 5bp)
+3585455	3592344	13883	6988	sim5M	scaffold422_31.9	98.49		True
+CONTIG	scaffold422_31.9	13883	correct
+967443	968793	1	1369	sim5M	scaffold423_29.7	97.66		True
+indel: indel (<= 5bp)
+968893	970219	1470	2808	sim5M	scaffold423_29.7	97.24		True
+CONTIG	scaffold423_29.7	2877	correct
+CONTIG	scaffold424_36.7	1277	unaligned
+CONTIG	scaffold425_31.5	630	unaligned
+2390108	2391112	888	1892	sim5M	scaffold427_31.0	100.0		True
+CONTIG	scaffold427_31.0	1969	correct
+CONTIG	scaffold428_29.2	1507	unaligned
+3983960	3991397	7422	1	sim5M	scaffold429_33.0	98.35		True
+CONTIG	scaffold429_33.0	7422	correct
+270877	277474	6606	1	sim5M	scaffold430_32.3	97.0		True
+CONTIG	scaffold430_32.3	6606	correct
+CONTIG	scaffold431_31.9	725	unaligned
+2055443	2062699	1	7251	sim5M	scaffold432_31.5	95.54		True
+CONTIG	scaffold432_31.5	7360	correct
+1210138	1210261	1	124	sim5M	scaffold433_32.5	100.0		True
+CONTIG	scaffold433_32.5	1102	correct_unaligned
+4676538	4677405	95	959	sim5M	scaffold434_30.7	98.39		True
+CONTIG	scaffold434_30.7	1034	correct
+CONTIG	scaffold435_21.8	515	unaligned
+CONTIG	scaffold436_33.2	1375	unaligned
+1287181	1288180	989	1	sim5M	scaffold437_31.7	96.9		True
+local misassembly
+1278687	1286957	9457	1197	sim5M	scaffold437_31.7	98.8		True
+local misassembly
+1275727	1278413	12396	9712	sim5M	scaffold437_31.7	97.7		True
+CONTIG	scaffold437_31.7	12396	correct
+997057	997180	1	124	sim5M	scaffold438_34.5	100.0		True
+CONTIG	scaffold438_34.5	534	correct
+515561	519027	3477	1	sim5M	scaffold439_29.0	98.62		True
+CONTIG	scaffold439_29.0	3477	correct
+1551594	1551903	311	1	sim5M	scaffold440_32.2	95.82		True
+local misassembly
+1551297	1551363	591	525	sim5M	scaffold440_32.2	100.0		True
+CONTIG	scaffold440_32.2	648	correct
+4001279	4013106	1	11802	sim5M	scaffold441_30.3	97.28		True
+CONTIG	scaffold441_30.3	11802	correct
+1084942	1089548	4587	1	sim5M	scaffold442_30.1	97.18		True
+CONTIG	scaffold442_30.1	4587	correct
+CONTIG	scaffold443_31.5	1955	unaligned
+941317	942397	1490	2570	sim5M	scaffold444_29.9	100.0		True
+CONTIG	scaffold444_29.9	3890	correct_unaligned
+2293491	2302334	9926	1107	sim5M	scaffold445_30.3	97.25		True
+local misassembly
+2290267	2293296	13146	10135	sim5M	scaffold445_30.3	96.83		True
+CONTIG	scaffold445_30.3	13358	correct
+3049954	3056332	6353	1	sim5M	scaffold446_31.9	96.71		True
+CONTIG	scaffold446_31.9	6353	correct
+4286516	4286593	1	78	sim5M	scaffold447_27.5	100.0		True
+unknown
+4286863	4286964	332	433	sim5M	scaffold447_27.5	100.0		True
+unknown
+CONTIG	scaffold447_27.5	537	mis_unaligned
+3215255	3219668	1	4396	sim5M	scaffold448_30.2	98.19		True
+indel: indel (<= 5bp)
+3219828	3228640	4560	13341	sim5M	scaffold448_30.2	95.82		True
+CONTIG	scaffold448_30.2	13341	correct
+4488231	4505368	17117	1	sim5M	scaffold449_30.7	98.15		True
+CONTIG	scaffold449_30.7	17117	correct
+180539	180605	1	67	sim5M	scaffold450_29.6	100.0		True
+CONTIG	scaffold450_29.6	789	correct_unaligned
+746138	748438	1	2303	sim5M	scaffold452_31.6	98.13		True
+CONTIG	scaffold452_31.6	3352	correct
+3455147	3455272	1	126	sim5M	scaffold453_33.2	100.0		True
+CONTIG	scaffold453_33.2	779	correct_unaligned
+4807708	4808180	1	476	sim5M	scaffold454_30.4	95.18		True
+local misassembly
+4808407	4810161	698	2443	sim5M	scaffold454_30.4	97.15		True
+CONTIG	scaffold454_30.4	2443	correct
+2427517	2431150	3627	1	sim5M	scaffold455_29.6	99.5		True
+CONTIG	scaffold455_29.6	3627	correct
+730619	734750	1	4108	sim5M	scaffold456_28.8	97.65		True
+CONTIG	scaffold456_28.8	4332	correct
+4406065	4413191	1	7115	sim5M	scaffold457_31.8	97.14		True
+CONTIG	scaffold457_31.8	7115	correct
+85432	85726	936	1229	sim5M	scaffold458_27.4	97.63		True
+CONTIG	scaffold458_27.4	1229	correct_unaligned
+955224	955493	397	661	sim5M	scaffold459_31.8	95.19		True
+CONTIG	scaffold459_31.8	661	correct
+CONTIG	scaffold460_32.8	3075	unaligned
+887871	888558	94	783	sim5M	scaffold461_28.3	98.41		True
+CONTIG	scaffold461_28.3	783	correct
+1166207	1179881	1	13671	sim5M	scaffold463_29.5	97.66		True
+CONTIG	scaffold463_29.5	13671	correct
+2922216	2923215	992	1	sim5M	scaffold464_28.6	98.8		True
+CONTIG	scaffold464_28.6	992	correct
+3150351	3151503	1	1141	sim5M	scaffold465_26.5	96.1		True
+CONTIG	scaffold465_26.5	1141	correct
+1471263	1476647	254	5606	sim5M	scaffold466_30.7	96.13		True
+indel: indel (> 5bp)
+1476807	1477893	5773	6858	sim5M	scaffold466_30.7	97.34		True
+CONTIG	scaffold466_30.7	6858	correct
+4743289	4743484	1	195	sim5M	scaffold467_31.4	98.98		True
+CONTIG	scaffold467_31.4	525	correct
+1055371	1060076	1	4694	sim5M	scaffold468_31.1	97.0		True
+indel: indel (> 5bp)
+1060305	1065443	4917	10044	sim5M	scaffold468_31.1	96.95		True
+indel: indel (<= 5bp)
+1065535	1066677	10135	11277	sim5M	scaffold468_31.1	100.0		True
+CONTIG	scaffold468_31.1	11344	correct
+2624869	2642218	17331	1	sim5M	scaffold469_30.5	97.81		True
+CONTIG	scaffold469_30.5	17331	correct
+1040591	1043069	1	2473	sim5M	scaffold470_35.7	95.4		True
+CONTIG	scaffold470_35.7	2473	correct
+4537980	4553507	1	15502	sim5M	scaffold471_31.4	98.08		True
+CONTIG	scaffold471_31.4	15502	correct
+2528267	2529813	1547	1	sim5M	scaffold472_32.7	99.94		True
+indel: indel (<= 5bp)
+2522290	2528145	7512	1665	sim5M	scaffold472_32.7	99.03		True
+CONTIG	scaffold472_32.7	7662	correct
+3816430	3821682	5248	1	sim5M	scaffold473_30.2	97.82		True
+indel: indel (<= 5bp)
+3816096	3816296	5577	5377	sim5M	scaffold473_30.2	100.0		True
+CONTIG	scaffold473_30.2	5577	correct
+3843164	3850590	1	7415	sim5M	scaffold474_32.4	97.88		True
+CONTIG	scaffold474_32.4	7415	correct
+2741413	2747537	6116	1	sim5M	scaffold475_31.3	97.6		True
+CONTIG	scaffold475_31.3	6116	correct
+4642530	4649411	6876	1	sim5M	scaffold476_29.6	97.79		True
+CONTIG	scaffold476_29.6	6876	correct
+3568415	3571112	2676	1	sim5M	scaffold477_32.5	96.52		True
+CONTIG	scaffold477_32.5	2676	correct
+4039914	4043229	1	3311	sim5M	scaffold478_29.4	98.16		True
+CONTIG	scaffold478_29.4	3311	correct
+4595917	4601227	5326	1	sim5M	scaffold479_31.8	99.1		True
+CONTIG	scaffold479_31.8	5326	correct
+1610722	1614822	1	4105	sim5M	scaffold480_28.9	98.57		True
+CONTIG	scaffold480_28.9	6130	correct
+4240	4308	1	69	sim5M	scaffold481_28.8	100.0		True
+unknown
+4850	4956	610	716	sim5M	scaffold481_28.8	100.0		True
+unknown
+CONTIG	scaffold481_28.8	757	mis_unaligned
+CONTIG	scaffold482_31.3	1000	unaligned
+2010729	2011746	1010	1	sim5M	scaffold483_27.2	96.46		True
+CONTIG	scaffold483_27.2	1010	correct
+3602648	3602712	65	1	sim5M	scaffold484_32.4	100.0		True
+CONTIG	scaffold484_32.4	547	correct
+4099751	4101330	1	1574	sim5M	scaffold485_27.4	97.72		True
+CONTIG	scaffold485_27.4	1574	correct
+542545	543143	784	186	sim5M	scaffold486_32.3	99.83		True
+CONTIG	scaffold486_32.3	784	correct
+4340207	4340337	131	1	sim5M	scaffold487_29.9	100.0		True
+indel: indel (> 5bp)
+4336085	4340025	4241	303	sim5M	scaffold487_29.9	98.28		True
+CONTIG	scaffold487_29.9	4292	correct
+CONTIG	scaffold488_30.5	3952	unaligned
+458714	461866	1	3142	sim5M	scaffold489_34.1	97.69		True
+CONTIG	scaffold489_34.1	3142	correct
+4307811	4307942	1	132	sim5M	scaffold491_35.9	100.0		True
+CONTIG	scaffold491_35.9	615	correct
+3709742	3710354	1	613	sim5M	scaffold492_31.2	99.51		True
+indel: indel (<= 5bp)
+3710464	3721805	720	12040	sim5M	scaffold492_31.2	97.35		True
+CONTIG	scaffold492_31.2	12040	correct
+1189655	1192986	1	3347	sim5M	scaffold493_32.0	95.62		True
+CONTIG	scaffold493_32.0	3347	correct
+CONTIG	scaffold494_30.9	1747	unaligned
+463516	471126	1	7593	sim5M	scaffold495_32.4	98.29		True
+CONTIG	scaffold495_32.4	7593	correct
+CONTIG	scaffold496_27.3	1175	unaligned
+2656993	2658479	1	1480	sim5M	scaffold497_30.8	98.39		True
+CONTIG	scaffold497_30.8	1480	correct
+549271	551246	1973	1	sim5M	scaffold498_30.0	95.56		True
+CONTIG	scaffold498_30.0	2124	correct
+CONTIG	scaffold499_31.6	3199	unaligned
+3750551	3754723	4168	1	sim5M	scaffold500_29.2	97.8		True
+CONTIG	scaffold500_29.2	4285	correct
+3419138	3420798	1	1648	sim5M	scaffold501_30.9	98.25		True
+indel: indel (<= 5bp)
+3420984	3428958	1830	9786	sim5M	scaffold501_30.9	95.47		True
+CONTIG	scaffold501_30.9	9786	correct
+CONTIG	scaffold502_28.2	2209	unaligned
+805915	808092	2162	1	sim5M	scaffold503_34.0	96.97		True
+CONTIG	scaffold503_34.0	2162	correct
+3066318	3070744	4699	276	sim5M	scaffold504_31.0	95.94		True
+CONTIG	scaffold504_31.0	4699	correct
+4089954	4090825	866	1	sim5M	scaffold505_27.6	97.25		True
+CONTIG	scaffold505_27.6	866	correct
+2202143	2218018	1	15849	sim5M	scaffold506_30.9	97.62		True
+CONTIG	scaffold506_30.9	15964	correct
+CONTIG	scaffold507_30.9	4061	unaligned
+1619396	1633290	13886	1	sim5M	scaffold508_30.1	98.9		True
+CONTIG	scaffold508_30.1	13942	correct
+3618510	3626327	1	7793	sim5M	scaffold509_31.2	96.77		True
+indel: indel (> 5bp)
+3626447	3627188	7904	8643	sim5M	scaffold509_31.2	95.56		True
+indel: indel (> 5bp)
+3627298	3634975	8742	16407	sim5M	scaffold509_31.2	98.74		True
+CONTIG	scaffold509_31.2	16407	correct
+3951955	3957185	5249	1	sim5M	scaffold511_30.2	96.78		True
+CONTIG	scaffold511_30.2	5249	correct
+1801227	1806629	5409	1	sim5M	scaffold512_32.3	98.5		True
+CONTIG	scaffold512_32.3	5409	correct
+15325	18597	3261	1	sim5M	scaffold513_30.1	96.8		True
+indel: indel (<= 5bp)
+15071	15236	3513	3348	sim5M	scaffold513_30.1	100.0		True
+CONTIG	scaffold513_30.1	3513	correct
+249270	255501	1	6214	sim5M	scaffold514_30.5	97.26		True
+indel: stretch of mismatches
+255696	270622	6409	21319	sim5M	scaffold514_30.5	98.41		True
+CONTIG	scaffold514_30.5	21377	correct
+3122610	3134444	1	11810	sim5M	scaffold518_32.7	97.14		True
+CONTIG	scaffold518_32.7	11810	correct
+2009509	2010741	1	1233	sim5M	scaffold519_29.9	95.16		True
+CONTIG	scaffold519_29.9	1233	correct
+3678712	3679659	1	943	sim5M	scaffold520_33.2	98.21		True
+CONTIG	scaffold520_33.2	943	correct
+1388130	1388265	1	136	sim5M	scaffold521_34.9	100.0		True
+unknown
+1388685	1388750	545	610	sim5M	scaffold521_34.9	100.0		True
+unknown
+CONTIG	scaffold521_34.9	610	mis_unaligned
+2563546	2566572	1	3024	sim5M	scaffold522_30.3	97.17		True
+CONTIG	scaffold522_30.3	3024	correct
+CONTIG	scaffold523_29.9	3148	unaligned
+2597703	2598302	149	749	sim5M	scaffold524_31.2	99.83		True
+indel: indel (> 5bp)
+2598406	2608661	859	11115	sim5M	scaffold524_31.2	98.54		True
+CONTIG	scaffold524_31.2	11115	correct
+399369	401933	2571	1	sim5M	scaffold525_30.6	98.37		True
+CONTIG	scaffold525_30.6	2571	correct
+139092	142762	3652	1	sim5M	scaffold527_29.5	98.5		True
+CONTIG	scaffold527_29.5	3652	correct
+CONTIG	scaffold528_32.0	569	unaligned
+2955204	2957981	1	2745	sim5M	scaffold529_31.5	95.04		True
+CONTIG	scaffold529_31.5	2838	correct
+CONTIG	scaffold530_32.7	1651	unaligned
+1016296	1017930	1640	1	sim5M	scaffold531_28.6	95.49		True
+CONTIG	scaffold531_28.6	1640	correct
+1841656	1847615	5967	1	sim5M	scaffold532_30.6	98.91		True
+CONTIG	scaffold532_30.6	5967	correct
+2364699	2370349	1	5604	sim5M	scaffold535_31.6	95.17		True
+CONTIG	scaffold535_31.6	5604	correct
+CONTIG	scaffold536_33.2	1745	unaligned
+404102	406863	2757	1	sim5M	scaffold537_28.9	97.51		True
+local misassembly
+402300	403826	4558	3039	sim5M	scaffold537_28.9	98.43		True
+CONTIG	scaffold537_28.9	4657	correct
+1048325	1049002	1	680	sim5M	scaffold538_26.9	95.91		True
+CONTIG	scaffold538_26.9	680	correct
+CONTIG	scaffold539_31.7	934	unaligned
+4918503	4921486	1	2979	sim5M	scaffold540_34.2	97.59		True
+CONTIG	scaffold540_34.2	2979	correct
+4811473	4820857	1	9375	sim5M	scaffold541_31.2	98.62		True
+CONTIG	scaffold541_31.2	9476	correct
+1209183	1209321	139	1	sim5M	scaffold543_33.2	100.0		True
+local misassembly
+1208575	1208843	743	476	sim5M	scaffold543_33.2	99.26		True
+CONTIG	scaffold543_33.2	743	correct
+3295006	3301821	6808	1	sim5M	scaffold544_31.0	97.98		True
+indel: indel (<= 5bp)
+3294168	3294866	7642	6944	sim5M	scaffold544_31.0	100.0		True
+indel: indel (> 5bp)
+3288540	3294027	13253	7768	sim5M	scaffold544_31.0	98.98		True
+indel: indel (<= 5bp)
+3279321	3288379	22459	13416	sim5M	scaffold544_31.0	97.03		True
+local misassembly
+3266429	3278901	35302	22860	sim5M	scaffold544_31.0	97.46		True
+CONTIG	scaffold544_31.0	35413	correct
+CONTIG	scaffold546_31.7	602	unaligned
+856950	857153	204	1	sim5M	scaffold547_27.3	100.0		True
+indel: indel (<= 5bp)
+853858	856721	3283	429	sim5M	scaffold547_27.3	95.33		True
+CONTIG	scaffold547_27.3	3283	correct
+CONTIG	scaffold549_30.1	977	unaligned
+29417	33419	4008	1	sim5M	scaffold551_30.1	99.68		True
+indel: indel (<= 5bp)
+29084	29272	4334	4149	sim5M	scaffold551_30.1	97.88		True
+CONTIG	scaffold551_30.1	5924	correct
+976261	976825	1	566	sim5M	scaffold552_21.8	99.82		True
+CONTIG	scaffold552_21.8	566	correct
+199332	201987	2649	1	sim5M	scaffold553_28.7	97.18		True
+CONTIG	scaffold553_28.7	2649	correct
+3695988	3700161	4162	1	sim5M	scaffold554_29.9	98.52		True
+CONTIG	scaffold554_29.9	4162	correct
+3495029	3505957	1	10909	sim5M	scaffold555_32.4	98.15		True
+CONTIG	scaffold555_32.4	10909	correct
+2275144	2276731	1708	124	sim5M	scaffold557_30.3	98.43		True
+CONTIG	scaffold557_30.3	1708	correct
+1137473	1143037	1	5552	sim5M	scaffold558_29.5	97.9		True
+CONTIG	scaffold558_29.5	5552	correct
+1782929	1789398	6451	1	sim5M	scaffold559_31.5	99.12		True
+indel: indel (<= 5bp)
+1782717	1782782	6665	6600	sim5M	scaffold559_31.5	100.0		True
+CONTIG	scaffold559_31.5	6665	correct
+CONTIG	scaffold560_31.8	3798	unaligned
+4432105	4447602	15461	1	sim5M	scaffold561_31.3	98.25		True
+CONTIG	scaffold561_31.3	15461	correct
+2477980	2483517	1	5549	sim5M	scaffold562_31.3	98.27		True
+indel: indel (> 5bp)
+2483697	2485740	5720	7758	sim5M	scaffold562_31.3	97.16		True
+indel: indel (<= 5bp)
+2485999	2487447	8014	9460	sim5M	scaffold562_31.3	98.08		True
+CONTIG	scaffold562_31.3	9460	correct
+3691960	3692626	658	1	sim5M	scaffold564_31.1	96.4		True
+CONTIG	scaffold564_31.1	796	correct
+3325795	3332846	7043	1	sim5M	scaffold565_29.3	97.72		True
+CONTIG	scaffold565_29.3	7043	correct
+3307137	3307462	919	1245	sim5M	scaffold566_24.5	97.87		True
+CONTIG	scaffold566_24.5	1334	correct_unaligned
+908211	909838	1051	2667	sim5M	scaffold567_33.6	96.99		True
+CONTIG	scaffold567_33.6	2763	correct
+CONTIG	scaffold569_29.6	870	unaligned
+CONTIG	scaffold570_28.4	2924	unaligned
+4793635	4794771	1	1131	sim5M	scaffold571_30.5	97.45		True
+CONTIG	scaffold571_30.5	1131	correct
+1818882	1818969	88	1	sim5M	scaffold573_33.0	100.0		True
+indel: indel (> 5bp)
+1814686	1818785	4226	178	sim5M	scaffold573_33.0	95.49		True
+CONTIG	scaffold573_33.0	4338	correct
+930614	931596	1	985	sim5M	scaffold574_34.2	99.7		True
+CONTIG	scaffold574_34.2	1094	correct
+3515466	3519136	1	3656	sim5M	scaffold575_31.1	98.01		True
+CONTIG	scaffold575_31.1	3791	correct
+CONTIG	scaffold576_32.8	1522	unaligned
+1660007	1664171	1	4156	sim5M	scaffold577_33.8	95.51		True
+indel: indel (> 5bp)
+1664356	1664423	4325	4392	sim5M	scaffold577_33.8	100.0		True
+CONTIG	scaffold577_33.8	6347	correct
+2385073	2386146	1	1084	sim5M	scaffold578_31.8	96.13		True
+CONTIG	scaffold578_31.8	1192	correct
+CONTIG	scaffold579_26.6	577	unaligned
+3000670	3001382	702	1	sim5M	scaffold580_29.5	95.93		True
+CONTIG	scaffold580_29.5	859	correct
+1902240	1904219	2008	1	sim5M	scaffold581_31.4	95.29		True
+CONTIG	scaffold581_31.4	2008	correct
+2270208	2275166	1	4963	sim5M	scaffold582_30.7	99.64		True
+CONTIG	scaffold582_30.7	4963	correct
+1193102	1193968	1	866	sim5M	scaffold583_29.5	98.62		True
+indel: indel (> 5bp)
+1194126	1197008	1010	3889	sim5M	scaffold583_29.5	97.48		True
+indel: indel (> 5bp)
+1197106	1203574	3979	10450	sim5M	scaffold583_29.5	97.25		True
+CONTIG	scaffold583_29.5	10527	correct
+CONTIG	scaffold584_35.4	884	unaligned
+3957322	3961615	4339	92	sim5M	scaffold585_29.0	96.93		True
+CONTIG	scaffold585_29.0	4386	correct
+CONTIG	scaffold586_30.3	968	unaligned
+3669892	3673042	3135	1	sim5M	scaffold587_26.2	96.07		True
+CONTIG	scaffold587_26.2	3135	correct
+1105250	1108735	1	3484	sim5M	scaffold588_30.7	97.14		True
+indel: indel (<= 5bp)
+1108823	1109779	3574	4519	sim5M	scaffold588_30.7	96.87		True
+CONTIG	scaffold588_30.7	4519	correct
+1827075	1836218	1	9123	sim5M	scaffold589_30.4	97.23		True
+CONTIG	scaffold589_30.4	9123	correct
+2359552	2364707	5113	1	sim5M	scaffold590_32.5	96.76		True
+indel: indel (> 5bp)
+2352665	2359427	11964	5226	sim5M	scaffold590_32.5	98.17		True
+CONTIG	scaffold590_32.5	11964	correct
+CONTIG	scaffold591_30.3	2729	unaligned
+CONTIG	scaffold592_32.7	935	unaligned
+CONTIG	scaffold593_31.9	2522	unaligned
+675190	677557	1	2364	sim5M	scaffold595_33.6	96.96		True
+local misassembly
+678634	680396	3409	5172	sim5M	scaffold595_33.6	98.53		True
+CONTIG	scaffold595_33.6	5389	correct
+2336134	2336382	1	251	sim5M	scaffold596_27.6	96.06		True
+indel: indel (> 5bp)
+2336530	2337242	388	1101	sim5M	scaffold596_27.6	99.72		True
+CONTIG	scaffold596_27.6	1101	correct
+129838	129987	1	150	sim5M	scaffold597_25.7	100.0		True
+indel: indel (> 5bp)
+130125	132390	280	2533	sim5M	scaffold597_25.7	98.23		True
+CONTIG	scaffold597_25.7	2533	correct
+CONTIG	scaffold599_28.1	1618	unaligned
+163771	178147	1	14354	sim5M	scaffold600_29.6	97.28		True
+CONTIG	scaffold600_29.6	14354	correct
+596254	596642	1	385	sim5M	scaffold601_28.6	96.4		True
+unknown
+598624	599298	2346	3022	sim5M	scaffold601_28.6	99.7		True
+unknown
+CONTIG	scaffold601_28.6	3022	mis_unaligned
+923081	924462	1	1383	sim5M	scaffold603_31.9	99.93		True
+local misassembly
+925033	927630	1939	4533	sim5M	scaffold603_31.9	97.43		True
+CONTIG	scaffold603_31.9	4533	correct
+1756618	1763804	7206	1	sim5M	scaffold604_30.8	98.07		True
+CONTIG	scaffold604_30.8	7206	correct
+2425379	2427349	1981	1	sim5M	scaffold605_28.6	95.77		True
+CONTIG	scaffold605_28.6	2059	correct
+CONTIG	scaffold606_32.1	2864	unaligned
+2504159	2508581	1	4408	sim5M	scaffold607_27.6	98.64		True
+CONTIG	scaffold607_27.6	4561	correct
+3653376	3660296	6924	1	sim5M	scaffold608_30.2	99.09		True
+indel: indel (> 5bp)
+3643956	3653299	16387	7050	sim5M	scaffold608_30.2	97.91		True
+CONTIG	scaffold608_30.2	16387	correct
+2172734	2189344	16580	1	sim5M	scaffold609_30.1	98.5		True
+CONTIG	scaffold609_30.1	16580	correct
+4524446	4526646	2180	1	sim5M	scaffold612_30.4	96.68		True
+local misassembly
+4514047	4524266	12592	2359	sim5M	scaffold612_30.4	97.46		True
+CONTIG	scaffold612_30.4	12690	correct
+420993	427532	6528	1	sim5M	scaffold613_30.3	97.66		True
+CONTIG	scaffold613_30.3	6528	correct
+2795439	2799345	3891	1	sim5M	scaffold614_29.0	96.68		True
+CONTIG	scaffold614_29.0	3891	correct
+838580	840952	2381	1	sim5M	scaffold615_31.0	98.91		True
+CONTIG	scaffold615_31.0	2381	correct
+2189528	2195870	1	6311	sim5M	scaffold616_31.5	97.71		True
+CONTIG	scaffold616_31.5	6311	correct
+2869206	2870549	907	2239	sim5M	scaffold617_31.0	97.84		True
+CONTIG	scaffold617_31.0	2239	correct
+CONTIG	scaffold618_28.2	753	unaligned
+2799327	2802595	1	3268	sim5M	scaffold619_28.7	96.89		True
+CONTIG	scaffold619_28.7	3268	correct
+4943001	4947266	4257	1	sim5M	scaffold622_30.8	97.75		True
+indel: indel (> 5bp)
+4937302	4942825	9954	4427	sim5M	scaffold622_30.8	99.49		True
+CONTIG	scaffold622_30.8	9954	correct
+4352190	4364235	1	12039	sim5M	scaffold623_30.3	96.52		True
+indel: stretch of mismatches
+4364352	4368471	12156	16255	sim5M	scaffold623_30.3	97.89		True
+local misassembly
+4368638	4387816	16425	35592	sim5M	scaffold623_30.3	97.19		True
+CONTIG	scaffold623_30.3	35592	correct
+1308309	1310506	1	2198	sim5M	scaffold624_32.6	98.96		True
+CONTIG	scaffold624_32.6	2273	correct
+3370820	3377092	1	6266	sim5M	scaffold625_30.5	98.07		True
+CONTIG	scaffold625_30.5	6405	correct
+3083695	3083776	1	82	sim5M	scaffold626_30.8	100.0		True
+indel: indel (<= 5bp)
+3083870	3087583	180	3891	sim5M	scaffold626_30.8	99.17		True
+CONTIG	scaffold626_30.8	4001	correct
+524394	525207	817	1	sim5M	scaffold627_28.5	97.06		True
+CONTIG	scaffold627_28.5	907	correct
+1514659	1524868	10174	1	sim5M	scaffold628_31.3	97.18		True
+CONTIG	scaffold628_31.3	10221	correct
+CONTIG	scaffold629_25.4	1175	unaligned
+955747	957664	1907	1	sim5M	scaffold630_32.8	97.66		True
+CONTIG	scaffold630_32.8	1972	correct
+111563	113839	2259	1	sim5M	scaffold631_28.3	98.68		True
+CONTIG	scaffold631_28.3	2372	correct
+2999260	2999331	1	72	sim5M	scaffold632_33.1	100.0		True
+CONTIG	scaffold632_33.1	1241	correct_unaligned
+2968791	2973854	5058	1	sim5M	scaffold633_31.7	99.23		True
+CONTIG	scaffold633_31.7	5188	correct
+4071083	4085523	1	14397	sim5M	scaffold634_31.2	98.1		True
+indel: indel (<= 5bp)
+4085652	4088999	14523	17870	sim5M	scaffold634_31.2	100.0		True
+CONTIG	scaffold634_31.2	17870	correct
+4984432	5000027	15548	1	sim5M	scaffold635_30.5	96.39		True
+CONTIG	scaffold635_30.5	15548	correct
+142982	146687	3701	1	sim5M	scaffold636_30.7	96.96		True
+CONTIG	scaffold636_30.7	3701	correct
+781704	781789	1	86	sim5M	scaffold637_30.2	100.0		True
+indel: indel (> 5bp)
+781923	783389	209	1670	sim5M	scaffold637_30.2	98.36		True
+CONTIG	scaffold637_30.2	1670	correct
+2038495	2051065	1	12539	sim5M	scaffold638_29.8	98.42		True
+CONTIG	scaffold638_29.8	12539	correct
+1397424	1398411	1	988	sim5M	scaffold639_28.7	97.08		True
+CONTIG	scaffold639_28.7	988	correct
+1303686	1308322	4628	1	sim5M	scaffold640_28.6	97.67		True
+CONTIG	scaffold640_28.6	4628	correct
+1638388	1645001	6592	1	sim5M	scaffold641_30.4	98.34		True
+CONTIG	scaffold641_30.4	6658	correct
+4428011	4429543	1	1529	sim5M	scaffold642_32.3	96.61		True
+CONTIG	scaffold642_32.3	2085	correct
+1617585	1619230	1637	1	sim5M	scaffold643_33.6	97.08		True
+CONTIG	scaffold643_33.6	1930	correct
+536502	542347	1	5831	sim5M	scaffold644_29.3	98.55		True
+CONTIG	scaffold644_29.3	5831	correct
+1865541	1880083	14511	1	sim5M	scaffold645_31.6	98.04		True
+CONTIG	scaffold645_31.6	14511	correct
+964676	965585	89	994	sim5M	scaffold646_30.7	98.46		True
+CONTIG	scaffold646_30.7	2571	correct_unaligned
+4029356	4032952	1	3580	sim5M	scaffold648_31.8	96.75		True
+CONTIG	scaffold648_31.8	3580	correct
+3061111	3064922	1	3813	sim5M	scaffold650_35.5	97.35		True
+CONTIG	scaffold650_35.5	3871	correct
+719885	723312	1	3434	sim5M	scaffold651_30.9	98.54		True
+CONTIG	scaffold651_30.9	3434	correct
+3805787	3813959	1	8153	sim5M	scaffold652_29.2	98.15		True
+CONTIG	scaffold652_29.2	8153	correct
+43288	50618	1	7314	sim5M	scaffold653_31.3	96.68		True
+CONTIG	scaffold653_31.3	7436	correct
+50838	62070	1	11213	sim5M	scaffold655_31.5	98.19		True
+CONTIG	scaffold655_31.5	11213	correct
+CONTIG	scaffold656_29.8	1298	unaligned
+CONTIG	scaffold657_36.3	636	unaligned
+1808315	1814516	6199	1	sim5M	scaffold659_29.9	98.34		True
+CONTIG	scaffold659_29.9	6330	correct
+985935	987644	74	1772	sim5M	scaffold660_34.3	96.14		True
+CONTIG	scaffold660_34.3	1772	correct
+CONTIG	scaffold661_30.7	1248	unaligned
+3965497	3965667	1	171	sim5M	scaffold662_31.5	100.0		True
+indel: indel (<= 5bp)
+3965773	3968032	272	2531	sim5M	scaffold662_31.5	100.0		True
+CONTIG	scaffold662_31.5	2616	correct
+CONTIG	scaffold663_30.5	503	unaligned
+4043478	4045534	2052	1	sim5M	scaffold664_34.1	97.67		True
+CONTIG	scaffold664_34.1	2153	correct
+1745326	1749528	4195	1	sim5M	scaffold665_29.0	97.36		True
+CONTIG	scaffold665_29.0	4296	correct
+2092640	2094805	2166	1	sim5M	scaffold666_29.6	99.35		True
+CONTIG	scaffold666_29.6	2166	correct
+2747815	2752186	4370	1	sim5M	scaffold668_27.5	98.2		True
+CONTIG	scaffold668_27.5	4370	correct
+628641	630628	2086	86	sim5M	scaffold669_32.6	95.41		True
+CONTIG	scaffold669_32.6	2086	correct
+1913916	1925671	11734	1	sim5M	scaffold670_31.1	99.04		True
+CONTIG	scaffold670_31.1	11734	correct
+2642447	2646182	1	3724	sim5M	scaffold672_30.4	97.4		True
+CONTIG	scaffold672_30.4	3724	correct
+788236	796612	8351	1	sim5M	scaffold673_33.0	97.3		True
+CONTIG	scaffold673_33.0	8351	correct
+CONTIG	scaffold674_28.3	4635	unaligned
+1457946	1464485	1	6545	sim5M	scaffold675_29.7	98.48		True
+CONTIG	scaffold675_29.7	6661	correct
+2469433	2470499	1	1078	sim5M	scaffold676_32.3	98.33		True
+CONTIG	scaffold676_32.3	1078	correct
+1961671	1963323	1	1645	sim5M	scaffold677_33.8	98.79		True
+CONTIG	scaffold677_33.8	1645	correct
+2666054	2689515	23463	1	sim5M	scaffold678_30.9	98.53		True
+indel: indel (> 5bp)
+2658517	2665882	30991	23629	sim5M	scaffold678_30.9	97.34		True
+CONTIG	scaffold678_30.9	30991	correct
+784668	787651	2982	1	sim5M	scaffold679_34.4	98.96		True
+CONTIG	scaffold679_34.4	2982	correct
+3565120	3568406	1	3282	sim5M	scaffold680_32.1	98.42		True
+CONTIG	scaffold680_32.1	3282	correct
+4747855	4751128	1	3272	sim5M	scaffold681_31.6	98.05		True
+CONTIG	scaffold681_31.6	3272	correct
+1634048	1636885	1	2833	sim5M	scaffold683_32.8	97.85		True
+CONTIG	scaffold683_32.8	2916	correct
+CONTIG	scaffold684_30.8	3519	unaligned
+1090436	1090949	516	1	sim5M	scaffold685_32.6	97.67		True
+CONTIG	scaffold685_32.6	516	correct
+906218	907068	541	1391	sim5M	scaffold686_30.7	100.0		True
+CONTIG	scaffold686_30.7	1391	correct
+96637	98405	1760	1	sim5M	scaffold687_30.0	99.43		True
+CONTIG	scaffold687_30.0	1904	correct
+229267	241436	1	12195	sim5M	scaffold688_32.0	98.29		True
+indel: indel (> 5bp)
+241660	243915	12407	14663	sim5M	scaffold688_32.0	99.96		True
+CONTIG	scaffold688_32.0	14663	correct
+1768969	1770072	1109	1	sim5M	scaffold689_31.7	98.65		True
+CONTIG	scaffold689_31.7	1109	correct
+CONTIG	scaffold690_32.6	552	unaligned
+3440636	3448316	1	7657	sim5M	scaffold692_32.3	97.16		True
+CONTIG	scaffold692_32.3	7861	correct
+2196145	2200379	4250	1	sim5M	scaffold693_33.1	98.47		True
+CONTIG	scaffold693_33.1	4302	correct
+4592445	4595891	1	3445	sim5M	scaffold694_32.6	97.42		True
+CONTIG	scaffold694_32.6	3445	correct
+3397093	3402038	5142	194	sim5M	scaffold695_29.8	98.31		True
+local misassembly
+3394108	3396874	8123	5362	sim5M	scaffold695_29.8	97.72		True
+CONTIG	scaffold695_29.8	8123	correct
+2816935	2820215	3276	1	sim5M	scaffold696_28.9	98.36		True
+indel: indel (> 5bp)
+2803163	2816847	17051	3355	sim5M	scaffold696_28.9	99.72		True
+CONTIG	scaffold696_28.9	17051	correct
+3599560	3600773	1222	1	sim5M	scaffold697_35.3	99.18		True
+CONTIG	scaffold697_35.3	1222	correct
+4582656	4583899	1244	1	sim5M	scaffold698_31.0	98.88		True
+CONTIG	scaffold698_31.0	1244	correct
+914990	915593	1	607	sim5M	scaffold700_30.1	99.34		True
+CONTIG	scaffold700_30.1	607	correct
+2699260	2706030	6864	106	sim5M	scaffold701_29.0	99.0		True
+CONTIG	scaffold701_29.0	7012	correct
+1742305	1742494	190	1	sim5M	scaffold702_33.4	100.0		True
+CONTIG	scaffold702_33.4	572	correct
+441467	441971	641	147	sim5M	scaffold704_35.7	95.25		True
+CONTIG	scaffold704_35.7	720	correct
+2929516	2931314	1956	161	sim5M	scaffold705_30.9	98.67		True
+indel: indel (<= 5bp)
+2924796	2929363	6678	2105	sim5M	scaffold705_30.9	98.19		True
+indel: indel (> 5bp)
+2923458	2924606	8013	6856	sim5M	scaffold705_30.9	98.96		True
+CONTIG	scaffold705_30.9	8013	correct
+4291950	4300349	1	8389	sim5M	scaffold706_28.5	98.52		True
+CONTIG	scaffold706_28.5	8389	correct
+3540418	3541658	1	1238	sim5M	scaffold707_31.3	97.51		True
+CONTIG	scaffold707_31.3	1238	correct
+CONTIG	scaffold708_30.7	653	unaligned
+CONTIG	scaffold709_26.2	533	unaligned
+CONTIG	scaffold710_33.5	1286	unaligned
+2877672	2879541	1872	1	sim5M	scaffold711_36.4	98.61		True
+CONTIG	scaffold711_36.4	1872	correct
+2143567	2170882	1	27294	sim5M	scaffold712_29.7	97.76		True
+CONTIG	scaffold712_29.7	27294	correct
+972689	976052	1	3354	sim5M	scaffold713_35.4	98.48		True
+CONTIG	scaffold713_35.4	3537	correct
+CONTIG	scaffold714_31.3	1715	unaligned
+2995820	2998919	3097	1	sim5M	scaffold715_30.4	98.45		True
+CONTIG	scaffold715_30.4	3097	correct
+846476	853753	7264	1	sim5M	scaffold716_31.7	98.06		True
+indel: indel (> 5bp)
+841027	846292	12683	7429	sim5M	scaffold716_31.7	97.89		True
+CONTIG	scaffold716_31.7	12683	correct
+2078323	2082703	1	4373	sim5M	scaffold717_30.0	97.03		True
+CONTIG	scaffold717_30.0	4373	correct
+4609400	4616953	1	7557	sim5M	scaffold718_31.2	98.68		True
+CONTIG	scaffold718_31.2	7557	correct
+4317511	4335564	1	18026	sim5M	scaffold719_31.0	98.46		True
+CONTIG	scaffold719_31.0	18336	correct
+2340098	2350011	12576	2671	sim5M	scaffold721_31.5	99.01		True
+CONTIG	scaffold721_31.5	12576	correct
+1853592	1858459	4881	1	sim5M	scaffold723_30.4	97.15		True
+indel: stretch of mismatches
+1853136	1853469	5338	5004	sim5M	scaffold723_30.4	95.22		True
+CONTIG	scaffold723_30.4	5338	correct
+4448971	4456652	7663	1	sim5M	scaffold724_30.1	98.4		True
+CONTIG	scaffold724_30.1	7663	correct
+4880016	4891574	1	11553	sim5M	scaffold725_29.9	98.17		True
+CONTIG	scaffold725_29.9	11553	correct
+4957801	4967360	9816	269	sim5M	scaffold726_29.9	98.67		True
+CONTIG	scaffold726_29.9	9816	correct
+486112	497708	108	11703	sim5M	scaffold727_29.9	98.35		True
+CONTIG	scaffold727_29.9	11754	correct
+703363	706474	3093	1	sim5M	scaffold728_31.3	96.21		True
+indel: indel (> 5bp)
+694442	703120	11979	3319	sim5M	scaffold728_31.3	97.49		True
+CONTIG	scaffold728_31.3	12056	correct
+2305853	2308670	2803	1	sim5M	scaffold729_29.8	96.91		True
+indel: indel (> 5bp)
+2304600	2305665	4055	2985	sim5M	scaffold729_29.8	99.44		True
+CONTIG	scaffold729_29.8	4153	correct
+2402633	2413565	1	10936	sim5M	scaffold730_30.9	99.26		True
+CONTIG	scaffold730_30.9	11072	correct
+2370615	2370820	1	206	sim5M	scaffold731_28.7	100.0		True
+local misassembly
+2371099	2379649	470	9011	sim5M	scaffold731_28.7	99.44		True
+CONTIG	scaffold731_28.7	9011	correct
+2283570	2290025	6465	1	sim5M	scaffold732_30.7	99.86		True
+CONTIG	scaffold732_30.7	6465	correct
+3243161	3247083	143	4069	sim5M	scaffold733_33.5	97.13		True
+CONTIG	scaffold733_33.5	4069	correct
+978497	978568	72	1	sim5M	scaffold736_33.7	100.0		True
+CONTIG	scaffold736_33.7	1261	correct_unaligned
+4136538	4141636	5075	1	sim5M	scaffold737_30.8	95.59		True
+CONTIG	scaffold737_30.8	5075	correct
+18737	20013	1	1267	sim5M	scaffold738_36.0	96.24		True
+CONTIG	scaffold738_36.0	1267	correct
+2836139	2836266	1	125	sim5M	scaffold740_30.3	96.88		True
+indel: indel (> 5bp)
+2836486	2842466	355	6315	sim5M	scaffold740_30.3	97.29		True
+CONTIG	scaffold740_30.3	6315	correct
+1098571	1100881	2296	1	sim5M	scaffold741_31.3	97.88		True
+CONTIG	scaffold741_31.3	2296	correct
+244032	246938	2904	1	sim5M	scaffold742_30.8	98.35		True
+CONTIG	scaffold742_30.8	2904	correct
+4975902	4984337	1	8417	sim5M	scaffold743_32.8	96.85		True
+CONTIG	scaffold743_32.8	8541	correct
+4742154	4742220	67	1	sim5M	scaffold745_32.2	100.0		True
+indel: indel (<= 5bp)
+4740726	4741931	1502	295	sim5M	scaffold745_32.2	99.83		True
+indel: indel (> 5bp)
+4739064	4740506	3141	1706	sim5M	scaffold745_32.2	96.6		True
+CONTIG	scaffold745_32.2	3141	correct
+4560160	4572106	1	11970	sim5M	scaffold746_29.9	97.62		True
+CONTIG	scaffold746_29.9	11970	correct
+3878940	3883465	4520	1	sim5M	scaffold747_30.2	98.43		True
+CONTIG	scaffold747_30.2	4520	correct
+2228329	2229596	74	1344	sim5M	scaffold748_33.5	97.88		True
+CONTIG	scaffold748_33.5	1344	correct
+531838	533899	1	2065	sim5M	scaffold749_32.9	96.18		True
+CONTIG	scaffold749_32.9	2065	correct
+2965218	2968395	141	3312	sim5M	scaffold750_32.7	97.67		True
+CONTIG	scaffold750_32.7	3593	correct
+3722478	3723814	100	1442	sim5M	scaffold751_35.2	98.74		True
+CONTIG	scaffold751_35.2	1442	correct
+62072	65922	3838	1	sim5M	scaffold752_30.3	97.48		True
+CONTIG	scaffold752_30.3	3838	correct
+1101160	1103017	1	1863	sim5M	scaffold753_29.0	98.56		True
+CONTIG	scaffold753_29.0	1863	correct
+4101360	4105561	4200	1	sim5M	scaffold754_32.2	95.78		True
+CONTIG	scaffold754_32.2	4200	correct
+4929706	4930365	1	660	sim5M	scaffold755_28.4	98.05		True
+CONTIG	scaffold755_28.4	660	correct
+1383809	1388149	4343	1	sim5M	scaffold756_31.1	98.46		True
+CONTIG	scaffold756_31.1	4343	correct
+CONTIG	scaffold757_32.0	1979	unaligned
+4806228	4807716	1	1489	sim5M	scaffold759_34.3	98.79		True
+CONTIG	scaffold759_34.3	1489	correct
+1103223	1104171	950	1	sim5M	scaffold760_30.3	99.16		True
+CONTIG	scaffold760_30.3	950	correct
+2281576	2283362	1772	1	sim5M	scaffold763_29.6	97.31		True
+CONTIG	scaffold763_29.6	1772	correct
+4448806	4448895	90	1	sim5M	scaffold766_35.7	100.0		True
+indel: stretch of mismatches
+4447718	4448682	1174	214	sim5M	scaffold766_35.7	96.69		True
+CONTIG	scaffold766_35.7	1174	correct
+749583	752796	1	3213	sim5M	scaffold767_29.6	99.19		True
+CONTIG	scaffold767_29.6	3347	correct
+2076054	2078064	2007	1	sim5M	scaffold769_29.8	99.01		True
+CONTIG	scaffold769_29.8	2141	correct
+877891	878354	1	463	sim5M	scaffold770_28.4	99.57		True
+indel: indel (<= 5bp)
+878473	878685	584	796	sim5M	scaffold770_28.4	100.0		True
+CONTIG	scaffold770_28.4	871	correct
+2994741	2994953	306	94	sim5M	scaffold771_32.5	100.0		True
+indel: indel (> 5bp)
+2993022	2994520	2013	533	sim5M	scaffold771_32.5	95.2		True
+CONTIG	scaffold771_32.5	2110	correct
+3490236	3494781	1	4541	sim5M	scaffold772_31.5	98.88		True
+CONTIG	scaffold772_31.5	4541	correct
+740718	744606	3903	1	sim5M	scaffold773_33.2	99.03		True
+CONTIG	scaffold773_33.2	3903	correct
+1237668	1241819	1	4140	sim5M	scaffold774_32.9	97.31		True
+CONTIG	scaffold774_32.9	4140	correct
+626819	628453	1631	1	sim5M	scaffold775_31.6	98.53		True
+CONTIG	scaffold775_31.6	1631	correct
+4587802	4588018	483	699	sim5M	scaffold776_34.1	100.0		True
+CONTIG	scaffold776_34.1	776	correct
+CONTIG	scaffold777_32.7	1292	unaligned
+949890	950176	108	394	sim5M	scaffold778_24.0	100.0		True
+indel: indel (> 5bp)
+950450	950667	647	864	sim5M	scaffold778_24.0	100.0		True
+CONTIG	scaffold778_24.0	1009	correct
+CONTIG	scaffold779_33.7	992	unaligned
+4418073	4426933	1	8848	sim5M	scaffold780_30.0	98.78		True
+CONTIG	scaffold780_30.0	8848	correct
+1242069	1244420	2347	1	sim5M	scaffold781_31.6	99.7		True
+CONTIG	scaffold781_31.6	2347	correct
+911653	912043	668	1058	sim5M	scaffold783_29.6	100.0		True
+CONTIG	scaffold783_29.6	1217	correct_unaligned
+3144165	3150364	6186	1	sim5M	scaffold784_31.2	98.21		True
+CONTIG	scaffold784_31.2	6186	correct
+1352389	1355172	91	2869	sim5M	scaffold785_28.2	98.24		True
+CONTIG	scaffold785_28.2	2869	correct
+418539	421015	1	2471	sim5M	scaffold786_29.9	98.91		True
+CONTIG	scaffold786_29.9	2471	correct
+4093421	4099750	6323	1	sim5M	scaffold787_30.4	98.91		True
+CONTIG	scaffold787_30.4	6323	correct
+221432	225417	1	3992	sim5M	scaffold789_26.2	97.35		True
+CONTIG	scaffold789_26.2	4103	correct
+1187822	1189564	1	1744	sim5M	scaffold790_30.5	96.58		True
+CONTIG	scaffold790_30.5	1846	correct
+3134589	3135846	1	1258	sim5M	scaffold794_31.2	99.92		True
+CONTIG	scaffold794_31.2	1258	correct
+2091985	2092638	654	1	sim5M	scaffold795_30.1	100.0		True
+indel: indel (> 5bp)
+2082681	2091799	9926	819	sim5M	scaffold795_30.1	98.92		True
+CONTIG	scaffold795_30.1	9926	correct
+114075	115840	1755	1	sim5M	scaffold796_29.9	95.13		True
+CONTIG	scaffold796_29.9	1755	correct
+3855406	3858767	3440	93	sim5M	scaffold797_29.7	98.01		True
+indel: indel (> 5bp)
+3853581	3855278	5243	3558	sim5M	scaffold797_29.7	98.88		True
+CONTIG	scaffold797_29.7	5243	correct
+CONTIG	scaffold798_32.0	1289	unaligned
+1483179	1487811	1	4626	sim5M	scaffold799_29.4	98.86		True
+CONTIG	scaffold799_29.4	4626	correct
+1509762	1512932	3172	1	sim5M	scaffold800_32.5	99.24		True
+CONTIG	scaffold800_32.5	3172	correct
+2419800	2419868	284	216	sim5M	scaffold801_31.4	100.0		True
+local misassembly
+2413729	2419409	6332	661	sim5M	scaffold801_31.4	97.84		True
+CONTIG	scaffold801_31.4	6437	correct
+612811	615763	2942	1	sim5M	scaffold802_33.6	97.56		True
+CONTIG	scaffold802_33.6	2942	correct
+277459	284060	6606	1	sim5M	scaffold803_29.1	99.89		True
+CONTIG	scaffold803_29.1	6606	correct
+1543372	1545376	1	2002	sim5M	scaffold804_29.3	96.97		True
+CONTIG	scaffold804_29.3	2087	correct
+1437566	1448039	1	10461	sim5M	scaffold805_30.7	99.07		True
+CONTIG	scaffold805_30.7	10461	correct
+1896267	1897269	999	1	sim5M	scaffold807_33.4	96.62		True
+CONTIG	scaffold807_33.4	999	correct
+CONTIG	scaffold810_29.2	698	unaligned
+889368	892593	1	3224	sim5M	scaffold811_28.7	98.92		True
+CONTIG	scaffold811_28.7	3868	correct
+1154579	1155597	1005	1	sim5M	scaffold813_27.5	97.45		True
+CONTIG	scaffold813_27.5	1005	correct
+3968143	3971317	3186	1	sim5M	scaffold814_27.0	98.62		True
+CONTIG	scaffold814_27.0	3186	correct
+CONTIG	scaffold815_29.4	3930	unaligned
+4851353	4861132	1	9765	sim5M	scaffold816_31.7	98.95		True
+CONTIG	scaffold816_31.7	9765	correct
+2842508	2850237	7726	1	sim5M	scaffold817_32.3	98.91		True
+CONTIG	scaffold817_32.3	7726	correct
+1051517	1053034	1520	1	sim5M	scaffold818_32.7	99.87		True
+CONTIG	scaffold818_32.7	1597	correct
+3804104	3805785	1	1683	sim5M	scaffold819_27.6	96.67		True
+CONTIG	scaffold819_27.6	1683	correct
+4824350	4831148	1	6792	sim5M	scaffold820_28.0	98.16		True
+CONTIG	scaffold820_28.0	6792	correct
+884849	885916	89	1147	sim5M	scaffold821_32.0	97.75		True
+local misassembly
+886232	887723	1441	2930	sim5M	scaffold821_32.0	99.8		True
+CONTIG	scaffold821_32.0	2930	correct
+4340451	4346095	1	5649	sim5M	scaffold822_31.7	99.01		True
+CONTIG	scaffold822_31.7	5784	correct
+618368	626718	8350	1	sim5M	scaffold823_30.7	96.23		True
+CONTIG	scaffold823_30.7	8350	correct
+2573127	2579095	1	5966	sim5M	scaffold824_31.6	98.7		True
+CONTIG	scaffold824_31.6	5966	correct
+734964	736631	1667	1	sim5M	scaffold826_32.9	96.89		True
+CONTIG	scaffold826_32.9	1667	correct
+551291	567160	15874	1	sim5M	scaffold827_30.5	97.56		True
+CONTIG	scaffold827_30.5	15874	correct
+1963457	1965292	1931	100	sim5M	scaffold828_35.2	97.12		True
+CONTIG	scaffold828_35.2	2006	correct
+1268282	1273998	5707	1	sim5M	scaffold829_34.7	98.46		True
+CONTIG	scaffold829_34.7	5818	correct
+438623	439556	1	933	sim5M	scaffold831_31.4	99.79		True
+CONTIG	scaffold831_31.4	933	correct
+2218219	2222599	4384	1	sim5M	scaffold832_32.0	97.77		True
+CONTIG	scaffold832_32.0	4384	correct
+4476960	4479172	2215	1	sim5M	scaffold833_30.3	99.91		True
+CONTIG	scaffold833_30.3	2215	correct
+2566556	2573138	6563	1	sim5M	scaffold834_33.6	97.51		True
+CONTIG	scaffold834_33.6	6563	correct
+3482374	3488010	143	5778	sim5M	scaffold835_30.7	99.06		True
+CONTIG	scaffold835_30.7	5778	correct
+1713730	1717167	1	3438	sim5M	scaffold836_32.6	98.52		True
+CONTIG	scaffold836_32.6	3526	correct
+4875696	4876645	953	1	sim5M	scaffold837_32.1	97.17		True
+CONTIG	scaffold837_32.1	953	correct
+736891	740692	1	3787	sim5M	scaffold838_30.4	96.08		True
+CONTIG	scaffold838_30.4	3787	correct
+2380220	2384972	4736	1	sim5M	scaffold839_29.1	98.34		True
+CONTIG	scaffold839_29.1	4832	correct
+2021324	2032080	10842	92	sim5M	scaffold840_31.1	99.49		True
+CONTIG	scaffold840_31.1	10842	correct
+599280	604314	1	5034	sim5M	scaffold841_31.3	98.93		True
+CONTIG	scaffold841_31.3	5161	correct
+637441	637509	1	69	sim5M	scaffold842_29.8	100.0		True
+indel: stretch of mismatches
+637625	652178	185	14735	sim5M	scaffold842_29.8	98.99		True
+CONTIG	scaffold842_29.8	14735	correct
+CONTIG	scaffold845_37.8	670	unaligned
+CONTIG	scaffold846_30.1	510	unaligned
+471184	473730	2535	1	sim5M	scaffold847_33.6	95.61		True
+CONTIG	scaffold847_33.6	2616	correct
+3471645	3482082	10418	1	sim5M	scaffold848_32.2	99.12		True
+CONTIG	scaffold848_32.2	10418	correct
+971417	971759	1	343	sim5M	scaffold849_27.4	100.0		True
+indel: indel (> 5bp)
+972044	972433	617	1006	sim5M	scaffold849_27.4	100.0		True
+CONTIG	scaffold849_27.4	1006	correct
+2721160	2740891	1	19732	sim5M	scaffold850_31.4	98.45		True
+CONTIG	scaffold850_31.4	19732	correct
+716688	717893	1199	1	sim5M	scaffold851_26.3	97.18		True
+CONTIG	scaffold851_26.3	1297	correct
+4821113	4823733	2759	131	sim5M	scaffold852_30.9	97.3		True
+CONTIG	scaffold852_30.9	2759	correct
+CONTIG	scaffold853_31.3	2433	unaligned
+1037292	1037644	353	1	sim5M	scaffold854_30.2	100.0		True
+CONTIG	scaffold854_30.2	514	correct
+3877252	3877967	716	1	sim5M	scaffold855_31.9	96.65		True
+CONTIG	scaffold855_31.9	794	correct
+929084	929486	1	402	sim5M	scaffold857_27.0	98.26		True
+CONTIG	scaffold857_27.0	515	correct
+2974154	2980369	6197	1	sim5M	scaffold859_34.3	98.21		True
+CONTIG	scaffold859_34.3	6197	correct
+4606680	4609374	2680	1	sim5M	scaffold860_31.1	95.21		True
+CONTIG	scaffold860_31.1	2746	correct
+804555	805824	1	1259	sim5M	scaffold861_27.7	96.93		True
+CONTIG	scaffold861_27.7	1259	correct
+2071884	2075857	1	3959	sim5M	scaffold862_34.0	98.37		True
+CONTIG	scaffold862_34.0	3959	correct
+187384	197703	1	10313	sim5M	scaffold863_31.3	97.68		True
+CONTIG	scaffold863_31.3	10313	correct
+2117111	2122457	5342	1	sim5M	scaffold864_28.6	98.99		True
+CONTIG	scaffold864_28.6	5342	correct
+878874	884558	5689	1	sim5M	scaffold865_32.2	96.56		True
+CONTIG	scaffold865_32.2	5689	correct
+4316971	4317318	130	477	sim5M	scaffold866_32.6	100.0		True
+CONTIG	scaffold866_32.6	534	correct
+3207834	3213754	1	5918	sim5M	scaffold867_33.9	99.73		True
+CONTIG	scaffold867_33.9	5918	correct
+3923772	3932725	8949	1	sim5M	scaffold868_32.4	97.56		True
+CONTIG	scaffold868_32.4	8949	correct
+661133	674939	1	13794	sim5M	scaffold869_30.3	97.28		True
+CONTIG	scaffold869_30.3	13898	correct
+583656	589164	5489	1	sim5M	scaffold870_33.5	98.26		True
+CONTIG	scaffold870_33.5	5489	correct
+209388	215566	6179	1	sim5M	scaffold871_31.5	98.67		True
+CONTIG	scaffold871_31.5	6179	correct
+98664	106612	1	7952	sim5M	scaffold872_30.2	98.97		True
+CONTIG	scaffold872_30.2	8261	correct
+1069467	1071040	1572	1	sim5M	scaffold873_35.4	98.16		True
+CONTIG	scaffold873_35.4	1572	correct
+3256098	3260410	1	4316	sim5M	scaffold874_28.7	96.74		True
+indel: indel (<= 5bp)
+3260644	3261258	4546	5160	sim5M	scaffold874_28.7	100.0		True
+CONTIG	scaffold874_28.7	5160	correct
+2608895	2612196	1	3291	sim5M	scaffold875_30.3	98.49		True
+indel: indel (> 5bp)
+2612344	2614617	3432	5706	sim5M	scaffold875_30.3	98.07		True
+CONTIG	scaffold875_30.3	5779	correct
+4512987	4513848	1	860	sim5M	scaffold876_31.4	97.22		True
+CONTIG	scaffold876_31.4	860	correct
+2200792	2202159	1	1372	sim5M	scaffold877_31.0	99.71		True
+CONTIG	scaffold877_31.0	1372	correct
+4878288	4879846	1713	157	sim5M	scaffold878_28.7	99.49		True
+CONTIG	scaffold878_28.7	1713	correct
+3136161	3140857	98	4791	sim5M	scaffold879_33.8	96.92		True
+CONTIG	scaffold879_33.8	4791	correct
+4952895	4956723	100	3917	sim5M	scaffold880_28.9	98.85		True
+CONTIG	scaffold880_28.9	4044	correct
+3247273	3256120	1	8832	sim5M	scaffold881_29.4	98.57		True
+CONTIG	scaffold881_29.4	8832	correct
+1030050	1032693	2644	1	sim5M	scaffold882_29.1	100.0		True
+CONTIG	scaffold882_29.1	3398	correct
+202056	209409	7342	1	sim5M	scaffold883_30.7	97.41		True
+CONTIG	scaffold883_30.7	7433	correct
+4722394	4734837	12437	1	sim5M	scaffold884_29.5	98.13		True
+CONTIG	scaffold884_29.5	12437	correct
+1467722	1471026	3292	1	sim5M	scaffold885_32.7	95.55		True
+CONTIG	scaffold885_32.7	3292	correct
+979599	981320	1724	1	sim5M	scaffold886_33.8	97.45		True
+CONTIG	scaffold886_33.8	1724	correct
+4045812	4046239	1	428	sim5M	scaffold888_33.0	100.0		True
+local misassembly
+4046540	4049285	714	3451	sim5M	scaffold888_33.0	97.38		True
+CONTIG	scaffold888_33.0	3451	correct
+1043225	1043656	1	432	sim5M	scaffold889_33.8	100.0		True
+local misassembly
+1043909	1045032	663	1786	sim5M	scaffold889_33.8	100.0		True
+CONTIG	scaffold889_33.8	1859	correct
+2140075	2143513	3432	1	sim5M	scaffold890_33.4	98.95		True
+CONTIG	scaffold890_33.4	3432	correct
+1203888	1204765	983	108	sim5M	scaffold891_33.4	97.27		True
+CONTIG	scaffold891_33.4	983	correct
+900116	901856	1	1735	sim5M	scaffold892_28.0	96.67		True
+CONTIG	scaffold892_28.0	1823	correct
+3868741	3870545	1807	1	sim5M	scaffold893_30.7	99.89		True
+CONTIG	scaffold893_30.7	1807	correct
+5130	6316	1200	1	sim5M	scaffold895_30.1	98.92		True
+CONTIG	scaffold895_30.1	1200	correct
+3815328	3815882	1	548	sim5M	scaffold896_33.6	96.4		True
+CONTIG	scaffold896_33.6	668	correct
+120359	120884	1	528	sim5M	scaffold897_33.7	95.64		True
+indel: indel (> 5bp)
+121116	129466	744	9096	sim5M	scaffold897_33.7	99.63		True
+CONTIG	scaffold897_33.7	9096	correct
+4413169	4413630	1	462	sim5M	scaffold898_34.3	100.0		True
+CONTIG	scaffold898_34.3	529	correct
+4588725	4592108	3528	146	sim5M	scaffold899_30.9	99.17		True
+CONTIG	scaffold899_30.9	3528	correct
+2499431	2503944	4513	1	sim5M	scaffold900_30.8	98.74		True
+CONTIG	scaffold900_30.8	4513	correct
+836400	837517	1112	1	sim5M	scaffold901_30.0	95.71		True
+CONTIG	scaffold901_30.0	1203	correct
+CONTIG	scaffold902_26.6	687	unaligned
+4397963	4405866	7904	1	sim5M	scaffold903_30.1	98.38		True
+CONTIG	scaffold903_30.1	7904	correct
+2232561	2233736	1174	1	sim5M	scaffold904_28.2	99.49		True
+CONTIG	scaffold904_28.2	1174	correct
+225568	229174	1	3607	sim5M	scaffold905_29.7	97.62		True
+CONTIG	scaffold905_29.7	3607	correct
+3322233	3324749	2518	1	sim5M	scaffold906_27.4	99.96		True
+CONTIG	scaffold906_27.4	2518	correct
+1244500	1245015	631	115	sim5M	scaffold907_33.9	99.81		True
+CONTIG	scaffold907_33.9	720	correct
+4916595	4918445	1	1849	sim5M	scaffold908_35.0	98.43		True
+CONTIG	scaffold908_35.0	1917	correct
+770526	773444	2914	1	sim5M	scaffold909_30.7	99.11		True
+CONTIG	scaffold909_30.7	2914	correct
+3164385	3173407	1	9024	sim5M	scaffold910_31.7	99.23		True
+CONTIG	scaffold910_31.7	9024	correct
+1135461	1137237	1	1772	sim5M	scaffold911_28.6	98.59		True
+CONTIG	scaffold911_28.6	1867	correct
+CONTIG	scaffold912_30.8	4227	unaligned
+4133988	4136267	2273	1	sim5M	scaffold913_30.2	95.79		True
+CONTIG	scaffold913_30.2	2349	correct
+1513190	1514380	1272	90	sim5M	scaffold914_29.8	97.98		True
+CONTIG	scaffold914_29.8	1272	correct
+3488224	3488862	641	1	sim5M	scaffold915_34.8	98.91		True
+CONTIG	scaffold915_34.8	641	correct
+2327404	2328804	1	1403	sim5M	scaffold916_32.3	98.58		True
+CONTIG	scaffold916_32.3	1403	correct
+2222872	2228141	1	5275	sim5M	scaffold917_29.7	98.24		True
+CONTIG	scaffold917_29.7	5275	correct
+3637675	3640383	1	2707	sim5M	scaffold918_29.9	98.12		True
+CONTIG	scaffold918_29.9	2707	correct
+461844	463290	1	1456	sim5M	scaffold919_29.2	99.38		True
+CONTIG	scaffold919_29.2	1578	correct
+1893653	1896010	2357	1	sim5M	scaffold920_30.3	99.75		True
+CONTIG	scaffold920_30.3	2357	correct
+1650285	1652307	2011	1	sim5M	scaffold921_25.4	96.29		True
+CONTIG	scaffold921_25.4	2011	correct
+3574789	3581521	1	6723	sim5M	scaffold922_30.4	98.72		True
+CONTIG	scaffold922_30.4	6873	correct
+3908555	3910426	1870	1	sim5M	scaffold923_34.1	99.84		True
+CONTIG	scaffold923_34.1	1870	correct
+876794	877354	561	1	sim5M	scaffold924_32.9	100.0		True
+CONTIG	scaffold924_32.9	601	correct
+324574	330382	1	5815	sim5M	scaffold925_30.7	99.9		True
+CONTIG	scaffold925_30.7	5815	correct
+3112900	3115359	2454	1	sim5M	scaffold926_31.1	98.05		True
+CONTIG	scaffold926_31.1	2454	correct
+3878336	3878914	579	1	sim5M	scaffold927_30.6	100.0		True
+CONTIG	scaffold927_30.6	792	correct
+2533735	2536841	3118	1	sim5M	scaffold928_33.7	98.11		True
+CONTIG	scaffold928_33.7	3118	correct
+920935	922808	1873	1	sim5M	scaffold929_32.6	97.49		True
+local misassembly
+918255	920646	4542	2151	sim5M	scaffold929_32.6	100.0		True
+CONTIG	scaffold929_32.6	4542	correct
+1847683	1852959	1	5274	sim5M	scaffold930_32.4	99.07		True
+CONTIG	scaffold930_32.4	5274	correct
+1946599	1948055	1	1457	sim5M	scaffold931_30.2	99.86		True
+CONTIG	scaffold931_30.2	1457	correct
+3850833	3853356	2531	1	sim5M	scaffold932_34.7	99.72		True
+CONTIG	scaffold932_34.7	2637	correct
+2593658	2597469	1	3810	sim5M	scaffold933_29.4	99.32		True
+CONTIG	scaffold933_29.4	3810	correct
+1205039	1208528	1	3478	sim5M	scaffold934_30.9	97.94		True
+CONTIG	scaffold934_30.9	3478	correct
+3673148	3676531	1	3382	sim5M	scaffold935_30.0	99.91		True
+CONTIG	scaffold935_30.0	3699	correct
+1104423	1105123	1	693	sim5M	scaffold936_31.7	97.86		True
+CONTIG	scaffold936_31.7	693	correct
+2034904	2038461	1	3560	sim5M	scaffold937_29.2	99.21		True
+CONTIG	scaffold937_29.2	3560	correct
+432246	436313	1	4060	sim5M	scaffold938_31.3	99.41		True
+CONTIG	scaffold938_31.3	4119	correct
+116080	120210	4119	1	sim5M	scaffold939_30.5	99.18		True
+CONTIG	scaffold939_30.5	4119	correct
+CONTIG	scaffold940_31.3	844	unaligned
+1657010	1657085	1	76	sim5M	scaffold941_35.2	100.0		True
+indel: indel (<= 5bp)
+1657194	1659754	180	2726	sim5M	scaffold941_35.2	96.25		True
+CONTIG	scaffold941_35.2	2797	correct
+912300	915012	1	2710	sim5M	scaffold942_32.2	95.73		True
+CONTIG	scaffold942_32.2	2710	correct
+948886	949597	709	1	sim5M	scaffold943_28.0	98.03		True
+CONTIG	scaffold943_28.0	762	correct
+2579291	2589351	10172	113	sim5M	scaffold944_30.6	99.03		True
+CONTIG	scaffold944_30.6	10216	correct
+893361	894026	1	666	sim5M	scaffold945_33.9	100.0		True
+CONTIG	scaffold945_33.9	812	correct
+1680178	1684656	4461	1	sim5M	scaffold946_31.5	97.37		True
+CONTIG	scaffold946_31.5	4461	correct
+4416367	4418036	1	1669	sim5M	scaffold947_30.6	98.56		True
+CONTIG	scaffold947_30.6	1669	correct
+1000130	1000882	749	1	sim5M	scaffold948_30.9	97.74		True
+indel: indel (> 5bp)
+999219	999958	1649	910	sim5M	scaffold948_30.9	100.0		True
+CONTIG	scaffold948_30.9	1753	correct
+4351325	4352086	763	1	sim5M	scaffold949_33.8	99.87		True
+CONTIG	scaffold949_33.8	857	correct
+944347	945960	1	1611	sim5M	scaffold950_33.3	98.51		True
+CONTIG	scaffold950_33.3	1611	correct
+215717	221162	1	5446	sim5M	scaffold951_31.9	99.36		True
+CONTIG	scaffold951_31.9	5538	correct
+904151	905549	1	1404	sim5M	scaffold952_33.5	97.93		True
+CONTIG	scaffold952_33.5	1404	correct
+4754193	4757649	3453	1	sim5M	scaffold953_29.6	99.31		True
+CONTIG	scaffold953_29.6	3453	correct
+4758422	4759238	1	817	sim5M	scaffold954_28.7	99.88		True
+CONTIG	scaffold954_28.7	999	correct
+CONTIG	scaffold955_30.1	1885	unaligned
+1728278	1729086	807	1	sim5M	scaffold956_32.2	99.01		True
+CONTIG	scaffold956_32.2	862	correct
+1455024	1457765	2817	75	sim5M	scaffold957_29.4	97.67		True
+CONTIG	scaffold957_29.4	3196	correct
+436438	438644	1	2214	sim5M	scaffold958_30.0	97.38		True
+CONTIG	scaffold958_30.0	2214	correct
+2519377	2522027	2643	1	sim5M	scaffold959_32.5	99.09		True
+CONTIG	scaffold959_32.5	2727	correct
+2537053	2537882	827	1	sim5M	scaffold960_26.3	99.16		True
+CONTIG	scaffold960_26.3	940	correct
+4637329	4642457	1	5124	sim5M	scaffold961_30.0	99.67		True
+CONTIG	scaffold961_30.0	5124	correct
+3338475	3341585	3111	1	sim5M	scaffold962_30.4	98.36		True
+CONTIG	scaffold962_30.4	3111	correct
+1739385	1740223	838	1	sim5M	scaffold963_31.2	99.64		True
+CONTIG	scaffold963_31.2	905	correct
+1725189	1728079	2889	1	sim5M	scaffold964_28.8	99.17		True
+CONTIG	scaffold964_28.8	2889	correct
+2940515	2944577	1	4065	sim5M	scaffold965_31.8	99.43		True
+CONTIG	scaffold965_31.8	4065	correct
+915848	917644	1793	1	sim5M	scaffold966_33.7	98.66		True
+CONTIG	scaffold966_33.7	1793	correct
+1143199	1144003	805	1	sim5M	scaffold967_32.0	100.0		True
+CONTIG	scaffold967_32.0	871	correct
+783689	784497	809	1	sim5M	scaffold968_35.0	100.0		True
+CONTIG	scaffold968_35.0	962	correct
+604544	607327	2784	1	sim5M	scaffold969_27.1	99.14		True
+CONTIG	scaffold969_27.1	2784	correct
+CONTIG	scaffold970_30.3	945	unaligned
+4771579	4774342	1	2764	sim5M	scaffold971_28.7	99.96		True
+CONTIG	scaffold971_28.7	2764	correct
+2170918	2172698	1776	1	sim5M	scaffold972_31.1	97.87		True
+CONTIG	scaffold972_31.1	1776	correct
+4346522	4351071	4541	1	sim5M	scaffold973_31.6	99.43		True
+CONTIG	scaffold973_31.6	4541	correct
+1925889	1931131	1	5241	sim5M	scaffold974_29.5	99.47		True
+CONTIG	scaffold974_29.5	5241	correct
+3065185	3066168	1	981	sim5M	scaffold975_30.3	97.76		True
+CONTIG	scaffold975_30.3	981	correct
+815120	816067	1	947	sim5M	scaffold976_32.1	99.79		True
+CONTIG	scaffold976_32.1	947	correct
+2850215	2852399	1	2190	sim5M	scaffold977_27.9	99.77		True
+CONTIG	scaffold977_27.9	2190	correct
+1991891	1999325	1	7421	sim5M	scaffold978_28.9	99.13		True
+local misassembly
+1999547	2000470	7638	8561	sim5M	scaffold978_28.9	100.0		True
+CONTIG	scaffold978_28.9	8561	correct
+4510027	4511028	998	1	sim5M	scaffold979_31.8	98.6		True
+CONTIG	scaffold979_31.8	998	correct
+367609	370161	1	2554	sim5M	scaffold980_29.6	99.96		True
+CONTIG	scaffold980_29.6	2554	correct
+729640	730619	980	1	sim5M	scaffold981_34.5	100.0		True
+CONTIG	scaffold981_34.5	1127	correct
+1637109	1638155	1	1037	sim5M	scaffold982_26.6	98.28		True
+CONTIG	scaffold982_26.6	1183	correct
+307884	311285	3399	1	sim5M	scaffold983_28.6	99.29		True
+CONTIG	scaffold983_28.6	3399	correct
+4810277	4811361	1	1074	sim5M	scaffold984_36.5	98.89		True
+CONTIG	scaffold984_36.5	1074	correct
+4130452	4133717	3269	1	sim5M	scaffold985_27.9	99.05		True
+CONTIG	scaffold985_27.9	3346	correct
+3529489	3529647	161	1	sim5M	scaffold986_31.8	95.03		True
+indel: indel (> 5bp)
+3527213	3529353	2428	288	sim5M	scaffold986_31.8	97.85		True
+CONTIG	scaffold986_31.8	2428	correct
+1066928	1067961	1	1034	sim5M	scaffold987_27.8	100.0		True
+CONTIG	scaffold987_27.8	1111	correct
+4973260	4975663	2397	1	sim5M	scaffold988_32.0	96.3		True
+CONTIG	scaffold988_32.0	2397	correct
+CONTIG	scaffold989_30.4	1319	unaligned
+4395252	4397743	1	2482	sim5M	scaffold990_27.4	96.27		True
+CONTIG	scaffold990_27.4	2556	correct
+1232698	1233851	1154	1	sim5M	scaffold991_33.2	100.0		True
+indel: indel (> 5bp)
+1231403	1232607	2455	1251	sim5M	scaffold991_33.2	100.0		True
+CONTIG	scaffold991_33.2	2572	correct
+4508652	4509913	1255	1	sim5M	scaffold992_31.1	98.73		True
+CONTIG	scaffold992_31.1	1322	correct
+1214277	1215475	1199	1	sim5M	scaffold993_31.3	100.0		True
+CONTIG	scaffold993_31.3	1353	correct
+2706316	2707648	1472	150	sim5M	scaffold994_27.1	97.75		True
+CONTIG	scaffold994_27.1	1562	correct
+896149	896237	1	89	sim5M	scaffold995_34.2	100.0		True
+indel: indel (<= 5bp)
+896329	897550	180	1401	sim5M	scaffold995_34.2	100.0		True
+CONTIG	scaffold995_34.2	1486	correct
+4795030	4797615	114	2695	sim5M	scaffold996_30.0	97.8		True
+indel: indel (<= 5bp)
+4797815	4806032	2896	11100	sim5M	scaffold996_30.0	99.12		True
+CONTIG	scaffold996_30.0	11100	correct
+319866	324450	1	4574	sim5M	scaffold997_29.6	98.45		True
+CONTIG	scaffold997_29.6	4574	correct
+2115791	2117133	1	1344	sim5M	scaffold998_32.6	99.93		True
+CONTIG	scaffold998_32.6	1344	correct
+1717234	1725187	7946	1	sim5M	scaffold999_29.7	99.4		True
+CONTIG	scaffold999_29.7	7946	correct
+6575	9971	1	3379	sim5M	scaffold1000_31.3	97.79		True
+CONTIG	scaffold1000_31.3	3379	correct
+4876640	4878021	1	1382	sim5M	scaffold1001_27.1	100.0		True
+CONTIG	scaffold1001_27.1	1503	correct
+3875554	3877045	1	1490	sim5M	scaffold1002_33.8	99.13		True
+CONTIG	scaffold1002_33.8	1490	correct
+4315152	4316698	1548	1	sim5M	scaffold1003_30.9	99.87		True
+CONTIG	scaffold1003_30.9	1663	correct
+39740	43262	3531	1	sim5M	scaffold1004_33.5	99.09		True
+CONTIG	scaffold1004_33.5	3531	correct
+630796	637383	6579	1	sim5M	scaffold1005_34.1	99.24		True
+CONTIG	scaffold1005_34.1	6579	correct
+655973	661049	5080	1	sim5M	scaffold1006_26.5	98.39		True
+CONTIG	scaffold1006_26.5	5080	correct
+1732686	1734448	1	1764	sim5M	scaffold1007_30.8	99.94		True
+CONTIG	scaffold1007_30.8	1764	correct
+1053294	1055107	1	1814	sim5M	scaffold1008_28.9	100.0		True
+CONTIG	scaffold1008_28.9	2078	correct
+3635199	3637483	2283	1	sim5M	scaffold1009_29.9	97.16		True
+CONTIG	scaffold1009_29.9	2403	correct
+1478083	1483154	1	5063	sim5M	scaffold1010_31.0	98.82		True
+CONTIG	scaffold1010_31.0	5063	correct
+1589532	1592420	2895	1	sim5M	scaffold1011_28.0	98.96		True
+CONTIG	scaffold1011_28.0	2976	correct
+1897492	1901966	4635	161	sim5M	scaffold1012_30.3	100.0		True
+CONTIG	scaffold1012_30.3	4803	correct
+2831773	2832300	1	528	sim5M	C87242_34.0	100.0		True
+CONTIG	C87242_34.0	528	correct
+753082	753615	534	1	sim5M	C87272_31.0	100.0		True
+CONTIG	C87272_31.0	534	correct
+821502	822066	565	1	sim5M	C87462_35.0	100.0		True
+CONTIG	C87462_35.0	565	correct
+930072	930636	1	565	sim5M	C87466_30.0	100.0		True
+CONTIG	C87466_30.0	565	correct
+136728	137326	1	599	sim5M	C87690_35.0	100.0		True
+CONTIG	C87690_35.0	599	correct
+950921	951537	1	617	sim5M	C87790_34.0	99.84		True
+CONTIG	C87790_34.0	617	correct
+2071110	2071754	1	645	sim5M	C87980_33.0	100.0		True
+CONTIG	C87980_33.0	645	correct
+415681	416326	1	646	sim5M	C87984_28.0	100.0		True
+CONTIG	C87984_28.0	646	correct
+820069	820716	1	648	sim5M	C88000_33.0	100.0		True
+CONTIG	C88000_33.0	648	correct
+961972	962634	663	1	sim5M	C88092_29.0	100.0		True
+CONTIG	C88092_29.0	663	correct
+680628	681292	665	1	sim5M	C88106_27.0	100.0		True
+CONTIG	C88106_27.0	665	correct
+1032920	1033611	692	1	sim5M	C88254_28.0	100.0		True
+CONTIG	C88254_28.0	692	correct
+4032977	4033698	1	722	sim5M	C88418_31.0	100.0		True
+CONTIG	C88418_31.0	722	correct
+984578	985299	722	1	sim5M	C88420_32.0	100.0		True
+CONTIG	C88420_32.0	722	correct
+2944816	2945574	1	759	sim5M	C88592_28.0	100.0		True
+CONTIG	C88592_28.0	759	correct
+2646467	2647273	1	807	sim5M	C88844_28.0	100.0		True
+CONTIG	C88844_28.0	807	correct
+3991661	3992530	870	1	sim5M	C89136_35.0	100.0		True
+CONTIG	C89136_35.0	870	correct
+1933106	1934012	1	907	sim5M	C89292_34.0	100.0		True
+CONTIG	C89292_34.0	907	correct
+2303416	2304360	945	1	sim5M	C89442_34.0	100.0		True
+CONTIG	C89442_34.0	945	correct
+4088988	4089952	1	965	sim5M	C89532_24.0	99.9		True
+CONTIG	C89532_24.0	965	correct
+1545561	1546557	997	1	sim5M	C89642_30.0	100.0		True
+CONTIG	C89642_30.0	997	correct
+3747929	3748934	1006	1	sim5M	C89680_29.0	100.0		True
+CONTIG	C89680_29.0	1006	correct
+4738077	4739085	1009	1	sim5M	C89692_28.0	100.0		True
+CONTIG	C89692_28.0	1009	correct
+744861	745874	1014	1	sim5M	C89718_29.0	100.0		True
+CONTIG	C89718_29.0	1014	correct
+1068188	1069242	1	1055	sim5M	C89846_29.0	100.0		True
+CONTIG	C89846_29.0	1055	correct
+3489091	3490160	1	1070	sim5M	C89892_30.0	100.0		True
+CONTIG	C89892_30.0	1070	correct
+417148	418272	1	1125	sim5M	C90086_34.0	100.0		True
+CONTIG	C90086_34.0	1125	correct
+2931601	2932742	1	1142	sim5M	C90138_31.0	100.0		True
+CONTIG	C90138_31.0	1142	correct
+2247619	2248800	1	1182	sim5M	C90276_36.0	100.0		True
+CONTIG	C90276_36.0	1182	correct
+132392	133578	1	1187	sim5M	C90298_25.0	100.0		True
+CONTIG	C90298_25.0	1187	correct
+4393948	4395169	1	1222	sim5M	C90390_34.0	100.0		True
+CONTIG	C90390_34.0	1222	correct
+894830	896067	1238	1	sim5M	C90434_31.0	100.0		True
+CONTIG	C90434_31.0	1238	correct
+2755767	2757047	1	1281	sim5M	C90524_29.0	100.0		True
+CONTIG	C90524_29.0	1281	correct
+534112	536391	2280	1	sim5M	C91884_27.0	100.0		True
+CONTIG	C91884_27.0	2280	correct
+2032331	2034926	2596	1	sim5M	C92084_31.0	100.0		True
+CONTIG	C92084_31.0	2596	correct
+3507501	3510207	2707	1	sim5M	C92128_29.0	100.0		True
+CONTIG	C92128_29.0	2707	correct
+3365662	3370620	1	4959	sim5M	C92542_29.0	100.0		True
+CONTIG	C92542_29.0	4959	correct

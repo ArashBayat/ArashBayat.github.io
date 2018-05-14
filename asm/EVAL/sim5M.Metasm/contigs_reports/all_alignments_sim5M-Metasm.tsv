@@ -1,0 +1,11 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+3523296	4953023	1	1429727	sim5M	QC.B.A_0	99.99		True
+relocation, inconsistency = -1137672
+3815352	4952753	1429728	2567129	sim5M	QC.B.A_0	100.0		True
+relocation, inconsistency = -1137672
+3815082	4953023	2567130	3705071	sim5M	QC.B.A_0	100.0		True
+relocation, inconsistency = -1137672
+3815352	4860014	3705072	4749734	sim5M	QC.B.A_0	100.0		True
+relocation, inconsistency = -947648
+3912367	4957544	4749735	5794912	sim5M	QC.B.A_0	100.0		True
+CONTIG	QC.B.A_0	5794912	misassembled

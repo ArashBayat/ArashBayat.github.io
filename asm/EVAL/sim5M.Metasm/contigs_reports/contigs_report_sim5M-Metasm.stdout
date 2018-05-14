@@ -1,0 +1,682 @@
+gnuplot 5.0 patchlevel 3
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [sim5M]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 5000040
+Analyzing contigs...
+CONTIG: QC.B.A_0 (5794912bp)
+Best alignment score: 1429584.0 (LEN: 1429727, IDY: 99.99), Total number of alignments: 595
+			Too much alignments (595), will use speed up heuristics
+			Found 5 solid alignments:
+		Solid alignment 3523296 4953023 | 1 1429727 | 1429728 1429727 | 99.99 | sim5M QC.B.A_0
+		Solid alignment 3815349 4952753 | 1429725 2567129 | 1137405 1137405 | 100.0 | sim5M QC.B.A_0
+		Solid alignment 3815082 4953023 | 2567130 3705071 | 1137942 1137942 | 100.0 | sim5M QC.B.A_0
+		Solid alignment 3815349 4860017 | 3705069 4749737 | 1044669 1044669 | 100.0 | sim5M QC.B.A_0
+		Solid alignment 3912367 4957544 | 4749735 5794912 | 1045178 1045178 | 100.0 | sim5M QC.B.A_0
+			Skipping alignments located inside solid regions since they are redundant:
+		Skipping redundant alignment 1434271 1435523 | 1247 1 | 1253 1247 | 96.01 | sim5M QC.B.A_0
+		Skipping redundant alignment 4831126 4831626 | 1415 910 | 501 506 | 95.66 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 1721 1335 | 384 387 | 95.09 | sim5M QC.B.A_0
+		Skipping redundant alignment 4956694 4957829 | 2139 1005 | 1136 1135 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 1436696 1437588 | 1250 2142 | 893 893 | 95.3 | sim5M QC.B.A_0
+		Skipping redundant alignment 2137940 2140087 | 1 2142 | 2148 2142 | 96.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433211 3435362 | 2142 1 | 2152 2142 | 95.17 | sim5M QC.B.A_0
+		Skipping redundant alignment 889227 889388 | 2143 1983 | 162 161 | 95.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 615735 617886 | 2146 1 | 2152 2146 | 95.46 | sim5M QC.B.A_0
+		Skipping redundant alignment 717793 718606 | 2148 1338 | 814 811 | 95.21 | sim5M QC.B.A_0
+		Skipping redundant alignment 2512433 2514586 | 1 2148 | 2154 2148 | 96.38 | sim5M QC.B.A_0
+		Skipping redundant alignment 502949 505101 | 2148 1 | 2153 2148 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 1839531 1841683 | 1 2148 | 2153 2148 | 95.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215445 1217604 | 2151 1 | 2160 2151 | 95.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 1729058 1729386 | 291634 291306 | 329 329 | 97.57 | sim5M QC.B.A_0
+		Skipping redundant alignment 156903 157120 | 291868 291651 | 218 218 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 4970210 4971614 | 292049 290639 | 1405 1411 | 95.39 | sim5M QC.B.A_0
+		Skipping redundant alignment 546033 547453 | 292053 290640 | 1421 1414 | 95.92 | sim5M QC.B.A_0
+		Skipping redundant alignment 718601 718937 | 291718 292054 | 337 337 | 98.22 | sim5M QC.B.A_0
+		Skipping redundant alignment 1436271 1436695 | 292054 291630 | 425 425 | 97.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 2135777 2137192 | 290639 292054 | 1416 1416 | 97.81 | sim5M QC.B.A_0
+		Skipping redundant alignment 2510270 2511685 | 290639 292054 | 1416 1416 | 97.53 | sim5M QC.B.A_0
+		Skipping redundant alignment 3521139 3522548 | 290639 292054 | 1410 1416 | 97.53 | sim5M QC.B.A_0
+		Skipping redundant alignment 1837369 1838784 | 290639 292054 | 1416 1416 | 97.39 | sim5M QC.B.A_0
+		Skipping redundant alignment 505849 507264 | 292054 290639 | 1416 1416 | 97.03 | sim5M QC.B.A_0
+		Skipping redundant alignment 1218352 1219769 | 292054 290639 | 1418 1416 | 96.9 | sim5M QC.B.A_0
+		Skipping redundant alignment 528494 529924 | 292054 290632 | 1431 1423 | 96.09 | sim5M QC.B.A_0
+		Skipping redundant alignment 1729383 1729820 | 291618 292055 | 438 438 | 97.03 | sim5M QC.B.A_0
+		Skipping redundant alignment 2051047 2051171 | 384977 385101 | 125 125 | 98.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 4875454 4875717 | 385242 384978 | 264 265 | 97.74 | sim5M QC.B.A_0
+		Skipping redundant alignment 2055153 2055308 | 385279 385123 | 156 157 | 96.18 | sim5M QC.B.A_0
+		Skipping redundant alignment 2877384 2877687 | 385279 384975 | 304 305 | 97.7 | sim5M QC.B.A_0
+		Skipping redundant alignment 2222582 2222893 | 384971 385279 | 312 309 | 97.44 | sim5M QC.B.A_0
+		Skipping redundant alignment 3923458 3923768 | 385279 384970 | 311 310 | 96.78 | sim5M QC.B.A_0
+		Skipping redundant alignment 2562834 2563144 | 384969 385279 | 311 311 | 99.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 922788 923097 | 385279 384969 | 310 311 | 98.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 2646173 2646482 | 385279 384969 | 310 311 | 98.07 | sim5M QC.B.A_0
+		Skipping redundant alignment 98385 98683 | 384984 385280 | 299 297 | 97.66 | sim5M QC.B.A_0
+		Skipping redundant alignment 745852 746155 | 385281 384977 | 304 305 | 98.03 | sim5M QC.B.A_0
+		Skipping redundant alignment 73031 73111 | 388387 388307 | 81 81 | 98.77 | sim5M QC.B.A_0
+		Skipping redundant alignment 615738 615939 | 388292 388492 | 202 201 | 95.05 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215448 1215652 | 388291 388492 | 205 202 | 95.61 | sim5M QC.B.A_0
+		Skipping redundant alignment 1841480 1841692 | 388492 388281 | 213 212 | 95.33 | sim5M QC.B.A_0
+		Skipping redundant alignment 197683 197876 | 388685 388491 | 194 195 | 95.9 | sim5M QC.B.A_0
+		Skipping redundant alignment 1434271 1434533 | 388754 388491 | 263 264 | 98.11 | sim5M QC.B.A_0
+		Skipping redundant alignment 4831126 4831549 | 388922 388492 | 424 431 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995329 | 389228 388850 | 376 379 | 96.31 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215674 1216614 | 389432 388491 | 941 942 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151559 3151976 | 389434 389017 | 418 418 | 96.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 718017 718601 | 389434 388850 | 585 585 | 96.58 | sim5M QC.B.A_0
+		Skipping redundant alignment 1436696 1437373 | 388757 389434 | 678 678 | 95.13 | sim5M QC.B.A_0
+		Skipping redundant alignment 198349 199085 | 388698 389434 | 737 737 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3449185 | 388542 389434 | 892 893 | 95.07 | sim5M QC.B.A_0
+		Skipping redundant alignment 4956907 4957829 | 389434 388512 | 923 923 | 96.97 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513423 2514365 | 388491 389434 | 943 944 | 97.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 2138930 2139872 | 388491 389434 | 943 944 | 97.03 | sim5M QC.B.A_0
+		Skipping redundant alignment 503169 504111 | 389434 388491 | 943 944 | 96.61 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433429 3434372 | 389434 388491 | 944 944 | 96.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 615959 616895 | 389434 388491 | 937 944 | 96.29 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840518 1841460 | 388491 389434 | 943 944 | 96.19 | sim5M QC.B.A_0
+		Skipping redundant alignment 1731551 1732489 | 388491 389434 | 939 944 | 95.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82683 | 395770 395465 | 301 306 | 95.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 98385 98682 | 400458 400162 | 298 297 | 96.99 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82683 | 400164 400466 | 301 303 | 97.69 | sim5M QC.B.A_0
+		Skipping redundant alignment 2877384 2877686 | 400162 400466 | 303 305 | 96.72 | sim5M QC.B.A_0
+		Skipping redundant alignment 745854 746160 | 400162 400469 | 307 308 | 96.76 | sim5M QC.B.A_0
+		Skipping redundant alignment 3908266 3908575 | 400472 400162 | 310 311 | 96.78 | sim5M QC.B.A_0
+		Skipping redundant alignment 1991605 1991915 | 400472 400160 | 311 313 | 95.53 | sim5M QC.B.A_0
+		Skipping redundant alignment 2222579 2222894 | 400475 400161 | 316 315 | 96.24 | sim5M QC.B.A_0
+		Skipping redundant alignment 1100859 1101180 | 400477 400162 | 322 316 | 95.05 | sim5M QC.B.A_0
+		Skipping redundant alignment 2562828 2563144 | 400479 400162 | 317 318 | 97.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 922788 923103 | 400162 400479 | 316 318 | 96.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 2646169 2646486 | 400158 400479 | 318 322 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 427021 427407 | 384 387 | 95.09 | sim5M QC.B.A_0
+		Skipping redundant alignment 719517 719905 | 528128 527740 | 389 389 | 95.89 | sim5M QC.B.A_0
+		Skipping redundant alignment 66490 67064 | 528128 527556 | 575 573 | 95.3 | sim5M QC.B.A_0
+		Skipping redundant alignment 197683 197779 | 546915 546819 | 97 97 | 98.97 | sim5M QC.B.A_0
+		Skipping redundant alignment 4831126 4831453 | 547152 546819 | 328 334 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 547458 547072 | 384 387 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151494 3151976 | 547729 547247 | 483 483 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 2139028 2140037 | 546820 547822 | 1010 1003 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513521 2514530 | 546820 547822 | 1010 1003 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 503005 504014 | 547822 546819 | 1010 1004 | 95.45 | sim5M QC.B.A_0
+		Skipping redundant alignment 198349 199252 | 546928 547828 | 904 901 | 95.59 | sim5M QC.B.A_0
+		Skipping redundant alignment 4956736 4957751 | 547828 546819 | 1016 1010 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433259 3434275 | 547828 546819 | 1017 1010 | 95.77 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215501 1216517 | 547828 546819 | 1017 1010 | 95.38 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840615 1841631 | 546819 547828 | 1017 1010 | 95.18 | sim5M QC.B.A_0
+		Skipping redundant alignment 478216 478757 | 567507 568048 | 542 542 | 95.39 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 568490 568104 | 384 387 | 96.12 | sim5M QC.B.A_0
+		Skipping redundant alignment 2246915 2247639 | 567825 568546 | 725 722 | 95.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151461 3151976 | 568794 568279 | 516 516 | 95.35 | sim5M QC.B.A_0
+		Skipping redundant alignment 1039265 1039930 | 568811 568145 | 666 667 | 96.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4967349 4968742 | 568904 567507 | 1394 1398 | 95.28 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215464 1216861 | 568904 567507 | 1398 1398 | 95.21 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513176 2514573 | 567507 568904 | 1398 1398 | 95.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3449396 | 567804 568907 | 1103 1104 | 95.38 | sim5M QC.B.A_0
+		Skipping redundant alignment 4136245 4136560 | 610714 610399 | 316 316 | 98.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4133695 4134010 | 613264 612949 | 316 316 | 98.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4861995 4862191 | 1220015 1219819 | 197 197 | 96.95 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3448522 | 1219786 1220015 | 229 230 | 95.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 4957569 4957823 | 1220015 1219761 | 255 255 | 96.86 | sim5M QC.B.A_0
+		Skipping redundant alignment 3009112 3009621 | 1220015 1219505 | 510 511 | 95.5 | sim5M QC.B.A_0
+		Skipping redundant alignment 1216335 1216845 | 1220015 1219505 | 511 511 | 95.3 | sim5M QC.B.A_0
+		Skipping redundant alignment 544020 544530 | 1220015 1219505 | 511 511 | 95.11 | sim5M QC.B.A_0
+		Skipping redundant alignment 4070115 4070448 | 1308157 1307830 | 334 328 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3448673 | 1308204 1307830 | 380 375 | 95.79 | sim5M QC.B.A_0
+		Skipping redundant alignment 4957418 4957829 | 1307830 1308234 | 412 405 | 97.09 | sim5M QC.B.A_0
+		Skipping redundant alignment 3911788 3912218 | 1308253 1307830 | 431 424 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 1434271 1434609 | 1307997 1308330 | 339 334 | 95.58 | sim5M QC.B.A_0
+		Skipping redundant alignment 543901 544375 | 1307862 1308330 | 475 469 | 96.0 | sim5M QC.B.A_0
+		Skipping redundant alignment 616471 616971 | 1307830 1308330 | 501 501 | 97.41 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513347 2513853 | 1308330 1307830 | 507 501 | 97.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 1216184 1216690 | 1307830 1308330 | 507 501 | 96.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840442 1840948 | 1308330 1307830 | 507 501 | 96.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 2138854 2139360 | 1308330 1307830 | 507 501 | 96.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 503681 504187 | 1307830 1308330 | 507 501 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433941 3434448 | 1307830 1308330 | 508 501 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3524206 3524711 | 1308330 1307830 | 506 501 | 95.66 | sim5M QC.B.A_0
+		Skipping redundant alignment 1731475 1731977 | 1308330 1307830 | 503 501 | 95.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151461 3151976 | 1308868 1308353 | 516 516 | 96.12 | sim5M QC.B.A_0
+		Skipping redundant alignment 717815 718456 | 1308972 1308331 | 642 642 | 95.17 | sim5M QC.B.A_0
+		Skipping redundant alignment 615741 616398 | 1308988 1308331 | 658 658 | 95.44 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215453 1216111 | 1308988 1308331 | 659 658 | 95.14 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513926 2514581 | 1308331 1308988 | 656 658 | 95.14 | sim5M QC.B.A_0
+		Skipping redundant alignment 198646 199305 | 1308331 1308993 | 660 663 | 96.08 | sim5M QC.B.A_0
+		Skipping redundant alignment 1841021 1841683 | 1308331 1308993 | 663 663 | 95.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 2139433 2140092 | 1308331 1308993 | 660 663 | 95.17 | sim5M QC.B.A_0
+		Skipping redundant alignment 197683 197793 | 1338785 1338895 | 111 111 | 96.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 4743115 4743311 | 1338895 1338699 | 197 197 | 96.95 | sim5M QC.B.A_0
+		Skipping redundant alignment 478546 478757 | 1338895 1338684 | 212 212 | 95.28 | sim5M QC.B.A_0
+		Skipping redundant alignment 98385 98645 | 1352415 1352158 | 261 258 | 98.08 | sim5M QC.B.A_0
+		Skipping redundant alignment 922825 923088 | 1352158 1352421 | 264 264 | 99.24 | sim5M QC.B.A_0
+		Skipping redundant alignment 2562843 2563107 | 1352421 1352158 | 265 264 | 98.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 2646210 2646473 | 1352158 1352421 | 264 264 | 98.86 | sim5M QC.B.A_0
+		Skipping redundant alignment 745891 746154 | 1352158 1352421 | 264 264 | 98.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 2877421 2877684 | 1352158 1352421 | 264 264 | 98.11 | sim5M QC.B.A_0
+		Skipping redundant alignment 2222589 2222856 | 1352421 1352158 | 268 264 | 97.76 | sim5M QC.B.A_0
+		Skipping redundant alignment 3908274 3908538 | 1352421 1352158 | 265 264 | 97.74 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82676 | 1406137 1406429 | 294 293 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 2051047 2051171 | 1522649 1522773 | 125 125 | 98.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 4875454 4875717 | 1522914 1522650 | 264 265 | 97.74 | sim5M QC.B.A_0
+		Skipping redundant alignment 2877384 2877687 | 1522951 1522647 | 304 305 | 97.7 | sim5M QC.B.A_0
+		Skipping redundant alignment 2222582 2222893 | 1522643 1522951 | 312 309 | 97.44 | sim5M QC.B.A_0
+		Skipping redundant alignment 3923458 3923768 | 1522951 1522642 | 311 310 | 96.78 | sim5M QC.B.A_0
+		Skipping redundant alignment 2562834 2563144 | 1522641 1522951 | 311 311 | 99.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 922788 923097 | 1522951 1522641 | 310 311 | 98.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 2646173 2646482 | 1522951 1522641 | 310 311 | 98.07 | sim5M QC.B.A_0
+		Skipping redundant alignment 98385 98683 | 1522656 1522952 | 299 297 | 97.66 | sim5M QC.B.A_0
+		Skipping redundant alignment 745852 746155 | 1522953 1522649 | 304 305 | 98.03 | sim5M QC.B.A_0
+		Skipping redundant alignment 73031 73111 | 1526059 1525979 | 81 81 | 98.77 | sim5M QC.B.A_0
+		Skipping redundant alignment 615738 615939 | 1525964 1526164 | 202 201 | 95.05 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215448 1215652 | 1525963 1526164 | 205 202 | 95.61 | sim5M QC.B.A_0
+		Skipping redundant alignment 1841480 1841692 | 1526164 1525953 | 213 212 | 95.33 | sim5M QC.B.A_0
+		Skipping redundant alignment 197683 197876 | 1526357 1526163 | 194 195 | 95.9 | sim5M QC.B.A_0
+		Skipping redundant alignment 1434271 1434533 | 1526426 1526163 | 263 264 | 98.11 | sim5M QC.B.A_0
+		Skipping redundant alignment 4831126 4831549 | 1526594 1526164 | 424 431 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995329 | 1526900 1526522 | 376 379 | 96.31 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215674 1216614 | 1527104 1526163 | 941 942 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151559 3151976 | 1527106 1526689 | 418 418 | 96.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 718017 718601 | 1527106 1526522 | 585 585 | 96.58 | sim5M QC.B.A_0
+		Skipping redundant alignment 1436696 1437373 | 1526429 1527106 | 678 678 | 95.13 | sim5M QC.B.A_0
+		Skipping redundant alignment 198349 199085 | 1526370 1527106 | 737 737 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3449185 | 1526214 1527106 | 892 893 | 95.07 | sim5M QC.B.A_0
+		Skipping redundant alignment 4956907 4957829 | 1527106 1526184 | 923 923 | 96.97 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513423 2514365 | 1526163 1527106 | 943 944 | 97.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 2138930 2139872 | 1526163 1527106 | 943 944 | 97.03 | sim5M QC.B.A_0
+		Skipping redundant alignment 503169 504111 | 1527106 1526163 | 943 944 | 96.61 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433429 3434372 | 1527106 1526163 | 944 944 | 96.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 615959 616895 | 1527106 1526163 | 937 944 | 96.29 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840518 1841460 | 1526163 1527106 | 943 944 | 96.19 | sim5M QC.B.A_0
+		Skipping redundant alignment 1731551 1732489 | 1526163 1527106 | 939 944 | 95.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 3524281 3525224 | 1526163 1527107 | 944 945 | 95.77 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82683 | 1533442 1533137 | 301 306 | 95.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 98385 98682 | 1538130 1537834 | 298 297 | 96.99 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82683 | 1537836 1538138 | 301 303 | 97.69 | sim5M QC.B.A_0
+		Skipping redundant alignment 2877384 2877686 | 1537834 1538138 | 303 305 | 96.72 | sim5M QC.B.A_0
+		Skipping redundant alignment 745854 746160 | 1537834 1538141 | 307 308 | 96.76 | sim5M QC.B.A_0
+		Skipping redundant alignment 3908266 3908575 | 1538144 1537834 | 310 311 | 96.78 | sim5M QC.B.A_0
+		Skipping redundant alignment 1991605 1991915 | 1538144 1537832 | 311 313 | 95.53 | sim5M QC.B.A_0
+		Skipping redundant alignment 2222579 2222894 | 1538147 1537833 | 316 315 | 96.24 | sim5M QC.B.A_0
+		Skipping redundant alignment 1100859 1101180 | 1538149 1537834 | 322 316 | 95.05 | sim5M QC.B.A_0
+		Skipping redundant alignment 2562828 2563144 | 1538151 1537834 | 317 318 | 97.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 922788 923103 | 1537834 1538151 | 316 318 | 96.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 2646169 2646486 | 1537830 1538151 | 318 322 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 1564693 1565079 | 384 387 | 95.09 | sim5M QC.B.A_0
+		Skipping redundant alignment 719517 719905 | 1665800 1665412 | 389 389 | 95.89 | sim5M QC.B.A_0
+		Skipping redundant alignment 66490 67064 | 1665800 1665228 | 575 573 | 95.3 | sim5M QC.B.A_0
+		Skipping redundant alignment 197683 197779 | 1684587 1684491 | 97 97 | 98.97 | sim5M QC.B.A_0
+		Skipping redundant alignment 4831126 4831453 | 1684824 1684491 | 328 334 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 1685130 1684744 | 384 387 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151494 3151976 | 1685401 1684919 | 483 483 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 2139028 2140037 | 1684492 1685494 | 1010 1003 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513521 2514530 | 1684492 1685494 | 1010 1003 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 503005 504014 | 1685494 1684491 | 1010 1004 | 95.45 | sim5M QC.B.A_0
+		Skipping redundant alignment 3524378 3525387 | 1684491 1685494 | 1010 1004 | 95.05 | sim5M QC.B.A_0
+		Skipping redundant alignment 198349 199252 | 1684600 1685500 | 904 901 | 95.59 | sim5M QC.B.A_0
+		Skipping redundant alignment 4956736 4957751 | 1685500 1684491 | 1016 1010 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433259 3434275 | 1685500 1684491 | 1017 1010 | 95.77 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215501 1216517 | 1685500 1684491 | 1017 1010 | 95.38 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840615 1841631 | 1684491 1685500 | 1017 1010 | 95.18 | sim5M QC.B.A_0
+		Skipping redundant alignment 478216 478757 | 1705179 1705720 | 542 542 | 95.39 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 1706162 1705776 | 384 387 | 96.12 | sim5M QC.B.A_0
+		Skipping redundant alignment 2246915 2247639 | 1705497 1706218 | 725 722 | 95.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151461 3151976 | 1706466 1705951 | 516 516 | 95.35 | sim5M QC.B.A_0
+		Skipping redundant alignment 1039265 1039930 | 1706483 1705817 | 666 667 | 96.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4967349 4968742 | 1706576 1705179 | 1394 1398 | 95.28 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215464 1216861 | 1706576 1705179 | 1398 1398 | 95.21 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513176 2514573 | 1705179 1706576 | 1398 1398 | 95.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3449396 | 1705476 1706579 | 1103 1104 | 95.38 | sim5M QC.B.A_0
+		Skipping redundant alignment 4136245 4136560 | 1748386 1748071 | 316 316 | 98.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4133695 4134010 | 1750936 1750621 | 316 316 | 98.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4861995 4862191 | 2357687 2357491 | 197 197 | 96.95 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3448522 | 2357458 2357687 | 229 230 | 95.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 4957569 4957823 | 2357687 2357433 | 255 255 | 96.86 | sim5M QC.B.A_0
+		Skipping redundant alignment 3009112 3009621 | 2357687 2357177 | 510 511 | 95.5 | sim5M QC.B.A_0
+		Skipping redundant alignment 1216335 1216845 | 2357687 2357177 | 511 511 | 95.3 | sim5M QC.B.A_0
+		Skipping redundant alignment 544020 544530 | 2357687 2357177 | 511 511 | 95.11 | sim5M QC.B.A_0
+		Skipping redundant alignment 4070115 4070448 | 2445829 2445502 | 334 328 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3448673 | 2445876 2445502 | 380 375 | 95.79 | sim5M QC.B.A_0
+		Skipping redundant alignment 4957418 4957829 | 2445502 2445906 | 412 405 | 97.09 | sim5M QC.B.A_0
+		Skipping redundant alignment 3911788 3912218 | 2445925 2445502 | 431 424 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 1434271 1434609 | 2445669 2446002 | 339 334 | 95.58 | sim5M QC.B.A_0
+		Skipping redundant alignment 543901 544375 | 2445534 2446002 | 475 469 | 96.0 | sim5M QC.B.A_0
+		Skipping redundant alignment 616471 616971 | 2445502 2446002 | 501 501 | 97.41 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513347 2513853 | 2446002 2445502 | 507 501 | 97.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 1216184 1216690 | 2445502 2446002 | 507 501 | 96.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840442 1840948 | 2446002 2445502 | 507 501 | 96.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 2138854 2139360 | 2446002 2445502 | 507 501 | 96.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 503681 504187 | 2445502 2446002 | 507 501 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433941 3434448 | 2445502 2446002 | 508 501 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3524206 3524711 | 2446002 2445502 | 506 501 | 95.66 | sim5M QC.B.A_0
+		Skipping redundant alignment 1731475 1731977 | 2446002 2445502 | 503 501 | 95.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151461 3151976 | 2446540 2446025 | 516 516 | 96.12 | sim5M QC.B.A_0
+		Skipping redundant alignment 717815 718456 | 2446644 2446003 | 642 642 | 95.17 | sim5M QC.B.A_0
+		Skipping redundant alignment 615741 616398 | 2446660 2446003 | 658 658 | 95.44 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215453 1216111 | 2446660 2446003 | 659 658 | 95.14 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513926 2514581 | 2446003 2446660 | 656 658 | 95.14 | sim5M QC.B.A_0
+		Skipping redundant alignment 198646 199305 | 2446003 2446665 | 660 663 | 96.08 | sim5M QC.B.A_0
+		Skipping redundant alignment 1841021 1841683 | 2446003 2446665 | 663 663 | 95.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 2139433 2140092 | 2446003 2446665 | 660 663 | 95.17 | sim5M QC.B.A_0
+		Skipping redundant alignment 197683 197793 | 2476457 2476567 | 111 111 | 96.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 4743115 4743311 | 2476567 2476371 | 197 197 | 96.95 | sim5M QC.B.A_0
+		Skipping redundant alignment 478546 478757 | 2476567 2476356 | 212 212 | 95.28 | sim5M QC.B.A_0
+		Skipping redundant alignment 98385 98645 | 2490087 2489830 | 261 258 | 98.08 | sim5M QC.B.A_0
+		Skipping redundant alignment 922825 923088 | 2489830 2490093 | 264 264 | 99.24 | sim5M QC.B.A_0
+		Skipping redundant alignment 2562843 2563107 | 2490093 2489830 | 265 264 | 98.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 2646210 2646473 | 2489830 2490093 | 264 264 | 98.86 | sim5M QC.B.A_0
+		Skipping redundant alignment 745891 746154 | 2489830 2490093 | 264 264 | 98.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 2877421 2877684 | 2489830 2490093 | 264 264 | 98.11 | sim5M QC.B.A_0
+		Skipping redundant alignment 2222589 2222856 | 2490093 2489830 | 268 264 | 97.76 | sim5M QC.B.A_0
+		Skipping redundant alignment 3908274 3908538 | 2490093 2489830 | 265 264 | 97.74 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82676 | 2543809 2544101 | 294 293 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 546033 546301 | 2567397 2567130 | 269 268 | 98.14 | sim5M QC.B.A_0
+		Skipping redundant alignment 2136924 2137192 | 2567130 2567398 | 269 269 | 98.88 | sim5M QC.B.A_0
+		Skipping redundant alignment 505849 506117 | 2567398 2567130 | 269 269 | 98.51 | sim5M QC.B.A_0
+		Skipping redundant alignment 718669 718937 | 2567130 2567398 | 269 269 | 98.51 | sim5M QC.B.A_0
+		Skipping redundant alignment 1838516 1838784 | 2567130 2567398 | 269 269 | 98.51 | sim5M QC.B.A_0
+		Skipping redundant alignment 2511417 2511685 | 2567130 2567398 | 269 269 | 98.51 | sim5M QC.B.A_0
+		Skipping redundant alignment 3522280 3522548 | 2567130 2567398 | 269 269 | 98.51 | sim5M QC.B.A_0
+		Skipping redundant alignment 528494 528763 | 2567398 2567130 | 270 269 | 98.15 | sim5M QC.B.A_0
+		Skipping redundant alignment 1436271 1436539 | 2567398 2567130 | 269 269 | 97.77 | sim5M QC.B.A_0
+		Skipping redundant alignment 1218352 1218622 | 2567398 2567130 | 271 269 | 96.68 | sim5M QC.B.A_0
+		Skipping redundant alignment 1729551 1729820 | 2567130 2567399 | 270 270 | 97.41 | sim5M QC.B.A_0
+		Skipping redundant alignment 2051047 2051171 | 2660321 2660445 | 125 125 | 98.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 4875454 4875717 | 2660586 2660322 | 264 265 | 97.74 | sim5M QC.B.A_0
+		Skipping redundant alignment 2877384 2877687 | 2660623 2660319 | 304 305 | 97.7 | sim5M QC.B.A_0
+		Skipping redundant alignment 2222582 2222893 | 2660315 2660623 | 312 309 | 97.44 | sim5M QC.B.A_0
+		Skipping redundant alignment 3923458 3923768 | 2660623 2660314 | 311 310 | 96.78 | sim5M QC.B.A_0
+		Skipping redundant alignment 2562834 2563144 | 2660313 2660623 | 311 311 | 99.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 922788 923097 | 2660623 2660313 | 310 311 | 98.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 2646173 2646482 | 2660623 2660313 | 310 311 | 98.07 | sim5M QC.B.A_0
+		Skipping redundant alignment 98385 98683 | 2660328 2660624 | 299 297 | 97.66 | sim5M QC.B.A_0
+		Skipping redundant alignment 745852 746155 | 2660625 2660321 | 304 305 | 98.03 | sim5M QC.B.A_0
+		Skipping redundant alignment 73031 73111 | 2663731 2663651 | 81 81 | 98.77 | sim5M QC.B.A_0
+		Skipping redundant alignment 615738 615939 | 2663636 2663836 | 202 201 | 95.05 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215448 1215652 | 2663635 2663836 | 205 202 | 95.61 | sim5M QC.B.A_0
+		Skipping redundant alignment 1841480 1841692 | 2663836 2663625 | 213 212 | 95.33 | sim5M QC.B.A_0
+		Skipping redundant alignment 197683 197876 | 2664029 2663835 | 194 195 | 95.9 | sim5M QC.B.A_0
+		Skipping redundant alignment 1434271 1434533 | 2664098 2663835 | 263 264 | 98.11 | sim5M QC.B.A_0
+		Skipping redundant alignment 4831126 4831549 | 2664266 2663836 | 424 431 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995329 | 2664572 2664194 | 376 379 | 96.31 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215674 1216614 | 2664776 2663835 | 941 942 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151559 3151976 | 2664778 2664361 | 418 418 | 96.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 718017 718601 | 2664778 2664194 | 585 585 | 96.58 | sim5M QC.B.A_0
+		Skipping redundant alignment 1436696 1437373 | 2664101 2664778 | 678 678 | 95.13 | sim5M QC.B.A_0
+		Skipping redundant alignment 198349 199085 | 2664042 2664778 | 737 737 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3449185 | 2663886 2664778 | 892 893 | 95.07 | sim5M QC.B.A_0
+		Skipping redundant alignment 4956907 4957829 | 2664778 2663856 | 923 923 | 96.97 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513423 2514365 | 2663835 2664778 | 943 944 | 97.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 2138930 2139872 | 2663835 2664778 | 943 944 | 97.03 | sim5M QC.B.A_0
+		Skipping redundant alignment 503169 504111 | 2664778 2663835 | 943 944 | 96.61 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433429 3434372 | 2664778 2663835 | 944 944 | 96.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 615959 616895 | 2664778 2663835 | 937 944 | 96.29 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840518 1841460 | 2663835 2664778 | 943 944 | 96.19 | sim5M QC.B.A_0
+		Skipping redundant alignment 1731551 1732489 | 2663835 2664778 | 939 944 | 95.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 3524281 3525224 | 2663835 2664779 | 944 945 | 95.77 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82683 | 2671114 2670809 | 301 306 | 95.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 98385 98682 | 2675802 2675506 | 298 297 | 96.99 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82683 | 2675508 2675810 | 301 303 | 97.69 | sim5M QC.B.A_0
+		Skipping redundant alignment 2877384 2877686 | 2675506 2675810 | 303 305 | 96.72 | sim5M QC.B.A_0
+		Skipping redundant alignment 745854 746160 | 2675506 2675813 | 307 308 | 96.76 | sim5M QC.B.A_0
+		Skipping redundant alignment 3908266 3908575 | 2675816 2675506 | 310 311 | 96.78 | sim5M QC.B.A_0
+		Skipping redundant alignment 1991605 1991915 | 2675816 2675504 | 311 313 | 95.53 | sim5M QC.B.A_0
+		Skipping redundant alignment 2222579 2222894 | 2675819 2675505 | 316 315 | 96.24 | sim5M QC.B.A_0
+		Skipping redundant alignment 1100859 1101180 | 2675821 2675506 | 322 316 | 95.05 | sim5M QC.B.A_0
+		Skipping redundant alignment 2562828 2563144 | 2675823 2675506 | 317 318 | 97.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 922788 923103 | 2675506 2675823 | 316 318 | 96.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 2646169 2646486 | 2675502 2675823 | 318 322 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 2702365 2702751 | 384 387 | 95.09 | sim5M QC.B.A_0
+		Skipping redundant alignment 719517 719905 | 2803472 2803084 | 389 389 | 95.89 | sim5M QC.B.A_0
+		Skipping redundant alignment 66490 67064 | 2803472 2802900 | 575 573 | 95.3 | sim5M QC.B.A_0
+		Skipping redundant alignment 197683 197779 | 2822259 2822163 | 97 97 | 98.97 | sim5M QC.B.A_0
+		Skipping redundant alignment 4831126 4831453 | 2822496 2822163 | 328 334 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 2822802 2822416 | 384 387 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151494 3151976 | 2823073 2822591 | 483 483 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 2139028 2140037 | 2822164 2823166 | 1010 1003 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513521 2514530 | 2822164 2823166 | 1010 1003 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 503005 504014 | 2823166 2822163 | 1010 1004 | 95.45 | sim5M QC.B.A_0
+		Skipping redundant alignment 3524378 3525387 | 2822163 2823166 | 1010 1004 | 95.05 | sim5M QC.B.A_0
+		Skipping redundant alignment 198349 199252 | 2822272 2823172 | 904 901 | 95.59 | sim5M QC.B.A_0
+		Skipping redundant alignment 4956736 4957751 | 2823172 2822163 | 1016 1010 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433259 3434275 | 2823172 2822163 | 1017 1010 | 95.77 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215501 1216517 | 2823172 2822163 | 1017 1010 | 95.38 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840615 1841631 | 2822163 2823172 | 1017 1010 | 95.18 | sim5M QC.B.A_0
+		Skipping redundant alignment 478216 478757 | 2842851 2843392 | 542 542 | 95.39 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 2843834 2843448 | 384 387 | 96.12 | sim5M QC.B.A_0
+		Skipping redundant alignment 2246915 2247639 | 2843169 2843890 | 725 722 | 95.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151461 3151976 | 2844138 2843623 | 516 516 | 95.35 | sim5M QC.B.A_0
+		Skipping redundant alignment 1039265 1039930 | 2844155 2843489 | 666 667 | 96.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4967349 4968742 | 2844248 2842851 | 1394 1398 | 95.28 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215464 1216861 | 2844248 2842851 | 1398 1398 | 95.21 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513176 2514573 | 2842851 2844248 | 1398 1398 | 95.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3449396 | 2843148 2844251 | 1103 1104 | 95.38 | sim5M QC.B.A_0
+		Skipping redundant alignment 4136245 4136560 | 2886058 2885743 | 316 316 | 98.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4133695 4134010 | 2888608 2888293 | 316 316 | 98.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4861995 4862191 | 3495359 3495163 | 197 197 | 96.95 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3448522 | 3495130 3495359 | 229 230 | 95.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 4957569 4957823 | 3495359 3495105 | 255 255 | 96.86 | sim5M QC.B.A_0
+		Skipping redundant alignment 3009112 3009621 | 3495359 3494849 | 510 511 | 95.5 | sim5M QC.B.A_0
+		Skipping redundant alignment 1216335 1216845 | 3495359 3494849 | 511 511 | 95.3 | sim5M QC.B.A_0
+		Skipping redundant alignment 544020 544530 | 3495359 3494849 | 511 511 | 95.11 | sim5M QC.B.A_0
+		Skipping redundant alignment 4070115 4070448 | 3583501 3583174 | 334 328 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3448673 | 3583548 3583174 | 380 375 | 95.79 | sim5M QC.B.A_0
+		Skipping redundant alignment 4957418 4957829 | 3583174 3583578 | 412 405 | 97.09 | sim5M QC.B.A_0
+		Skipping redundant alignment 3911788 3912218 | 3583597 3583174 | 431 424 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 1434271 1434609 | 3583341 3583674 | 339 334 | 95.58 | sim5M QC.B.A_0
+		Skipping redundant alignment 543901 544375 | 3583206 3583674 | 475 469 | 96.0 | sim5M QC.B.A_0
+		Skipping redundant alignment 616471 616971 | 3583174 3583674 | 501 501 | 97.41 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513347 2513853 | 3583674 3583174 | 507 501 | 97.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 1216184 1216690 | 3583174 3583674 | 507 501 | 96.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840442 1840948 | 3583674 3583174 | 507 501 | 96.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 2138854 2139360 | 3583674 3583174 | 507 501 | 96.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 503681 504187 | 3583174 3583674 | 507 501 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433941 3434448 | 3583174 3583674 | 508 501 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3524206 3524711 | 3583674 3583174 | 506 501 | 95.66 | sim5M QC.B.A_0
+		Skipping redundant alignment 1731475 1731977 | 3583674 3583174 | 503 501 | 95.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151461 3151976 | 3584212 3583697 | 516 516 | 96.12 | sim5M QC.B.A_0
+		Skipping redundant alignment 717815 718456 | 3584316 3583675 | 642 642 | 95.17 | sim5M QC.B.A_0
+		Skipping redundant alignment 615741 616398 | 3584332 3583675 | 658 658 | 95.44 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215453 1216111 | 3584332 3583675 | 659 658 | 95.14 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513926 2514581 | 3583675 3584332 | 656 658 | 95.14 | sim5M QC.B.A_0
+		Skipping redundant alignment 198646 199305 | 3583675 3584337 | 660 663 | 96.08 | sim5M QC.B.A_0
+		Skipping redundant alignment 1841021 1841683 | 3583675 3584337 | 663 663 | 95.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 2139433 2140092 | 3583675 3584337 | 660 663 | 95.17 | sim5M QC.B.A_0
+		Skipping redundant alignment 197683 197793 | 3614129 3614239 | 111 111 | 96.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 4743115 4743311 | 3614239 3614043 | 197 197 | 96.95 | sim5M QC.B.A_0
+		Skipping redundant alignment 478546 478757 | 3614239 3614028 | 212 212 | 95.28 | sim5M QC.B.A_0
+		Skipping redundant alignment 98385 98645 | 3627759 3627502 | 261 258 | 98.08 | sim5M QC.B.A_0
+		Skipping redundant alignment 922825 923088 | 3627502 3627765 | 264 264 | 99.24 | sim5M QC.B.A_0
+		Skipping redundant alignment 2562843 2563107 | 3627765 3627502 | 265 264 | 98.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 2646210 2646473 | 3627502 3627765 | 264 264 | 98.86 | sim5M QC.B.A_0
+		Skipping redundant alignment 745891 746154 | 3627502 3627765 | 264 264 | 98.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 2877421 2877684 | 3627502 3627765 | 264 264 | 98.11 | sim5M QC.B.A_0
+		Skipping redundant alignment 2222589 2222856 | 3627765 3627502 | 268 264 | 97.76 | sim5M QC.B.A_0
+		Skipping redundant alignment 3908274 3908538 | 3627765 3627502 | 265 264 | 97.74 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82676 | 3681481 3681773 | 294 293 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 2051047 2051171 | 3797993 3798117 | 125 125 | 98.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 4875454 4875717 | 3798258 3797994 | 264 265 | 97.74 | sim5M QC.B.A_0
+		Skipping redundant alignment 2877384 2877687 | 3798295 3797991 | 304 305 | 97.7 | sim5M QC.B.A_0
+		Skipping redundant alignment 2222582 2222893 | 3797987 3798295 | 312 309 | 97.44 | sim5M QC.B.A_0
+		Skipping redundant alignment 3923458 3923768 | 3798295 3797986 | 311 310 | 96.78 | sim5M QC.B.A_0
+		Skipping redundant alignment 2562834 2563144 | 3797985 3798295 | 311 311 | 99.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 922788 923097 | 3798295 3797985 | 310 311 | 98.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 2646173 2646482 | 3798295 3797985 | 310 311 | 98.07 | sim5M QC.B.A_0
+		Skipping redundant alignment 98385 98683 | 3798000 3798296 | 299 297 | 97.66 | sim5M QC.B.A_0
+		Skipping redundant alignment 745852 746155 | 3798297 3797993 | 304 305 | 98.03 | sim5M QC.B.A_0
+		Skipping redundant alignment 73031 73111 | 3801403 3801323 | 81 81 | 98.77 | sim5M QC.B.A_0
+		Skipping redundant alignment 615738 615939 | 3801308 3801508 | 202 201 | 95.05 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215448 1215652 | 3801307 3801508 | 205 202 | 95.61 | sim5M QC.B.A_0
+		Skipping redundant alignment 1841480 1841692 | 3801508 3801297 | 213 212 | 95.33 | sim5M QC.B.A_0
+		Skipping redundant alignment 197683 197876 | 3801701 3801507 | 194 195 | 95.9 | sim5M QC.B.A_0
+		Skipping redundant alignment 1434271 1434533 | 3801770 3801507 | 263 264 | 98.11 | sim5M QC.B.A_0
+		Skipping redundant alignment 4831126 4831549 | 3801938 3801508 | 424 431 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995329 | 3802244 3801866 | 376 379 | 96.31 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215674 1216614 | 3802448 3801507 | 941 942 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151559 3151976 | 3802450 3802033 | 418 418 | 96.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 718017 718601 | 3802450 3801866 | 585 585 | 96.58 | sim5M QC.B.A_0
+		Skipping redundant alignment 1436696 1437373 | 3801773 3802450 | 678 678 | 95.13 | sim5M QC.B.A_0
+		Skipping redundant alignment 198349 199085 | 3801714 3802450 | 737 737 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3449185 | 3801558 3802450 | 892 893 | 95.07 | sim5M QC.B.A_0
+		Skipping redundant alignment 4956907 4957829 | 3802450 3801528 | 923 923 | 96.97 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513423 2514365 | 3801507 3802450 | 943 944 | 97.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 2138930 2139872 | 3801507 3802450 | 943 944 | 97.03 | sim5M QC.B.A_0
+		Skipping redundant alignment 503169 504111 | 3802450 3801507 | 943 944 | 96.61 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433429 3434372 | 3802450 3801507 | 944 944 | 96.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 615959 616895 | 3802450 3801507 | 937 944 | 96.29 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840518 1841460 | 3801507 3802450 | 943 944 | 96.19 | sim5M QC.B.A_0
+		Skipping redundant alignment 1731551 1732489 | 3801507 3802450 | 939 944 | 95.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 3524281 3525224 | 3801507 3802451 | 944 945 | 95.77 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82683 | 3808786 3808481 | 301 306 | 95.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 98385 98682 | 3813474 3813178 | 298 297 | 96.99 | sim5M QC.B.A_0
+		Skipping redundant alignment 4875454 4875717 | 3813215 3813480 | 264 266 | 96.62 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82683 | 3813180 3813482 | 301 303 | 97.69 | sim5M QC.B.A_0
+		Skipping redundant alignment 2877384 2877686 | 3813178 3813482 | 303 305 | 96.72 | sim5M QC.B.A_0
+		Skipping redundant alignment 745854 746160 | 3813178 3813485 | 307 308 | 96.76 | sim5M QC.B.A_0
+		Skipping redundant alignment 3908266 3908575 | 3813488 3813178 | 310 311 | 96.78 | sim5M QC.B.A_0
+		Skipping redundant alignment 1991605 1991915 | 3813488 3813176 | 311 313 | 95.53 | sim5M QC.B.A_0
+		Skipping redundant alignment 2222579 2222894 | 3813491 3813177 | 316 315 | 96.24 | sim5M QC.B.A_0
+		Skipping redundant alignment 1100859 1101180 | 3813493 3813178 | 322 316 | 95.05 | sim5M QC.B.A_0
+		Skipping redundant alignment 2562828 2563144 | 3813495 3813178 | 317 318 | 97.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 922788 923103 | 3813178 3813495 | 316 318 | 96.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 2646169 2646486 | 3813174 3813495 | 318 322 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 3840037 3840423 | 384 387 | 95.09 | sim5M QC.B.A_0
+		Skipping redundant alignment 719517 719905 | 3941144 3940756 | 389 389 | 95.89 | sim5M QC.B.A_0
+		Skipping redundant alignment 66490 67064 | 3941144 3940572 | 575 573 | 95.3 | sim5M QC.B.A_0
+		Skipping redundant alignment 197683 197779 | 3959931 3959835 | 97 97 | 98.97 | sim5M QC.B.A_0
+		Skipping redundant alignment 4831126 4831453 | 3960168 3959835 | 328 334 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 3960474 3960088 | 384 387 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151494 3151976 | 3960745 3960263 | 483 483 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 2139028 2140037 | 3959836 3960838 | 1010 1003 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513521 2514530 | 3959836 3960838 | 1010 1003 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 503005 504014 | 3960838 3959835 | 1010 1004 | 95.45 | sim5M QC.B.A_0
+		Skipping redundant alignment 3524378 3525387 | 3959835 3960838 | 1010 1004 | 95.05 | sim5M QC.B.A_0
+		Skipping redundant alignment 198349 199252 | 3959944 3960844 | 904 901 | 95.59 | sim5M QC.B.A_0
+		Skipping redundant alignment 4956736 4957751 | 3960844 3959835 | 1016 1010 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433259 3434275 | 3960844 3959835 | 1017 1010 | 95.77 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215501 1216517 | 3960844 3959835 | 1017 1010 | 95.38 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840615 1841631 | 3959835 3960844 | 1017 1010 | 95.18 | sim5M QC.B.A_0
+		Skipping redundant alignment 478216 478757 | 3980523 3981064 | 542 542 | 95.39 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 3981506 3981120 | 384 387 | 96.12 | sim5M QC.B.A_0
+		Skipping redundant alignment 2246915 2247639 | 3980841 3981562 | 725 722 | 95.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151461 3151976 | 3981810 3981295 | 516 516 | 95.35 | sim5M QC.B.A_0
+		Skipping redundant alignment 1039265 1039930 | 3981827 3981161 | 666 667 | 96.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4967349 4968742 | 3981920 3980523 | 1394 1398 | 95.28 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215464 1216861 | 3981920 3980523 | 1398 1398 | 95.21 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513176 2514573 | 3980523 3981920 | 1398 1398 | 95.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3449396 | 3980820 3981923 | 1103 1104 | 95.38 | sim5M QC.B.A_0
+		Skipping redundant alignment 4136245 4136560 | 4023730 4023415 | 316 316 | 98.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4133695 4134010 | 4026280 4025965 | 316 316 | 98.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4861995 4862191 | 4633031 4632835 | 197 197 | 96.95 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3448522 | 4632802 4633031 | 229 230 | 95.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 4957569 4957823 | 4633031 4632777 | 255 255 | 96.86 | sim5M QC.B.A_0
+		Skipping redundant alignment 3009112 3009621 | 4633031 4632521 | 510 511 | 95.5 | sim5M QC.B.A_0
+		Skipping redundant alignment 1216335 1216845 | 4633031 4632521 | 511 511 | 95.3 | sim5M QC.B.A_0
+		Skipping redundant alignment 544020 544530 | 4633031 4632521 | 511 511 | 95.11 | sim5M QC.B.A_0
+		Skipping redundant alignment 4070115 4070448 | 4721173 4720846 | 334 328 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3448673 | 4721220 4720846 | 380 375 | 95.79 | sim5M QC.B.A_0
+		Skipping redundant alignment 4957418 4957829 | 4720846 4721250 | 412 405 | 97.09 | sim5M QC.B.A_0
+		Skipping redundant alignment 3911788 3912218 | 4721269 4720846 | 431 424 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 1434271 1434609 | 4721013 4721346 | 339 334 | 95.58 | sim5M QC.B.A_0
+		Skipping redundant alignment 543901 544375 | 4720878 4721346 | 475 469 | 96.0 | sim5M QC.B.A_0
+		Skipping redundant alignment 616471 616971 | 4720846 4721346 | 501 501 | 97.41 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513347 2513853 | 4721346 4720846 | 507 501 | 97.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 1216184 1216690 | 4720846 4721346 | 507 501 | 96.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840442 1840948 | 4721346 4720846 | 507 501 | 96.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 2138854 2139360 | 4721346 4720846 | 507 501 | 96.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 503681 504187 | 4720846 4721346 | 507 501 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433941 3434448 | 4720846 4721346 | 508 501 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3524206 3524711 | 4721346 4720846 | 506 501 | 95.66 | sim5M QC.B.A_0
+		Skipping redundant alignment 1731475 1731977 | 4721346 4720846 | 503 501 | 95.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151461 3151976 | 4721884 4721369 | 516 516 | 96.12 | sim5M QC.B.A_0
+		Skipping redundant alignment 717815 718456 | 4721988 4721347 | 642 642 | 95.17 | sim5M QC.B.A_0
+		Skipping redundant alignment 615741 616398 | 4722004 4721347 | 658 658 | 95.44 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215453 1216111 | 4722004 4721347 | 659 658 | 95.14 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513926 2514581 | 4721347 4722004 | 656 658 | 95.14 | sim5M QC.B.A_0
+		Skipping redundant alignment 198646 199305 | 4721347 4722009 | 660 663 | 96.08 | sim5M QC.B.A_0
+		Skipping redundant alignment 1841021 1841683 | 4721347 4722009 | 663 663 | 95.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 2139433 2140092 | 4721347 4722009 | 660 663 | 95.17 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215674 1216029 | 4750096 4749741 | 356 356 | 96.07 | sim5M QC.B.A_0
+		Skipping redundant alignment 2139512 2139872 | 4749738 4750098 | 361 361 | 97.78 | sim5M QC.B.A_0
+		Skipping redundant alignment 2514005 2514365 | 4749738 4750098 | 361 361 | 97.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151559 3151919 | 4750098 4749738 | 361 361 | 96.95 | sim5M QC.B.A_0
+		Skipping redundant alignment 198725 199085 | 4749738 4750098 | 361 361 | 96.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 4956907 4957266 | 4750098 4749738 | 360 361 | 96.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 615959 616319 | 4750098 4749738 | 361 361 | 96.12 | sim5M QC.B.A_0
+		Skipping redundant alignment 718017 718377 | 4750098 4749738 | 361 361 | 96.12 | sim5M QC.B.A_0
+		Skipping redundant alignment 1841100 1841460 | 4749738 4750098 | 361 361 | 95.57 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433429 3433789 | 4750098 4749738 | 361 361 | 95.57 | sim5M QC.B.A_0
+		Skipping redundant alignment 1437013 1437373 | 4749738 4750098 | 361 361 | 95.29 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82683 | 4756434 4756129 | 301 306 | 95.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 98385 98682 | 4761122 4760826 | 298 297 | 96.99 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82683 | 4760828 4761130 | 301 303 | 97.69 | sim5M QC.B.A_0
+		Skipping redundant alignment 2877384 2877686 | 4760826 4761130 | 303 305 | 96.72 | sim5M QC.B.A_0
+		Skipping redundant alignment 745854 746160 | 4760826 4761133 | 307 308 | 96.76 | sim5M QC.B.A_0
+		Skipping redundant alignment 3908266 3908575 | 4761136 4760826 | 310 311 | 96.78 | sim5M QC.B.A_0
+		Skipping redundant alignment 1991605 1991915 | 4761136 4760824 | 311 313 | 95.53 | sim5M QC.B.A_0
+		Skipping redundant alignment 2222579 2222894 | 4761139 4760825 | 316 315 | 96.24 | sim5M QC.B.A_0
+		Skipping redundant alignment 1100859 1101180 | 4761141 4760826 | 322 316 | 95.05 | sim5M QC.B.A_0
+		Skipping redundant alignment 2562828 2563144 | 4761143 4760826 | 317 318 | 97.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 922788 923103 | 4760826 4761143 | 316 318 | 96.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 2646169 2646486 | 4760822 4761143 | 318 322 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 4787685 4788071 | 384 387 | 95.09 | sim5M QC.B.A_0
+		Skipping redundant alignment 719517 719905 | 4888792 4888404 | 389 389 | 95.89 | sim5M QC.B.A_0
+		Skipping redundant alignment 66490 67064 | 4888792 4888220 | 575 573 | 95.3 | sim5M QC.B.A_0
+		Skipping redundant alignment 197683 197779 | 4907579 4907483 | 97 97 | 98.97 | sim5M QC.B.A_0
+		Skipping redundant alignment 4831126 4831453 | 4907816 4907483 | 328 334 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 4908122 4907736 | 384 387 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3911885 3912730 | 4907483 4908328 | 846 846 | 96.45 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151494 3151976 | 4908393 4907911 | 483 483 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 2139028 2140037 | 4907484 4908486 | 1010 1003 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513521 2514530 | 4907484 4908486 | 1010 1003 | 96.34 | sim5M QC.B.A_0
+		Skipping redundant alignment 503005 504014 | 4908486 4907483 | 1010 1004 | 95.45 | sim5M QC.B.A_0
+		Skipping redundant alignment 3524378 3525387 | 4907483 4908486 | 1010 1004 | 95.05 | sim5M QC.B.A_0
+		Skipping redundant alignment 198349 199252 | 4907592 4908492 | 904 901 | 95.59 | sim5M QC.B.A_0
+		Skipping redundant alignment 4956736 4957751 | 4908492 4907483 | 1016 1010 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433259 3434275 | 4908492 4907483 | 1017 1010 | 95.77 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215501 1216517 | 4908492 4907483 | 1017 1010 | 95.38 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840615 1841631 | 4907483 4908492 | 1017 1010 | 95.18 | sim5M QC.B.A_0
+		Skipping redundant alignment 478216 478757 | 4928171 4928712 | 542 542 | 95.39 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 4929154 4928768 | 384 387 | 96.12 | sim5M QC.B.A_0
+		Skipping redundant alignment 2246915 2247639 | 4928489 4929210 | 725 722 | 95.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 3911787 3912730 | 4928418 4929360 | 944 943 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151461 3151976 | 4929458 4928943 | 516 516 | 95.35 | sim5M QC.B.A_0
+		Skipping redundant alignment 1039265 1039930 | 4929475 4928809 | 666 667 | 96.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4967349 4968742 | 4929568 4928171 | 1394 1398 | 95.28 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215464 1216861 | 4929568 4928171 | 1398 1398 | 95.21 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513176 2514573 | 4928171 4929568 | 1398 1398 | 95.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3449396 | 4928468 4929571 | 1103 1104 | 95.38 | sim5M QC.B.A_0
+		Skipping redundant alignment 4136245 4136560 | 4971378 4971063 | 316 316 | 98.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4133695 4134010 | 4973928 4973613 | 316 316 | 98.1 | sim5M QC.B.A_0
+		Skipping redundant alignment 4861995 4862191 | 5580679 5580483 | 197 197 | 96.95 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3448522 | 5580450 5580679 | 229 230 | 95.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 4957569 4957823 | 5580679 5580425 | 255 255 | 96.86 | sim5M QC.B.A_0
+		Skipping redundant alignment 3911787 3912067 | 5580400 5580679 | 281 280 | 95.37 | sim5M QC.B.A_0
+		Skipping redundant alignment 3009112 3009621 | 5580679 5580169 | 510 511 | 95.5 | sim5M QC.B.A_0
+		Skipping redundant alignment 1216335 1216845 | 5580679 5580169 | 511 511 | 95.3 | sim5M QC.B.A_0
+		Skipping redundant alignment 544020 544530 | 5580679 5580169 | 511 511 | 95.11 | sim5M QC.B.A_0
+		Skipping redundant alignment 4070115 4070448 | 5668821 5668494 | 334 328 | 96.71 | sim5M QC.B.A_0
+		Skipping redundant alignment 3448294 3448673 | 5668868 5668494 | 380 375 | 95.79 | sim5M QC.B.A_0
+		Skipping redundant alignment 4957418 4957829 | 5668494 5668898 | 412 405 | 97.09 | sim5M QC.B.A_0
+		Skipping redundant alignment 3911788 3912218 | 5668917 5668494 | 431 424 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 1434271 1434609 | 5668661 5668994 | 339 334 | 95.58 | sim5M QC.B.A_0
+		Skipping redundant alignment 543901 544375 | 5668526 5668994 | 475 469 | 96.0 | sim5M QC.B.A_0
+		Skipping redundant alignment 616471 616971 | 5668494 5668994 | 501 501 | 97.41 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513347 2513853 | 5668994 5668494 | 507 501 | 97.04 | sim5M QC.B.A_0
+		Skipping redundant alignment 1216184 1216690 | 5668494 5668994 | 507 501 | 96.65 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840442 1840948 | 5668994 5668494 | 507 501 | 96.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 2138854 2139360 | 5668994 5668494 | 507 501 | 96.25 | sim5M QC.B.A_0
+		Skipping redundant alignment 503681 504187 | 5668494 5668994 | 507 501 | 96.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 3433941 3434448 | 5668494 5668994 | 508 501 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 3524206 3524711 | 5668994 5668494 | 506 501 | 95.66 | sim5M QC.B.A_0
+		Skipping redundant alignment 1731475 1731977 | 5668994 5668494 | 503 501 | 95.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151461 3151976 | 5669532 5669017 | 516 516 | 96.12 | sim5M QC.B.A_0
+		Skipping redundant alignment 717815 718456 | 5669636 5668995 | 642 642 | 95.17 | sim5M QC.B.A_0
+		Skipping redundant alignment 615741 616398 | 5669652 5668995 | 658 658 | 95.44 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215453 1216111 | 5669652 5668995 | 659 658 | 95.14 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513926 2514581 | 5668995 5669652 | 656 658 | 95.14 | sim5M QC.B.A_0
+		Skipping redundant alignment 198646 199305 | 5668995 5669657 | 660 663 | 96.08 | sim5M QC.B.A_0
+		Skipping redundant alignment 1841021 1841683 | 5668995 5669657 | 663 663 | 95.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 2139433 2140092 | 5668995 5669657 | 660 663 | 95.17 | sim5M QC.B.A_0
+		Skipping redundant alignment 197683 197793 | 5699449 5699559 | 111 111 | 96.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 4743115 4743311 | 5699559 5699363 | 197 197 | 96.95 | sim5M QC.B.A_0
+		Skipping redundant alignment 478546 478757 | 5699559 5699348 | 212 212 | 95.28 | sim5M QC.B.A_0
+		Skipping redundant alignment 98385 98645 | 5713079 5712822 | 261 258 | 98.08 | sim5M QC.B.A_0
+		Skipping redundant alignment 922825 923088 | 5712822 5713085 | 264 264 | 99.24 | sim5M QC.B.A_0
+		Skipping redundant alignment 2562843 2563107 | 5713085 5712822 | 265 264 | 98.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 2646210 2646473 | 5712822 5713085 | 264 264 | 98.86 | sim5M QC.B.A_0
+		Skipping redundant alignment 745891 746154 | 5712822 5713085 | 264 264 | 98.48 | sim5M QC.B.A_0
+		Skipping redundant alignment 2877421 2877684 | 5712822 5713085 | 264 264 | 98.11 | sim5M QC.B.A_0
+		Skipping redundant alignment 2222589 2222856 | 5713085 5712822 | 268 264 | 97.76 | sim5M QC.B.A_0
+		Skipping redundant alignment 3908274 3908538 | 5713085 5712822 | 265 264 | 97.74 | sim5M QC.B.A_0
+		Skipping redundant alignment 82383 82676 | 5766801 5767093 | 294 293 | 96.27 | sim5M QC.B.A_0
+		Skipping redundant alignment 889245 889389 | 5794075 5794219 | 145 145 | 97.24 | sim5M QC.B.A_0
+		Skipping redundant alignment 2200339 2200814 | 5794536 5794063 | 476 474 | 95.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 3151461 3151976 | 5794177 5794691 | 516 515 | 95.74 | sim5M QC.B.A_0
+		Skipping redundant alignment 717811 718606 | 5794069 5794863 | 796 795 | 96.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 2994954 2995337 | 5794481 5794866 | 384 386 | 95.61 | sim5M QC.B.A_0
+		Skipping redundant alignment 2247152 2247639 | 5794912 5794425 | 488 488 | 95.3 | sim5M QC.B.A_0
+		Skipping redundant alignment 3912092 3912730 | 5794912 5794275 | 639 638 | 96.4 | sim5M QC.B.A_0
+		Skipping redundant alignment 4070322 4071124 | 5794912 5794104 | 803 809 | 95.06 | sim5M QC.B.A_0
+		Skipping redundant alignment 1215464 1216310 | 5794066 5794912 | 847 847 | 95.87 | sim5M QC.B.A_0
+		Skipping redundant alignment 1840822 1841669 | 5794912 5794065 | 848 848 | 96.23 | sim5M QC.B.A_0
+		Skipping redundant alignment 615750 616596 | 5794065 5794912 | 847 848 | 96.0 | sim5M QC.B.A_0
+		Skipping redundant alignment 198447 199291 | 5794912 5794064 | 845 849 | 95.53 | sim5M QC.B.A_0
+		Skipping redundant alignment 2513727 2514580 | 5794912 5794062 | 854 851 | 96.72 | sim5M QC.B.A_0
+		Skipping redundant alignment 502957 503807 | 5794062 5794912 | 851 851 | 96.13 | sim5M QC.B.A_0
+		Skipping redundant alignment 1436735 1437586 | 5794912 5794062 | 852 851 | 95.89 | sim5M QC.B.A_0
+		Skipping redundant alignment 3524585 3525435 | 5794912 5794062 | 851 851 | 95.55 | sim5M QC.B.A_0
+		Skipping redundant alignment 2139234 2140089 | 5794912 5794057 | 856 856 | 96.38 | sim5M QC.B.A_0
+			Looking for the best set of alignments (out of 5 total alignments)
+			The best set is below. Score: 5793763.7, number of alignments: 5, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 3 between Alignment 1 and 2: 3815349 4952753 | 1429725 2567129 | 1137405 1137405 --> 3815352 4952753 | 1429728 2567129 | 1137402 1137402
+			Real Alignment 1: 3523296 4953023 | 1 1429727 | 1429728 1429727 | 99.99 | sim5M QC.B.A_0
+			  Extensive misassembly (relocation, inconsistency = -1137672) between these two alignments
+			Real Alignment 2: 3815352 4952753 | 1429728 2567129 | 1137402 1137402 | 100.0 | sim5M QC.B.A_0
+			  Extensive misassembly (relocation, inconsistency = -1137672) between these two alignments
+			Excluding internal overlap of size 3 between Alignment 3 and 4: 3815349 4860017 | 3705069 4749737 | 1044669 1044669 --> 3815352 4860017 | 3705072 4749737 | 1044666 1044666
+			Real Alignment 3: 3815082 4953023 | 2567130 3705071 | 1137942 1137942 | 100.0 | sim5M QC.B.A_0
+			  Extensive misassembly (relocation, inconsistency = -1137672) between these two alignments
+			Excluding internal overlap of size 3 between Alignment 4 and 5: 3815352 4860017 | 3705072 4749737 | 1044666 1044666 --> 3815352 4860014 | 3705072 4749734 | 1044663 1044663
+			Real Alignment 4: 3815352 4860014 | 3705072 4749734 | 1044663 1044663 | 100.0 | sim5M QC.B.A_0
+			  Extensive misassembly (relocation, inconsistency = -947648) between these two alignments
+			Real Alignment 5: 3912367 4957544 | 4749735 5794912 | 1045178 1045178 | 100.0 | sim5M QC.B.A_0
+
+Analyzing coverage...
+Writing SNPs into /home/arash/asmReview/EVAL/sim5M.Metasm/contigs_reports/nucmer_output/sim5M-Metasm.used_snps.gz
+	Reference sim5M: 5 total alignments. 1 total regions.
+		Region: 1 to 5000040 (5000040 bp)
+			START in gap: 1 to 3523296 (3523295 bp)
+			Align 1: 3523296 4953023 QC.B.A_0 1 1429727
+				The next alignment (3815082 4953023 QC.B.A_0 2567130 3705071) is redundant. Skipping.
+				The next alignment (3815352 4952753 QC.B.A_0 1429728 2567129) is redundant. Skipping.
+				The next alignment (3815352 4860014 QC.B.A_0 3705072 4749734) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 4953023 to 3912367 (-1040656 bp)
+				Next Alignment: 3912367 4957544 QC.B.A_0 4749735 5794912
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 4749735 to 5790432.
+			Align 5: 4953024 4957544 QC.B.A_0 5790432 5794912
+			END in gap: 4957544 to 5000040 (42496 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/arash/asmReview/EVAL/sim5M.Metasm/contigs_reports/nucmer_output/sim5M-Metasm.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 4
+		Relocations: 4
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 1
+	Misassembled Contig Bases: 5794912
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1434249
+
+	SNPs: 0
+	Insertions: 1
+	Deletions: 2
+
+	Positive Gaps: 2
+		Internal Gaps: 0
+		External Gaps: 2
+		External Gap Total: 3565791
+		External Gap Average: 1782896
+	Negative Gaps: 1
+		Internal Overlaps: 1
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 1 (3320007)

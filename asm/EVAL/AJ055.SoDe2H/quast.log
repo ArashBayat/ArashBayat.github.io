@@ -1,0 +1,127 @@
+/usr/local/bin/quast.py -o EVAL/AJ055.SoDe2H -R /home/arash/asmReview/AJ055/ref.fa --threads 16 ASM/AJ055.SoDe2H.fa
+
+Version: 4.6.0
+
+System information:
+  OS: Linux-4.13.0-36-generic-x86_64-with-Ubuntu-16.04-xenial (linux_64)
+  Python version: 2.7.12
+  CPUs number: 16
+
+Started: 2018-03-31 21:28:34
+
+Logging to /home/arash/asmReview/EVAL/AJ055.SoDe2H/quast.log
+
+CWD: /home/arash/asmReview
+Main parameters: 
+  Threads: 16, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/arash/asmReview/AJ055/ref.fa ==> ref
+
+Contigs:
+  Pre-processing...
+  ASM/AJ055.SoDe2H.fa ==> AJ055.SoDe2H
+
+2018-03-31 21:28:35
+Running Basic statistics processor...
+  Reference genome:
+    ref.fa, length = 5504133, num fragments = 1, GC % = 57.38
+  Contig files: 
+    AJ055.SoDe2H
+  Calculating N50 and L50...
+    AJ055.SoDe2H, N50 = 751, L50 = 779, Total length = 1618182, GC % = 54.53, # N's per 100 kbp =  578.49
+  Drawing Nx plot...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/basic_stats/GC_content_plot.pdf
+  Drawing AJ055.SoDe2H GC content plot...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/basic_stats/AJ055.SoDe2H_GC_content_plot.pdf
+Done.
+
+2018-03-31 21:28:38
+Running Contig analyzer...
+NOTICE: Previous try of E-MEM compilation was unsuccessful! For forced retrying, please remove /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/make.emem.failed and restart QUAST. Currently, QUAST will use Nucmer which is absolutely fine, albeit slower.
+  AJ055.SoDe2H
+  Logging to files /home/arash/asmReview/EVAL/AJ055.SoDe2H/contigs_reports/contigs_report_AJ055-SoDe2H.stdout and contigs_report_AJ055-SoDe2H.stderr...
+  Aligning contigs to the reference
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/nucmer -c 65 -l 65 --maxmatch \
+  -p EVAL/AJ055.SoDe2H/contigs_reports/nucmer_output/AJ055-SoDe2H EVAL/AJ055.SoDe2H/quast_corrected_input/ref.fa \
+  EVAL/AJ055.SoDe2H/quast_corrected_input/AJ055-SoDe2H.fa >> EVAL/AJ055.SoDe2H/contigs_reports/contigs_report_AJ055-SoDe2H.stdout \
+  2>> EVAL/AJ055.SoDe2H/contigs_reports/contigs_report_AJ055-SoDe2H.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/delta-filter -i 95.0 -l \
+  0 EVAL/AJ055.SoDe2H/contigs_reports/nucmer_output/AJ055-SoDe2H.delta > EVAL/AJ055.SoDe2H/contigs_reports/nucmer_output/AJ055-SoDe2H.fdelta \
+  2> EVAL/AJ055.SoDe2H/contigs_reports/contigs_report_AJ055-SoDe2H.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummerplot --html --layout \
+  -p EVAL/AJ055.SoDe2H/contigs_reports/nucmer_output/AJ055-SoDe2H EVAL/AJ055.SoDe2H/contigs_reports/nucmer_output/AJ055-SoDe2H.delta \
+  > EVAL/AJ055.SoDe2H/contigs_reports/contigs_report_AJ055-SoDe2H.stdout 2> EVAL/AJ055.SoDe2H/contigs_reports/contigs_report_AJ055-SoDe2H.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/gnuplot/src/gnuplot EVAL/AJ055.SoDe2H/contigs_reports/nucmer_output/AJ055-SoDe2H.gp \
+  > /dev/null 2> EVAL/AJ055.SoDe2H/contigs_reports/contigs_report_AJ055-SoDe2H.stderr
+  MUMmer plot saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/contigs_reports/AJ055-SoDe2H_mummerplot.html
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/show-coords EVAL/AJ055.SoDe2H/contigs_reports/nucmer_output/AJ055-SoDe2H.delta \
+  > EVAL/AJ055.SoDe2H/contigs_reports/nucmer_output/AJ055-SoDe2H.coords_tmp 2> EVAL/AJ055.SoDe2H/contigs_reports/contigs_report_AJ055-SoDe2H.stderr
+  /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/show-snps -S -T -H EVAL/AJ055.SoDe2H/contigs_reports/nucmer_output/AJ055-SoDe2H.delta \
+  < EVAL/AJ055.SoDe2H/contigs_reports/nucmer_output/AJ055-SoDe2H.coords.headless > \
+  EVAL/AJ055.SoDe2H/contigs_reports/nucmer_output/AJ055-SoDe2H.all_snps 2> EVAL/AJ055.SoDe2H/contigs_reports/contigs_report_AJ055-SoDe2H.stderr
+  Analysis is finished.
+
+  Gzipping /home/arash/asmReview/EVAL/AJ055.SoDe2H/contigs_reports/nucmer_output/AJ055-SoDe2H.all_snps to reduce disk space usage...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/contigs_reports/nucmer_output/AJ055-SoDe2H.all_snps.gz
+  Creating total report...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2018-03-31 21:28:54
+Running NA-NGA calculation...
+  AJ055.SoDe2H, Largest alignment = 3463, NA50 = 714, LA50 = 813
+  Drawing cumulative plot...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/aligned_stats/NGAx_plot.pdf
+Done.
+
+2018-03-31 21:28:56
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  AJ055.SoDe2H
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2018-03-31 21:28:57
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2018-03-31 21:29:01
+RESULTS:
+  Text versions of total report are saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/report.html
+  PDF version (tables and plots) is saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/report.pdf
+  Icarus (contig browser) is saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/icarus.html
+  Log saved to /home/arash/asmReview/EVAL/AJ055.SoDe2H/quast.log
+
+Finished: 2018-03-31 21:29:01
+Elapsed time: 0:00:26.737813
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

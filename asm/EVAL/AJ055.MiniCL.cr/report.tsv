@@ -1,0 +1,49 @@
+Assembly	AJ055.MiniCL.cr
+# contigs (>= 0 bp)	2000
+# contigs (>= 1000 bp)	1927
+# contigs (>= 5000 bp)	1288
+# contigs (>= 10000 bp)	807
+# contigs (>= 25000 bp)	57
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	18799352
+Total length (>= 1000 bp)	18753244
+Total length (>= 5000 bp)	16985763
+Total length (>= 10000 bp)	13464054
+Total length (>= 25000 bp)	1645942
+Total length (>= 50000 bp)	0
+# contigs	1978
+Largest contig	41426
+Total length	18791114
+Reference length	5504133
+GC (%)	56.91
+Reference GC (%)	57.38
+N50	14601
+NG50	22655
+N75	9274
+NG75	20585
+L50	470
+LG50	105
+L75	873
+LG75	168
+# misassemblies	99
+# misassembled contigs	89
+Misassembled contigs length	1352097
+# local misassemblies	47
+# unaligned mis. contigs	6
+# unaligned contigs	478 + 174 part
+Unaligned length	4186004
+Genome fraction (%)	90.562
+Duplication ratio	2.930
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	134.01
+# indels per 100 kbp	1254.47
+Largest alignment	35671
+Total aligned length	14579694
+NA50	10889
+NGA50	20417
+NA75	2744
+NGA75	18393
+LA50	553
+LGA50	116
+LA75	1309
+LGA75	188

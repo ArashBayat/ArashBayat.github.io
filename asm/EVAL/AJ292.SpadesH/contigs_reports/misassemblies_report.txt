@@ -1,0 +1,17 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assembly AJ292.SpadesH contains continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                     AJ292.SpadesH
+# misassemblies              1            
+    # relocations            1            
+    # translocations         0            
+    # inversions             0            
+# misassembled contigs       1            
+Misassembled contigs length  271842       
+# local misassemblies        16           
+# unaligned mis. contigs     0            
+# mismatches                 223          
+# indels                     40           
+    # indels (<= 5 bp)       33           
+    # indels (> 5 bp)        7            
+Indels length                343          

@@ -1,0 +1,48 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assembly AJ055.SoDe2L contains continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                     AJ055.SoDe2L
+# contigs (>= 0 bp)          25795       
+# contigs (>= 1000 bp)       948         
+# contigs (>= 5000 bp)       0           
+# contigs (>= 10000 bp)      0           
+# contigs (>= 25000 bp)      0           
+# contigs (>= 50000 bp)      0           
+Total length (>= 0 bp)       7145906     
+Total length (>= 1000 bp)    1352478     
+Total length (>= 5000 bp)    0           
+Total length (>= 10000 bp)   0           
+Total length (>= 25000 bp)   0           
+Total length (>= 50000 bp)   0           
+# contigs                    3607        
+Largest contig               4124        
+Total length                 3190953     
+Reference length             5504133     
+GC (%)                       56.21       
+Reference GC (%)             57.38       
+N50                          907         
+NG50                         589         
+N75                          672         
+L50                          1204        
+LG50                         2801        
+L75                          2230        
+# misassemblies              0           
+# misassembled contigs       0           
+Misassembled contigs length  0           
+# local misassemblies        197         
+# unaligned mis. contigs     0           
+# unaligned contigs          111 + 0 part
+Unaligned length             118168      
+Genome fraction (%)          55.537      
+Duplication ratio            1.005       
+# N's per 100 kbp            95.30       
+# mismatches per 100 kbp     2.78        
+# indels per 100 kbp         1.01        
+Largest alignment            4124        
+Total aligned length         3069319     
+NA50                         875         
+NGA50                        568         
+NA75                         645         
+LA50                         1240        
+LGA50                        2900        
+LA75                         2305        

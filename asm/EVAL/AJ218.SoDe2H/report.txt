@@ -1,0 +1,45 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assembly AJ218.SoDe2H contains continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                     AJ218.SoDe2H
+# contigs (>= 0 bp)          39733       
+# contigs (>= 1000 bp)       377         
+# contigs (>= 5000 bp)       0           
+# contigs (>= 10000 bp)      0           
+# contigs (>= 25000 bp)      0           
+# contigs (>= 50000 bp)      0           
+Total length (>= 0 bp)       8145888     
+Total length (>= 1000 bp)    495623      
+Total length (>= 5000 bp)    0           
+Total length (>= 10000 bp)   0           
+Total length (>= 25000 bp)   0           
+Total length (>= 50000 bp)   0           
+# contigs                    2476        
+Largest contig               3250        
+Total length                 1913384     
+Reference length             5465981     
+GC (%)                       55.04       
+Reference GC (%)             57.29       
+N50                          761         
+N75                          611         
+L50                          910         
+L75                          1612        
+# misassemblies              0           
+# misassembled contigs       0           
+Misassembled contigs length  0           
+# local misassemblies        733         
+# unaligned mis. contigs     3           
+# unaligned contigs          83 + 5 part 
+Unaligned length             65961       
+Genome fraction (%)          33.369      
+Duplication ratio            1.013       
+# N's per 100 kbp            686.69      
+# mismatches per 100 kbp     1.64        
+# indels per 100 kbp         2.14        
+Largest alignment            3250        
+Total aligned length         1828053     
+NA50                         738         
+NGA50                        -           
+NA75                         590         
+LA50                         935         
+LA75                         1661        

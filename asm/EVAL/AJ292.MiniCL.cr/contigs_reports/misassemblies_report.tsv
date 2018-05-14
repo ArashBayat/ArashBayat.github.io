@@ -1,0 +1,14 @@
+Assembly	AJ292.MiniCL.cr
+# misassemblies	66
+    # relocations	61
+    # translocations	0
+    # inversions	5
+# misassembled contigs	57
+Misassembled contigs length	804975
+# local misassemblies	48
+# unaligned mis. contigs	11
+# mismatches	4454
+# indels	43524
+    # indels (<= 5 bp)	43339
+    # indels (> 5 bp)	185
+Indels length	54047

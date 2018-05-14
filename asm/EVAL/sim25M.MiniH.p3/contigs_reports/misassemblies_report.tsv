@@ -1,0 +1,14 @@
+Assembly	sim25M.MiniH.p3
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	1
+# unaligned mis. contigs	0
+# mismatches	428
+# indels	1796
+    # indels (<= 5 bp)	1795
+    # indels (> 5 bp)	1
+Indels length	2163

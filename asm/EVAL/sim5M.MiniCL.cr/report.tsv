@@ -1,0 +1,49 @@
+Assembly	sim5M.MiniCL.cr
+# contigs (>= 0 bp)	2000
+# contigs (>= 1000 bp)	1989
+# contigs (>= 5000 bp)	1617
+# contigs (>= 10000 bp)	495
+# contigs (>= 25000 bp)	1
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	16044610
+Total length (>= 1000 bp)	16035946
+Total length (>= 5000 bp)	14686425
+Total length (>= 10000 bp)	6256754
+Total length (>= 25000 bp)	25160
+Total length (>= 50000 bp)	0
+# contigs	1999
+Largest contig	25160
+Total length	16044187
+Reference length	5000040
+GC (%)	36.16
+Reference GC (%)	35.84
+N50	9117
+NG50	13046
+N75	6974
+NG75	11731
+L50	680
+LG50	164
+L75	1179
+LG75	265
+# misassemblies	7
+# misassembled contigs	4
+Misassembled contigs length	21941
+# local misassemblies	35
+# unaligned mis. contigs	1
+# unaligned contigs	252 + 47 part
+Unaligned length	2675640
+Genome fraction (%)	91.389
+Duplication ratio	2.926
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	167.02
+# indels per 100 kbp	1308.09
+Largest alignment	24005
+Total aligned length	13362138
+NA50	7939
+NGA50	12004
+NA75	4988
+NGA75	10778
+LA50	751
+LGA50	177
+LA75	1366
+LGA75	287

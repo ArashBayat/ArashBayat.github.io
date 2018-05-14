@@ -1,0 +1,14 @@
+Assembly	sim5M.MiniCH
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	0
+# mismatches	64
+# indels	8291
+    # indels (<= 5 bp)	8276
+    # indels (> 5 bp)	15
+Indels length	12254

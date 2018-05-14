@@ -1,0 +1,14 @@
+Assembly	sim5M.SpadesLRL
+# misassemblies	2
+    # relocations	2
+    # translocations	0
+    # inversions	0
+# misassembled contigs	2
+Misassembled contigs length	707703
+# local misassemblies	3
+# unaligned mis. contigs	0
+# mismatches	2386
+# indels	95
+    # indels (<= 5 bp)	89
+    # indels (> 5 bp)	6
+Indels length	238

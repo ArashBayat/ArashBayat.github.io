@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<title>Navigate quast reports</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
+.w3-sidebar {
+  z-index: 3;
+  width: 250px;
+  top: 43px;
+  bottom: 0;
+  height: inherit;
+}
+
+h1 {
+    color: back;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
+
+#mytable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#mytable td, #mytable th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#mytable tr:nth-child(even){background-color: #f2f2f2;}
+
+#mytable tr:hover {background-color: #ddd;}
+
+#mytable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+    
+}
+</style>
+</head>
+<body>
+<div class="w3-top">
+  <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-right w3-hide-large w3-hover-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
+    <a href="#" class="w3-bar-item w3-button w3-theme-l1">Navigate quast reports</a>
+    <!-- <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">About</a> -->
+    <!-- <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Values</a> -->
+    <!-- <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">News</a> -->
+    <!-- <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Contact</a> -->
+    <!-- <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hide-medium w3-hover-white">Clients</a> -->
+    <!-- <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hide-medium w3-hover-white">Partners</a> -->
+  </div>
+</div>
+<div class="w3-main">
+
+  <div class="w3-row w3-padding-64">
+    <div class="w3-container">
+      <h1 class="w3-text-teal">AJ055 (~5.5Mbp genome - real dataset)</h1>
+      <p>
+ <table border="1" id="mytable">																			
+<tr>	<th colspan="2" rowspan="2">	Type			</th><th colspan="2">	Read Coverage			</th><th rowspan="2">					Assembly		</th><th rowspan="2">	Pipeline Info	</th>	</tr>
+<tr>					<th>	Short	</th><th>	Long	</th>										</tr>
+<tr>	<th rowspan="19">	Genome Assembly	</th><th rowspan="6">	Long Read Only	</th><td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ055.CanuH	/report.html">	CanuH	</a>	</td><td>	Canu full pipeline - 40X coverage long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ055.CanuL	/report.html">	CanuL	</a>	</td><td>	Canu full pipeline - 20X coverage long reads	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ055.MiniCH	/report.html">	MiniCH	</a>	</td><td>	Mini pipeline with read correction - Minimap+Racon+Minimap+Miniasm+Minimap+Racon - 40X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ055.MiniCL	/report.html">	MiniCL	</a>	</td><td>	Mini pipeline with read correction - Minimap+Racon+Minimap+Miniasm+Minimap+Racon - 20X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ055.MiniH	/report.html">	MiniH	</a>	</td><td>	Mini pipeline without read correction - Minimap+Miniasm+Minimap+Racon - 40X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ055.MiniL	/report.html">	MiniL	</a>	</td><td>	Mini pipeline without read correction - Minimap+Miniasm+Minimap+Racon - 20X coverage  long reads	</td>	</tr>
+<tr>			<th rowspan="6">	Short Read Only	</th><td>	40	</td><td>		</td><td>	<a href="	EVAL/	AJ055.SGAH	/report.html">	SGAH	</a>	</td><td>	SGA pipeline - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	AJ055.SGAL	/report.html">	SGAL	</a>	</td><td>	SGA piipeline - 20X coverage short reads	</td>	</tr>
+<tr>					<td>	40	</td><td>		</td><td>	<a href="	EVAL/	AJ055.SoDe2H	/report.html">	SoDe2H	</a>	</td><td>	SOAPdenovo2 pipeline - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	AJ055.SoDe2L	/report.html">	SoDe2L	</a>	</td><td>	SOAPdenovo2 pipeline - 20X coverage short reads	</td>	</tr>
+<tr>					<td>	40	</td><td>		</td><td>	<a href="	EVAL/	AJ055.SpadesH	/report.html">	SpadesH	</a>	</td><td>	Spades pipeline for short read only assembly - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	AJ055.SpadesL	/report.html">	SpadesL	</a>	</td><td>	Spades pipeline for short read only assembly - 20X coverage short reads	</td>	</tr>
+<tr>			<th rowspan="7">	Hybrid Method	</th><td>	40	</td><td>	20	</td><td>	<a href="	EVAL/	AJ055.SpadesLRL	/report.html">	SpadesLRL	</a>	</td><td>	Spades Hybrid pipeline using long reads to improve contiguity - 40X short read and 20X long read coverage	</td>	</tr>
+<tr>					<td>	40	</td><td>	20	</td><td>	<a href="	EVAL/	AJ055.Colormap	/report.html">	Colormap	</a>	</td><td>	20X long read are corrected by 40X shortread using colormap and the corrected reads are given to Canu as corrected reads	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ055.CanuH.p1	/report.html">	CanuH.p1	</a>	</td><td>	Canu pipeline with 40X long reads + polishing once with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ055.MiniH.p1	/report.html">	MiniH.p1	</a>	</td><td>	Mini pipeline with 40X long reads + polishing once with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ055.MiniH.p2	/report.html">	MiniH.p2	</a>	</td><td>	Mini pipeline with 40X long reads + polishing twice with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ055.MiniH.p3	/report.html">	MiniH.p3	</a>	</td><td>	Mini pipeline with 40X long reads + polishing thrice with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ055.Metasm	/report.html">	Metasm	</a>	</td><td>	Metasm merging CanuH + SGAH + SpadesLRL	</td>	</tr>
+<tr>	<th rowspan="5">	Long Read Error Correction	</th><th rowspan="4">	Long Read Only	</th><td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ055.CanuH.cr	/report.html">	CanuH.cr	</a>	</td><td>	40X long reads corrected by Canu correction module	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ055.CanuL.cr	/report.html">	CanuL.cr	</a>	</td><td>	20X long reads corrected by Canu correction module	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ055.MiniCH.cr	/report.html">	MiniCH.cr	</a>	</td><td>	40X long reads corrected by Minimap+Racon	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ055.MiniCL.cr	/report.html">	MiniCL.cr	</a>	</td><td>	20X long reads corrected by Minimap+Racon	</td>	</tr>
+<tr>			<th>	Hybrid	</th><td>	40	</td><td>	20	</td><td>	<a href="	EVAL/	AJ055.Colormap.cr	/report.html">	Colormap.cr	</a>	</td><td>	20X long reads corrected by colormap using 40X short reads	</td>	</tr>
+</table>     
+      </p>
+    </div>
+  </div>
+
+  <div class="w3-row w3-padding-64">
+    <div class=" w3-container">
+      <h1 class="w3-text-teal">AJ218 (~5.5Mbp genome - real dataset)</h1>
+      <p>
+<table border="1" id="mytable">																			
+<tr>	<th colspan="2" rowspan="2">	Type			</th><th colspan="2">	Read Coverage			</th><th rowspan="2">					Assembly		</th><th rowspan="2">	Pipeline Info	</th>	</tr>
+<tr>					<th>	Short	</th><th>	Long	</th>										</tr>
+<tr>	<th rowspan="18">	Genome Assembly	</th><th rowspan="6">	Long Read Only	</th><td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ218.CanuH	/report.html">	CanuH	</a>	</td><td>	Canu full pipeline - 40X coverage long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ218.CanuL	/report.html">	CanuL	</a>	</td><td>	Canu full pipeline - 20X coverage long reads	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ218.MiniCH	/report.html">	MiniCH	</a>	</td><td>	Mini pipeline with read correction - Minimap+Racon+Minimap+Miniasm+Minimap+Racon - 40X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ218.MiniCL	/report.html">	MiniCL	</a>	</td><td>	Mini pipeline with read correction - Minimap+Racon+Minimap+Miniasm+Minimap+Racon - 20X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ218.MiniH	/report.html">	MiniH	</a>	</td><td>	Mini pipeline without read correction - Minimap+Miniasm+Minimap+Racon - 40X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ218.MiniL	/report.html">	MiniL	</a>	</td><td>	Mini pipeline without read correction - Minimap+Miniasm+Minimap+Racon - 20X coverage  long reads	</td>	</tr>
+<tr>			<th rowspan="6">	Short Read Only	</th><td>	40	</td><td>		</td><td>	<a href="	EVAL/	AJ218.SGAH	/report.html">	SGAH	</a>	</td><td>	SGA pipeline - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	AJ218.SGAL	/report.html">	SGAL	</a>	</td><td>	SGA piipeline - 20X coverage short reads	</td>	</tr>
+<tr>					<td>	40	</td><td>		</td><td>	<a href="	EVAL/	AJ218.SoDe2H	/report.html">	SoDe2H	</a>	</td><td>	SOAPdenovo2 pipeline - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	AJ218.SoDe2L	/report.html">	SoDe2L	</a>	</td><td>	SOAPdenovo2 pipeline - 20X coverage short reads	</td>	</tr>
+<tr>					<td>	40	</td><td>		</td><td>	<a href="	EVAL/	AJ218.SpadesH	/report.html">	SpadesH	</a>	</td><td>	Spades pipeline for short read only assembly - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	AJ218.SpadesL	/report.html">	SpadesL	</a>	</td><td>	Spades pipeline for short read only assembly - 20X coverage short reads	</td>	</tr>
+<tr>			<th rowspan="6">	Hybrid Method	</th><td>	40	</td><td>	20	</td><td>	<a href="	EVAL/	AJ218.SpadesLRL	/report.html">	SpadesLRL	</a>	</td><td>	Spades Hybrid pipeline using long reads to improve contiguity - 40X short read and 20X long read coverage	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ218.CanuH.p1	/report.html">	CanuH.p1	</a>	</td><td>	Canu pipeline with 40X long reads + polishing once with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ218.MiniH.p1	/report.html">	MiniH.p1	</a>	</td><td>	Mini pipeline with 40X long reads + polishing once with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ218.MiniH.p2	/report.html">	MiniH.p2	</a>	</td><td>	Mini pipeline with 40X long reads + polishing twice with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ218.MiniH.p3	/report.html">	MiniH.p3	</a>	</td><td>	Mini pipeline with 40X long reads + polishing thrice with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ218.Metasm	/report.html">	Metasm	</a>	</td><td>	Metasm merging CanuH + SGAH + SpadesLRL	</td>	</tr>
+<tr>	<th rowspan="3">	Long Read Error Correction	</th><th rowspan="3">	Long Read Only	</th><td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ218.CanuH.cr	/report.html">	CanuH.cr	</a>	</td><td>	40X long reads corrected by Canu correction module	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ218.CanuL.cr	/report.html">	CanuL.cr	</a>	</td><td>	20X long reads corrected by Canu correction module	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ218.MiniCH.cr	/report.html">	MiniCH.cr	</a>	</td><td>	40X long reads corrected by Minimap+Racon	</td>	</tr>
+</table>      
+      </p>
+    </div>
+  </div>
+
+  <div class="w3-row w3-padding-64">
+    <div class=" w3-container">
+      <h1 class="w3-text-teal">AJ292 (~5.5Mbp genome - real dataset)</h1>
+      <p>																			
+<table border="1" id="mytable">																			
+<tr>	<th colspan="2" rowspan="2">	Type			</th><th colspan="2">	Read Coverage			</th><th rowspan="2">					Assembly		</th><th rowspan="2">	Pipeline Info	</th>	</tr>
+<tr>					<th>	Short	</th><th>	Long	</th>										</tr>
+<tr>	<th rowspan="18">	Genome Assembly	</th><th rowspan="6">	Long Read Only	</th><td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ292.CanuH	/report.html">	CanuH	</a>	</td><td>	Canu full pipeline - 40X coverage long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ292.CanuL	/report.html">	CanuL	</a>	</td><td>	Canu full pipeline - 20X coverage long reads	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ292.MiniCH	/report.html">	MiniCH	</a>	</td><td>	Mini pipeline with read correction - Minimap+Racon+Minimap+Miniasm+Minimap+Racon - 40X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ292.MiniCL	/report.html">	MiniCL	</a>	</td><td>	Mini pipeline with read correction - Minimap+Racon+Minimap+Miniasm+Minimap+Racon - 20X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ292.MiniH	/report.html">	MiniH	</a>	</td><td>	Mini pipeline without read correction - Minimap+Miniasm+Minimap+Racon - 40X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ292.MiniL	/report.html">	MiniL	</a>	</td><td>	Mini pipeline without read correction - Minimap+Miniasm+Minimap+Racon - 20X coverage  long reads	</td>	</tr>
+<tr>			<th rowspan="6">	Short Read Only	</th><td>	40	</td><td>		</td><td>	<a href="	EVAL/	AJ292.SGAH	/report.html">	SGAH	</a>	</td><td>	SGA pipeline - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	AJ292.SGAL	/report.html">	SGAL	</a>	</td><td>	SGA piipeline - 20X coverage short reads	</td>	</tr>
+<tr>					<td>	40	</td><td>		</td><td>	<a href="	EVAL/	AJ292.SoDe2H	/report.html">	SoDe2H	</a>	</td><td>	SOAPdenovo2 pipeline - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	AJ292.SoDe2L	/report.html">	SoDe2L	</a>	</td><td>	SOAPdenovo2 pipeline - 20X coverage short reads	</td>	</tr>
+<tr>					<td>	40	</td><td>		</td><td>	<a href="	EVAL/	AJ292.SpadesH	/report.html">	SpadesH	</a>	</td><td>	Spades pipeline for short read only assembly - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	AJ292.SpadesL	/report.html">	SpadesL	</a>	</td><td>	Spades pipeline for short read only assembly - 20X coverage short reads	</td>	</tr>
+<tr>			<th rowspan="6">	Hybrid Method	</th><td>	40	</td><td>	20	</td><td>	<a href="	EVAL/	AJ292.SpadesLRL	/report.html">	SpadesLRL	</a>	</td><td>	Spades Hybrid pipeline using long reads to improve contiguity - 40X short read and 20X long read coverage	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ292.CanuH.p1	/report.html">	CanuH.p1	</a>	</td><td>	Canu pipeline with 40X long reads + polishing once with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ292.MiniH.p1	/report.html">	MiniH.p1	</a>	</td><td>	Mini pipeline with 40X long reads + polishing once with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ292.MiniH.p2	/report.html">	MiniH.p2	</a>	</td><td>	Mini pipeline with 40X long reads + polishing twice with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ292.MiniH.p3	/report.html">	MiniH.p3	</a>	</td><td>	Mini pipeline with 40X long reads + polishing thrice with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	AJ292.Metasm	/report.html">	Metasm	</a>	</td><td>	Metasm merging CanuH + SGAH + SpadesLRL	</td>	</tr>
+<tr>	<th rowspan="4">	Long Read Error Correction	</th><th rowspan="4">	Long Read Only	</th><td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ292.CanuH.cr	/report.html">	CanuH.cr	</a>	</td><td>	40X long reads corrected by Canu correction module	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ292.CanuL.cr	/report.html">	CanuL.cr	</a>	</td><td>	20X long reads corrected by Canu correction module	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	AJ292.MiniCH.cr	/report.html">	MiniCH.cr	</a>	</td><td>	40X long reads corrected by Minimap+Racon	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	AJ292.MiniCL.cr	/report.html">	MiniCL.cr	</a>	</td><td>	20X long reads corrected by Minimap+Racon	</td>	</tr>
+</table>
+      </p>
+    </div>
+  </div>
+
+  <div class="w3-row w3-padding-64">
+    <div class=" w3-container">
+      <h1 class="w3-text-teal">SIM5M (5Mbp genome - synthetic dataset)</h1>
+      <p>																		
+<table border="1" id="mytable">																			
+<tr>	<th colspan="2" rowspan="2">	Type			</th><th colspan="2">	Read Coverage			</th><th rowspan="2">					Assembly		</th><th rowspan="2">	Pipeline Info	</th>	</tr>
+<tr>					<th>	Short	</th><th>	Long	</th>										</tr>
+<tr>	<th rowspan="19">	Genome Assembly	</th><th rowspan="6">	Long Read Only	</th><td>		</td><td>	40	</td><td>	<a href="	EVAL/	sim5M.CanuH	/report.html">	CanuH	</a>	</td><td>	Canu full pipeline - 40X coverage long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	sim5M.CanuL	/report.html">	CanuL	</a>	</td><td>	Canu full pipeline - 20X coverage long reads	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	sim5M.MiniCH	/report.html">	MiniCH	</a>	</td><td>	Mini pipeline with read correction - Minimap+Racon+Minimap+Miniasm+Minimap+Racon - 40X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	sim5M.MiniCL	/report.html">	MiniCL	</a>	</td><td>	Mini pipeline with read correction - Minimap+Racon+Minimap+Miniasm+Minimap+Racon - 20X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	sim5M.MiniH	/report.html">	MiniH	</a>	</td><td>	Mini pipeline without read correction - Minimap+Miniasm+Minimap+Racon - 40X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	sim5M.MiniL	/report.html">	MiniL	</a>	</td><td>	Mini pipeline without read correction - Minimap+Miniasm+Minimap+Racon - 20X coverage  long reads	</td>	</tr>
+<tr>			<th rowspan="6">	Short Read Only	</th><td>	40	</td><td>		</td><td>	<a href="	EVAL/	sim5M.SGAH	/report.html">	SGAH	</a>	</td><td>	SGA pipeline - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	sim5M.SGAL	/report.html">	SGAL	</a>	</td><td>	SGA piipeline - 20X coverage short reads	</td>	</tr>
+<tr>					<td>	40	</td><td>		</td><td>	<a href="	EVAL/	sim5M.SoDe2H	/report.html">	SoDe2H	</a>	</td><td>	SOAPdenovo2 pipeline - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	sim5M.SoDe2L	/report.html">	SoDe2L	</a>	</td><td>	SOAPdenovo2 pipeline - 20X coverage short reads	</td>	</tr>
+<tr>					<td>	40	</td><td>		</td><td>	<a href="	EVAL/	sim5M.SpadesH	/report.html">	SpadesH	</a>	</td><td>	Spades pipeline for short read only assembly - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	sim5M.SpadesL	/report.html">	SpadesL	</a>	</td><td>	Spades pipeline for short read only assembly - 20X coverage short reads	</td>	</tr>
+<tr>			<th rowspan="7">	Hybrid Method	</th><td>	40	</td><td>	20	</td><td>	<a href="	EVAL/	sim5M.SpadesLRL	/report.html">	SpadesLRL	</a>	</td><td>	Spades Hybrid pipeline using long reads to improve contiguity - 40X short read and 20X long read coverage	</td>	</tr>
+<tr>					<td>	40	</td><td>	20	</td><td>	<a href="	EVAL/	sim5M.Colormap	/report.html">	Colormap	</a>	</td><td>	20X long read are corrected by 40X shortread using colormap and the corrected reads are given to Canu as corrected reads	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	sim5M.CanuH.p1	/report.html">	CanuH.p1	</a>	</td><td>	Canu pipeline with 40X long reads + polishing once with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	sim5M.MiniH.p1	/report.html">	MiniH.p1	</a>	</td><td>	Mini pipeline with 40X long reads + polishing once with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	sim5M.MiniH.p2	/report.html">	MiniH.p2	</a>	</td><td>	Mini pipeline with 40X long reads + polishing twice with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	sim5M.MiniH.p3	/report.html">	MiniH.p3	</a>	</td><td>	Mini pipeline with 40X long reads + polishing thrice with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	sim5M.Metasm	/report.html">	Metasm	</a>	</td><td>	Metasm merging CanuH + SGAH + SpadesLRL	</td>	</tr>
+<tr>	<th rowspan="5">	Long Read Error Correction	</th><th rowspan="4">	Long Read Only	</th><td>		</td><td>	40	</td><td>	<a href="	EVAL/	sim5M.CanuH.cr	/report.html">	CanuH.cr	</a>	</td><td>	40X long reads corrected by Canu correction module	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	sim5M.CanuL.cr	/report.html">	CanuL.cr	</a>	</td><td>	20X long reads corrected by Canu correction module	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	sim5M.MiniCH.cr	/report.html">	MiniCH.cr	</a>	</td><td>	40X long reads corrected by Minimap+Racon	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	sim5M.MiniCL.cr	/report.html">	MiniCL.cr	</a>	</td><td>	20X long reads corrected by Minimap+Racon	</td>	</tr>
+<tr>			<th>	Hybrid	</th><td>	40	</td><td>	20	</td><td>	<a href="	EVAL/	sim5M.Colormap.cr	/report.html">	Colormap.cr	</a>	</td><td>	20X long reads corrected by colormap using 40X short reads	</td>	</tr>
+</table>    
+
+      </p>
+    </div>
+  </div>
+
+  <div class="w3-row w3-padding-64">
+    <div class=" w3-container">
+      <h1 class="w3-text-teal">SIM25M (25Mbp genome - synthetic dataset)</h1>
+      <p>																	
+<table border="1" id="mytable">																			
+<tr>	<th colspan="2" rowspan="2">	Type			</th><th colspan="2">	Read Coverage			</th><th rowspan="2">					Assembly		</th><th rowspan="2">	Pipeline Info	</th>	</tr>
+<tr>					<th>	Short	</th><th>	Long	</th>										</tr>
+<tr>	<th rowspan="18">	Genome Assembly	</th><th rowspan="6">	Long Read Only	</th><td>		</td><td>	40	</td><td>	<a href="	EVAL/	sim25M.CanuH	/report.html">	CanuH	</a>	</td><td>	Canu full pipeline - 40X coverage long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	sim25M.CanuL	/report.html">	CanuL	</a>	</td><td>	Canu full pipeline - 20X coverage long reads	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	sim25M.MiniCH	/report.html">	MiniCH	</a>	</td><td>	Mini pipeline with read correction - Minimap+Racon+Minimap+Miniasm+Minimap+Racon - 40X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	sim25M.MiniCL	/report.html">	MiniCL	</a>	</td><td>	Mini pipeline with read correction - Minimap+Racon+Minimap+Miniasm+Minimap+Racon - 20X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	sim25M.MiniH	/report.html">	MiniH	</a>	</td><td>	Mini pipeline without read correction - Minimap+Miniasm+Minimap+Racon - 40X coverage  long reads	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	sim25M.MiniL	/report.html">	MiniL	</a>	</td><td>	Mini pipeline without read correction - Minimap+Miniasm+Minimap+Racon - 20X coverage  long reads	</td>	</tr>
+<tr>			<th rowspan="6">	Short Read Only	</th><td>	40	</td><td>		</td><td>	<a href="	EVAL/	sim25M.SGAH	/report.html">	SGAH	</a>	</td><td>	SGA pipeline - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	sim25M.SGAL	/report.html">	SGAL	</a>	</td><td>	SGA piipeline - 20X coverage short reads	</td>	</tr>
+<tr>					<td>	40	</td><td>		</td><td>	<a href="	EVAL/	sim25M.SoDe2H	/report.html">	SoDe2H	</a>	</td><td>	SOAPdenovo2 pipeline - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	sim25M.SoDe2L	/report.html">	SoDe2L	</a>	</td><td>	SOAPdenovo2 pipeline - 20X coverage short reads	</td>	</tr>
+<tr>					<td>	40	</td><td>		</td><td>	<a href="	EVAL/	sim25M.SpadesH	/report.html">	SpadesH	</a>	</td><td>	Spades pipeline for short read only assembly - 40X coverage short reads	</td>	</tr>
+<tr>					<td>	20	</td><td>		</td><td>	<a href="	EVAL/	sim25M.SpadesL	/report.html">	SpadesL	</a>	</td><td>	Spades pipeline for short read only assembly - 20X coverage short reads	</td>	</tr>
+<tr>			<th rowspan="6">	Hybrid Method	</th><td>	40	</td><td>	20	</td><td>	<a href="	EVAL/	sim25M.SpadesLRL	/report.html">	SpadesLRL	</a>	</td><td>	Spades Hybrid pipeline using long reads to improve contiguity - 40X short read and 20X long read coverage	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	sim25M.CanuH.p1	/report.html">	CanuH.p1	</a>	</td><td>	Canu pipeline with 40X long reads + polishing once with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	sim25M.MiniH.p1	/report.html">	MiniH.p1	</a>	</td><td>	Mini pipeline with 40X long reads + polishing once with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	sim25M.MiniH.p2	/report.html">	MiniH.p2	</a>	</td><td>	Mini pipeline with 40X long reads + polishing twice with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	sim25M.MiniH.p3	/report.html">	MiniH.p3	</a>	</td><td>	Mini pipeline with 40X long reads + polishing thrice with 40X short reads using BWA+Pilon	</td>	</tr>
+<tr>					<td>	40	</td><td>	40	</td><td>	<a href="	EVAL/	sim25M.Metasm	/report.html">	Metasm	</a>	</td><td>	Metasm merging CanuH + SGAH + SpadesLRL	</td>	</tr>
+<tr>	<th rowspan="4">	Long Read Error Correction	</th><th rowspan="4">	Long Read Only	</th><td>		</td><td>	40	</td><td>	<a href="	EVAL/	sim25M.CanuH.cr	/report.html">	CanuH.cr	</a>	</td><td>	40X long reads corrected by Canu correction module	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	sim25M.CanuL.cr	/report.html">	CanuL.cr	</a>	</td><td>	20X long reads corrected by Canu correction module	</td>	</tr>
+<tr>					<td>		</td><td>	40	</td><td>	<a href="	EVAL/	sim25M.MiniCH.cr	/report.html">	MiniCH.cr	</a>	</td><td>	40X long reads corrected by Minimap+Racon	</td>	</tr>
+<tr>					<td>		</td><td>	20	</td><td>	<a href="	EVAL/	sim25M.MiniCL.cr	/report.html">	MiniCL.cr	</a>	</td><td>	20X long reads corrected by Minimap+Racon	</td>	</tr>
+</table>      
+      </p>
+    </div>
+  </div>  
+																																			
+
+</div>
+</body>
+</html>

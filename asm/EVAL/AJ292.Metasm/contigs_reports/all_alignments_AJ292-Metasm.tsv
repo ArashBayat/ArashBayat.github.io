@@ -1,0 +1,9 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+1	1005358	1005216	1	KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292	QC.B.A_0	99.98		True
+relocation, inconsistency = -14168 [linear representation of circular genome]
+991191	5445112	5458553	1005217	KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292	QC.B.A_0	99.98		True
+CONTIG	QC.B.A_0	5458553	misassembled
+987940	1009598	21660	1	KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292	QC.B.A_1	99.57		True
+CONTIG	QC.B.A_1	21660	correct
+992464	1009062	16594	1	KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292	QC.B.A_2	99.78		True
+CONTIG	QC.B.A_2	16594	correct

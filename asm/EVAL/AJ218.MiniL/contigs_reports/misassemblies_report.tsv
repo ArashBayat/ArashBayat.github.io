@@ -1,0 +1,14 @@
+Assembly	AJ218.MiniL
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	10
+# unaligned mis. contigs	1
+# mismatches	1701
+# indels	30596
+    # indels (<= 5 bp)	30458
+    # indels (> 5 bp)	138
+Indels length	39799

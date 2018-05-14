@@ -1,0 +1,8 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                       AJ292.MiniCL.cr
+# fully unaligned contigs      393            
+Fully unaligned length         2571046        
+# partially unaligned contigs  177            
+Partially unaligned length     642934         
+# N's                          0              

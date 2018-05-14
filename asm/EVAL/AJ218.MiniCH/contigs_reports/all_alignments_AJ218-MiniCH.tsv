@@ -1,0 +1,28 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+1484040	2643397	1163703	1	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.57		True
+indel: indel (> 5bp)
+432675	1484044	2219122	1163745	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.57		True
+local misassembly
+1	432341	2652996	2219123	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.59		True
+fake: not a misassembly [linear representation of circular genome]
+4922516	5465981	3198652	2652997	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.55		True
+local misassembly
+4517223	4922516	3605605	3198752	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.56		True
+local misassembly
+4058197	4517386	4066438	3605611	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.56		True
+local misassembly
+3078547	4057757	5049321	4066439	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.57		True
+inversion
+3073186	3078240	5049322	5054379	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	96.36		True
+inversion
+2643400	3073028	5485519	5054382	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000001c	99.59		True
+CONTIG	Consensus_utg000001c	5485519	misassembled
+2792644	2799949	1	7321	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c	98.96		True
+unknown
+209506	210602	84747	83648	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c	99.73		True
+unknown
+3069598	3071528	96242	98181	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c	99.18		True
+unknown
+2791953	2792628	202461	203138	KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218	Consensus_utg000002c	98.83		True
+unknown
+CONTIG	Consensus_utg000002c	203138	mis_unaligned

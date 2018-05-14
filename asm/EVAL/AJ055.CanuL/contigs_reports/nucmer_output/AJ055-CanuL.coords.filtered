@@ -1,0 +1,9 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+3938492 4164317 | 225667 1 | 225826 225667 | 99.48 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 tig00000001_len_3169885_reads_4900_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+992959 3938384 | 3169881 225793 | 2945426 2944089 | 99.83 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 tig00000001_len_3169885_reads_4900_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+4856165 5504133 | 1 647799 | 647969 647799 | 99.84 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 tig00000002_len_1809348_reads_2943_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+1 473173 | 647800 1120789 | 473173 472990 | 99.87 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 tig00000002_len_1809348_reads_2943_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+4161045 4849999 | 1809348 1120790 | 688955 688559 | 99.81 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 tig00000002_len_1809348_reads_2943_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+460833 987390 | 1 526447 | 526558 526447 | 99.85 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 tig00000003_len_526447_reads_933_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+218986 220079 | 103061 104154 | 1094 1094 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 tig00000005_len_173003_reads_241_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no

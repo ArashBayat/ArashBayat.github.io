@@ -1,0 +1,14 @@
+Assembly	AJ055.MiniH.p1
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	2
+# unaligned mis. contigs	0
+# mismatches	57
+# indels	3057
+    # indels (<= 5 bp)	3036
+    # indels (> 5 bp)	21
+Indels length	4705

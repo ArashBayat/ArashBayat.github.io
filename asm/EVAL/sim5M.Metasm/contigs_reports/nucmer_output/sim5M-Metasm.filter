@@ -1,0 +1,10 @@
+/home/arash/asmReview/EVAL/sim5M.Metasm/quast_corrected_input/ref.fa /home/arash/asmReview/EVAL/sim5M.Metasm/quast_corrected_input/sim5M-Metasm.fa
+NUCMER
+>sim5M QC.B.A_0 5000040 5794912
+3523296 4953023 1 1429727 3 3 0
+-33
+213
+472
+0
+3912367 4957544 4749735 5794912 0 0 0
+0

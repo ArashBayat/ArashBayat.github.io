@@ -1,0 +1,49 @@
+Assembly	sim25M.MiniH.p3
+# contigs (>= 0 bp)	13
+# contigs (>= 1000 bp)	13
+# contigs (>= 5000 bp)	13
+# contigs (>= 10000 bp)	13
+# contigs (>= 25000 bp)	12
+# contigs (>= 50000 bp)	11
+Total length (>= 0 bp)	25027776
+Total length (>= 1000 bp)	25027776
+Total length (>= 5000 bp)	25027776
+Total length (>= 10000 bp)	25027776
+Total length (>= 25000 bp)	25010223
+Total length (>= 50000 bp)	24969673
+# contigs	13
+Largest contig	7646992
+Total length	25027776
+Reference length	25000020
+GC (%)	43.71
+Reference GC (%)	43.69
+N50	7117838
+NG50	7117838
+N75	1752972
+NG75	1752972
+L50	2
+LG50	2
+L75	4
+LG75	4
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	1
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 1 part
+Unaligned length	1078
+Genome fraction (%)	99.790
+Duplication ratio	1.003
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	1.72
+# indels per 100 kbp	7.20
+Largest alignment	7645271
+Total aligned length	25022685
+NA50	7117835
+NGA50	7117835
+NA75	1752971
+NGA75	1752971
+LA50	2
+LGA50	2
+LA75	4
+LGA75	4

@@ -1,0 +1,29 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+4223269	4475955	1	253320	sim25M	Consensus_utg000001l_pilon	99.46		True
+CONTIG	Consensus_utg000001l_pilon	253320	correct
+4471633	11588663	4	7116888	sim25M	Consensus_utg000002l_pilon	99.97		True
+CONTIG	Consensus_utg000002l_pilon	7116888	correct
+11790393	11854974	65375	1	sim25M	Consensus_utg000003l_pilon	97.63		True
+CONTIG	Consensus_utg000003l_pilon	66453	correct
+11627944	11802526	174561	1	sim25M	Consensus_utg000004l_pilon	99.63		True
+CONTIG	Consensus_utg000004l_pilon	175349	correct
+23459166	24997186	1501	1539722	sim25M	Consensus_utg000005l_pilon	99.94		True
+CONTIG	Consensus_utg000005l_pilon	1539722	correct
+13159742	20804115	7644533	1	sim25M	Consensus_utg000006l_pilon	99.97		True
+CONTIG	Consensus_utg000006l_pilon	7646254	correct
+2474949	4227618	1752768	1	sim25M	Consensus_utg000007l_pilon	99.96		True
+CONTIG	Consensus_utg000007l_pilon	1752769	correct
+715805	2465045	1749110	1	sim25M	Consensus_utg000008l_pilon	99.99		True
+CONTIG	Consensus_utg000008l_pilon	1749110	correct
+20830896	23470912	2639809	1	sim25M	Consensus_utg000009l_pilon	99.99		True
+CONTIG	Consensus_utg000009l_pilon	2639809	correct
+2124	714433	1	712217	sim25M	Consensus_utg000010l_pilon	99.98		True
+CONTIG	Consensus_utg000010l_pilon	712217	correct
+12862492	13169714	307206	1	sim25M	Consensus_utg000011l_pilon	99.99		True
+local misassembly
+11854966	12862325	1315101	307207	sim25M	Consensus_utg000011l_pilon	99.86		True
+CONTIG	Consensus_utg000011l_pilon	1315101	correct
+4215105	4232582	17551	1	sim25M	Consensus_utg000012l_pilon	99.09		True
+CONTIG	Consensus_utg000012l_pilon	17551	correct
+11597995	11638465	40549	1	sim25M	Consensus_utg000013l_pilon	99.68		True
+CONTIG	Consensus_utg000013l_pilon	40549	correct

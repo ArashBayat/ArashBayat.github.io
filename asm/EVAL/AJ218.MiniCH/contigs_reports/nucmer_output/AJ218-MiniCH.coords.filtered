@@ -1,0 +1,15 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+1484040 2643397 | 1163703 1 | 1159358 1163703 | 99.57 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 Consensus_utg000001c
+432675 1484044 | 2219122 1163745 | 1051370 1055378 | 99.57 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 Consensus_utg000001c
+1 432341 | 2652996 2219123 | 432341 433874 | 99.59 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 Consensus_utg000001c
+4922516 5465981 | 3198652 2652997 | 543466 545656 | 99.55 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 Consensus_utg000001c
+4517223 4922516 | 3605605 3198752 | 405294 406854 | 99.56 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 Consensus_utg000001c
+4058197 4517386 | 4066438 3605611 | 459190 460828 | 99.56 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 Consensus_utg000001c
+3078547 4057757 | 5049321 4066439 | 979211 982883 | 99.57 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 Consensus_utg000001c
+3073186 3078240 | 5049322 5054379 | 5055 5058 | 96.36 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 Consensus_utg000001c
+2643400 3073028 | 5485519 5054382 | 429629 431138 | 99.59 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 Consensus_utg000001c
+2792644 2799949 | 1 7321 | 7306 7321 | 98.96 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 Consensus_utg000002c
+209506 210602 | 84747 83648 | 1097 1100 | 99.73 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 Consensus_utg000002c
+3069598 3071528 | 96242 98181 | 1931 1940 | 99.18 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 Consensus_utg000002c
+2791953 2792628 | 202461 203138 | 676 678 | 98.83 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 Consensus_utg000002c

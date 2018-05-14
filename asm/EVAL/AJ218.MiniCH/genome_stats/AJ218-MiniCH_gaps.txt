@@ -1,0 +1,5 @@
+KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218
+432342 432674
+3073029 3073185
+3078241 3078546
+4057758 4058196

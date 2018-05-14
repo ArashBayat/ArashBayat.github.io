@@ -1,0 +1,16 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     AJ292.MiniH
+# misassemblies              0          
+    # relocations            0          
+    # translocations         0          
+    # inversions             0          
+# misassembled contigs       0          
+Misassembled contigs length  0          
+# local misassemblies        2          
+# unaligned mis. contigs     0          
+# mismatches                 1092       
+# indels                     18672      
+    # indels (<= 5 bp)       18548      
+    # indels (> 5 bp)        124        
+Indels length                28085      

@@ -1,0 +1,45 @@
+Assembly	AJ218.SoDe2L
+# contigs (>= 0 bp)	23708
+# contigs (>= 1000 bp)	1029
+# contigs (>= 5000 bp)	0
+# contigs (>= 10000 bp)	0
+# contigs (>= 25000 bp)	0
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	6932710
+Total length (>= 1000 bp)	1468156
+Total length (>= 5000 bp)	0
+Total length (>= 10000 bp)	0
+Total length (>= 25000 bp)	0
+Total length (>= 50000 bp)	0
+# contigs	3727
+Largest contig	4511
+Total length	3343474
+Reference length	5465981
+GC (%)	56.37
+Reference GC (%)	57.29
+N50	926
+NG50	631
+N75	689
+L50	1241
+LG50	2637
+L75	2296
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	137
+# unaligned mis. contigs	0
+# unaligned contigs	121 + 0 part
+Unaligned length	111719
+Genome fraction (%)	58.833
+Duplication ratio	1.005
+# N's per 100 kbp	63.89
+# mismatches per 100 kbp	1.55
+# indels per 100 kbp	0.44
+Largest alignment	4511
+Total aligned length	3229100
+NA50	908
+NGA50	604
+NA75	666
+LA50	1263
+LGA50	2703
+LA75	2348

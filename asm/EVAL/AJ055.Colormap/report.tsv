@@ -1,0 +1,49 @@
+Assembly	AJ055.Colormap
+# contigs (>= 0 bp)	73
+# contigs (>= 1000 bp)	73
+# contigs (>= 5000 bp)	64
+# contigs (>= 10000 bp)	60
+# contigs (>= 25000 bp)	39
+# contigs (>= 50000 bp)	30
+Total length (>= 0 bp)	6030828
+Total length (>= 1000 bp)	6030828
+Total length (>= 5000 bp)	6006141
+Total length (>= 10000 bp)	5974116
+Total length (>= 25000 bp)	5601153
+Total length (>= 50000 bp)	5327723
+# contigs	73
+Largest contig	509223
+Total length	6030828
+Reference length	5504133
+GC (%)	57.27
+Reference GC (%)	57.38
+N50	218907
+NG50	305685
+N75	104347
+NG75	132047
+L50	8
+LG50	7
+L75	18
+LG75	15
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	12
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 1 part
+Unaligned length	153473
+Genome fraction (%)	97.625
+Duplication ratio	1.094
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	24.70
+# indels per 100 kbp	8.04
+Largest alignment	504450
+Total aligned length	5871337
+NA50	218907
+NGA50	305685
+NA75	81683
+NGA75	130178
+LA50	8
+LGA50	7
+LA75	19
+LGA75	15

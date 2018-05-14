@@ -1,0 +1,5 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+3113142	5445112	1	2332077	KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292	Consensus_utg000001c_pilon_pilon_pilon	99.99		True
+fake: not a misassembly [linear representation of circular genome]
+1	3113065	2332078	5445232	KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292	Consensus_utg000001c_pilon_pilon_pilon	99.99		True
+CONTIG	Consensus_utg000001c_pilon_pilon_pilon	5445232	correct

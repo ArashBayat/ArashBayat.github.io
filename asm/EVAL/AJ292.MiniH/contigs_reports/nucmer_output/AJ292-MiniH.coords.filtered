@@ -1,0 +1,7 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+3113142 4219693 | 1 1110659 | 1106552 1110659 | 99.46 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 Consensus_utg000001c
+4219697 5445112 | 1110756 2340957 | 1225416 1230202 | 99.47 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 Consensus_utg000001c
+1 726356 | 2340958 3069983 | 726356 729026 | 99.49 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 Consensus_utg000001c
+726311 749157 | 3069988 3093033 | 22847 23046 | 99.02 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 Consensus_utg000001c
+749110 3113065 | 3093098 5465679 | 2363956 2372582 | 99.47 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 Consensus_utg000001c

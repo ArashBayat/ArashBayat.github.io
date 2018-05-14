@@ -1,0 +1,14 @@
+Assembly	sim25M.CanuH
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	0
+# mismatches	261
+# indels	974
+    # indels (<= 5 bp)	974
+    # indels (> 5 bp)	0
+Indels length	1059

@@ -1,0 +1,12 @@
+Writing filtered delta file /home/arash/asmReview/EVAL/AJ292.SpadesLRL/contigs_reports/nucmer_output/AJ292-SpadesLRL.filter
+Reading delta file /home/arash/asmReview/EVAL/AJ292.SpadesLRL/contigs_reports/nucmer_output/AJ292-SpadesLRL.delta
+Writing plot files /home/arash/asmReview/EVAL/AJ292.SpadesLRL/contigs_reports/nucmer_output/AJ292-SpadesLRL.fplot, /home/arash/asmReview/EVAL/AJ292.SpadesLRL/contigs_reports/nucmer_output/AJ292-SpadesLRL.rplot
+Writing gnuplot script /home/arash/asmReview/EVAL/AJ292.SpadesLRL/contigs_reports/nucmer_output/AJ292-SpadesLRL.gp
+Rendering plot /home/arash/asmReview/EVAL/AJ292.SpadesLRL/contigs_reports/nucmer_output/AJ292-SpadesLRL.html
+ "/home/arash/asmReview/EVAL/AJ292.SpadesLRL/quast_corrected_input/AJ292-SpadesLRL.fa" of length 5446632
+# matching query-file "/home/arash/asmReview/EVAL/AJ292.SpadesLRL/quast_corrected_input/AJ292-SpadesLRL.fa"
+# against subject-file "/home/arash/asmReview/EVAL/AJ292.SpadesLRL/contigs_reports/nucmer_output/AJ292-SpadesLRL.ntref"
+# COMPLETETIME /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/AJ292.SpadesLRL/contigs_reports/nucmer_output/AJ292-SpadesLRL.ntref 14.23
+# SPACE /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/AJ292.SpadesLRL/contigs_reports/nucmer_output/AJ292-SpadesLRL.ntref 10.56
+4: FINISHING DATA
+WARNING: there was a problem deleting the temporary output files

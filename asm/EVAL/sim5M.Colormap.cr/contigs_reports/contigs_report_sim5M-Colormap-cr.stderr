@@ -1,0 +1,12 @@
+Writing filtered delta file /home/arash/asmReview/EVAL/sim5M.Colormap.cr/contigs_reports/nucmer_output/sim5M-Colormap-cr.filter
+Reading delta file /home/arash/asmReview/EVAL/sim5M.Colormap.cr/contigs_reports/nucmer_output/sim5M-Colormap-cr.delta
+Writing plot files /home/arash/asmReview/EVAL/sim5M.Colormap.cr/contigs_reports/nucmer_output/sim5M-Colormap-cr.fplot, /home/arash/asmReview/EVAL/sim5M.Colormap.cr/contigs_reports/nucmer_output/sim5M-Colormap-cr.rplot
+Writing gnuplot script /home/arash/asmReview/EVAL/sim5M.Colormap.cr/contigs_reports/nucmer_output/sim5M-Colormap-cr.gp
+Rendering plot /home/arash/asmReview/EVAL/sim5M.Colormap.cr/contigs_reports/nucmer_output/sim5M-Colormap-cr.html
+mReview/EVAL/sim5M.Colormap.cr/quast_corrected_input/sim5M-Colormap-cr.fa" of length 16219985
+# matching query-file "/home/arash/asmReview/EVAL/sim5M.Colormap.cr/quast_corrected_input/sim5M-Colormap-cr.fa"
+# against subject-file "/home/arash/asmReview/EVAL/sim5M.Colormap.cr/contigs_reports/nucmer_output/sim5M-Colormap-cr.ntref"
+# COMPLETETIME /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/sim5M.Colormap.cr/contigs_reports/nucmer_output/sim5M-Colormap-cr.ntref 33.26
+# SPACE /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/sim5M.Colormap.cr/contigs_reports/nucmer_output/sim5M-Colormap-cr.ntref 20.88
+4: FINISHING DATA
+WARNING: there was a problem deleting the temporary output files

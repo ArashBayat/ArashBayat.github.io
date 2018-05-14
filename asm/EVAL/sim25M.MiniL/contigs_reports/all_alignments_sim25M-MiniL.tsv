@@ -1,0 +1,85 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+13477488	13993070	1	516983	sim25M	Consensus_utg000001l	99.72		True
+indel: indel (> 5bp)
+13993122	14413236	516984	938277	sim25M	Consensus_utg000001l	99.71		True
+CONTIG	Consensus_utg000001l	938279	correct
+20564906	21789745	1	1228057	sim25M	Consensus_utg000002l	99.73		True
+CONTIG	Consensus_utg000002l	1228057	correct
+14441282	14581142	1	140206	sim25M	Consensus_utg000003l	99.75		True
+local misassembly
+14581387	15858870	140207	1421197	sim25M	Consensus_utg000003l	99.71		True
+CONTIG	Consensus_utg000003l	1421197	correct
+4232251	4241236	9135	1	sim25M	Consensus_utg000004l	97.23		True
+relocation, inconsistency = 224490
+4480735	5645646	24144	1192367	sim25M	Consensus_utg000004l	99.7		True
+CONTIG	Consensus_utg000004l	1192367	misassembled
+74026	598003	1	525356	sim25M	Consensus_utg000005l	99.73		True
+CONTIG	Consensus_utg000005l	525356	correct
+18765678	20542225	1780880	1	sim25M	Consensus_utg000006l	99.75		True
+CONTIG	Consensus_utg000006l	1780880	correct
+11869951	12855995	1	988893	sim25M	Consensus_utg000007l	99.67		True
+CONTIG	Consensus_utg000007l	988893	correct
+17495434	18063972	1	570159	sim25M	Consensus_utg000008l	99.71		True
+local misassembly
+18064095	18756645	570160	1264603	sim25M	Consensus_utg000008l	99.72		True
+CONTIG	Consensus_utg000008l	1264603	correct
+23093452	24147299	1056343	1	sim25M	Consensus_utg000009l	99.75		True
+CONTIG	Consensus_utg000009l	1056343	correct
+22055914	22173550	1956	119926	sim25M	Consensus_utg000010l	99.71		True
+CONTIG	Consensus_utg000010l	119926	correct
+11595120	11803569	1	209535	sim25M	Consensus_utg000011l	98.8		True
+relocation, inconsistency = 18426
+11545683	11576693	240783	209536	sim25M	Consensus_utg000011l	98.92		True
+local misassembly
+9021951	11545678	2770879	240901	sim25M	Consensus_utg000011l	99.75		True
+CONTIG	Consensus_utg000011l	2770879	misassembled
+12856168	13475832	1	621600	sim25M	Consensus_utg000012l	99.65		True
+CONTIG	Consensus_utg000012l	621600	correct
+5644501	6112566	1	469355	sim25M	Consensus_utg000013l	99.71		True
+local misassembly
+6112730	6657932	469356	1015938	sim25M	Consensus_utg000013l	99.74		True
+CONTIG	Consensus_utg000013l	1015938	correct
+24359168	24443966	85189	1	sim25M	Consensus_utg000014l	99.33		True
+CONTIG	Consensus_utg000014l	85189	correct
+2066016	2630712	1	566084	sim25M	Consensus_utg000015l	99.74		True
+CONTIG	Consensus_utg000015l	566084	correct
+2629485	4239238	1613860	1	sim25M	Consensus_utg000016l	99.74		True
+CONTIG	Consensus_utg000016l	1613860	correct
+15857322	17287421	1	1434442	sim25M	Consensus_utg000017l	99.67		True
+CONTIG	Consensus_utg000017l	1434442	correct
+7014286	8429267	1418643	1	sim25M	Consensus_utg000018l	99.73		True
+CONTIG	Consensus_utg000018l	1418643	correct
+8448995	8946270	1	498520	sim25M	Consensus_utg000019l	99.74		True
+CONTIG	Consensus_utg000019l	498520	correct
+22972285	23085860	1	113878	sim25M	Consensus_utg000020l	99.72		True
+CONTIG	Consensus_utg000020l	113879	correct
+24295245	24362085	67270	1	sim25M	Consensus_utg000021l	99.06		True
+CONTIG	Consensus_utg000021l	67272	correct
+4231100	4480129	250180	2	sim25M	Consensus_utg000022l	99.4		True
+CONTIG	Consensus_utg000022l	250180	correct
+597369	2058392	1464614	1	sim25M	Consensus_utg000023l	99.75		True
+CONTIG	Consensus_utg000023l	1464614	correct
+8944487	8970140	1	25847	sim25M	Consensus_utg000024l	98.86		True
+CONTIG	Consensus_utg000024l	25847	correct
+24477390	24999028	522824	3	sim25M	Consensus_utg000025l	99.76		True
+CONTIG	Consensus_utg000025l	522824	correct
+22180296	22631769	452603	1	sim25M	Consensus_utg000026l	99.74		True
+CONTIG	Consensus_utg000026l	452606	correct
+24154546	24298570	144340	1	sim25M	Consensus_utg000027l	99.77		True
+CONTIG	Consensus_utg000027l	144343	correct
+6675364	6920751	245953	1	sim25M	Consensus_utg000028l	99.76		True
+CONTIG	Consensus_utg000028l	245953	correct
+17288217	17485151	197405	1	sim25M	Consensus_utg000029l	99.75		True
+CONTIG	Consensus_utg000029l	197405	correct
+22630075	22938142	308788	1	sim25M	Consensus_utg000030l	99.76		True
+CONTIG	Consensus_utg000030l	308788	correct
+6932358	7012992	1	80823	sim25M	Consensus_utg000031l	99.76		True
+CONTIG	Consensus_utg000031l	80823	correct
+21785555	21888809	103956	1	sim25M	Consensus_utg000032l	98.9		True
+CONTIG	Consensus_utg000032l	107602	correct
+21902753	22043554	141341	1	sim25M	Consensus_utg000033l	99.53		True
+CONTIG	Consensus_utg000033l	141341	correct
+8974904	9002250	1	27430	sim25M	Consensus_utg000034l	99.69		True
+CONTIG	Consensus_utg000034l	27430	correct
+7284	41268	1	34105	sim25M	Consensus_utg000035l	99.64		True
+CONTIG	Consensus_utg000035l	34105	correct

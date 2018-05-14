@@ -1,0 +1,14 @@
+Assembly	AJ218.SoDe2H
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	733
+# unaligned mis. contigs	3
+# mismatches	30
+# indels	39
+    # indels (<= 5 bp)	22
+    # indels (> 5 bp)	17
+Indels length	635

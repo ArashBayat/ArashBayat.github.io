@@ -1,0 +1,5 @@
+KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055
+922196 922285
+4156894 4157072
+4822051 4824732
+5344881 5345532

@@ -1,0 +1,49 @@
+Assembly	sim5M.MiniCH
+# contigs (>= 0 bp)	3
+# contigs (>= 1000 bp)	3
+# contigs (>= 5000 bp)	3
+# contigs (>= 10000 bp)	3
+# contigs (>= 25000 bp)	3
+# contigs (>= 50000 bp)	3
+Total length (>= 0 bp)	5029350
+Total length (>= 1000 bp)	5029350
+Total length (>= 5000 bp)	5029350
+Total length (>= 10000 bp)	5029350
+Total length (>= 25000 bp)	5029350
+Total length (>= 50000 bp)	5029350
+# contigs	3
+Largest contig	3537045
+Total length	5029350
+Reference length	5000040
+GC (%)	35.86
+Reference GC (%)	35.84
+N50	3537045
+NG50	3537045
+N75	1235134
+NG75	1235134
+L50	1
+LG50	1
+L75	2
+LG75	2
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	99.896
+Duplication ratio	1.007
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	1.28
+# indels per 100 kbp	165.99
+Largest alignment	3537045
+Total aligned length	5029349
+NA50	3537045
+NGA50	3537045
+NA75	1235133
+NGA75	1235133
+LA50	1
+LGA50	1
+LA75	2
+LGA75	2

@@ -1,0 +1,42 @@
+Assembly	AJ292.SoDe2H
+# contigs (>= 0 bp)	38824
+# contigs (>= 1000 bp)	339
+# contigs (>= 5000 bp)	0
+# contigs (>= 10000 bp)	0
+# contigs (>= 25000 bp)	0
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	7777649
+Total length (>= 1000 bp)	450773
+Total length (>= 5000 bp)	0
+Total length (>= 10000 bp)	0
+Total length (>= 25000 bp)	0
+Total length (>= 50000 bp)	0
+# contigs	2267
+Largest contig	4141
+Total length	1744167
+Reference length	5445112
+GC (%)	55.50
+Reference GC (%)	57.62
+N50	757
+N75	606
+L50	830
+L75	1475
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	859
+# unaligned mis. contigs	3
+# unaligned contigs	19 + 7 part
+Unaligned length	19226
+Genome fraction (%)	31.150
+Duplication ratio	1.017
+# N's per 100 kbp	890.28
+# mismatches per 100 kbp	3.48
+# indels per 100 kbp	2.77
+Largest alignment	4141
+Total aligned length	1700272
+NA50	735
+NGA50	-
+NA75	595
+LA50	848
+LA75	1511

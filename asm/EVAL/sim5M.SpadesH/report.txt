@@ -1,0 +1,52 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assembly sim5M.SpadesH contains continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                     sim5M.SpadesH
+# contigs (>= 0 bp)          323          
+# contigs (>= 1000 bp)       78           
+# contigs (>= 5000 bp)       70           
+# contigs (>= 10000 bp)      65           
+# contigs (>= 25000 bp)      48           
+# contigs (>= 50000 bp)      33           
+Total length (>= 0 bp)       4988546      
+Total length (>= 1000 bp)    4913906      
+Total length (>= 5000 bp)    4895174      
+Total length (>= 10000 bp)   4854603      
+Total length (>= 25000 bp)   4572675      
+Total length (>= 50000 bp)   4009820      
+# contigs                    124          
+Largest contig               281683       
+Total length                 4944427      
+Reference length             5000040      
+GC (%)                       35.81        
+Reference GC (%)             35.84        
+N50                          116695       
+NG50                         116695       
+N75                          65903        
+NG75                         63668        
+L50                          14           
+LG50                         14           
+L75                          28           
+LG75                         29           
+# misassemblies              2            
+# misassembled contigs       2            
+Misassembled contigs length  228070       
+# local misassemblies        1            
+# unaligned mis. contigs     0            
+# unaligned contigs          0 + 1 part   
+Unaligned length             969          
+Genome fraction (%)          98.729       
+Duplication ratio            1.001        
+# N's per 100 kbp            19.60        
+# mismatches per 100 kbp     27.85        
+# indels per 100 kbp         0.49         
+Largest alignment            281680       
+Total aligned length         4943002      
+NA50                         114800       
+NGA50                        114800       
+NA75                         60805        
+NGA75                        59890        
+LA50                         14           
+LGA50                        14           
+LA75                         29           
+LGA75                        30           

@@ -1,0 +1,17 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assembly sim25M.SoDe2L contains continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                     sim25M.SoDe2L
+# misassemblies              4            
+    # relocations            4            
+    # translocations         0            
+    # inversions             0            
+# misassembled contigs       4            
+Misassembled contigs length  19335        
+# local misassemblies        43           
+# unaligned mis. contigs     7            
+# mismatches                 7814         
+# indels                     7630         
+    # indels (<= 5 bp)       5851         
+    # indels (> 5 bp)        1779         
+Indels length                29152        

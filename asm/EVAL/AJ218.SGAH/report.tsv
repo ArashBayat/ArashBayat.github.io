@@ -1,0 +1,49 @@
+Assembly	AJ218.SGAH
+# contigs (>= 0 bp)	2286
+# contigs (>= 1000 bp)	1111
+# contigs (>= 5000 bp)	386
+# contigs (>= 10000 bp)	119
+# contigs (>= 25000 bp)	5
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	5874435
+Total length (>= 1000 bp)	5477962
+Total length (>= 5000 bp)	3592263
+Total length (>= 10000 bp)	1695658
+Total length (>= 25000 bp)	149629
+Total length (>= 50000 bp)	0
+# contigs	1307
+Largest contig	33112
+Total length	5619230
+Reference length	5465981
+GC (%)	57.28
+Reference GC (%)	57.29
+N50	6970
+NG50	7143
+N75	3735
+NG75	3981
+L50	254
+LG50	243
+L75	531
+LG75	501
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	0
+# unaligned contigs	46 + 5 part
+Unaligned length	182048
+Genome fraction (%)	97.384
+Duplication ratio	1.021
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	0.41
+# indels per 100 kbp	0.28
+Largest alignment	33112
+Total aligned length	5437178
+NA50	6581
+NGA50	6968
+NA75	3400
+NGA75	3707
+LA50	258
+LGA50	246
+LA75	551
+LGA75	518

@@ -1,0 +1,8327 @@
+/home/arash/asmReview/EVAL/sim5M.CanuL.cr/quast_corrected_input/ref.fa /home/arash/asmReview/EVAL/sim5M.CanuL.cr/quast_corrected_input/sim5M-CanuL-cr.fa
+NUCMER
+>sim5M Read_1001_length_1302bp_startpos_2847779_number_of_errors_17_total_error_prob_0.02_passes_4.08225959181_passes_left_5_passes_right_4_cut_position_107_id_997_clr_0_1290 5000040 1290
+2847781 2849070 1290 1 0 0 0
+0
+>sim5M Read_1003_length_5966bp_startpos_3201635_number_of_errors_310_total_error_prob_0.05_passes_2.54099771774_passes_left_3_passes_right_2_cut_position_3228_id_999_clr_0_5776 5000040 5776
+3201636 3207409 1 5775 1 1 0
+-4677
+0
+>sim5M Read_1007_length_10354bp_startpos_3391030_number_of_errors_1210_total_error_prob_0.11_passes_1.6310165216_passes_left_1_passes_right_2_cut_position_3820_id_1003_clr_0_9738 5000040 9738
+3391030 3400765 1 9738 4 4 0
+-27
+-11
+1442
+-1251
+0
+>sim5M Read_1008_length_7370bp_startpos_3495107_number_of_errors_321_total_error_prob_0.04_passes_2.67279305276_passes_left_3_passes_right_2_cut_position_4958_id_1004_clr_0_7144 5000040 7144
+3495115 3502257 1 7144 1 1 0
+-1624
+0
+>sim5M Read_1009_length_9750bp_startpos_189006_number_of_errors_1202_total_error_prob_0.12_passes_1.48212786314_passes_left_1_passes_right_2_cut_position_5049_id_1005_clr_0_9184 5000040 9184
+189024 198195 11 9183 14 14 0
+-5
+-1761
+2465
+1
+-1491
+1701
+1
+-795
+-235
+-481
+-168
+11
+41
+0
+>sim5M Read_1013_length_3735bp_startpos_4755067_number_of_errors_103_total_error_prob_0.02_passes_3.15274011692_passes_left_3_passes_right_4_cut_position_3165_id_1009_clr_0_3670 5000040 3670
+4755068 4758726 1 3670 24 24 0
+-269
+-667
+-96
+-18
+194
+-59
+-34
+-270
+-21
+-18
+264
+248
+-553
+-883
+-14
+17
+-5
+-20
+-13
+0
+>sim5M Read_1014_length_7104bp_startpos_427783_number_of_errors_407_total_error_prob_0.05_passes_2.23361883457_passes_left_3_passes_right_2_cut_position_1660_id_1010_clr_0_6886 5000040 6886
+427785 434671 6886 1 33 33 0
+-645
+-826
+6
+560
+-227
+-740
+213
+1
+98
+236
+67
+-209
+-666
+228
+-412
+0
+>sim5M Read_1015_length_5715bp_startpos_3808324_number_of_errors_100_total_error_prob_0.02_passes_4.85715590096_passes_left_5_passes_right_4_cut_position_4899_id_1011_clr_0_5640 5000040 5640
+3808325 3813963 2 5640 0 0 0
+0
+>sim5M Read_1016_length_6113bp_startpos_905152_number_of_errors_239_total_error_prob_0.04_passes_2.14052938427_passes_left_3_passes_right_2_cut_position_859_id_1012_clr_0_5938 5000040 5938
+905153 911079 1 5938 50 50 0
+231
+-357
+-405
+-113
+-54
+-38
+-23
+-107
+13
+-75
+-26
+-1
+208
+-25
+8
+315
+26
+-394
+71
+-77
+-114
+-70
+498
+243
+-19
+-181
+-9
+-82
+26
+112
+123
+-85
+-66
+148
+-14
+-59
+182
+36
+6
+-373
+-139
+-20
+-146
+0
+>sim5M Read_1017_length_13195bp_startpos_4304386_number_of_errors_1513_total_error_prob_0.11_passes_1.64180504926_passes_left_1_passes_right_2_cut_position_4726_id_1013_clr_0_12460 5000040 12460
+4304390 4316845 1 12460 18 18 0
+-25
+-114
+623
+713
+1
+1
+-24
+-309
+-139
+-5
+-1358
+-2403
+-729
+1377
+0
+>sim5M Read_1018_length_12605bp_startpos_2248726_number_of_errors_1895_total_error_prob_0.14_passes_1.44466580888_passes_left_1_passes_right_2_cut_position_7000_id_1014_clr_0_11744 5000040 11744
+2248763 2260500 11742 1 11 11 0
+-22
+-13
+-9
+-40
+-579
+2311
+0
+>sim5M Read_1022_length_7200bp_startpos_4960241_number_of_errors_313_total_error_prob_0.04_passes_2.85330957945_passes_left_3_passes_right_2_cut_position_6144_id_1018_clr_0_6992 5000040 6992
+4960243 4967234 6992 1 0 0 0
+0
+>sim5M Read_1024_length_7949bp_startpos_2399549_number_of_errors_625_total_error_prob_0.07_passes_1.84506626465_passes_left_1_passes_right_2_cut_position_1232_id_1020_clr_0_7624 5000040 7624
+2399552 2407169 4 7623 2 2 0
+-6245
+-1164
+0
+>sim5M Read_1025_length_9863bp_startpos_3793146_number_of_errors_754_total_error_prob_0.08_passes_2.02055098468_passes_left_3_passes_right_2_cut_position_203_id_1021_clr_0_9456 5000040 9456
+3793148 3802601 9455 1 1 1 0
+-4775
+0
+>sim5M Read_1026_length_6356bp_startpos_2077681_number_of_errors_283_total_error_prob_0.04_passes_2.59279761659_passes_left_3_passes_right_2_cut_position_3768_id_1022_clr_0_6182 5000040 6182
+2077682 2083854 1 6179 8 8 0
+-741
+-480
+-854
+-3277
+-777
+-1
+13
+-31
+0
+>sim5M Read_1028_length_6832bp_startpos_1978698_number_of_errors_154_total_error_prob_0.02_passes_3.17973857112_passes_left_3_passes_right_4_cut_position_5604_id_1024_clr_0_6724 5000040 6724
+1978700 1985422 6724 1 1 1 0
+-4300
+0
+>sim5M Read_1030_length_7987bp_startpos_1303144_number_of_errors_550_total_error_prob_0.07_passes_1.9869560637_passes_left_1_passes_right_2_cut_position_104_id_1026_clr_0_7668 5000040 7668
+1303146 1310811 7668 1 2 2 0
+-2054
+-5604
+0
+>sim5M Read_1032_length_12320bp_startpos_3823367_number_of_errors_1933_total_error_prob_0.15_passes_1.415256738_passes_left_1_passes_right_2_cut_position_7204_id_1028_clr_0_11526 5000040 11526
+3823368 3834886 1 11525 9 9 0
+-8
+-1
+-15
+-9
+-5395
+-6081
+0
+>sim5M Read_1037_length_10994bp_startpos_1225108_number_of_errors_754_total_error_prob_0.06_passes_2.0785871635_passes_left_3_passes_right_2_cut_position_864_id_1033_clr_0_10554 5000040 10554
+1225108 1235659 1 10553 7 7 0
+-5663
+-367
+231
+-1191
+1315
+0
+>sim5M Read_103_length_8675bp_startpos_1180389_number_of_errors_858_total_error_prob_0.10_passes_1.71757900894_passes_left_1_passes_right_2_cut_position_2450_id_104_clr_0_8260 5000040 8260
+1180391 1188640 3 8254 3 3 0
+-6968
+-1
+0
+>sim5M Read_1042_length_6331bp_startpos_3763501_number_of_errors_596_total_error_prob_0.09_passes_2.0853198196_passes_left_3_passes_right_2_cut_position_540_id_1038_clr_0_6032 5000040 6032
+3763502 3769532 1 6031 0 0 0
+0
+>sim5M Read_1048_length_15770bp_startpos_542198_number_of_errors_1609_total_error_prob_0.09_passes_1.70234160279_passes_left_1_passes_right_2_cut_position_4694_id_1044_clr_0_14986 5000040 14986
+542199 557161 1 14985 56 56 0
+-15
+-1
+-7
+-13
+-17
+-7
+-5
+-9
+-8
+-2
+-5
+-1
+15
+-81
+-9
+-2
+-21
+-11
+26
+74
+69
+58
+-336
+-1
+-197
+128
+-21
+134
+1
+-642
+545
+-312
+-1
+-44
+-1
+-175
+-310
+-1
+-1
+-1
+1773
+862
+-1313
+-3
+0
+>sim5M Read_104_length_5281bp_startpos_1497316_number_of_errors_262_total_error_prob_0.05_passes_2.87074130766_passes_left_3_passes_right_2_cut_position_4598_id_105_clr_0_5110 5000040 5110
+1497320 1502420 5107 1 15 15 0
+-1431
+-1194
+2393
+-8
+-1
+-21
+13
+-6
+-1
+-1
+-24
+5
+0
+>sim5M Read_1050_length_10538bp_startpos_2007322_number_of_errors_1338_total_error_prob_0.12_passes_1.74469727632_passes_left_1_passes_right_2_cut_position_2690_id_1046_clr_0_9852 5000040 9852
+2007318 2017168 9852 1 3 3 0
+-689
+-1
+9159
+0
+>sim5M Read_1054_length_8443bp_startpos_3403706_number_of_errors_598_total_error_prob_0.07_passes_2.07667686468_passes_left_3_passes_right_2_cut_position_647_id_1050_clr_0_8072 5000040 8072
+3403708 3411776 8072 1 3 3 0
+-6245
+-1813
+-3
+0
+>sim5M Read_1056_length_6080bp_startpos_2095925_number_of_errors_117_total_error_prob_0.02_passes_4.01003232945_passes_left_5_passes_right_4_cut_position_61_id_1052_clr_0_5990 5000040 5990
+2095927 2101915 5989 1 0 0 0
+0
+>sim5M Read_1059_length_6400bp_startpos_4142021_number_of_errors_246_total_error_prob_0.04_passes_3.09629173287_passes_left_3_passes_right_4_cut_position_5784_id_1055_clr_0_6238 5000040 6238
+4142023 4148257 6237 1 2 2 0
+-4231
+-1
+0
+>sim5M Read_105_length_11940bp_startpos_627569_number_of_errors_1248_total_error_prob_0.10_passes_1.54051701763_passes_left_1_passes_right_2_cut_position_5486_id_106_clr_0_11336 5000040 11336
+627574 638908 11336 1 3 3 0
+-3994
+393
+-3842
+0
+>sim5M Read_1061_length_6896bp_startpos_3350283_number_of_errors_455_total_error_prob_0.06_passes_1.93679831381_passes_left_1_passes_right_2_cut_position_436_id_1057_clr_0_6658 5000040 6658
+3350285 3356939 6658 1 9 9 0
+-14
+-2
+5
+-5
+-45
+-39
+156
+-344
+3985
+0
+>sim5M Read_1062_length_15836bp_startpos_3079307_number_of_errors_1982_total_error_prob_0.12_passes_1.2392613563_passes_left_1_passes_right_2_cut_position_12047_id_1058_clr_0_14892 5000040 14892
+3079331 3094221 1 14892 1 1 0
+-9721
+0
+>sim5M Read_1066_length_9680bp_startpos_2763779_number_of_errors_996_total_error_prob_0.10_passes_1.62519245961_passes_left_1_passes_right_2_cut_position_3628_id_1062_clr_0_9146 5000040 9146
+2763788 2772929 3 9146 2 2 0
+-6457
+-2674
+0
+>sim5M Read_1067_length_16689bp_startpos_3593449_number_of_errors_2266_total_error_prob_0.13_passes_1.55522859552_passes_left_1_passes_right_2_cut_position_7423_id_1063_clr_0_15534 5000040 15534
+3593486 3609021 6 15534 92 92 0
+13
+-9
+-75
+-127
+-122
+-1
+-5637
+-1
+4
+157
+318
+149
+653
+59
+-159
+15
+-319
+78
+585
+-219
+45
+-80
+134
+1159
+2
+1
+201
+338
+243
+467
+233
+-465
+-695
+0
+>sim5M Read_1068_length_9549bp_startpos_3835483_number_of_errors_558_total_error_prob_0.06_passes_2.03756648679_passes_left_3_passes_right_2_cut_position_359_id_1064_clr_0_9252 5000040 9252
+3835488 3844738 1 9252 1 1 0
+-4494
+0
+>sim5M Read_106_length_6731bp_startpos_469143_number_of_errors_717_total_error_prob_0.10_passes_1.43317120453_passes_left_1_passes_right_2_cut_position_3815_id_107_clr_0_6390 5000040 6390
+469143 475529 6389 1 2 2 0
+-6366
+-1
+0
+>sim5M Read_1074_length_11226bp_startpos_141544_number_of_errors_1034_total_error_prob_0.09_passes_1.6632833477_passes_left_1_passes_right_2_cut_position_3780_id_1070_clr_0_10750 5000040 10750
+141548 152294 10748 1 1 1 0
+-940
+0
+>sim5M Read_1079_length_5261bp_startpos_3267983_number_of_errors_117_total_error_prob_0.02_passes_4.03482202886_passes_left_5_passes_right_4_cut_position_183_id_1074_clr_0_5184 5000040 5184
+3267985 3273167 5184 2 0 0 0
+0
+>sim5M Read_1081_length_13270bp_startpos_2471316_number_of_errors_1790_total_error_prob_0.13_passes_1.69438041085_passes_left_1_passes_right_2_cut_position_4056_id_1076_clr_0_12454 5000040 12454
+2471318 2483751 12453 3 26 26 0
+21
+-13
+-1
+-8
+-1
+-1
+-22
+-1
+-1
+-157
+182
+-25
+-4362
+-1147
+-752
+-512
+-840
+-2920
+-1475
+-1
+-3
+0
+>sim5M Read_1083_length_4621bp_startpos_2740170_number_of_errors_273_total_error_prob_0.06_passes_1.95069348991_passes_left_1_passes_right_2_cut_position_228_id_1078_clr_0_4454 5000040 4454
+2740171 2744624 1 4454 0 0 0
+0
+>sim5M Read_1084_length_7371bp_startpos_637510_number_of_errors_786_total_error_prob_0.11_passes_1.542645892_passes_left_1_passes_right_2_cut_position_3371_id_1079_clr_0_6976 5000040 6976
+637515 644489 1 6975 0 0 0
+0
+>sim5M Read_1087_length_11264bp_startpos_1367072_number_of_errors_1114_total_error_prob_0.10_passes_1.57844961859_passes_left_1_passes_right_2_cut_position_4748_id_1082_clr_0_10706 5000040 10706
+1367080 1377772 10698 1 5 5 0
+-116
+-564
+-1352
+-157
+-1702
+0
+>sim5M Read_1089_length_15705bp_startpos_507037_number_of_errors_2112_total_error_prob_0.13_passes_1.2281578405_passes_left_1_passes_right_2_cut_position_12122_id_1084_clr_0_14752 5000040 14752
+507058 521802 14751 1 18 18 0
+13
+21
+-200
+64
+-504
+-183
+636
+-324
+74
+-38
+-1
+-290
+-3
+-2922
+-3310
+-1672
+0
+>sim5M Read_108_length_9693bp_startpos_670073_number_of_errors_793_total_error_prob_0.08_passes_2.22717771805_passes_left_3_passes_right_2_cut_position_2202_id_109_clr_0_9280 5000040 9280
+670074 679352 1 9280 1 1 0
+-9271
+0
+>sim5M Read_1090_length_25492bp_startpos_3223436_number_of_errors_3690_total_error_prob_0.14_passes_1.145505195_passes_left_1_passes_right_2_cut_position_21783_id_1085_clr_0_23710 5000040 23710
+3223543 3247245 1 23710 11 11 0
+-63
+-130
+-1398
+-1060
+-725
+-1647
+-3625
+1318
+-1673
+5537
+-6527
+0
+>sim5M Read_1095_length_14966bp_startpos_2670267_number_of_errors_1774_total_error_prob_0.11_passes_1.58755545487_passes_left_1_passes_right_2_cut_position_6173_id_1090_clr_0_14096 5000040 14096
+2670269 2684340 14095 8 19 19 0
+-35
+-15
+-11
+-10
+-321
+-21
+-29
+-1262
+-358
+-98
+-1092
+-52
+-322
+352
+-916
+-70
+-187
+-1
+0
+>sim5M Read_1097_length_9090bp_startpos_4631923_number_of_errors_674_total_error_prob_0.07_passes_2.11606265122_passes_left_3_passes_right_2_cut_position_1055_id_1092_clr_0_8700 5000040 8700
+4631924 4640618 1 8696 1 1 0
+-8690
+0
+>sim5M Read_1101_length_4027bp_startpos_4683314_number_of_errors_77_total_error_prob_0.02_passes_3.66088696298_passes_left_3_passes_right_4_cut_position_1366_id_1096_clr_0_3976 5000040 3976
+4683313 4687287 1 3975 0 0 0
+0
+>sim5M Read_1102_length_9950bp_startpos_1380609_number_of_errors_502_total_error_prob_0.05_passes_2.03435112987_passes_left_3_passes_right_2_cut_position_342_id_1097_clr_0_9636 5000040 9636
+1380610 1390244 1 9636 1 1 0
+-9341
+0
+>sim5M Read_1103_length_9994bp_startpos_778400_number_of_errors_562_total_error_prob_0.05_passes_2.24263858275_passes_left_3_passes_right_2_cut_position_2425_id_1098_clr_0_9646 5000040 9646
+778399 788046 1 9646 18 18 0
+2159
+514
+279
+249
+-585
+243
+-242
+-59
+120
+-592
+-411
+37
+945
+-404
+46
+877
+-1436
+-411
+0
+>sim5M Read_1105_length_6921bp_startpos_644967_number_of_errors_275_total_error_prob_0.04_passes_2.75545355554_passes_left_3_passes_right_2_cut_position_5228_id_1100_clr_0_6730 5000040 6730
+644969 651697 6729 1 0 0 0
+0
+>sim5M Read_1109_length_10180bp_startpos_4230903_number_of_errors_1514_total_error_prob_0.14_passes_1.22548950797_passes_left_1_passes_right_2_cut_position_7885_id_1104_clr_0_9430 5000040 9430
+4230907 4240331 9430 1 6 6 0
+-14
+-1633
+-3033
+-1
+-1
+0
+>sim5M Read_1112_length_7151bp_startpos_4199302_number_of_errors_331_total_error_prob_0.04_passes_2.92502239474_passes_left_3_passes_right_2_cut_position_6615_id_1107_clr_0_6938 5000040 6938
+4199303 4206240 6938 1 0 0 0
+0
+>sim5M Read_1113_length_7051bp_startpos_3344456_number_of_errors_663_total_error_prob_0.09_passes_1.76881937894_passes_left_1_passes_right_2_cut_position_1630_id_1108_clr_0_6688 5000040 6688
+3344476 3351159 1 6688 7 7 0
+-65
+-31
+253
+-3693
+-826
+-37
+0
+>sim5M Read_1116_length_18026bp_startpos_3461913_number_of_errors_2326_total_error_prob_0.13_passes_1.19539793794_passes_left_1_passes_right_2_cut_position_14504_id_1111_clr_0_16836 5000040 16836
+3461922 3478757 1 16836 8 8 0
+6
+14
+-8
+9
+-296
+-515
+-5890
+3389
+0
+>sim5M Read_1118_length_14429bp_startpos_2954483_number_of_errors_1899_total_error_prob_0.12_passes_1.46888973253_passes_left_1_passes_right_2_cut_position_7663_id_1113_clr_0_13466 5000040 13466
+2954570 2968029 13466 4 6 6 0
+2267
+-160
+-987
+-2321
+-2538
+0
+>sim5M Read_1119_length_7314bp_startpos_3263838_number_of_errors_400_total_error_prob_0.05_passes_2.39569158732_passes_left_3_passes_right_2_cut_position_2894_id_1114_clr_0_7056 5000040 7056
+3263831 3270884 7054 1 0 0 0
+0
+>sim5M Read_111_length_9241bp_startpos_4375326_number_of_errors_737_total_error_prob_0.08_passes_1.94412541845_passes_left_1_passes_right_2_cut_position_516_id_112_clr_0_8858 5000040 8858
+4375325 4384178 8856 1 4 4 0
+13
+-4
+-8802
+-32
+0
+>sim5M Read_1120_length_6466bp_startpos_653501_number_of_errors_260_total_error_prob_0.04_passes_2.40723353199_passes_left_3_passes_right_2_cut_position_2633_id_1115_clr_0_6312 5000040 6312
+653503 659814 6312 1 0 0 0
+0
+>sim5M Read_1121_length_11903bp_startpos_3906780_number_of_errors_1692_total_error_prob_0.14_passes_1.37014745951_passes_left_1_passes_right_2_cut_position_7497_id_1116_clr_0_11146 5000040 11146
+3906773 3917908 2 11146 22 22 0
+5
+-41
+185
+-86
+-1
+188
+-56
+-121
+101
+-129
+-122
+-215
+278
+-1259
+761
+-246
+-1102
+-360
+-5639
+-1
+-237
+0
+>sim5M Read_1122_length_10895bp_startpos_594738_number_of_errors_1115_total_error_prob_0.10_passes_1.54905426892_passes_left_1_passes_right_2_cut_position_4913_id_1117_clr_0_10366 5000040 10366
+594741 605105 1 10366 1 1 0
+-14
+0
+>sim5M Read_1123_length_5238bp_startpos_590016_number_of_errors_438_total_error_prob_0.09_passes_1.77710447505_passes_left_1_passes_right_2_cut_position_1168_id_1118_clr_0_4980 5000040 4980
+590025 594997 4977 1 4 4 0
+-14
+-715
+-4236
+-7
+0
+>sim5M Read_1131_length_14412bp_startpos_1763725_number_of_errors_1202_total_error_prob_0.08_passes_1.76927300223_passes_left_1_passes_right_2_cut_position_3325_id_1125_clr_0_13808 5000040 13808
+1763727 1777525 13808 1 51 51 0
+-10
+-6
+-7
+14
+-9
+-303
+611
+-1248
+-1
+-2587
+-567
+247
+43
+275
+372
+-328
+649
+-498
+-583
+-429
+-33
+113
+-989
+-1214
+-1
+806
+-914
+0
+>sim5M Read_1137_length_6642bp_startpos_1237833_number_of_errors_442_total_error_prob_0.07_passes_2.23845082569_passes_left_3_passes_right_2_cut_position_1584_id_1131_clr_0_6396 5000040 6396
+1237834 1244228 6396 1 1 1 0
+-5814
+0
+>sim5M Read_1139_length_5518bp_startpos_2380626_number_of_errors_292_total_error_prob_0.05_passes_2.42605690613_passes_left_3_passes_right_2_cut_position_2351_id_1133_clr_0_5360 5000040 5360
+2380628 2385987 5360 1 2 2 0
+-2746
+577
+0
+>sim5M Read_1140_length_8841bp_startpos_523837_number_of_errors_882_total_error_prob_0.10_passes_1.70775512848_passes_left_1_passes_right_2_cut_position_2584_id_1134_clr_0_8420 5000040 8420
+523830 532261 8420 1 88 88 0
+79
+-131
+-74
+292
+12
+195
+1
+22
+-27
+-40
+-1
+106
+-92
+-6
+-70
+-57
+38
+15
+34
+-18
+15
+56
+38
+-20
+85
+-65
+-16
+-10
+18
+14
+62
+19
+9
+3
+7
+28
+944
+526
+-1026
+351
+614
+873
+152
+595
+-36
+-1454
+0
+>sim5M Read_1141_length_5230bp_startpos_258926_number_of_errors_176_total_error_prob_0.03_passes_3.8187878934_passes_left_3_passes_right_4_cut_position_948_id_1135_clr_0_5098 5000040 5098
+258926 264021 2 5097 0 0 0
+0
+>sim5M Read_1142_length_7608bp_startpos_3271505_number_of_errors_552_total_error_prob_0.08_passes_1.91446220801_passes_left_1_passes_right_2_cut_position_651_id_1136_clr_0_7276 5000040 7276
+3271506 3278781 1 7276 0 0 0
+0
+>sim5M Read_1144_length_7013bp_startpos_2976464_number_of_errors_298_total_error_prob_0.04_passes_2.46751421517_passes_left_3_passes_right_2_cut_position_3279_id_1138_clr_0_6840 5000040 6840
+2976469 2983308 1 6840 0 0 0
+0
+>sim5M Read_1147_length_4401bp_startpos_1915531_number_of_errors_147_total_error_prob_0.03_passes_3.40216742546_passes_left_3_passes_right_4_cut_position_2631_id_1141_clr_0_4294 5000040 4294
+1915532 1919825 1 4294 0 0 0
+0
+>sim5M Read_114_length_6509bp_startpos_4292040_number_of_errors_346_total_error_prob_0.05_passes_2.51405626587_passes_left_3_passes_right_2_cut_position_3346_id_115_clr_0_6324 5000040 6324
+4292042 4298365 6324 1 0 0 0
+0
+>sim5M Read_1150_length_15441bp_startpos_2259651_number_of_errors_1422_total_error_prob_0.09_passes_1.68479380063_passes_left_1_passes_right_2_cut_position_4867_id_1144_clr_0_14766 5000040 14766
+2259659 2274413 6 14765 23 23 0
+21
+-26
+-10
+-2
+-5
+7
+-23
+-23
+9
+-7
+-1
+-1560
+-1440
+10437
+-602
+583
+1
+0
+>sim5M Read_1152_length_4411bp_startpos_4562331_number_of_errors_450_total_error_prob_0.10_passes_1.52201039076_passes_left_1_passes_right_2_cut_position_2108_id_1146_clr_0_4216 5000040 4216
+4562333 4566546 4215 1 1 1 0
+-15
+0
+>sim5M Read_1154_length_9159bp_startpos_2354477_number_of_errors_964_total_error_prob_0.10_passes_1.8140702735_passes_left_1_passes_right_2_cut_position_1703_id_1148_clr_0_8640 5000040 8640
+2354490 2363125 1 8639 4 4 0
+-32
+-5040
+-2997
+0
+>sim5M Read_1155_length_3197bp_startpos_2413388_number_of_errors_88_total_error_prob_0.03_passes_3.52929640174_passes_left_3_passes_right_4_cut_position_1505_id_1149_clr_0_3134 5000040 3134
+2413389 2416518 1 3131 1 1 0
+-16
+0
+>sim5M Read_1156_length_8290bp_startpos_2802659_number_of_errors_611_total_error_prob_0.07_passes_2.23234413757_passes_left_3_passes_right_2_cut_position_1926_id_1150_clr_0_7946 5000040 7946
+2802663 2810608 1 7946 0 0 0
+0
+>sim5M Read_1157_length_9416bp_startpos_4382113_number_of_errors_553_total_error_prob_0.06_passes_2.55311236057_passes_left_3_passes_right_2_cut_position_5208_id_1151_clr_0_9096 5000040 9096
+4382122 4391214 1 9096 3 3 0
+-1983
+-3992
+-1134
+0
+>sim5M Read_1159_length_7408bp_startpos_3157824_number_of_errors_246_total_error_prob_0.03_passes_2.85249050874_passes_left_3_passes_right_2_cut_position_6315_id_1153_clr_0_7240 5000040 7240
+3157825 3165064 1 7240 0 0 0
+0
+>sim5M Read_1163_length_10011bp_startpos_2729654_number_of_errors_938_total_error_prob_0.08_passes_1.72711638496_passes_left_1_passes_right_2_cut_position_2732_id_1157_clr_0_9532 5000040 9532
+2729656 2739180 9531 1 12 12 0
+-25
+47
+1687
+-2130
+-523
+408
+-537
+-51
+-4087
+-7
+-10
+-2
+0
+>sim5M Read_1167_length_14730bp_startpos_4146192_number_of_errors_1694_total_error_prob_0.11_passes_1.59384019352_passes_left_1_passes_right_2_cut_position_5983_id_1161_clr_0_13892 5000040 13892
+4146201 4160084 6 13890 5 5 0
+-14
+-3
+4765
+-7242
+1855
+0
+>sim5M Read_1168_length_5548bp_startpos_1206398_number_of_errors_157_total_error_prob_0.03_passes_3.36084337324_passes_left_3_passes_right_4_cut_position_3546_id_1162_clr_0_5446 5000040 5446
+1206400 1211845 5446 1 0 0 0
+0
+>sim5M Read_1174_length_5746bp_startpos_3716841_number_of_errors_197_total_error_prob_0.03_passes_2.98718999846_passes_left_3_passes_right_2_cut_position_5672_id_1168_clr_0_5628 5000040 5628
+3716842 3722466 1 5627 2 2 0
+-5618
+-1
+0
+>sim5M Read_1177_length_8289bp_startpos_639277_number_of_errors_401_total_error_prob_0.05_passes_2.13886463475_passes_left_3_passes_right_2_cut_position_1151_id_1171_clr_0_8066 5000040 8066
+639278 647342 1 8065 0 0 0
+0
+>sim5M Read_1180_length_9212bp_startpos_263363_number_of_errors_792_total_error_prob_0.09_passes_1.73928699389_passes_left_1_passes_right_2_cut_position_2402_id_1174_clr_0_8828 5000040 8828
+263365 272191 8827 1 0 0 0
+0
+>sim5M Read_1182_length_7392bp_startpos_4721919_number_of_errors_829_total_error_prob_0.11_passes_1.70990798527_passes_left_1_passes_right_2_cut_position_2144_id_1176_clr_0_6980 5000040 6980
+4721932 4728891 19 6980 13 13 0
+-11
+8
+6
+-9
+-1
+-1
+-3
+515
+1
+322
+-784
+-1199
+0
+>sim5M Read_1183_length_7671bp_startpos_4698789_number_of_errors_583_total_error_prob_0.07_passes_1.80869394561_passes_left_1_passes_right_2_cut_position_1468_id_1177_clr_0_7352 5000040 7352
+4698785 4706135 4 7351 7 7 0
+6
+6
+5
+1
+-541
+556
+-4703
+0
+>sim5M Read_1186_length_17678bp_startpos_4657521_number_of_errors_2589_total_error_prob_0.14_passes_1.17855724647_passes_left_1_passes_right_2_cut_position_14521_id_1180_clr_0_16528 5000040 16528
+4657563 4674091 16528 1 6 6 0
+4584
+3
+-749
+0
+>sim5M Read_1189_length_8660bp_startpos_2594502_number_of_errors_953_total_error_prob_0.10_passes_1.60968517953_passes_left_1_passes_right_2_cut_position_3380_id_1183_clr_0_8222 5000040 8222
+2594507 2602728 1 8222 2 2 0
+-23
+13
+0
+>sim5M Read_118_length_11060bp_startpos_4050022_number_of_errors_629_total_error_prob_0.06_passes_2.04487259289_passes_left_3_passes_right_2_cut_position_496_id_119_clr_0_10662 5000040 10662
+4050065 4060700 1 10661 173 173 0
+-46
+-411
+-516
+418
+-10
+-5
+-38
+-44
+-29
+-20
+-23
+6
+-23
+4
+127
+-8
+-7
+6
+-54
+-10
+-9
+-55
+38
+-9
+38
+-31
+32
+-19
+-70
+81
+-11
+-63
+-17
+78
+20
+-59
+-18
+-1
+-24
+-12
+-5
+66
+31
+4
+6
+8
+-43
+-40
+-53
+57
+-5
+36
+51
+8
+-22
+-24
+46
+-4
+7
+-11
+40
+-117
+-129
+-20
+59
+41
+1
+11
+-258
+-56
+204
+69
+30
+2
+-84
+-8
+7
+-7
+-1
+77
+-85
+-87
+-24
+54
+9
+-68
+-30
+-88
+30
+-151
+-32
+-41
+-13
+-116
+53
+8
+-49
+65
+27
+143
+-9
+-16
+87
+-110
+-167
+156
+-47
+-57
+-22
+-413
+-5
+-1
+11
+-14
+46
+46
+22
+18
+-158
+-95
+42
+-81
+-32
+41
+-6
+33
+179
+579
+-220
+-2577
+-6
+0
+>sim5M Read_1191_length_11665bp_startpos_395062_number_of_errors_1155_total_error_prob_0.10_passes_1.68516955927_passes_left_1_passes_right_2_cut_position_3672_id_1185_clr_0_11066 5000040 11066
+395063 406124 11066 1 19 19 0
+-10
+-1
+7
+4
+-18
+5
+-11
+-3
+17
+-5
+-1
+-2554
+613
+-3872
+-691
+1255
+0
+>sim5M Read_1192_length_5474bp_startpos_1233070_number_of_errors_85_total_error_prob_0.01_passes_5.10232653321_passes_left_5_passes_right_6_cut_position_4914_id_1186_clr_0_5400 5000040 5400
+1233070 1238469 1 5400 33 33 0
+2365
+258
+1
+87
+-212
+-269
+-65
+-87
+-339
+347
+0
+>sim5M Read_119_length_14492bp_startpos_4116891_number_of_errors_1883_total_error_prob_0.12_passes_1.41844838475_passes_left_1_passes_right_2_cut_position_8428_id_120_clr_0_13638 5000040 13638
+4116945 4130578 1 13637 5 5 0
+18
+-1535
+-13
+-6286
+-5772
+0
+>sim5M Read_1200_length_5097bp_startpos_2057376_number_of_errors_197_total_error_prob_0.05_passes_2.77832051532_passes_left_3_passes_right_2_cut_position_3967_id_1194_clr_0_4988 5000040 4988
+2057383 2062347 4979 14 1 1 0
+-625
+0
+>sim5M Read_1201_length_11786bp_startpos_4688855_number_of_errors_1625_total_error_prob_0.13_passes_1.49414831325_passes_left_1_passes_right_2_cut_position_5962_id_1195_clr_0_11016 5000040 11016
+4688874 4699885 11016 4 1 1 0
+-8366
+0
+>sim5M Read_1202_length_11018bp_startpos_2234909_number_of_errors_1494_total_error_prob_0.13_passes_1.43672515942_passes_left_1_passes_right_2_cut_position_6206_id_1196_clr_0_10340 5000040 10340
+2234911 2245217 4 10340 44 44 0
+-11
+-14
+-6
+-3
+-1
+-1
+-1
+-1
+-1
+-9
+-5
+-1
+-16
+-5
+-4
+-10
+-1
+-11
+-11
+-11
+-1
+-8
+-3
+-1
+-11
+-3
+-9
+13
+-26
+-216
+-181
+-28
+-390
+1967
+-1162
+5720
+-106
+368
+0
+>sim5M Read_1203_length_7439bp_startpos_927325_number_of_errors_191_total_error_prob_0.03_passes_2.9597610309_passes_left_3_passes_right_2_cut_position_7140_id_1197_clr_0_7310 5000040 7310
+927327 934631 4 7309 43 43 0
+1482
+-336
+186
+262
+150
+-35
+-221
+-64
+-109
+127
+39
+-150
+-84
+-104
+-108
+-117
+4
+49
+-84
+30
+83
+-296
+-2
+28
+-14
+184
+-14
+-195
+22
+-142
+1018
+-456
+148
+703
+-250
+5
+6
+0
+>sim5M Read_1206_length_8197bp_startpos_3273323_number_of_errors_1114_total_error_prob_0.13_passes_1.45738488045_passes_left_1_passes_right_2_cut_position_4448_id_1200_clr_0_7700 5000040 7700
+3273328 3281023 1 7697 3 3 0
+1762
+-353
+-3507
+0
+>sim5M Read_1209_length_14454bp_startpos_4156361_number_of_errors_1696_total_error_prob_0.11_passes_1.35551429573_passes_left_1_passes_right_2_cut_position_9315_id_1203_clr_0_13690 5000040 13690
+4156368 4170045 1 13684 8 8 0
+-803
+-5107
+-1456
+5
+-889
+-4468
+-731
+-101
+0
+>sim5M Read_1211_length_11724bp_startpos_4282487_number_of_errors_997_total_error_prob_0.08_passes_2.17587087191_passes_left_3_passes_right_2_cut_position_2062_id_1205_clr_0_11188 5000040 11188
+4282492 4293675 1 11188 10 10 0
+-3096
+1462
+-1984
+209
+352
+-4052
+-6
+-13
+-1
+-4
+0
+>sim5M Read_1214_length_11912bp_startpos_4798267_number_of_errors_1422_total_error_prob_0.12_passes_1.5191338473_passes_left_1_passes_right_2_cut_position_5728_id_1208_clr_0_11218 5000040 11218
+4798290 4809501 9 11218 6 6 0
+12
+1
+1
+2
+-1954
+-517
+0
+>sim5M Read_121_length_11871bp_startpos_746654_number_of_errors_912_total_error_prob_0.08_passes_1.77925805867_passes_left_1_passes_right_2_cut_position_2620_id_122_clr_0_11368 5000040 11368
+746663 758023 1 11368 15 15 0
+-10
+-41
+-30
+-209
+-5
+-145
+-129
+604
+1944
+-3012
+-18
+0
+>sim5M Read_1226_length_3023bp_startpos_323402_number_of_errors_61_total_error_prob_0.02_passes_3.41060472426_passes_left_3_passes_right_4_cut_position_1782_id_1220_clr_0_2974 5000040 2974
+323403 326371 2974 6 0 0 0
+0
+>sim5M Read_1227_length_18350bp_startpos_882209_number_of_errors_2969_total_error_prob_0.16_passes_1.19518551001_passes_left_1_passes_right_2_cut_position_14768_id_1221_clr_0_17096 5000040 17096
+882232 899287 17067 1 52 52 0
+11
+-517
+-881
+-845
+-1716
+-1
+-1
+-1
+-3900
+-531
+-692
+-1
+-1
+-76
+-799
+-338
+-358
+1000
+120
+-14
+-822
+7
+152
+17
+-353
+11
+-146
+61
+42
+175
+1
+153
+-569
+-42
+-89
+184
+-207
+-1
+-16
+147
+54
+-451
+120
+239
+-564
+579
+-48
+0
+>sim5M Read_1229_length_10216bp_startpos_1849036_number_of_errors_977_total_error_prob_0.09_passes_1.82772416968_passes_left_1_passes_right_2_cut_position_1760_id_1223_clr_0_9716 5000040 9716
+1849028 1858742 2 9716 6 6 0
+7
+8324
+-1100
+-263
+-5
+9
+0
+>sim5M Read_122_length_2750bp_startpos_3535904_number_of_errors_17_total_error_prob_0.01_passes_5.24781510908_passes_left_5_passes_right_6_cut_position_2069_id_123_clr_0_2740 5000040 2740
+3535906 3538643 2739 1 1 1 0
+-14
+0
+>sim5M Read_1230_length_5405bp_startpos_2334605_number_of_errors_194_total_error_prob_0.04_passes_2.80294800382_passes_left_3_passes_right_2_cut_position_4340_id_1224_clr_0_5278 5000040 5278
+2334608 2339885 5278 1 0 0 0
+0
+>sim5M Read_1231_length_5381bp_startpos_1148853_number_of_errors_116_total_error_prob_0.02_passes_3.56608378459_passes_left_3_passes_right_4_cut_position_2335_id_1225_clr_0_5288 5000040 5288
+1148856 1154144 1 5288 1 1 0
+5244
+0
+>sim5M Read_1237_length_7616bp_startpos_2782578_number_of_errors_396_total_error_prob_0.05_passes_2.1306552644_passes_left_3_passes_right_2_cut_position_995_id_1231_clr_0_7394 5000040 7394
+2782580 2789965 7394 9 0 0 0
+0
+>sim5M Read_1240_length_7914bp_startpos_1933345_number_of_errors_576_total_error_prob_0.07_passes_1.91813188592_passes_left_1_passes_right_2_cut_position_648_id_1234_clr_0_7610 5000040 7610
+1933351 1940957 1 7609 4 4 0
+6703
+-698
+-192
+-11
+0
+>sim5M Read_1250_length_5826bp_startpos_1678489_number_of_errors_472_total_error_prob_0.08_passes_1.86529081923_passes_left_1_passes_right_2_cut_position_785_id_1244_clr_0_5572 5000040 5572
+1678498 1684053 13 5571 3 3 0
+-4172
+-1280
+-101
+0
+>sim5M Read_1251_length_8657bp_startpos_2829635_number_of_errors_409_total_error_prob_0.04_passes_2.57212768988_passes_left_3_passes_right_2_cut_position_4953_id_1245_clr_0_8428 5000040 8428
+2829637 2838064 8427 1 15 15 0
+-5477
+-308
+-10
+159
+219
+48
+321
+0
+>sim5M Read_1258_length_6372bp_startpos_4013967_number_of_errors_237_total_error_prob_0.04_passes_3.10749171221_passes_left_3_passes_right_4_cut_position_5687_id_1252_clr_0_6212 5000040 6212
+4013968 4020178 6212 1 1 1 0
+-620
+0
+>sim5M Read_1259_length_10379bp_startpos_4419547_number_of_errors_1178_total_error_prob_0.11_passes_1.55496829744_passes_left_1_passes_right_2_cut_position_4619_id_1253_clr_0_9798 5000040 9798
+4419551 4429332 6 9798 16 16 0
+-16
+-5
+-12
+-1
+-10
+-1
+-1
+9
+-6
+-5
+-3481
+-1
+-2843
+0
+>sim5M Read_125_length_11255bp_startpos_2167073_number_of_errors_931_total_error_prob_0.08_passes_1.88801972624_passes_left_1_passes_right_2_cut_position_1260_id_126_clr_0_10744 5000040 10744
+2167086 2177824 10744 1 7 7 0
+-311
+617
+-3999
+-1
+-297
+-929
+-171
+0
+>sim5M Read_1260_length_4010bp_startpos_1191127_number_of_errors_9_total_error_prob_0.00_passes_6.70041067607_passes_left_7_passes_right_6_cut_position_2809_id_1254_clr_0_4006 5000040 4006
+1191127 1195131 1 4005 0 0 0
+0
+>sim5M Read_1261_length_6187bp_startpos_2422854_number_of_errors_282_total_error_prob_0.05_passes_2.40815988534_passes_left_3_passes_right_2_cut_position_2525_id_1255_clr_0_6024 5000040 6024
+2422856 2428876 6024 1 4 4 0
+-23
+-4
+-4532
+0
+>sim5M Read_1263_length_8772bp_startpos_3802563_number_of_errors_764_total_error_prob_0.09_passes_1.68529559624_passes_left_1_passes_right_2_cut_position_2761_id_1257_clr_0_8396 5000040 8396
+3802563 3810953 8395 5 0 0 0
+0
+>sim5M Read_1267_length_7498bp_startpos_1619370_number_of_errors_770_total_error_prob_0.10_passes_2.06608549962_passes_left_3_passes_right_2_cut_position_496_id_1261_clr_0_7140 5000040 7140
+1619371 1626503 1 7136 3 3 0
+-7116
+-1
+-1
+0
+>sim5M Read_1268_length_2131bp_startpos_2306203_number_of_errors_10_total_error_prob_0.00_passes_7.72312102504_passes_left_7_passes_right_8_cut_position_590_id_1262_clr_0_2122 5000040 2122
+2306205 2308324 2121 1 1 1 0
+-2117
+0
+>sim5M Read_1269_length_8190bp_startpos_3989010_number_of_errors_609_total_error_prob_0.07_passes_2.15678017488_passes_left_3_passes_right_2_cut_position_1284_id_1263_clr_0_7824 5000040 7824
+3989011 3996833 1 7823 1 1 0
+0
+>sim5M Read_1270_length_9534bp_startpos_4366080_number_of_errors_502_total_error_prob_0.05_passes_2.44777318203_passes_left_3_passes_right_2_cut_position_4269_id_1264_clr_0_9228 5000040 9228
+4366082 4375308 9227 1 0 0 0
+0
+>sim5M Read_1271_length_12142bp_startpos_1637768_number_of_errors_1873_total_error_prob_0.15_passes_1.36968095421_passes_left_1_passes_right_2_cut_position_7653_id_1265_clr_0_11288 5000040 11288
+1637798 1649080 1 11288 11 11 0
+6
+-38
+-11
+-1
+1127
+-87
+-1156
+1408
+-416
+-1236
+-40
+0
+>sim5M Read_1273_length_8929bp_startpos_3406258_number_of_errors_551_total_error_prob_0.06_passes_2.63060723192_passes_left_3_passes_right_2_cut_position_5631_id_1267_clr_0_8628 5000040 8628
+3406260 3414886 8627 1 4 4 0
+8180
+-245
+189
+-7
+0
+>sim5M Read_127_length_8053bp_startpos_1793452_number_of_errors_300_total_error_prob_0.04_passes_2.60803614526_passes_left_3_passes_right_2_cut_position_4897_id_128_clr_0_7858 5000040 7858
+1793454 1801310 7858 1 1 1 0
+-7791
+0
+>sim5M Read_1282_length_9411bp_startpos_4989666_number_of_errors_408_total_error_prob_0.04_passes_2.57329697814_passes_left_3_passes_right_2_cut_position_5395_id_1276_clr_0_9162 5000040 9162
+4989667 4998805 1 9162 45 45 0
+-2057
+-1092
+-4482
+-79
+-8
+-85
+-229
+-28
+-32
+47
+109
+-14
+15
+353
+124
+-17
+-17
+-19
+-15
+-7
+-41
+-7
+50
+-18
+-30
+-4
+-3
+-22
+10
+-8
+33
+-25
+-6
+-15
+-16
+-15
+-5
+-8
+-1
+0
+>sim5M Read_1283_length_6412bp_startpos_2321276_number_of_errors_195_total_error_prob_0.03_passes_2.77269880497_passes_left_3_passes_right_2_cut_position_4955_id_1277_clr_0_6300 5000040 6300
+2321278 2327567 6300 1 12 12 0
+-20
+-7
+-925
+-422
+-360
+-1156
+-159
+-330
+40
+-49
+-26
+-1
+0
+>sim5M Read_128_length_9863bp_startpos_529914_number_of_errors_518_total_error_prob_0.05_passes_2.1685207161_passes_left_3_passes_right_2_cut_position_1662_id_129_clr_0_9548 5000040 9548
+529919 539462 9547 1 4 4 0
+-1904
+-590
+-40
+0
+>sim5M Read_1291_length_7889bp_startpos_1117565_number_of_errors_399_total_error_prob_0.05_passes_1.83575543677_passes_left_1_passes_right_2_cut_position_1296_id_1284_clr_0_7658 5000040 7658
+1117572 1125219 7648 1 0 0 0
+0
+>sim5M Read_1293_length_15363bp_startpos_67921_number_of_errors_1800_total_error_prob_0.11_passes_1.50912522576_passes_left_1_passes_right_2_cut_position_7541_id_1286_clr_0_14522 5000040 14522
+67936 82444 14515 1 8 8 0
+14
+-300
+-1
+-4188
+-701
+-3625
+-1551
+-2781
+0
+>sim5M Read_1295_length_12139bp_startpos_1152863_number_of_errors_1394_total_error_prob_0.12_passes_1.49967741175_passes_left_1_passes_right_2_cut_position_6073_id_1288_clr_0_11468 5000040 11468
+1152866 1164327 11468 2 5 5 0
+-8
+-12
+-3
+-5623
+-2833
+0
+>sim5M Read_1297_length_8966bp_startpos_3289274_number_of_errors_866_total_error_prob_0.10_passes_1.87865526798_passes_left_1_passes_right_2_cut_position_1088_id_1290_clr_0_8548 5000040 8548
+3289274 3297811 8547 7 3 3 0
+-33
+-7
+-8415
+0
+>sim5M Read_1299_length_10196bp_startpos_3355368_number_of_errors_522_total_error_prob_0.05_passes_2.54124211642_passes_left_3_passes_right_2_cut_position_5519_id_1292_clr_0_9870 5000040 9870
+3355369 3365238 1 9870 0 0 0
+0
+>sim5M Read_1300_length_13013bp_startpos_1610566_number_of_errors_1694_total_error_prob_0.13_passes_1.31332373364_passes_left_1_passes_right_2_cut_position_8936_id_1293_clr_0_12186 5000040 12186
+1610593 1622777 12186 1 3 3 0
+-41
+-105
+12034
+0
+>sim5M Read_1304_length_9036bp_startpos_2603344_number_of_errors_638_total_error_prob_0.07_passes_1.80399839142_passes_left_1_passes_right_2_cut_position_1771_id_1297_clr_0_8680 5000040 8680
+2603354 2612028 1 8680 10 10 0
+-16
+-3
+24
+19
+-85
+-189
+-188
+-979
+-4062
+0
+>sim5M Read_1307_length_9265bp_startpos_456769_number_of_errors_657_total_error_prob_0.07_passes_1.96626942735_passes_left_1_passes_right_2_cut_position_313_id_1300_clr_0_8904 5000040 8904
+456772 465671 1 8903 3 3 0
+-8
+-2
+-2619
+0
+>sim5M Read_1310_length_10942bp_startpos_623723_number_of_errors_1180_total_error_prob_0.11_passes_1.63038877465_passes_left_1_passes_right_2_cut_position_4044_id_1303_clr_0_10374 5000040 10374
+623722 634084 10374 6 6 6 0
+-76
+-19
+-586
+-1630
+-49
+-3638
+0
+>sim5M Read_1312_length_12132bp_startpos_4916895_number_of_errors_1082_total_error_prob_0.08_passes_1.5656074205_passes_left_1_passes_right_2_cut_position_5270_id_1305_clr_0_11590 5000040 11590
+4916900 4928485 1 11590 16 16 0
+-24
+15
+-537
+-447
+-1
+-331
+-1208
+999
+222
+471
+-201
+-5781
+616
+-731
+0
+>sim5M Read_1314_length_12036bp_startpos_4265532_number_of_errors_1525_total_error_prob_0.12_passes_1.50870918486_passes_left_1_passes_right_2_cut_position_5913_id_1307_clr_0_11364 5000040 11364
+4265534 4276893 11363 1 5 5 0
+-9
+-3705
+-7644
+0
+>sim5M Read_1316_length_5024bp_startpos_2514173_number_of_errors_99_total_error_prob_0.02_passes_3.14398090534_passes_left_3_passes_right_4_cut_position_4301_id_1308_clr_0_4936 5000040 4936
+2514174 2519106 1 4935 9 9 0
+-445
+-27
+-6
+-706
+486
+47
+-392
+1890
+0
+>sim5M Read_1318_length_2527bp_startpos_31099_number_of_errors_81_total_error_prob_0.03_passes_3.99105902939_passes_left_3_passes_right_4_cut_position_23_id_1310_clr_0_2468 5000040 2468
+31100 33566 1 2468 1 1 0
+-6
+0
+>sim5M Read_131_length_8195bp_startpos_3301786_number_of_errors_391_total_error_prob_0.05_passes_2.15986062128_passes_left_3_passes_right_2_cut_position_1310_id_132_clr_0_7976 5000040 7976
+3301786 3309760 2 7976 0 0 0
+0
+>sim5M Read_1321_length_5491bp_startpos_33319_number_of_errors_305_total_error_prob_0.05_passes_2.73833416754_passes_left_3_passes_right_2_cut_position_4054_id_1313_clr_0_5292 5000040 5292
+33321 38606 5292 3 9 9 0
+817
+-495
+-114
+-294
+-3549
+-4
+0
+>sim5M Read_1324_length_9813bp_startpos_1160595_number_of_errors_601_total_error_prob_0.05_passes_2.371462088_passes_left_3_passes_right_2_cut_position_3645_id_1316_clr_0_9480 5000040 9480
+1160600 1170072 9476 1 3 3 0
+-635
+-3945
+-549
+0
+>sim5M Read_1326_length_1962bp_startpos_2150890_number_of_errors_2_total_error_prob_0.00_passes_12.0132324648_passes_left_13_passes_right_12_cut_position_26_id_1318_clr_0_1960 5000040 1960
+2150892 2152850 1959 1 0 0 0
+0
+>sim5M Read_1333_length_6949bp_startpos_4526042_number_of_errors_582_total_error_prob_0.07_passes_1.8983334774_passes_left_1_passes_right_2_cut_position_706_id_1325_clr_0_6630 5000040 6630
+4526044 4532667 6630 5 5 5 0
+-11
+-6
+0
+>sim5M Read_1334_length_7206bp_startpos_810892_number_of_errors_534_total_error_prob_0.07_passes_1.99052836707_passes_left_1_passes_right_2_cut_position_68_id_1326_clr_0_6924 5000040 6924
+810893 817809 3 6924 8 8 0
+-1021
+-3078
+-1317
+574
+-672
+-207
+-45
+0
+>sim5M Read_1335_length_4740bp_startpos_2551326_number_of_errors_203_total_error_prob_0.04_passes_2.60258876617_passes_left_3_passes_right_2_cut_position_2856_id_1327_clr_0_4616 5000040 4616
+2551327 2555939 4616 4 0 0 0
+0
+>sim5M Read_1341_length_10302bp_startpos_1994146_number_of_errors_850_total_error_prob_0.08_passes_1.71755615158_passes_left_1_passes_right_2_cut_position_2910_id_1333_clr_0_9868 5000040 9868
+1994156 2004008 9856 1 3 3 0
+-8732
+-415
+-529
+0
+>sim5M Read_1348_length_8746bp_startpos_3781964_number_of_errors_424_total_error_prob_0.05_passes_1.90557066728_passes_left_1_passes_right_2_cut_position_826_id_1340_clr_0_8512 5000040 8512
+3781965 3790476 1 8512 0 0 0
+0
+>sim5M Read_134_length_11670bp_startpos_1558898_number_of_errors_1533_total_error_prob_0.13_passes_1.55633428738_passes_left_1_passes_right_2_cut_position_5178_id_135_clr_0_10980 5000040 10980
+1558911 1569865 22 10980 9 9 0
+-6
+-130
+-523
+-2669
+-1120
+-3646
+2268
+594
+0
+>sim5M Read_1350_length_9943bp_startpos_1965144_number_of_errors_1009_total_error_prob_0.10_passes_1.95455762502_passes_left_1_passes_right_2_cut_position_452_id_1342_clr_0_9380 5000040 9380
+1965145 1974523 1 9379 0 0 0
+0
+>sim5M Read_1352_length_6596bp_startpos_2987838_number_of_errors_143_total_error_prob_0.02_passes_3.11922191266_passes_left_3_passes_right_4_cut_position_5810_id_1344_clr_0_6494 5000040 6494
+2987840 2994333 6494 1 0 0 0
+0
+>sim5M Read_1354_length_6803bp_startpos_4629180_number_of_errors_275_total_error_prob_0.04_passes_2.32903880005_passes_left_3_passes_right_2_cut_position_2238_id_1346_clr_0_6618 5000040 6618
+4629182 4635796 6618 1 3 3 0
+-5
+-5714
+-882
+0
+>sim5M Read_1355_length_6365bp_startpos_4019747_number_of_errors_360_total_error_prob_0.06_passes_2.24172817494_passes_left_3_passes_right_2_cut_position_1539_id_1347_clr_0_6154 5000040 6154
+4019754 4025906 1 6154 1 1 0
+-5203
+0
+>sim5M Read_1357_length_7164bp_startpos_3934448_number_of_errors_277_total_error_prob_0.04_passes_2.74472819925_passes_left_3_passes_right_2_cut_position_5335_id_1349_clr_0_6992 5000040 6992
+3934449 3941439 1 6992 1 1 0
+-6919
+0
+>sim5M Read_1360_length_9703bp_startpos_4849706_number_of_errors_596_total_error_prob_0.06_passes_1.9375189753_passes_left_1_passes_right_2_cut_position_606_id_1352_clr_0_9350 5000040 9350
+4849710 4859054 5 9349 0 0 0
+0
+>sim5M Read_1361_length_8629bp_startpos_953405_number_of_errors_417_total_error_prob_0.05_passes_2.31424821422_passes_left_3_passes_right_2_cut_position_2712_id_1353_clr_0_1596 5000040 1596
+960204 961800 1 1596 7 7 0
+42
+-110
+87
+442
+-111
+503
+-273
+0
+>sim5M Read_1369_length_19504bp_startpos_4166605_number_of_errors_2485_total_error_prob_0.12_passes_1.22465988093_passes_left_1_passes_right_2_cut_position_15122_id_1361_clr_0_18254 5000040 18254
+4166624 4184839 18225 4 15 15 0
+-8
+-6
+-10
+-1
+-55
+1306
+170
+431
+-793
+-3578
+-5716
+-5733
+-1
+413
+0
+>sim5M Read_136_length_8450bp_startpos_4248484_number_of_errors_732_total_error_prob_0.09_passes_1.89664278081_passes_left_1_passes_right_2_cut_position_873_id_137_clr_0_8112 5000040 8112
+4248485 4256594 1 8111 1 1 0
+-7832
+0
+>sim5M Read_1370_length_9101bp_startpos_1290084_number_of_errors_1073_total_error_prob_0.11_passes_1.5372275874_passes_left_1_passes_right_2_cut_position_4212_id_1362_clr_0_8568 5000040 8568
+1290086 1298645 8568 1 8 8 0
+-7
+-1
+-15
+-171
+-1306
+-1
+-4902
+-153
+0
+>sim5M Read_1374_length_9110bp_startpos_4454962_number_of_errors_687_total_error_prob_0.08_passes_1.88617933202_passes_left_1_passes_right_2_cut_position_1037_id_1366_clr_0_8772 5000040 8772
+4454951 4463721 8772 1 3 3 0
+-479
+3080
+-5206
+0
+>sim5M Read_1378_length_19548bp_startpos_3972353_number_of_errors_2733_total_error_prob_0.14_passes_1.23404424444_passes_left_1_passes_right_2_cut_position_14973_id_1370_clr_0_18174 5000040 18174
+3972373 3990510 18146 1 12 12 0
+-8
+-327
+-6416
+-21
+-1213
+-1456
+-1584
+-589
+-473
+2373
+-598
+1347
+0
+>sim5M Read_137_length_12646bp_startpos_3453555_number_of_errors_1181_total_error_prob_0.09_passes_1.49644728097_passes_left_1_passes_right_2_cut_position_6368_id_138_clr_0_12032 5000040 12032
+3453566 3465574 21 12032 3 3 0
+-8798
+-3200
+-4
+0
+>sim5M Read_1381_length_8144bp_startpos_4225570_number_of_errors_307_total_error_prob_0.04_passes_2.82338110187_passes_left_3_passes_right_2_cut_position_6706_id_1373_clr_0_7936 5000040 7936
+4225571 4233505 7936 1 1 1 0
+-6531
+0
+>sim5M Read_1382_length_7257bp_startpos_2872893_number_of_errors_226_total_error_prob_0.03_passes_3.09414509775_passes_left_3_passes_right_4_cut_position_6574_id_1374_clr_0_7074 5000040 7074
+2872895 2879967 7074 1 11 11 0
+-2327
+126
+-144
+-813
+121
+57
+262
+-256
+61
+-14
+-137
+0
+>sim5M Read_1383_length_18512bp_startpos_2637522_number_of_errors_2491_total_error_prob_0.13_passes_1.39267205818_passes_left_1_passes_right_2_cut_position_11243_id_1375_clr_0_17318 5000040 17318
+2637556 2654865 8 17317 4 4 0
+5130
+1
+-6601
+-1953
+0
+>sim5M Read_1396_length_12934bp_startpos_2525609_number_of_errors_1560_total_error_prob_0.12_passes_1.49198581104_passes_left_1_passes_right_2_cut_position_6571_id_1388_clr_0_12220 5000040 12220
+2525621 2537827 4 12219 9 9 0
+-10
+-1
+-1206
+-265
+-1
+-1
+-1
+-1048
+-739
+0
+>sim5M Read_1398_length_12592bp_startpos_2029992_number_of_errors_1558_total_error_prob_0.12_passes_1.54966914696_passes_left_1_passes_right_2_cut_position_5671_id_1390_clr_0_11814 5000040 11814
+2030014 2041814 11799 1 2 2 0
+10
+1
+0
+>sim5M Read_139_length_7396bp_startpos_1778093_number_of_errors_657_total_error_prob_0.09_passes_1.66944236774_passes_left_1_passes_right_2_cut_position_2445_id_140_clr_0_7056 5000040 7056
+1778095 1785150 1 7055 5 5 0
+14
+-633
+4085
+1
+-2170
+0
+>sim5M Read_13_length_9475bp_startpos_246909_number_of_errors_1228_total_error_prob_0.13_passes_1.51333861125_passes_left_1_passes_right_2_cut_position_4611_id_14_clr_0_8890 5000040 8890
+246907 255794 8889 1 7 7 0
+12
+4
+-255
+-152
+-175
+-48
+1877
+0
+>sim5M Read_1400_length_3800bp_startpos_2105664_number_of_errors_140_total_error_prob_0.04_passes_2.84214409436_passes_left_3_passes_right_2_cut_position_3200_id_1392_clr_0_3736 5000040 3736
+2105666 2109399 3736 2 3 3 0
+-3198
+-524
+10
+0
+>sim5M Read_1401_length_3667bp_startpos_2569549_number_of_errors_91_total_error_prob_0.02_passes_3.50573925526_passes_left_3_passes_right_4_cut_position_1812_id_1393_clr_0_3608 5000040 3608
+2569551 2573157 3607 1 0 0 0
+0
+>sim5M Read_1403_length_10614bp_startpos_1772916_number_of_errors_824_total_error_prob_0.08_passes_1.57823205649_passes_left_1_passes_right_2_cut_position_4477_id_1395_clr_0_10138 5000040 10138
+1772908 1783049 10138 1 5 5 0
+8
+14
+1
+1
+0
+>sim5M Read_1408_length_3751bp_startpos_1407576_number_of_errors_74_total_error_prob_0.02_passes_3.04217633634_passes_left_3_passes_right_4_cut_position_3593_id_1400_clr_0_3690 5000040 3690
+1407578 1411263 3 3690 2 2 0
+-3417
+-221
+0
+>sim5M Read_1409_length_9984bp_startpos_2062094_number_of_errors_433_total_error_prob_0.04_passes_2.36503975732_passes_left_3_passes_right_2_cut_position_3645_id_1401_clr_0_9730 5000040 9730
+2062096 2071821 9729 5 1 1 0
+8255
+0
+>sim5M Read_140_length_6485bp_startpos_695536_number_of_errors_335_total_error_prob_0.05_passes_2.48653146492_passes_left_3_passes_right_2_cut_position_3155_id_141_clr_0_6274 5000040 6274
+695537 701807 1 6273 4 4 0
+-6228
+25
+-9
+-1
+0
+>sim5M Read_1410_length_13173bp_startpos_1730216_number_of_errors_1251_total_error_prob_0.09_passes_1.75672133977_passes_left_1_passes_right_2_cut_position_3205_id_1402_clr_0_12538 5000040 12538
+1730226 1742759 1 12537 13 13 0
+8
+-28
+-12
+43
+-175
+-58
+852
+-3652
+-1371
+-4138
+751
+-872
+213
+0
+>sim5M Read_1411_length_17026bp_startpos_2687707_number_of_errors_2651_total_error_prob_0.15_passes_1.32210024889_passes_left_1_passes_right_2_cut_position_11542_id_1403_clr_0_15796 5000040 15796
+2687725 2703521 15795 1 4 4 0
+12
+1
+-1167
+3838
+0
+>sim5M Read_1413_length_9534bp_startpos_4713176_number_of_errors_980_total_error_prob_0.10_passes_1.87024644525_passes_left_1_passes_right_2_cut_position_1237_id_1405_clr_0_9036 5000040 9036
+4713180 4722209 2 9036 35 35 0
+-21
+-1
+-867
+-1
+-409
+-746
+173
+-588
+-407
+76
+-43
+-357
+2555
+1
+-788
+11
+304
+345
+615
+-78
+239
+-245
+-161
+0
+>sim5M Read_1414_length_7821bp_startpos_4358743_number_of_errors_474_total_error_prob_0.06_passes_1.94750788171_passes_left_1_passes_right_2_cut_position_411_id_1406_clr_0_7546 5000040 7546
+4358745 4366289 1 7545 0 0 0
+0
+>sim5M Read_1419_length_9092bp_startpos_3579325_number_of_errors_750_total_error_prob_0.08_passes_1.71696458904_passes_left_1_passes_right_2_cut_position_2573_id_1411_clr_0_8698 5000040 8698
+3579327 3588020 8698 1 101 101 0
+-20
+-1
+-63
+-499
+-584
+-495
+-3
+521
+54
+76
+1
+48
+25
+1
+-783
+-156
+-672
+-1
+44
+397
+244
+-352
+38
+96
+1
+1
+1
+1
+1
+1
+1
+231
+216
+229
+137
+-179
+-30
+-140
+-1
+25
+-56
+-10
+-22
+-88
+-11
+-7
+26
+-9
+165
+-91
+-61
+41
+-67
+-17
+-73
+-78
+-305
+-1216
+0
+>sim5M Read_1420_length_6770bp_startpos_1481209_number_of_errors_551_total_error_prob_0.07_passes_2.29912843051_passes_left_3_passes_right_2_cut_position_2025_id_1412_clr_0_6478 5000040 6478
+1481213 1487689 1 6478 1 1 0
+-2985
+0
+>sim5M Read_1428_length_5675bp_startpos_761013_number_of_errors_74_total_error_prob_0.01_passes_4.61868014483_passes_left_5_passes_right_4_cut_position_3511_id_1420_clr_0_5610 5000040 5610
+761014 766626 1 5610 3 3 0
+5600
+5
+2
+0
+>sim5M Read_1429_length_17192bp_startpos_2361621_number_of_errors_2138_total_error_prob_0.12_passes_1.34512539424_passes_left_1_passes_right_2_cut_position_11259_id_1421_clr_0_16100 5000040 16100
+2361643 2377717 16084 1 10 10 0
+-46
+-1
+-1
+-1
+-1
+-2803
+-2426
+-1033
+-300
+0
+>sim5M Read_1432_length_10165bp_startpos_3537319_number_of_errors_684_total_error_prob_0.07_passes_1.91493123245_passes_left_1_passes_right_2_cut_position_865_id_1424_clr_0_9748 5000040 9748
+3537320 3547062 2 9748 7 7 0
+-5
+-6
+7
+-7
+-18
+-6055
+0
+>sim5M Read_1435_length_18435bp_startpos_1016981_number_of_errors_1950_total_error_prob_0.10_passes_1.59773288305_passes_left_1_passes_right_2_cut_position_7416_id_1427_clr_0_17432 5000040 17432
+1016984 1034394 4 17431 43 43 0
+-9
+-820
+91
+-4
+-344
+-27
+-1
+-93
+-738
+-3860
+4746
+1933
+-87
+456
+37
+57
+-84
+-14
+-591
+444
+1433
+-121
+-1160
+-55
+-23
+-1
+-16
+-15
+-21
+-4
+-22
+-4
+-17
+-11
+7
+-17
+-17
+8
+17
+0
+>sim5M Read_1437_length_4421bp_startpos_2113252_number_of_errors_137_total_error_prob_0.03_passes_3.30880970337_passes_left_3_passes_right_4_cut_position_3056_id_1429_clr_0_4330 5000040 4330
+2113255 2117581 4329 3 0 0 0
+0
+>sim5M Read_143_length_17044bp_startpos_4091073_number_of_errors_2417_total_error_prob_0.13_passes_1.15401888627_passes_left_1_passes_right_2_cut_position_14419_id_144_clr_0_15966 5000040 15966
+4091078 4107020 6 15966 43 43 0
+-10
+-9
+-19
+-5
+-19
+-8
+-4
+-4
+-15
+15
+-39
+11
+5
+-15
+27
+-19
+75
+-3
+-15
+-26
+69
+-76
+908
+-4
+-386
+-1
+-514
+-131
+-258
+-1
+16
+1
+-528
+-454
+1081
+-1116
+-4965
+-5084
+0
+>sim5M Read_1444_length_8876bp_startpos_2445548_number_of_errors_270_total_error_prob_0.03_passes_2.73485128618_passes_left_3_passes_right_2_cut_position_6523_id_1435_clr_0_8692 5000040 8692
+2445552 2454241 1 8692 2 2 0
+-8680
+-3
+0
+>sim5M Read_1447_length_8541bp_startpos_2882820_number_of_errors_479_total_error_prob_0.05_passes_2.29981143514_passes_left_3_passes_right_2_cut_position_2561_id_1438_clr_0_8224 5000040 8224
+2882822 2891044 8224 1 1 1 0
+-4369
+0
+>sim5M Read_1449_length_4735bp_startpos_4937870_number_of_errors_115_total_error_prob_0.02_passes_3.12803338915_passes_left_3_passes_right_4_cut_position_4129_id_1440_clr_0_4652 5000040 4652
+4937872 4942523 4652 1 0 0 0
+0
+>sim5M Read_1450_length_9557bp_startpos_198772_number_of_errors_714_total_error_prob_0.07_passes_1.91639107028_passes_left_1_passes_right_2_cut_position_799_id_1441_clr_0_9156 5000040 9156
+198773 207919 1 9155 16 16 0
+-12
+-1
+-22
+79
+6
+380
+-19
+-184
+-1
+-3076
+-783
+-522
+-277
+-2193
+0
+>sim5M Read_1451_length_11396bp_startpos_2980593_number_of_errors_1622_total_error_prob_0.14_passes_1.29155445104_passes_left_1_passes_right_2_cut_position_8073_id_1442_clr_0_10674 5000040 10674
+2980600 2991273 1 10674 0 0 0
+0
+>sim5M Read_1454_length_11267bp_startpos_3660352_number_of_errors_942_total_error_prob_0.08_passes_1.92971801687_passes_left_1_passes_right_2_cut_position_792_id_1445_clr_0_10748 5000040 10748
+3660353 3671094 1 10745 3 3 0
+-2633
+-1254
+-5293
+0
+>sim5M Read_1455_length_6462bp_startpos_2208769_number_of_errors_252_total_error_prob_0.03_passes_3.02955458891_passes_left_3_passes_right_4_cut_position_6271_id_1446_clr_0_6290 5000040 6290
+2208771 2215060 6290 1 0 0 0
+0
+>sim5M Read_1456_length_7799bp_startpos_44606_number_of_errors_465_total_error_prob_0.06_passes_2.20597062913_passes_left_3_passes_right_2_cut_position_1606_id_1447_clr_0_7516 5000040 7516
+44607 52121 1 7515 0 0 0
+0
+>sim5M Read_1459_length_13494bp_startpos_1652548_number_of_errors_899_total_error_prob_0.07_passes_1.92519663708_passes_left_1_passes_right_2_cut_position_1009_id_1450_clr_0_12984 5000040 12984
+1652557 1665531 9 12984 1 1 0
+-12968
+0
+>sim5M Read_1461_length_10227bp_startpos_2558022_number_of_errors_1080_total_error_prob_0.10_passes_1.71802214717_passes_left_1_passes_right_2_cut_position_2884_id_1452_clr_0_9734 5000040 9734
+2558027 2567758 9734 1 21 21 0
+-333
+-145
+-357
+-2305
+782
+714
+-17
+-36
+-153
+-694
+5
+-150
+-448
+568
+71
+37
+505
+1316
+-1092
+5
+0
+>sim5M Read_1462_length_12727bp_startpos_3416712_number_of_errors_1549_total_error_prob_0.12_passes_1.65978101986_passes_left_1_passes_right_2_cut_position_4330_id_1453_clr_0_11926 5000040 11926
+3416731 3428656 1 11926 2 2 0
+1754
+-3400
+0
+>sim5M Read_1465_length_12768bp_startpos_3190168_number_of_errors_980_total_error_prob_0.07_passes_1.78882803765_passes_left_1_passes_right_2_cut_position_2696_id_1456_clr_0_12244 5000040 12244
+3190175 3202416 12244 2 1 1 0
+-4277
+0
+>sim5M Read_1466_length_12417bp_startpos_4403080_number_of_errors_1083_total_error_prob_0.09_passes_1.80414691593_passes_left_1_passes_right_2_cut_position_2432_id_1457_clr_0_11868 5000040 11868
+4403097 4414942 21 11867 5 5 0
+-13
+909
+-10263
+0
+>sim5M Read_1467_length_8735bp_startpos_583995_number_of_errors_396_total_error_prob_0.04_passes_2.48594014644_passes_left_3_passes_right_2_cut_position_4245_id_1458_clr_0_8452 5000040 8452
+583997 592445 1 8452 3 3 0
+-8
+-2709
+-1799
+0
+>sim5M Read_1468_length_3719bp_startpos_4439278_number_of_errors_44_total_error_prob_0.01_passes_4.42329355521_passes_left_5_passes_right_4_cut_position_1574_id_1459_clr_0_3686 5000040 3686
+4439279 4442964 1 3686 0 0 0
+0
+>sim5M Read_146_length_12147bp_startpos_3740679_number_of_errors_1472_total_error_prob_0.12_passes_1.35236090042_passes_left_1_passes_right_2_cut_position_7867_id_147_clr_0_11438 5000040 11438
+3740683 3752121 11438 3 10 10 0
+9
+-118
+-4
+605
+364
+1323
+47
+1121
+-912
+0
+>sim5M Read_1474_length_9031bp_startpos_3484489_number_of_errors_675_total_error_prob_0.07_passes_2.08236033668_passes_left_3_passes_right_2_cut_position_744_id_1465_clr_0_8664 5000040 8664
+3484491 3493154 8664 1 7 7 0
+3194
+954
+-186
+211
+-238
+-868
+0
+>sim5M Read_1477_length_12963bp_startpos_4042795_number_of_errors_1086_total_error_prob_0.08_passes_1.80378951028_passes_left_1_passes_right_2_cut_position_2543_id_1468_clr_0_12410 5000040 12410
+4042813 4055179 1 12410 180 180 0
+16
+997
+13
+230
+1
+1
+-652
+115
+-28
+100
+1
+12
+-83
+80
+268
+-89
+-10
+-390
+-1
+-8
+-14
+-17
+66
+113
+-7
+21
+7
+-16
+-32
+-7
+61
+-268
+-205
+-26
+-8
+49
+-41
+40
+-13
+-19
+-10
+-21
+-89
+16
+16
+13
+49
+-8
+74
+-84
+31
+-59
+117
+-10
+-51
+-4
+-1
+13
+-81
+-32
+32
+4
+-39
+-15
+-24
+-7
+7
+-18
+-1
+-80
+10
+-27
+-1
+-19
+-1
+-40
+-33
+-22
+-56
+-61
+-124
+-38
+5
+-34
+-1
+-32
+-36
+-1
+-21
+-1
+55
+38
+-59
+-32
+-36
+-19
+-23
+-80
+-1
+54
+13
+-17
+-6
+-33
+3
+30
+-61
+63
+-13
+14
+-24
+-11
+-47
+-11
+48
+-9
+13
+9
+-345
+-510
+-761
+-733
+-276
+-2244
+-806
+-233
+-4
+-2
+-17
+0
+>sim5M Read_1479_length_13347bp_startpos_1195531_number_of_errors_1524_total_error_prob_0.11_passes_1.42479936689_passes_left_1_passes_right_2_cut_position_7677_id_1470_clr_0_12568 5000040 12568
+1195538 1208100 12567 4 1 1 0
+-7390
+0
+>sim5M Read_147_length_5675bp_startpos_2051738_number_of_errors_221_total_error_prob_0.04_passes_2.94095216748_passes_left_3_passes_right_2_cut_position_5340_id_148_clr_0_5534 5000040 5534
+2051739 2057266 1 5533 8 8 0
+-5479
+12
+-11
+-8
+-5
+-6
+-1
+0
+>sim5M Read_1481_length_6187bp_startpos_4136610_number_of_errors_112_total_error_prob_0.02_passes_4.50464204977_passes_left_5_passes_right_4_cut_position_3122_id_1472_clr_0_6110 5000040 6110
+4136611 4142720 1 6110 0 0 0
+0
+>sim5M Read_1486_length_6385bp_startpos_3067056_number_of_errors_152_total_error_prob_0.02_passes_3.07911639233_passes_left_3_passes_right_4_cut_position_5880_id_1477_clr_0_6272 5000040 6272
+3067057 3073328 1 6272 0 0 0
+0
+>sim5M Read_1489_length_9036bp_startpos_1878216_number_of_errors_586_total_error_prob_0.06_passes_2.22082541515_passes_left_3_passes_right_2_cut_position_1995_id_1480_clr_0_8706 5000040 8706
+1878220 1886918 1 8706 7 7 0
+-408
+-1613
+-1
+-1
+-1
+-1607
+-1
+0
+>sim5M Read_148_length_7124bp_startpos_4569305_number_of_errors_263_total_error_prob_0.04_passes_2.85331963778_passes_left_3_passes_right_2_cut_position_6079_id_149_clr_0_6960 5000040 6960
+4569306 4576263 1 6959 1 1 0
+-4970
+0
+>sim5M Read_1490_length_19577bp_startpos_983898_number_of_errors_2880_total_error_prob_0.14_passes_1.21143703692_passes_left_1_passes_right_2_cut_position_15438_id_1481_clr_0_18200 5000040 18200
+983903 1002098 18194 1 88 88 0
+-6
+-6
+-2
+-8
+6
+-19
+-9
+-13
+10
+-11
+-3
+-15
+-3
+-4
+-13
+-1
+-2
+-7
+-6
+9
+-9
+-142
+-1
+6961
+-3654
+-296
+348
+1
+-545
+-1
+7
+1
+472
+-611
+3
+-16
+-89
+230
+1
+35
+92
+-210
+80
+86
+8
+163
+33
+1
+39
+1
+149
+1
+83
+859
+248
+-139
+-178
+86
+-354
+24
+-36
+43
+137
+31
+-63
+-6
+-87
+-70
+67
+7
+-7
+16
+53
+2
+158
+76
+322
+-470
+-28
+7
+-80
+12
+0
+>sim5M Read_1493_length_3273bp_startpos_2877350_number_of_errors_64_total_error_prob_0.01_passes_4.83075414214_passes_left_5_passes_right_4_cut_position_2719_id_1484_clr_0_3218 5000040 3218
+2877361 2880575 3218 1 6 6 0
+482
+-53
+-324
+-40
+-13
+0
+>sim5M Read_1494_length_8999bp_startpos_814597_number_of_errors_707_total_error_prob_0.08_passes_1.74860318341_passes_left_1_passes_right_2_cut_position_2262_id_1485_clr_0_8634 5000040 8634
+814685 823209 8531 1 60 60 0
+8
+-5
+-25
+-1
+-11
+-21
+-1
+-1
+-1
+-1
+-1
+-219
+818
+-1342
+63
+-358
+115
+-122
+-1
+-175
+-17
+53
+-108
+-63
+273
+1
+130
+58
+-85
+-44
+-39
+24
+24
+66
+114
+9
+-40
+124
+198
+221
+-15
+37
+-69
+253
+-201
+-46
+167
+329
+-188
+146
+66
+-86
+-286
+52
+-152
+321
+-298
+570
+0
+>sim5M Read_1497_length_13971bp_startpos_940348_number_of_errors_2066_total_error_prob_0.14_passes_1.30080958851_passes_left_1_passes_right_2_cut_position_9768_id_1488_clr_0_12976 5000040 12976
+940368 953341 12975 1 156 156 0
+-15
+-3
+-6
+-1
+-1
+-1
+-3
+-9
+-5
+-37
+-24
+-115
+-5
+166
+1
+-6
+-400
+3631
+-1282
+192
+118
+-49
+27
+559
+30
+171
+1
+-8
+-272
+42
+61
+-124
+-72
+75
+64
+1
+7
+136
+1
+141
+4
+151
+2
+-31
+9
+19
+66
+-94
+-11
+33
+54
+46
+18
+238
+19
+1
+9
+47
+-10
+-15
+12
+-37
+-1
+-8
+-1
+-1
+38
+-24
+-83
+-26
+15
+-53
+-49
+97
+-59
+160
+-171
+-1
+-61
+-14
+-17
+-12
+50
+106
+-103
+-65
+44
+-77
+-33
+-11
+-18
+-106
+11
+1
+130
+7
+148
+-30
+53
+-104
+-19
+-20
+-5
+-21
+-38
+32
+15
+-60
+-26
+71
+37
+112
+25
+-39
+33
+83
+-55
+25
+21
+62
+11
+4
+10
+-215
+24
+-127
+-35
+74
+63
+-73
+47
+-46
+30
+-79
+186
+-386
+-47
+0
+>sim5M Read_1499_length_10816bp_startpos_2174554_number_of_errors_458_total_error_prob_0.04_passes_2.20367096088_passes_left_3_passes_right_2_cut_position_2203_id_1490_clr_0_10498 5000040 10498
+2174556 2185051 10498 3 0 0 0
+0
+>sim5M Read_149_length_8339bp_startpos_237168_number_of_errors_361_total_error_prob_0.05_passes_1.9958298619_passes_left_1_passes_right_2_cut_position_35_id_150_clr_0_8124 5000040 8124
+237170 245289 8123 1 3 3 0
+-4301
+-240
+-1
+0
+>sim5M Read_1502_length_12794bp_startpos_3325535_number_of_errors_1281_total_error_prob_0.10_passes_1.54767260293_passes_left_1_passes_right_2_cut_position_5787_id_1493_clr_0_12178 5000040 12178
+3325542 3337701 12171 1 15 15 0
+10
+-5
+556
+-11
+-1
+-494
+-1
+-1110
+-482
+-651
+-1
+-1495
+-595
+-2096
+-4659
+0
+>sim5M Read_1506_length_5462bp_startpos_3207454_number_of_errors_78_total_error_prob_0.02_passes_4.25977446212_passes_left_5_passes_right_4_cut_position_1419_id_1497_clr_0_5406 5000040 5406
+3207455 3212860 5406 1 0 0 0
+0
+>sim5M Read_1509_length_14027bp_startpos_4960918_number_of_errors_2517_total_error_prob_0.17_passes_1.13890461869_passes_left_1_passes_right_2_cut_position_12079_id_1500_clr_0_13060 5000040 13060
+4960989 4973994 13007 3 12 12 0
+5
+-20
+41
+1
+-484
+-2610
+4652
+-1381
+38
+969
+-2796
+0
+>sim5M Read_1510_length_2494bp_startpos_4682163_number_of_errors_17_total_error_prob_0.01_passes_6.70806678495_passes_left_7_passes_right_6_cut_position_1766_id_1501_clr_0_2482 5000040 2482
+4682165 4684641 5 2481 0 0 0
+0
+>sim5M Read_1512_length_14236bp_startpos_4465018_number_of_errors_1708_total_error_prob_0.12_passes_1.32304565576_passes_left_1_passes_right_2_cut_position_9637_id_1503_clr_0_13454 5000040 13454
+4465033 4478485 13453 1 2 2 0
+2219
+-1748
+0
+>sim5M Read_1514_length_8324bp_startpos_3853335_number_of_errors_620_total_error_prob_0.07_passes_1.80572750761_passes_left_1_passes_right_2_cut_position_1617_id_1505_clr_0_2566 5000040 2566
+3858774 3861338 1 2565 63 63 0
+566
+6
+755
+134
+-617
+-158
+-5
+-113
+0
+>sim5M Read_1519_length_8625bp_startpos_4821214_number_of_errors_461_total_error_prob_0.05_passes_2.14361294533_passes_left_3_passes_right_2_cut_position_1239_id_1510_clr_0_8344 5000040 8344
+4821216 4829558 8344 1 3 3 0
+-6237
+184
+-1301
+0
+>sim5M Read_1524_length_4259bp_startpos_4522371_number_of_errors_132_total_error_prob_0.03_passes_2.7140411376_passes_left_3_passes_right_2_cut_position_3041_id_1515_clr_0_4178 5000040 4178
+4522372 4526545 4178 4 1 1 0
+-4169
+0
+>sim5M Read_1525_length_7739bp_startpos_4368867_number_of_errors_745_total_error_prob_0.09_passes_1.5893838525_passes_left_1_passes_right_2_cut_position_3178_id_1516_clr_0_7368 5000040 7368
+4368879 4376234 5 7367 8 8 0
+-666
+-551
+-376
+-1
+-477
+-173
+-664
+0
+>sim5M Read_1529_length_6731bp_startpos_3772958_number_of_errors_720_total_error_prob_0.11_passes_1.70203365827_passes_left_1_passes_right_2_cut_position_2006_id_1520_clr_0_6382 5000040 6382
+3772972 3779330 6367 7 2 2 0
+-16
+-1
+0
+>sim5M Read_1530_length_7597bp_startpos_2685028_number_of_errors_334_total_error_prob_0.04_passes_2.75455061845_passes_left_3_passes_right_2_cut_position_5732_id_1521_clr_0_7390 5000040 7390
+2685029 2692418 7390 1 0 0 0
+0
+>sim5M Read_1531_length_7215bp_startpos_4346436_number_of_errors_603_total_error_prob_0.08_passes_1.67650561294_passes_left_1_passes_right_2_cut_position_2334_id_1522_clr_0_6892 5000040 6892
+4346440 4353326 4 6892 4 4 0
+-12
+-6859
+6
+-8
+0
+>sim5M Read_1536_length_7689bp_startpos_2735082_number_of_errors_351_total_error_prob_0.05_passes_2.27155372507_passes_left_3_passes_right_2_cut_position_2088_id_1527_clr_0_7454 5000040 7454
+2735082 2742534 1 7454 1 1 0
+-1846
+0
+>sim5M Read_1537_length_7953bp_startpos_1395019_number_of_errors_439_total_error_prob_0.06_passes_2.42141779644_passes_left_3_passes_right_2_cut_position_3352_id_1528_clr_0_7688 5000040 7688
+1395020 1402704 1 7687 2 2 0
+-5731
+-1950
+0
+>sim5M Read_1540_length_25097bp_startpos_2337363_number_of_errors_3681_total_error_prob_0.14_passes_1.27587677667_passes_left_1_passes_right_2_cut_position_18173_id_1531_clr_0_23416 5000040 23416
+2337395 2360800 23415 1 19 19 0
+-15
+-2216
+-353
+-678
+-2924
+-432
+-2
+-1403
+462
+1822
+-2001
+-510
+641
+-402
+-11
+686
+-7964
+0
+>sim5M Read_1543_length_10014bp_startpos_3723695_number_of_errors_896_total_error_prob_0.08_passes_1.7530935791_passes_left_1_passes_right_2_cut_position_2473_id_1534_clr_0_9528 5000040 9528
+3723703 3733229 1 9528 7 7 0
+-14
+-7
+1228
+1
+103
+-6886
+-1108
+0
+>sim5M Read_1544_length_7824bp_startpos_4527589_number_of_errors_846_total_error_prob_0.11_passes_1.43114855031_passes_left_1_passes_right_2_cut_position_4451_id_1535_clr_0_7400 5000040 7400
+4527591 4534989 7399 1 0 0 0
+0
+>sim5M Read_1547_length_11791bp_startpos_1825315_number_of_errors_1166_total_error_prob_0.10_passes_1.668818016_passes_left_1_passes_right_2_cut_position_3905_id_1538_clr_0_11222 5000040 11222
+1825317 1836521 11222 7 13 13 0
+-7
+-8
+4
+-5
+-11
+-2
+-1
+-1333
+-1170
+-1
+-102
+-7743
+-134
+0
+>sim5M Read_1554_length_8263bp_startpos_3765930_number_of_errors_1128_total_error_prob_0.13_passes_1.50752516086_passes_left_1_passes_right_2_cut_position_4069_id_1545_clr_0_7780 5000040 7780
+3765938 3773722 1 7780 5 5 0
+649
+6930
+194
+1
+1
+0
+>sim5M Read_1556_length_6790bp_startpos_2325339_number_of_errors_509_total_error_prob_0.07_passes_2.04718406027_passes_left_3_passes_right_2_cut_position_320_id_1547_clr_0_6520 5000040 6520
+2325340 2331857 6520 1 2 2 0
+-89
+-5958
+0
+>sim5M Read_1566_length_12327bp_startpos_1210507_number_of_errors_1534_total_error_prob_0.12_passes_1.33823547903_passes_left_1_passes_right_2_cut_position_8158_id_1557_clr_0_11648 5000040 11648
+1210519 1222158 11634 1 81 81 0
+12
+222
+1
+593
+214
+-765
+-1544
+222
+633
+-67
+-1
+-153
+76
+31
+-7
+-1
+86
+21
+-71
+-1
+35
+-39
+13
+1
+39
+3
+-12
+10
+36
+-24
+-261
+1517
+-566
+-148
+-2539
+449
+74
+656
+0
+>sim5M Read_1569_length_3787bp_startpos_1587016_number_of_errors_36_total_error_prob_0.01_passes_4.17015709466_passes_left_5_passes_right_4_cut_position_644_id_1560_clr_0_3750 5000040 3750
+1587019 1590768 1 3750 0 0 0
+0
+>sim5M Read_1571_length_6267bp_startpos_1647454_number_of_errors_298_total_error_prob_0.05_passes_2.53237114234_passes_left_3_passes_right_2_cut_position_3336_id_1562_clr_0_6060 5000040 6060
+1647455 1653514 1 6060 0 0 0
+0
+>sim5M Read_1578_length_12590bp_startpos_3375199_number_of_errors_1376_total_error_prob_0.10_passes_1.55906572154_passes_left_1_passes_right_2_cut_position_5551_id_1569_clr_0_11932 5000040 11932
+3375206 3387127 11932 1 12 12 0
+-6
+-252
+-89
+-307
+-124
+-1
+17
+-3338
+-1
+-2505
+-1
+-3272
+0
+>sim5M Read_1580_length_9720bp_startpos_4217604_number_of_errors_1125_total_error_prob_0.11_passes_1.63211681377_passes_left_1_passes_right_2_cut_position_3576_id_1571_clr_0_9172 5000040 9172
+4217605 4226778 1 9172 17 17 0
+12
+5
+-17
+-10
+10
+13
+6
+4
+-14
+-14
+18
+-13
+0
+>sim5M Read_1583_length_12077bp_startpos_271292_number_of_errors_1566_total_error_prob_0.13_passes_1.47439288211_passes_left_1_passes_right_2_cut_position_6348_id_1574_clr_0_11374 5000040 11374
+271300 282648 11370 4 36 36 0
+-8
+-8
+-1
+-10
+-8
+-17
+-6
+-19
+-10
+-1
+6
+-9
+-22
+-46
+-8
+-47
+-6
+-1
+-8
+-1
+-159
+-88
+753
+461
+75
+-752
+0
+>sim5M Read_1585_length_11698bp_startpos_1098218_number_of_errors_1059_total_error_prob_0.09_passes_1.52954398659_passes_left_1_passes_right_2_cut_position_5503_id_1576_clr_0_11200 5000040 11200
+1098216 1109415 2 11200 3 3 0
+8
+0
+>sim5M Read_1586_length_3969bp_startpos_1720147_number_of_errors_64_total_error_prob_0.02_passes_4.34126368375_passes_left_5_passes_right_4_cut_position_1354_id_1577_clr_0_3926 5000040 3926
+1720145 1724069 1 3925 0 0 0
+0
+>sim5M Read_1590_length_2968bp_startpos_2582233_number_of_errors_19_total_error_prob_0.01_passes_6.11737893341_passes_left_7_passes_right_6_cut_position_348_id_1581_clr_0_2952 5000040 2952
+2582234 2585186 2952 1 1 1 0
+2944
+0
+>sim5M Read_1594_length_7839bp_startpos_3025045_number_of_errors_731_total_error_prob_0.09_passes_1.69114680478_passes_left_1_passes_right_2_cut_position_2421_id_1585_clr_0_7492 5000040 7492
+3025048 3032529 5 7491 5 5 0
+-8
+-10
+-1
+-1105
+-6103
+0
+>sim5M Read_1595_length_9362bp_startpos_709310_number_of_errors_952_total_error_prob_0.09_passes_1.62328388384_passes_left_1_passes_right_2_cut_position_3527_id_1586_clr_0_8892 5000040 8892
+709315 718200 4 8890 1 1 0
+-8052
+0
+>sim5M Read_1596_length_9704bp_startpos_676324_number_of_errors_831_total_error_prob_0.08_passes_1.74754065824_passes_left_1_passes_right_2_cut_position_2450_id_1587_clr_0_9282 5000040 9282
+676333 685614 1 9282 0 0 0
+0
+>sim5M Read_1605_length_14971bp_startpos_3002648_number_of_errors_1823_total_error_prob_0.12_passes_1.36001186979_passes_left_1_passes_right_2_cut_position_9581_id_1596_clr_0_14106 5000040 14106
+3002649 3016750 14106 1 17 17 0
+11
+-32
+-9
+-6
+-5
+450
+243
+1
+-30
+-605
+-1
+5658
+-4508
+-177
+0
+>sim5M Read_1606_length_7090bp_startpos_464128_number_of_errors_452_total_error_prob_0.06_passes_2.40729996216_passes_left_3_passes_right_2_cut_position_2888_id_1597_clr_0_6828 5000040 6828
+464120 470947 6828 1 0 0 0
+0
+>sim5M Read_1607_length_8181bp_startpos_4239690_number_of_errors_518_total_error_prob_0.06_passes_2.12699300764_passes_left_3_passes_right_2_cut_position_1039_id_1598_clr_0_7836 5000040 7836
+4239697 4247531 1 7836 3 3 0
+-2301
+-1521
+4000
+0
+>sim5M Read_1609_length_11258bp_startpos_3893548_number_of_errors_801_total_error_prob_0.07_passes_1.91470354633_passes_left_1_passes_right_2_cut_position_960_id_1600_clr_0_10804 5000040 10804
+3893558 3904343 10787 1 3 3 0
+6
+-118
+-36
+0
+>sim5M Read_1610_length_7729bp_startpos_3686092_number_of_errors_487_total_error_prob_0.07_passes_2.2237862949_passes_left_3_passes_right_2_cut_position_1730_id_1601_clr_0_7462 5000040 7462
+3686094 3693553 7461 1 5 5 0
+-2733
+-3442
+-214
+447
+505
+0
+>sim5M Read_1615_length_17187bp_startpos_3174049_number_of_errors_2319_total_error_prob_0.13_passes_1.41008204394_passes_left_1_passes_right_2_cut_position_10139_id_1606_clr_0_16142 5000040 16142
+3174077 3190213 16142 2 9 9 0
+-400
+-971
+-1
+-53
+-1
+159
+-638
+100
+0
+>sim5M Read_1616_length_18448bp_startpos_4603572_number_of_errors_2956_total_error_prob_0.15_passes_1.23613128332_passes_left_1_passes_right_2_cut_position_14092_id_1607_clr_0_17084 5000040 17084
+4603597 4620675 1 17084 5 5 0
+-18
+-1
+-3298
+-2500
+-5438
+0
+>sim5M Read_1617_length_4738bp_startpos_2811193_number_of_errors_240_total_error_prob_0.05_passes_2.58564334832_passes_left_3_passes_right_2_cut_position_2775_id_1608_clr_0_4590 5000040 4590
+2811195 2815778 4590 8 1 1 0
+4578
+0
+>sim5M Read_1620_length_7600bp_startpos_3432031_number_of_errors_291_total_error_prob_0.04_passes_2.59949608338_passes_left_3_passes_right_2_cut_position_4556_id_1611_clr_0_7436 5000040 7436
+3432032 3439440 1 7430 142 142 0
+-149
+-108
+63
+-105
+-6
+87
+-63
+-52
+4
+-41
+-61
+-31
+-39
+-58
+-26
+29
+8
+-13
+-117
+81
+-21
+-184
+10
+99
+8
+1218
+1
+470
+377
+-113
+-24
+-50
+-60
+-35
+-20
+-9
+35
+-4
+-55
+-18
+3
+-19
+12
+-62
+-35
+-18
+-72
+-25
+-26
+31
+-57
+56
+-33
+-58
+20
+-22
+30
+-15
+21
+42
+8
+69
+30
+-30
+-88
+-35
+-163
+11
+-7
+-10
+17
+-120
+-10
+-4
+-5
+15
+1
+-90
+-110
+11
+-17
+-54
+-26
+280
+259
+0
+>sim5M Read_1623_length_9547bp_startpos_4426473_number_of_errors_590_total_error_prob_0.06_passes_2.10308419177_passes_left_3_passes_right_2_cut_position_984_id_1614_clr_0_9202 5000040 9202
+4426475 4435676 9201 1 3 3 0
+3033
+1495
+-979
+0
+>sim5M Read_1625_length_8769bp_startpos_1264129_number_of_errors_415_total_error_prob_0.04_passes_2.63038996918_passes_left_3_passes_right_2_cut_position_5528_id_1616_clr_0_8504 5000040 8504
+1264130 1272632 1 8504 1 1 0
+-8481
+0
+>sim5M Read_1626_length_7308bp_startpos_4808_number_of_errors_378_total_error_prob_0.05_passes_2.68908063691_passes_left_3_passes_right_2_cut_position_5036_id_1617_clr_0_7066 5000040 7066
+4810 11881 7066 1 55 55 0
+1819
+-1068
+1141
+42
+403
+-77
+118
+-21
+499
+52
+-223
+4
+45
+1
+-174
+65
+86
+1
+73
+-1040
+-121
+-1
+0
+>sim5M Read_1629_length_3932bp_startpos_3511698_number_of_errors_217_total_error_prob_0.05_passes_2.48032329948_passes_left_3_passes_right_2_cut_position_1889_id_1620_clr_0_3786 5000040 3786
+3511700 3515485 1 3786 0 0 0
+0
+>sim5M Read_1630_length_13326bp_startpos_3099409_number_of_errors_1414_total_error_prob_0.10_passes_1.47331930443_passes_left_1_passes_right_2_cut_position_7019_id_1621_clr_0_12608 5000040 12608
+3099422 3112019 8 12607 2 2 0
+-4280
+-8289
+0
+>sim5M Read_1635_length_10445bp_startpos_2161152_number_of_errors_1401_total_error_prob_0.13_passes_1.67627709389_passes_left_1_passes_right_2_cut_position_3381_id_1625_clr_0_9802 5000040 9802
+2161149 2170917 32 9802 11 11 0
+41
+9
+1
+1
+-2774
+-338
+-1612
+-1567
+-72
+-991
+0
+>sim5M Read_1638_length_12272bp_startpos_87245_number_of_errors_1152_total_error_prob_0.09_passes_1.62756141072_passes_left_1_passes_right_2_cut_position_4571_id_1628_clr_0_11680 5000040 11680
+87270 98921 33 11680 76 76 0
+-6
+-15
+5
+-7
+15
+-62
+87
+-1082
+215
+-146
+-137
+-1
+-2225
+-57
+629
+-424
+-897
+-134
+71
+-494
+-126
+37
+120
+229
+15
+-4
+49
+-126
+46
+44
+-24
+34
+30
+-22
+-69
+39
+-16
+166
+-6
+-27
+-5
+-28
+111
+64
+23
+33
+-13
+-6
+116
+2
+-19
+26
+-90
+17
+289
+24
+-52
+64
+97
+-123
+412
+-21
+10
+190
+188
+-130
+187
+604
+16
+263
+0
+>sim5M Read_1639_length_6540bp_startpos_3886483_number_of_errors_413_total_error_prob_0.06_passes_2.19870660015_passes_left_3_passes_right_2_cut_position_1300_id_1629_clr_0_6272 5000040 6272
+3886485 3892756 6272 1 0 0 0
+0
+>sim5M Read_1640_length_13407bp_startpos_3336551_number_of_errors_1285_total_error_prob_0.09_passes_1.73992760856_passes_left_1_passes_right_2_cut_position_3487_id_1630_clr_0_12770 5000040 12770
+3336548 3349315 1 12770 2 2 0
+-47
+-8497
+0
+>sim5M Read_1641_length_7835bp_startpos_1299069_number_of_errors_994_total_error_prob_0.12_passes_1.40118589819_passes_left_1_passes_right_2_cut_position_4692_id_1631_clr_0_7390 5000040 7390
+1299070 1306454 1 7386 1 1 0
+-57
+0
+>sim5M Read_1642_length_10877bp_startpos_2389037_number_of_errors_1192_total_error_prob_0.11_passes_1.4043939693_passes_left_1_passes_right_2_cut_position_6478_id_1632_clr_0_10260 5000040 10260
+2389058 2399316 1 10260 3 3 0
+-1766
+1607
+-2380
+0
+>sim5M Read_1646_length_5522bp_startpos_1125139_number_of_errors_211_total_error_prob_0.04_passes_2.25937224468_passes_left_3_passes_right_2_cut_position_1432_id_1636_clr_0_5382 5000040 5382
+1125142 1130523 1 5382 0 0 0
+0
+>sim5M Read_1647_length_9294bp_startpos_4333624_number_of_errors_463_total_error_prob_0.04_passes_2.33580129834_passes_left_3_passes_right_2_cut_position_3121_id_1637_clr_0_9018 5000040 9018
+4333624 4342639 9018 1 2 2 0
+-6771
+-2236
+0
+>sim5M Read_1648_length_15097bp_startpos_871629_number_of_errors_1954_total_error_prob_0.13_passes_1.46887222442_passes_left_1_passes_right_2_cut_position_8018_id_1638_clr_0_14086 5000040 14086
+871660 885740 14086 1 5 5 0
+-17
+-315
+-2911
+-1
+-3009
+0
+>sim5M Read_1653_length_9972bp_startpos_347658_number_of_errors_1463_total_error_prob_0.14_passes_1.34194416479_passes_left_1_passes_right_2_cut_position_6562_id_1642_clr_0_9406 5000040 9406
+347668 357030 9377 1 28 28 0
+-99
+-10
+-7
+-83
+-133
+3
+-4
+-11
+-17
+-24
+-1
+23
+-92
+-12
+-10
+-9
+204
+1
+-532
+-152
+-53
+291
+233
+-6
+-1
+-4408
+0
+>sim5M Read_1659_length_12854bp_startpos_2753986_number_of_errors_1496_total_error_prob_0.11_passes_1.39393492043_passes_left_1_passes_right_2_cut_position_7790_id_1648_clr_0_12116 5000040 12116
+2753987 2766100 2 12116 3 3 0
+-10
+8
+-566
+0
+>sim5M Read_1660_length_4554bp_startpos_4275456_number_of_errors_214_total_error_prob_0.04_passes_2.19040467247_passes_left_3_passes_right_2_cut_position_867_id_1649_clr_0_4430 5000040 4430
+4275457 4279884 1 4430 3 3 0
+-1473
+-2938
+0
+>sim5M Read_1664_length_9388bp_startpos_1221957_number_of_errors_506_total_error_prob_0.05_passes_2.20743258312_passes_left_3_passes_right_2_cut_position_1947_id_1653_clr_0_9074 5000040 9074
+1221958 1231031 1 9074 2 2 0
+-657
+7777
+0
+>sim5M Read_1665_length_6123bp_startpos_1858180_number_of_errors_289_total_error_prob_0.04_passes_2.89929083921_passes_left_3_passes_right_2_cut_position_5506_id_1654_clr_0_5938 5000040 5938
+1858182 1864119 5938 1 0 0 0
+0
+>sim5M Read_1666_length_3327bp_startpos_381751_number_of_errors_133_total_error_prob_0.03_passes_2.6657624998_passes_left_3_passes_right_2_cut_position_2215_id_1655_clr_0_3254 5000040 3254
+381753 385005 3253 1 0 0 0
+0
+>sim5M Read_1667_length_4120bp_startpos_3128313_number_of_errors_108_total_error_prob_0.03_passes_2.88074749295_passes_left_3_passes_right_2_cut_position_3629_id_1656_clr_0_4054 5000040 4054
+3128314 3132364 1 4051 0 0 0
+0
+>sim5M Read_1669_length_20961bp_startpos_1345345_number_of_errors_2363_total_error_prob_0.11_passes_1.42045719144_passes_left_1_passes_right_2_cut_position_12148_id_1658_clr_0_19764 5000040 19764
+1345378 1365144 1 19764 27 27 0
+-22
+-67
+2114
+-5614
+397
+63
+-243
+-66
+-202
+-99
+-1
+182
+250
+-36
+27
+23
+1
+220
+230
+1
+1
+-6
+38
+1
+-117
+4393
+-4563
+0
+>sim5M Read_1677_length_6929bp_startpos_4763308_number_of_errors_289_total_error_prob_0.04_passes_2.44368161614_passes_left_3_passes_right_2_cut_position_3074_id_1666_clr_0_6742 5000040 6742
+4763310 4770044 6742 4 8 8 0
+947
+-802
+-1130
+-191
+774
+-2292
+-425
+-136
+0
+>sim5M Read_1678_length_6348bp_startpos_2870903_number_of_errors_515_total_error_prob_0.09_passes_1.66817679693_passes_left_1_passes_right_2_cut_position_2106_id_1667_clr_0_6106 5000040 6106
+2870912 2876999 18 6106 1 1 0
+-6074
+0
+>sim5M Read_167_length_6700bp_startpos_4968894_number_of_errors_299_total_error_prob_0.05_passes_2.81465163123_passes_left_3_passes_right_2_cut_position_5458_id_167_clr_0_6492 5000040 6492
+4968906 4975391 1 6492 54 54 0
+-6
+-185
+-1
+705
+-157
+-211
+-406
+-183
+393
+556
+1167
+-83
+-514
+-91
+-452
+124
+-289
+184
+0
+>sim5M Read_1684_length_7454bp_startpos_1959144_number_of_errors_533_total_error_prob_0.07_passes_2.16602640133_passes_left_3_passes_right_2_cut_position_1238_id_1673_clr_0_7150 5000040 7150
+1959146 1966286 7149 7 3 3 0
+-1735
+-5388
+0
+>sim5M Read_1686_length_11061bp_startpos_831050_number_of_errors_764_total_error_prob_0.07_passes_2.07166614028_passes_left_3_passes_right_2_cut_position_793_id_1675_clr_0_10646 5000040 10646
+831051 841691 1 10646 9 9 0
+-94
+211
+-657
+-16
+-4768
+-1551
+-632
+0
+>sim5M Read_1688_length_4136bp_startpos_12020_number_of_errors_134_total_error_prob_0.03_passes_3.70997294373_passes_left_3_passes_right_4_cut_position_1200_id_1677_clr_0_4038 5000040 4038
+12021 16058 1 4038 55 55 0
+-7
+-1
+-35
+186
+-187
+159
+-113
+70
+-860
+588
+357
+15
+-230
+318
+345
+-207
+0
+>sim5M Read_1694_length_6848bp_startpos_1374640_number_of_errors_404_total_error_prob_0.06_passes_2.60082097657_passes_left_3_passes_right_2_cut_position_4114_id_1683_clr_0_6646 5000040 6646
+1374641 1381284 1 6646 6 6 0
+-3707
+-623
+1196
+-160
+-944
+14
+0
+>sim5M Read_1698_length_1545bp_startpos_693588_number_of_errors_14_total_error_prob_0.01_passes_6.13840078696_passes_left_7_passes_right_6_cut_position_214_id_1687_clr_0_1532 5000040 1532
+693589 695120 1 1532 0 0 0
+0
+>sim5M Read_1699_length_6985bp_startpos_3313113_number_of_errors_475_total_error_prob_0.06_passes_2.20036357699_passes_left_3_passes_right_2_cut_position_1400_id_1688_clr_0_6740 5000040 6740
+3313112 3319849 1 6739 1 1 0
+-2172
+0
+>sim5M Read_169_length_10177bp_startpos_3546460_number_of_errors_898_total_error_prob_0.09_passes_1.59936792374_passes_left_1_passes_right_2_cut_position_4077_id_169_clr_0_9702 5000040 9702
+3546457 3556155 9702 1 3 3 0
+-43
+-1
+-253
+0
+>sim5M Read_1701_length_12457bp_startpos_4791172_number_of_errors_1643_total_error_prob_0.13_passes_1.3080763636_passes_left_1_passes_right_2_cut_position_8619_id_1690_clr_0_11694 5000040 11694
+4791179 4802864 1 11694 9 9 0
+-141
+-559
+-1
+-413
+-1912
+-756
+-3691
+-3347
+0
+>sim5M Read_1702_length_8332bp_startpos_2997568_number_of_errors_587_total_error_prob_0.07_passes_2.024301035_passes_left_3_passes_right_2_cut_position_202_id_1691_clr_0_7998 5000040 7998
+2997569 3005564 1 7997 48 48 0
+-12
+-5
+-21
+-8
+-6
+-312
+-971
+-1
+1030
+-212
+-35
+217
+551
+-198
+-1
+45
+73
+99
+116
+-105
+227
+323
+-244
+138
+26
+-224
+148
+57
+21
+-26
+-122
+-56
+11
+170
+39
+120
+178
+-301
+-157
+0
+>sim5M Read_1703_length_6542bp_startpos_4622096_number_of_errors_466_total_error_prob_0.07_passes_2.26922980416_passes_left_3_passes_right_2_cut_position_1761_id_1692_clr_0_6286 5000040 6286
+4622098 4628377 6285 6 0 0 0
+0
+>sim5M Read_1704_length_9059bp_startpos_4211635_number_of_errors_514_total_error_prob_0.06_passes_1.9824899543_passes_left_1_passes_right_2_cut_position_159_id_1693_clr_0_8746 5000040 8746
+4211640 4220382 4 8745 1 1 0
+8
+0
+>sim5M Read_1705_length_5696bp_startpos_3094101_number_of_errors_247_total_error_prob_0.04_passes_2.13327395275_passes_left_3_passes_right_2_cut_position_759_id_1694_clr_0_5548 5000040 5548
+3094102 3099649 1 5548 0 0 0
+0
+>sim5M Read_1706_length_4763bp_startpos_3878975_number_of_errors_68_total_error_prob_0.02_passes_5.00710645626_passes_left_5_passes_right_6_cut_position_4729_id_1695_clr_0_4710 5000040 4710
+3878977 3883686 4710 1 0 0 0
+0
+>sim5M Read_1708_length_8444bp_startpos_4479926_number_of_errors_611_total_error_prob_0.07_passes_1.74896502446_passes_left_1_passes_right_2_cut_position_2120_id_1697_clr_0_8114 5000040 8114
+4479931 4488041 5 8114 22 22 0
+-54
+-1414
+-96
+-998
+294
+-810
+291
+40
+71
+128
+-146
+-345
+87
+416
+196
+-459
+447
+0
+>sim5M Read_1711_length_11695bp_startpos_952885_number_of_errors_1557_total_error_prob_0.13_passes_1.40759821185_passes_left_1_passes_right_2_cut_position_6928_id_1700_clr_0_5572 5000040 5572
+952886 958458 1 5572 113 113 0
+-10
+-12
+-3
+-9
+-7
+-1
+-18
+-2
+-1
+-8
+-1
+5
+-19
+-5
+-7
+-1
+-1
+-3
+23
+-9
+-29
+-105
+547
+99
+-716
+-1
+208
+764
+437
+-32
+-40
+42
+140
+16
+97
+-47
+34
+-22
+-6
+17
+23
+33
+-30
+-34
+55
+84
+118
+-45
+27
+1
+22
+8
+-203
+-1
+117
+-44
+27
+-51
+13
+42
+34
+4
+-48
+18
+9
+-13
+26
+17
+-52
+-26
+-1
+-19
+-1
+5
+-53
+3
+14
+26
+14
+49
+56
+64
+21
+-15
+-11
+4
+-14
+23
+55
+1
+11
+16
+8
+-22
+-1
+-214
+9
+0
+>sim5M Read_1712_length_11748bp_startpos_56974_number_of_errors_1418_total_error_prob_0.12_passes_1.30353550984_passes_left_1_passes_right_2_cut_position_8182_id_1701_clr_0_11104 5000040 11104
+56976 68084 11104 1 16 16 0
+-991
+-1
+-2539
+3186
+-16
+532
+91
+1
+1
+5
+255
+327
+48
+0
+>sim5M Read_1713_length_12393bp_startpos_4639514_number_of_errors_1476_total_error_prob_0.11_passes_1.73234463253_passes_left_1_passes_right_2_cut_position_3317_id_1702_clr_0_11688 5000040 11688
+4639515 4651190 11688 1 16 16 0
+-14
+-3
+-8
+-14
+24
+-112
+-33
+-1
+81
+-60
+-416
+-455
+-55
+-640
+-1
+-2775
+0
+>sim5M Read_1714_length_8848bp_startpos_2041763_number_of_errors_419_total_error_prob_0.05_passes_2.44195426644_passes_left_3_passes_right_2_cut_position_3910_id_1703_clr_0_8586 5000040 8586
+2041765 2050351 1 8586 1 1 0
+666
+0
+>sim5M Read_1715_length_11066bp_startpos_914099_number_of_errors_1157_total_error_prob_0.10_passes_1.5346489011_passes_left_1_passes_right_2_cut_position_5150_id_1704_clr_0_10492 5000040 10492
+914110 924592 1 10492 10 10 0
+-8
+-2880
+-796
+-2410
+-1194
+-11
+-1108
+-271
+-1340
+0
+>sim5M Read_1717_length_13906bp_startpos_382501_number_of_errors_1220_total_error_prob_0.09_passes_1.85968733318_passes_left_1_passes_right_2_cut_position_1951_id_1706_clr_0_13262 5000040 13262
+382511 395768 1 13262 4 4 0
+-784
+-8995
+-3231
+-1
+0
+>sim5M Read_1718_length_13886bp_startpos_4066795_number_of_errors_1911_total_error_prob_0.13_passes_1.51798398764_passes_left_1_passes_right_2_cut_position_6693_id_1707_clr_0_12994 5000040 12994
+4066809 4079800 12994 1 4 4 0
+12
+-34
+-121
+-4251
+0
+>sim5M Read_1728_length_6424bp_startpos_520195_number_of_errors_496_total_error_prob_0.08_passes_2.08727607593_passes_left_3_passes_right_2_cut_position_561_id_1717_clr_0_6190 5000040 6190
+520196 526392 2 6190 64 64 0
+3765
+477
+49
+1
+-29
+10
+-4
+33
+-35
+4
+20
+-25
+-28
+29
+-15
+7
+25
+55
+-12
+26
+-15
+30
+11
+19
+-59
+-1
+34
+-36
+-28
+120
+-76
+35
+-31
+-32
+178
+18
+7
+31
+173
+-452
+158
+-5
+0
+>sim5M Read_1729_length_7946bp_startpos_4952705_number_of_errors_532_total_error_prob_0.07_passes_2.41539988356_passes_left_3_passes_right_2_cut_position_3301_id_1718_clr_0_7646 5000040 7646
+4952707 4960350 7645 1 13 13 0
+-542
+532
+-300
+-2323
+4
+1232
+281
+-150
+-162
+214
+-1206
+0
+>sim5M Read_1732_length_6328bp_startpos_2915360_number_of_errors_288_total_error_prob_0.04_passes_2.35675833516_passes_left_3_passes_right_2_cut_position_2258_id_1721_clr_0_6142 5000040 6142
+2915363 2921500 1 6141 3 3 0
+-652
+-4313
+-1
+0
+>sim5M Read_1737_length_14309bp_startpos_733795_number_of_errors_1433_total_error_prob_0.10_passes_1.67168899455_passes_left_1_passes_right_2_cut_position_4698_id_1726_clr_0_13570 5000040 13570
+733800 747363 13565 1 7 7 0
+-329
+-91
+67
+1032
+3102
+-28
+-3940
+0
+>sim5M Read_1741_length_7594bp_startpos_3841495_number_of_errors_869_total_error_prob_0.11_passes_1.53351155754_passes_left_1_passes_right_2_cut_position_3543_id_1730_clr_0_7162 5000040 7162
+3841491 3848642 1 7156 7 7 0
+12
+-958
+-1328
+-602
+-2795
+-8
+0
+>sim5M Read_1742_length_17131bp_startpos_3863987_number_of_errors_2328_total_error_prob_0.14_passes_1.4320333812_passes_left_1_passes_right_2_cut_position_9730_id_1731_clr_0_16064 5000040 16064
+3863990 3880038 7 16063 22 22 0
+13
+-34
+-1
+-1
+-19
+-1
+-9
+-14
+-12
+-5
+11
+43
+-338
+-6069
+-3467
+-4242
+-1
+1689
+61
+14
+0
+>sim5M Read_1743_length_6540bp_startpos_1431109_number_of_errors_407_total_error_prob_0.06_passes_2.14234761314_passes_left_3_passes_right_2_cut_position_931_id_1732_clr_0_6284 5000040 6284
+1431110 1437392 6284 1 9 9 0
+1663
+-296
+1045
+-460
+-1
+1084
+-1725
+0
+>sim5M Read_1744_length_9706bp_startpos_4580045_number_of_errors_781_total_error_prob_0.08_passes_1.52523448041_passes_left_1_passes_right_2_cut_position_4608_id_1733_clr_0_9282 5000040 9282
+4580046 4589318 9282 10 2 2 0
+-19
+9247
+0
+>sim5M Read_1746_length_10157bp_startpos_282119_number_of_errors_824_total_error_prob_0.08_passes_1.70657572725_passes_left_1_passes_right_2_cut_position_2980_id_1735_clr_0_9712 5000040 9712
+282126 291833 2 9710 3 3 0
+-1950
+3061
+-337
+0
+>sim5M Read_1748_length_6486bp_startpos_4942138_number_of_errors_283_total_error_prob_0.04_passes_2.58254807429_passes_left_3_passes_right_2_cut_position_3778_id_1737_clr_0_6326 5000040 6326
+4942139 4948463 1 6325 0 0 0
+0
+>sim5M Read_174_length_9722bp_startpos_2968706_number_of_errors_450_total_error_prob_0.04_passes_2.59175172605_passes_left_3_passes_right_2_cut_position_5753_id_174_clr_0_9432 5000040 9432
+2968708 2978139 9432 1 0 0 0
+0
+>sim5M Read_1751_length_8949bp_startpos_2612644_number_of_errors_608_total_error_prob_0.07_passes_1.95504918931_passes_left_1_passes_right_2_cut_position_402_id_1740_clr_0_8556 5000040 8556
+2612650 2621198 4 8556 4 4 0
+-5
+-6
+-35
+-1
+0
+>sim5M Read_1753_length_12383bp_startpos_3058859_number_of_errors_1011_total_error_prob_0.08_passes_2.02017340258_passes_left_3_passes_right_2_cut_position_250_id_1742_clr_0_11868 5000040 11868
+3058854 3070716 11868 5 2 2 0
+-11856
+0
+>sim5M Read_1755_length_10334bp_startpos_205251_number_of_errors_499_total_error_prob_0.05_passes_2.01504081647_passes_left_3_passes_right_2_cut_position_155_id_1744_clr_0_10088 5000040 10088
+205231 215311 1 10084 15 15 0
+17
+1
+1
+-1832
+803
+-634
+-217
+-76
+599
+-26
+-152
+-476
+-782
+450
+-4014
+0
+>sim5M Read_1762_length_10677bp_startpos_294633_number_of_errors_918_total_error_prob_0.08_passes_1.76223162022_passes_left_1_passes_right_2_cut_position_2539_id_1751_clr_0_10184 5000040 10184
+294637 304815 10182 1 7 7 0
+-1246
+-422
+344
+-180
+8
+-31
+-2250
+0
+>sim5M Read_1766_length_6495bp_startpos_797307_number_of_errors_174_total_error_prob_0.03_passes_3.12731771848_passes_left_3_passes_right_4_cut_position_5668_id_1755_clr_0_6340 5000040 6340
+797345 803684 6339 1 3 3 0
+-603
+165
+224
+0
+>sim5M Read_1768_length_8399bp_startpos_861371_number_of_errors_554_total_error_prob_0.06_passes_2.15521387244_passes_left_3_passes_right_2_cut_position_1304_id_1756_clr_0_8096 5000040 8096
+861372 869465 8096 1 2 2 0
+-3921
+-2147
+0
+>sim5M Read_1770_length_16966bp_startpos_494616_number_of_errors_2186_total_error_prob_0.12_passes_1.34838900814_passes_left_1_passes_right_2_cut_position_11055_id_1758_clr_0_15872 5000040 15872
+494649 510533 1 15872 106 106 0
+5
+-22
+-2255
+3835
+39
+188
+28
+63
+137
+-165
+93
+-78
+-235
+-1
+208
+232
+-19
+-60
+-65
+-14
+-14
+118
+6
+25
+57
+76
+64
+2
+34
+-33
+17
+2
+-6
+-43
+-4
+5
+24
+43
+338
+165
+1
+1977
+1049
+832
+43
+1977
+-211
+-969
+-12
+0
+>sim5M Read_1771_length_8028bp_startpos_1940127_number_of_errors_423_total_error_prob_0.05_passes_2.0104256722_passes_left_3_passes_right_2_cut_position_84_id_1759_clr_0_7776 5000040 7776
+1940128 1947902 1 7776 1 1 0
+-5566
+0
+>sim5M Read_1777_length_8638bp_startpos_3413597_number_of_errors_975_total_error_prob_0.11_passes_1.37343311128_passes_left_1_passes_right_2_cut_position_5412_id_1765_clr_0_8176 5000040 8176
+3413610 3421756 8148 1 1 1 0
+-7837
+0
+>sim5M Read_1789_length_5447bp_startpos_4196240_number_of_errors_243_total_error_prob_0.04_passes_2.89894545545_passes_left_3_passes_right_2_cut_position_4897_id_1777_clr_0_5308 5000040 5308
+4196242 4201549 5308 1 0 0 0
+0
+>sim5M Read_178_length_7961bp_startpos_3248569_number_of_errors_824_total_error_prob_0.10_passes_1.67361678164_passes_left_1_passes_right_2_cut_position_2598_id_178_clr_0_7586 5000040 7586
+3248564 3256136 7581 1 8 8 0
+-93
+-52
+-1148
+-345
+-334
+-1
+-342
+-5262
+0
+>sim5M Read_1793_length_3886bp_startpos_3035068_number_of_errors_411_total_error_prob_0.11_passes_1.39713530482_passes_left_1_passes_right_2_cut_position_2343_id_1781_clr_0_3676 5000040 3676
+3035074 3038741 8 3675 3 3 0
+33
+-2126
+0
+>sim5M Read_1794_length_14706bp_startpos_3917832_number_of_errors_1213_total_error_prob_0.09_passes_1.44481643772_passes_left_1_passes_right_2_cut_position_8165_id_1782_clr_0_14034 5000040 14034
+3917842 3931869 4 14034 3 3 0
+-14018
+-1
+-8
+0
+>sim5M Read_1797_length_9067bp_startpos_4926550_number_of_errors_718_total_error_prob_0.08_passes_1.92636827047_passes_left_1_passes_right_2_cut_position_668_id_1785_clr_0_8656 5000040 8656
+4926551 4935201 8656 4 2 2 0
+-35
+-3764
+0
+>sim5M Read_1802_length_5873bp_startpos_4208176_number_of_errors_129_total_error_prob_0.02_passes_3.49518494246_passes_left_3_passes_right_4_cut_position_2965_id_1790_clr_0_5792 5000040 5792
+4208179 4213970 5792 1 0 0 0
+0
+>sim5M Read_1803_length_10540bp_startpos_37197_number_of_errors_533_total_error_prob_0.05_passes_2.29609367041_passes_left_3_passes_right_2_cut_position_3121_id_1791_clr_0_10182 5000040 10182
+37203 47382 1 10181 1 1 0
+-10168
+0
+>sim5M Read_1807_length_8295bp_startpos_3515154_number_of_errors_837_total_error_prob_0.10_passes_1.65202405125_passes_left_1_passes_right_2_cut_position_2886_id_1795_clr_0_7868 5000040 7868
+3515163 3523047 7867 1 67 67 0
+-17
+-847
+31
+-280
+31
+626
+-32
+-188
+-30
+197
+59
+53
+1
+2
+-143
+12
+242
+-181
+16
+272
+38
+83
+9
+41
+7
+138
+-31
+125
+182
+-29
+347
+174
+223
+897
+-144
+50
+40
+91
+13
+7
+-50
+45
+18
+-7
+254
+-825
+-1
+217
+-483
+-37
+17
+15
+0
+>sim5M Read_1813_length_15837bp_startpos_4977886_number_of_errors_1871_total_error_prob_0.11_passes_1.28350313774_passes_left_1_passes_right_2_cut_position_11347_id_1801_clr_0_14920 5000040 14920
+4977901 4992813 3 14920 7 7 0
+-1343
+-5483
+-23
+6
+-303
+-1
+-3366
+0
+>sim5M Read_1816_length_9898bp_startpos_3366765_number_of_errors_708_total_error_prob_0.07_passes_2.03375253474_passes_left_3_passes_right_2_cut_position_334_id_1804_clr_0_9484 5000040 9484
+3366766 3376239 1 9474 2 2 0
+0
+>sim5M Read_1817_length_7450bp_startpos_1833105_number_of_errors_654_total_error_prob_0.09_passes_1.60962614426_passes_left_1_passes_right_2_cut_position_2908_id_1805_clr_0_7120 5000040 7120
+1833107 1840230 7120 1 67 67 0
+1494
+-170
+13
+15
+147
+-198
+131
+47
+62
+-45
+22
+21
+-38
+-72
+7
+-7
+56
+25
+-168
+48
+30
+239
+-59
+557
+-222
+-18
+1730
+-483
+-470
+-408
+0
+>sim5M Read_1819_length_5529bp_startpos_2019535_number_of_errors_138_total_error_prob_0.03_passes_3.38019612221_passes_left_3_passes_right_4_cut_position_3427_id_1807_clr_0_5432 5000040 5432
+2019537 2024962 5430 1 4 4 0
+-7
+-1
+-18
+-5
+0
+>sim5M Read_1823_length_10048bp_startpos_440714_number_of_errors_440_total_error_prob_0.05_passes_2.11190127388_passes_left_3_passes_right_2_cut_position_1124_id_1811_clr_0_9784 5000040 9784
+440716 450498 9784 1 1 1 0
+-4033
+0
+>sim5M Read_1827_length_7009bp_startpos_1918737_number_of_errors_400_total_error_prob_0.06_passes_2.12020336737_passes_left_3_passes_right_2_cut_position_843_id_1815_clr_0_6744 5000040 6744
+1918738 1925481 1 6744 0 0 0
+0
+>sim5M Read_1828_length_7668bp_startpos_2481077_number_of_errors_539_total_error_prob_0.07_passes_1.79056829878_passes_left_1_passes_right_2_cut_position_1606_id_1816_clr_0_7390 5000040 7390
+2481079 2488463 4 7390 4 4 0
+-7369
+-13
+0
+>sim5M Read_182_length_12099bp_startpos_2097442_number_of_errors_1191_total_error_prob_0.10_passes_1.57500197639_passes_left_1_passes_right_2_cut_position_5142_id_182_clr_0_11474 5000040 11474
+2097437 2108910 11474 1 2 2 0
+4785
+-247
+0
+>sim5M Read_1834_length_7521bp_startpos_4770232_number_of_errors_597_total_error_prob_0.08_passes_1.80450978408_passes_left_1_passes_right_2_cut_position_1470_id_1822_clr_0_7180 5000040 7180
+4770226 4777401 7177 1 4 4 0
+12
+-610
+-6531
+0
+>sim5M Read_1837_length_4666bp_startpos_4063231_number_of_errors_64_total_error_prob_0.01_passes_4.37259492612_passes_left_5_passes_right_4_cut_position_1739_id_1824_clr_0_4622 5000040 4622
+4063233 4067854 4622 1 0 0 0
+0
+>sim5M Read_1840_length_7981bp_startpos_2647_number_of_errors_762_total_error_prob_0.09_passes_1.88971729171_passes_left_1_passes_right_2_cut_position_880_id_1827_clr_0_7604 5000040 7604
+2649 10236 7604 1 38 38 0
+-6
+-5
+22
+-16
+19
+-5
+-36
+-19
+-2
+36
+-24
+-37
+-107
+58
+-34
+-13
+-42
+134
+-7
+-2
+-115
+-216
+-1002
+-703
+-786
+-3212
+0
+>sim5M Read_1841_length_6215bp_startpos_2395347_number_of_errors_427_total_error_prob_0.07_passes_2.23520682124_passes_left_3_passes_right_2_cut_position_1462_id_1828_clr_0_5982 5000040 5982
+2395351 2401324 6 5982 7 7 0
+-990
+56
+1
+-787
+-1647
+-133
+-4
+0
+>sim5M Read_1843_length_9247bp_startpos_3072187_number_of_errors_555_total_error_prob_0.06_passes_2.07409387324_passes_left_3_passes_right_2_cut_position_685_id_1830_clr_0_8922 5000040 8922
+3072189 3081110 8922 1 0 0 0
+0
+>sim5M Read_1844_length_17575bp_startpos_1571801_number_of_errors_2458_total_error_prob_0.14_passes_1.4446245288_passes_left_1_passes_right_2_cut_position_9761_id_1831_clr_0_16486 5000040 16486
+1571817 1588297 1 16482 5 5 0
+-36
+-3451
+-861
+514
+1
+0
+>sim5M Read_1847_length_16044bp_startpos_2786816_number_of_errors_2250_total_error_prob_0.14_passes_1.35683975491_passes_left_1_passes_right_2_cut_position_10319_id_1834_clr_0_15044 5000040 15044
+2786843 2801810 76 15044 5 5 0
+66
+138
+-28
+-5184
+-1
+0
+>sim5M Read_1848_length_11448bp_startpos_3446409_number_of_errors_1450_total_error_prob_0.12_passes_1.46478654224_passes_left_1_passes_right_2_cut_position_6127_id_1835_clr_0_10744 5000040 10744
+3446423 3457162 1 10744 12 12 0
+-44
+-317
+-30
+-1
+-20
+-1744
+5188
+415
+0
+>sim5M Read_1851_length_15154bp_startpos_1004168_number_of_errors_2422_total_error_prob_0.16_passes_1.20558139053_passes_left_1_passes_right_2_cut_position_12039_id_1838_clr_0_14134 5000040 14134
+1004172 1018256 38 14133 42 42 0
+15
+1
+1
+-1901
+-2951
+-595
+2405
+1387
+982
+-31
+-565
+-205
+-1
+-915
+379
+-129
+-79
+-20
+-132
+-97
+9
+-13
+-256
+-11
+147
+-24
+-30
+13
+181
+49
+-334
+-206
+-17
+-1
+-1
+0
+>sim5M Read_1852_length_9559bp_startpos_2861522_number_of_errors_480_total_error_prob_0.05_passes_2.45188611698_passes_left_3_passes_right_2_cut_position_4320_id_1839_clr_0_9250 5000040 9250
+2861523 2870772 1 9250 0 0 0
+0
+>sim5M Read_1860_length_9885bp_startpos_1436075_number_of_errors_1123_total_error_prob_0.11_passes_1.65275003586_passes_left_1_passes_right_2_cut_position_3433_id_1847_clr_0_9308 5000040 9308
+1436077 1445379 9308 1 9 9 0
+-6
+-6
+-12
+8
+-7
+-130
+-390
+0
+>sim5M Read_1864_length_4340bp_startpos_4435013_number_of_errors_49_total_error_prob_0.01_passes_5.36085157549_passes_left_5_passes_right_6_cut_position_2774_id_1851_clr_0_4306 5000040 4306
+4435015 4439315 4306 6 0 0 0
+0
+>sim5M Read_1865_length_10648bp_startpos_413031_number_of_errors_741_total_error_prob_0.07_passes_2.0612087096_passes_left_3_passes_right_2_cut_position_652_id_1852_clr_0_10234 5000040 10234
+413032 423264 1 10234 1 1 0
+-2701
+0
+>sim5M Read_1869_length_4554bp_startpos_3890306_number_of_errors_298_total_error_prob_0.07_passes_2.10424519122_passes_left_3_passes_right_2_cut_position_475_id_1856_clr_0_4382 5000040 4382
+3890307 3894686 2 4381 0 0 0
+0
+>sim5M Read_186_length_4590bp_startpos_1800664_number_of_errors_303_total_error_prob_0.06_passes_2.24686287982_passes_left_3_passes_right_2_cut_position_1133_id_186_clr_0_4394 5000040 4394
+1800666 1805058 4394 1 1 1 0
+-579
+0
+>sim5M Read_1872_length_5699bp_startpos_2548324_number_of_errors_508_total_error_prob_0.08_passes_1.76904444593_passes_left_1_passes_right_2_cut_position_1316_id_1859_clr_0_5450 5000040 5450
+2548326 2553772 5449 1 2 2 0
+-5
+-1228
+0
+>sim5M Read_1873_length_7017bp_startpos_2424614_number_of_errors_380_total_error_prob_0.05_passes_2.742109545_passes_left_3_passes_right_2_cut_position_5207_id_1860_clr_0_6786 5000040 6786
+2424616 2431401 6786 1 0 0 0
+0
+>sim5M Read_1875_length_14412bp_startpos_3958888_number_of_errors_1840_total_error_prob_0.12_passes_1.34475705657_passes_left_1_passes_right_2_cut_position_9443_id_1862_clr_0_13538 5000040 13538
+3958906 3972441 1 13538 6 6 0
+7125
+1
+-332
+-1
+-471
+-715
+0
+>sim5M Read_1876_length_7927bp_startpos_3259984_number_of_errors_537_total_error_prob_0.07_passes_2.26836401839_passes_left_3_passes_right_2_cut_position_2127_id_1863_clr_0_7642 5000040 7642
+3259985 3267623 1 7641 2 2 0
+-2956
+-2937
+0
+>sim5M Read_1880_length_4361bp_startpos_2666017_number_of_errors_102_total_error_prob_0.02_passes_3.92419921854_passes_left_3_passes_right_4_cut_position_331_id_1867_clr_0_4288 5000040 4288
+2666011 2670297 1 4288 1 1 0
+-13
+0
+>sim5M Read_1882_length_11841bp_startpos_3693609_number_of_errors_1442_total_error_prob_0.12_passes_1.32815480764_passes_left_1_passes_right_2_cut_position_7955_id_1869_clr_0_11116 5000040 11116
+3693620 3704731 1 11116 219 219 0
+12
+-8
+-1
+-2
+-1
+-4
+-22
+-6
+-6
+-1
+98
+-15
+58
+-246
+-15
+2224
+1
+571
+1
+-97
+-153
+-514
+-57
+-162
+-32
+117
+39
+-19
+-261
+41
+5
+-5
+-9
+-195
+5
+-42
+-50
+81
+47
+30
+11
+161
+48
+1
+87
+-58
+-145
+-8
+-34
+-70
+-1
+4
+-42
+84
+69
+32
+65
+23
+-33
+-38
+-12
+-4
+18
+-77
+20
+-88
+37
+20
+197
+4
+63
+-36
+-1
+42
+-47
+-7
+63
+38
+-74
+7
+45
+92
+24
+6
+18
+-8
+-81
+-170
+-142
+3
+-21
+66
+78
+55
+-46
+-93
+-33
+8
+7
+1
+26
+-201
+36
+-223
+-602
+-162
+50
+154
+344
+184
+133
+-398
+-123
+-90
+-13
+-62
+107
+-115
+0
+>sim5M Read_1886_length_10956bp_startpos_2927037_number_of_errors_937_total_error_prob_0.08_passes_1.78697547436_passes_left_1_passes_right_2_cut_position_2334_id_1873_clr_0_10500 5000040 10500
+2927041 2937515 5 10492 43 43 0
+-10
+-2
+-4
+-21
+-16
+-1
+-112
+-132
+-1
+-67
+-88
+-63
+-22
+-1
+13
+-34
+10
+-87
+-77
+105
+35
+10
+-15
+79
+-18
+4
+-106
+-158
+166
+1
+43
+46
+95
+198
+-88
+-2509
+-1787
+-814
+-3457
+0
+>sim5M Read_1888_length_11265bp_startpos_1907898_number_of_errors_1580_total_error_prob_0.13_passes_1.42308412336_passes_left_1_passes_right_2_cut_position_6499_id_1875_clr_0_10594 5000040 10594
+1907889 1918468 10580 1 1 1 0
+0
+>sim5M Read_1889_length_3240bp_startpos_1307923_number_of_errors_42_total_error_prob_0.02_passes_4.04841308877_passes_left_5_passes_right_4_cut_position_157_id_1876_clr_0_3204 5000040 3204
+1307925 1311127 3203 1 0 0 0
+0
+>sim5M Read_188_length_5798bp_startpos_3316688_number_of_errors_394_total_error_prob_0.07_passes_1.81729633764_passes_left_1_passes_right_2_cut_position_1059_id_188_clr_0_5584 5000040 5584
+3316689 3322268 5584 1 4 4 0
+-7
+-5
+-1
+-5565
+0
+>sim5M Read_1895_length_8154bp_startpos_3295766_number_of_errors_511_total_error_prob_0.06_passes_2.03333894797_passes_left_3_passes_right_2_cut_position_272_id_1882_clr_0_7866 5000040 7866
+3295772 3303630 7 7866 1 1 0
+-5734
+0
+>sim5M Read_1899_length_6455bp_startpos_374270_number_of_errors_362_total_error_prob_0.05_passes_2.55110515302_passes_left_3_passes_right_2_cut_position_3557_id_1886_clr_0_6248 5000040 6248
+374271 380516 1 6247 2 2 0
+-3956
+0
+>sim5M Read_189_length_12979bp_startpos_718888_number_of_errors_1293_total_error_prob_0.09_passes_2.01690639268_passes_left_3_passes_right_2_cut_position_219_id_189_clr_0_12326 5000040 12326
+718890 731211 12326 7 29 29 0
+-1474
+-15
+-48
+228
+-228
+91
+13
+-37
+-2
+-36
+27
+1
+445
+1
+-13
+180
+104
+-199
+244
+-186
+245
+-181
+9
+-1489
+174
+2960
+0
+>sim5M Read_18_length_11359bp_startpos_4512282_number_of_errors_1173_total_error_prob_0.09_passes_1.64942608527_passes_left_1_passes_right_2_cut_position_3982_id_19_clr_0_10866 5000040 10866
+4512283 4523117 10866 1 46 46 0
+-14
+-1
+-1
+-8
+9
+-6
+-9
+-1
+-7
+-4
+-1
+-1
+-5
+6
+-4
+-4
+-3
+-5
+-1
+-1
+-4
+-15
+-12
+-21
+-2
+-3
+7
+-8
+-5
+-3
+4
+-15
+-2
+-6
+-787
+-1
+-3629
+-2020
+-4220
+0
+>sim5M Read_1901_length_4838bp_startpos_3016044_number_of_errors_271_total_error_prob_0.06_passes_2.60421406142_passes_left_3_passes_right_2_cut_position_2923_id_1888_clr_0_4650 5000040 4650
+3016046 3020684 1 4641 4 4 0
+-1846
+-1813
+264
+-476
+0
+>sim5M Read_1903_length_15823bp_startpos_4183909_number_of_errors_2120_total_error_prob_0.13_passes_1.20537788327_passes_left_1_passes_right_2_cut_position_12573_id_1890_clr_0_14866 5000040 14866
+4183918 4198781 14866 1 3 3 0
+-9561
+-1662
+0
+>sim5M Read_1905_length_5245bp_startpos_1365455_number_of_errors_266_total_error_prob_0.05_passes_2.32984643754_passes_left_3_passes_right_2_cut_position_1730_id_1892_clr_0_5110 5000040 5110
+1365456 1370560 1 5110 5 5 0
+-1952
+-531
+-713
+-508
+-112
+0
+>sim5M Read_1915_length_7223bp_startpos_4826715_number_of_errors_261_total_error_prob_0.04_passes_2.69605086003_passes_left_3_passes_right_2_cut_position_5028_id_1902_clr_0_7036 5000040 7036
+4826717 4833748 7035 1 3 3 0
+-2908
+-1282
+-1518
+0
+>sim5M Read_1916_length_15117bp_startpos_612086_number_of_errors_1569_total_error_prob_0.10_passes_1.32289092948_passes_left_1_passes_right_2_cut_position_10236_id_1903_clr_0_14248 5000040 14248
+612095 626340 14248 1 12 12 0
+-10
+-10
+3625
+-3104
+-983
+319
+136
+303
+-2597
+-632
+-1264
+565
+0
+>sim5M Read_1917_length_10475bp_startpos_1468546_number_of_errors_513_total_error_prob_0.04_passes_2.50358728791_passes_left_3_passes_right_2_cut_position_5275_id_1904_clr_0_10160 5000040 10160
+1468547 1478705 1 10159 0 0 0
+0
+>sim5M Read_1918_length_5789bp_startpos_4847177_number_of_errors_535_total_error_prob_0.09_passes_1.9557034905_passes_left_1_passes_right_2_cut_position_256_id_1905_clr_0_5496 5000040 5496
+4847177 4852670 5496 1 2 2 0
+-8
+-4145
+0
+>sim5M Read_1922_length_13123bp_startpos_1281333_number_of_errors_1858_total_error_prob_0.13_passes_1.35612082815_passes_left_1_passes_right_2_cut_position_8450_id_1909_clr_0_12248 5000040 12248
+1281371 1293553 58 12247 9 9 0
+1322
+-373
+-17
+-1
+-5855
+-668
+-1
+-3109
+-188
+0
+>sim5M Read_1926_length_9584bp_startpos_1665204_number_of_errors_456_total_error_prob_0.05_passes_2.54425461975_passes_left_3_passes_right_2_cut_position_5216_id_1913_clr_0_9290 5000040 9290
+1665206 1674495 9290 1 0 0 0
+0
+>sim5M Read_1931_length_10282bp_startpos_4534479_number_of_errors_1083_total_error_prob_0.10_passes_1.67145758026_passes_left_1_passes_right_2_cut_position_3378_id_1918_clr_0_9736 5000040 9736
+4534474 4544203 1 9730 0 0 0
+0
+>sim5M Read_1935_length_10011bp_startpos_863357_number_of_errors_898_total_error_prob_0.08_passes_1.92199583892_passes_left_1_passes_right_2_cut_position_781_id_1922_clr_0_9536 5000040 9536
+863358 872889 9536 1 6 6 0
+-26
+-1
+333
+-123
+-191
+-2455
+0
+>sim5M Read_1936_length_7747bp_startpos_1698966_number_of_errors_891_total_error_prob_0.11_passes_1.55129356452_passes_left_1_passes_right_2_cut_position_3476_id_1923_clr_0_7316 5000040 7316
+1698967 1706282 1 7316 0 0 0
+0
+>sim5M Read_1937_length_12890bp_startpos_2905210_number_of_errors_1297_total_error_prob_0.10_passes_1.61539836295_passes_left_1_passes_right_2_cut_position_4958_id_1924_clr_0_12270 5000040 12270
+2905213 2917472 12268 1 11 11 0
+-7
+-1
+11
+-6
+-14
+-11
+-3
+-4
+-2493
+-6588
+0
+>sim5M Read_1943_length_9385bp_startpos_2125952_number_of_errors_876_total_error_prob_0.09_passes_1.74037212305_passes_left_1_passes_right_2_cut_position_2437_id_1930_clr_0_8928 5000040 8928
+2125953 2134863 1 8927 30 30 0
+-8
+-2
+-7
+-8
+-1
+-2
+-23
+-8
+8
+3
+-10
+-1
+-19
+-1
+-12
+14
+-7
+-9
+-3
+4
+-1083
+5774
+373
+-266
+-35
+-1135
+-6
+-22
+0
+>sim5M Read_1944_length_9840bp_startpos_1239792_number_of_errors_1279_total_error_prob_0.13_passes_1.39146835756_passes_left_1_passes_right_2_cut_position_5988_id_1931_clr_0_9256 5000040 9256
+1239792 1249048 9256 1 3 3 0
+-2118
+4
+1
+0
+>sim5M Read_1945_length_6439bp_startpos_1451017_number_of_errors_408_total_error_prob_0.06_passes_2.12557453677_passes_left_3_passes_right_2_cut_position_809_id_1932_clr_0_6230 5000040 6230
+1451018 1457245 1 6229 1 1 0
+-6178
+0
+>sim5M Read_1946_length_9238bp_startpos_1871462_number_of_errors_461_total_error_prob_0.05_passes_2.12149883847_passes_left_3_passes_right_2_cut_position_1122_id_1933_clr_0_8938 5000040 8938
+1871463 1880399 1 8937 0 0 0
+0
+>sim5M Read_1948_length_11281bp_startpos_3044671_number_of_errors_662_total_error_prob_0.06_passes_2.3489042558_passes_left_3_passes_right_2_cut_position_3936_id_1935_clr_0_10902 5000040 10902
+3044675 3055558 1 10901 231 231 0
+149
+-338
+-1
+-35
+7
+940
+1
+1
+54
+9
+29
+-71
+-1
+1029
+-292
+840
+200
+124
+20
+-22
+-26
+-24
+-49
+59
+95
+-34
+50
+-12
+-18
+-48
+-79
+20
+71
+-15
+-62
+-42
+-9
+-19
+-27
+-1
+47
+11
+29
+-12
+-1
+-4
+-73
+75
+-26
+-97
+-2
+-4
+-32
+-11
+28
+4
+31
+12
+-19
+-53
+-63
+-42
+31
+-21
+-6
+-26
+-6
+-1
+60
+-35
+24
+-87
+-8
+-83
+9
+13
+-44
+-92
+-34
+-8
+-67
+97
+-45
+45
+67
+56
+-148
+7
+22
+1
+106
+-65
+-157
+-77
+-951
+0
+>sim5M Read_1949_length_3374bp_startpos_840330_number_of_errors_144_total_error_prob_0.04_passes_2.93779665584_passes_left_3_passes_right_2_cut_position_3164_id_1936_clr_0_3288 5000040 3288
+840323 843611 1 3288 1 1 0
+694
+0
+>sim5M Read_194_length_8772bp_startpos_4889564_number_of_errors_514_total_error_prob_0.06_passes_2.2945541157_passes_left_3_passes_right_2_cut_position_2584_id_194_clr_0_8468 5000040 8468
+4889566 4898033 8468 1 0 0 0
+0
+>sim5M Read_1952_length_4052bp_startpos_3146772_number_of_errors_185_total_error_prob_0.04_passes_2.61264868107_passes_left_3_passes_right_2_cut_position_2482_id_1939_clr_0_3942 5000040 3942
+3146773 3150713 1 3942 1 1 0
+-3936
+0
+>sim5M Read_1955_length_17192bp_startpos_936967_number_of_errors_2173_total_error_prob_0.12_passes_1.24798324684_passes_left_1_passes_right_2_cut_position_12929_id_1942_clr_0_9638 5000040 9638
+936956 946594 9638 1 13 13 0
+199
+223
+-5982
+-642
+-30
+-41
+908
+1
+-6
+150
+1286
+0
+>sim5M Read_1957_length_10235bp_startpos_496216_number_of_errors_430_total_error_prob_0.04_passes_2.42842940864_passes_left_3_passes_right_2_cut_position_4385_id_1944_clr_0_3222 5000040 3222
+2136874 2140087 3 3217 65 65 0
+740
+-2459
+-10
+0
+>sim5M Read_195_length_10310bp_startpos_2067725_number_of_errors_1241_total_error_prob_0.11_passes_1.70853335798_passes_left_1_passes_right_2_cut_position_3005_id_195_clr_0_9712 5000040 9712
+2067752 2077426 9682 1 10 10 0
+-2600
+-3936
+-955
+-1077
+-1
+-613
+-493
+0
+>sim5M Read_1965_length_7000bp_startpos_3142142_number_of_errors_208_total_error_prob_0.03_passes_2.81739328729_passes_left_3_passes_right_2_cut_position_5722_id_1952_clr_0_6846 5000040 6846
+3142144 3148986 6845 1 2 2 0
+-4773
+-1007
+0
+>sim5M Read_1966_length_10594bp_startpos_2890669_number_of_errors_1231_total_error_prob_0.11_passes_1.55030965692_passes_left_1_passes_right_2_cut_position_4764_id_1953_clr_0_9998 5000040 9998
+2890675 2900659 8 9994 4 4 0
+-4889
+-1344
+0
+>sim5M Read_1967_length_3948bp_startpos_4558766_number_of_errors_31_total_error_prob_0.01_passes_6.12649891594_passes_left_7_passes_right_6_cut_position_499_id_1954_clr_0_3918 5000040 3918
+4558768 4562685 3918 1 0 0 0
+0
+>sim5M Read_1969_length_2896bp_startpos_3587626_number_of_errors_50_total_error_prob_0.02_passes_3.25374334918_passes_left_3_passes_right_4_cut_position_2161_id_1956_clr_0_2852 5000040 2852
+3587626 3590477 1 2852 0 0 0
+0
+>sim5M Read_1975_length_6547bp_startpos_4398411_number_of_errors_321_total_error_prob_0.05_passes_2.48651031719_passes_left_3_passes_right_2_cut_position_3185_id_1962_clr_0_6314 5000040 6314
+4398415 4404728 1 6314 0 0 0
+0
+>sim5M Read_1976_length_7728bp_startpos_580215_number_of_errors_456_total_error_prob_0.06_passes_2.56344027985_passes_left_3_passes_right_2_cut_position_4354_id_1963_clr_0_7466 5000040 7466
+580216 587678 1 7465 4 4 0
+-14
+-1724
+770
+-625
+0
+>sim5M Read_1979_length_3043bp_startpos_3856282_number_of_errors_24_total_error_prob_0.01_passes_5.45789219912_passes_left_5_passes_right_6_cut_position_1650_id_1966_clr_0_3022 5000040 3022
+3856284 3859305 3022 1 0 0 0
+0
+>sim5M Read_1983_length_2451bp_startpos_824639_number_of_errors_5_total_error_prob_0.00_passes_6.98320962162_passes_left_7_passes_right_6_cut_position_2410_id_1970_clr_0_2446 5000040 2446
+824641 827084 3 2446 0 0 0
+0
+>sim5M Read_1987_length_10471bp_startpos_3995875_number_of_errors_973_total_error_prob_0.09_passes_1.41552481769_passes_left_1_passes_right_2_cut_position_6120_id_1974_clr_0_9996 5000040 9996
+3995877 4005867 1 9990 3 3 0
+-12
+1349
+4185
+0
+>sim5M Read_1988_length_2968bp_startpos_3833916_number_of_errors_18_total_error_prob_0.00_passes_6.59871441975_passes_left_7_passes_right_6_cut_position_1777_id_1975_clr_0_2958 5000040 2958
+3833918 3836874 2957 1 0 0 0
+0
+>sim5M Read_198_length_6177bp_startpos_2199176_number_of_errors_238_total_error_prob_0.04_passes_2.60175370756_passes_left_3_passes_right_2_cut_position_3717_id_198_clr_0_6024 5000040 6024
+2199178 2205200 6023 1 0 0 0
+0
+>sim5M Read_1990_length_9476bp_startpos_2948794_number_of_errors_496_total_error_prob_0.05_passes_2.20332258145_passes_left_3_passes_right_2_cut_position_1927_id_1977_clr_0_9152 5000040 9152
+2948796 2957939 9151 5 3 3 0
+-14
+-8
+-9116
+0
+>sim5M Read_1991_length_9326bp_startpos_4901160_number_of_errors_748_total_error_prob_0.08_passes_1.8732158877_passes_left_1_passes_right_2_cut_position_1182_id_1978_clr_0_8932 5000040 8932
+4901163 4910085 4 8932 23 23 0
+-19
+-4
+-6
+18
+-7
+-11
+-8
+-9
+-28
+-1
+7
+5
+0
+>sim5M Read_1992_length_9879bp_startpos_662567_number_of_errors_719_total_error_prob_0.07_passes_1.91051770586_passes_left_1_passes_right_2_cut_position_884_id_1979_clr_0_9496 5000040 9496
+662571 672065 1 9495 0 0 0
+0
+>sim5M Read_1993_length_9401bp_startpos_355424_number_of_errors_621_total_error_prob_0.07_passes_1.97042264481_passes_left_1_passes_right_2_cut_position_278_id_1980_clr_0_9040 5000040 9040
+355426 364463 9039 1 3 3 0
+-3081
+-2493
+576
+0
+>sim5M Read_1995_length_7354bp_startpos_4854473_number_of_errors_383_total_error_prob_0.05_passes_2.44094914323_passes_left_3_passes_right_2_cut_position_3243_id_1982_clr_0_7130 5000040 7130
+4854474 4861601 1 7130 2 2 0
+-1538
+-4509
+0
+>sim5M Read_1997_length_2717bp_startpos_3673744_number_of_errors_44_total_error_prob_0.01_passes_4.13265767881_passes_left_5_passes_right_4_cut_position_360_id_1984_clr_0_2682 5000040 2682
+3673746 3676427 2682 1 0 0 0
+0
+>sim5M Read_199_length_8591bp_startpos_3786857_number_of_errors_990_total_error_prob_0.12_passes_1.46663436839_passes_left_1_passes_right_2_cut_position_4582_id_199_clr_0_8124 5000040 8124
+3786859 3794979 8123 1 2 2 0
+-75
+-2717
+0
+>sim5M Read_1_length_16910bp_startpos_1412541_number_of_errors_1818_total_error_prob_0.11_passes_1.51990280674_passes_left_1_passes_right_2_cut_position_8118_id_2_clr_0_16006 5000040 16006
+1412557 1428535 25 16004 6 6 0
+8
+-412
+-1
+-1723
+1313
+0
+>sim5M Read_2000_length_11381bp_startpos_19064_number_of_errors_1219_total_error_prob_0.10_passes_1.51317894804_passes_left_1_passes_right_2_cut_position_5541_id_1987_clr_0_10778 5000040 10778
+19079 29851 1 10778 12 12 0
+-17
+-22
+-7
+-3
+-252
+76
+1
+2544
+-4581
+-905
+-1062
+0
+>sim5M Read_200_length_2907bp_startpos_3812402_number_of_errors_8_total_error_prob_0.00_passes_6.28430372904_passes_left_7_passes_right_6_cut_position_826_id_200_clr_0_2902 5000040 2902
+3812403 3815304 1 2901 1 1 0
+2734
+0
+>sim5M Read_2015_length_4887bp_startpos_1863162_number_of_errors_129_total_error_prob_0.03_passes_3.01394037323_passes_left_3_passes_right_4_cut_position_4819_id_2002_clr_0_4800 5000040 4800
+1863164 1867962 4799 1 0 0 0
+0
+>sim5M Read_202_length_5387bp_startpos_4742962_number_of_errors_225_total_error_prob_0.05_passes_2.63587470806_passes_left_3_passes_right_2_cut_position_3425_id_202_clr_0_5228 5000040 5228
+4742963 4748186 1 5228 13 13 0
+-1685
+170
+-57
+1291
+-840
+-1058
+-3
+-78
+5
+4
+-12
+-17
+0
+>sim5M Read_205_length_10601bp_startpos_4590447_number_of_errors_449_total_error_prob_0.04_passes_2.30021826946_passes_left_3_passes_right_2_cut_position_3183_id_205_clr_0_10296 5000040 10296
+4590445 4600738 10294 1 0 0 0
+0
+>sim5M Read_20_length_7739bp_startpos_2328004_number_of_errors_590_total_error_prob_0.07_passes_1.75460640408_passes_left_1_passes_right_2_cut_position_1899_id_21_clr_0_7408 5000040 7408
+2328005 2335409 1 7408 6 6 0
+-13
+256
+-569
+-1
+-2552
+0
+>sim5M Read_210_length_12379bp_startpos_4294090_number_of_errors_1155_total_error_prob_0.09_passes_1.68343381799_passes_left_1_passes_right_2_cut_position_3919_id_210_clr_0_11788 5000040 11788
+4294095 4305878 11785 1 1 1 0
+-7
+0
+>sim5M Read_211_length_15742bp_startpos_3627352_number_of_errors_2519_total_error_prob_0.15_passes_1.1848980088_passes_left_1_passes_right_2_cut_position_12831_id_211_clr_0_14622 5000040 14622
+3627293 3641924 1 14622 12 12 0
+79
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+-228
+0
+>sim5M Read_214_length_3856bp_startpos_4769385_number_of_errors_101_total_error_prob_0.03_passes_3.73732187994_passes_left_3_passes_right_4_cut_position_1013_id_214_clr_0_3788 5000040 3788
+4769386 4773170 1 3786 1 1 0
+-1996
+0
+>sim5M Read_215_length_14688bp_startpos_4860040_number_of_errors_1292_total_error_prob_0.09_passes_1.67433611503_passes_left_1_passes_right_2_cut_position_4783_id_215_clr_0_14050 5000040 14050
+4860049 4874079 14040 5 8 8 0
+-14
+-6
+-5
+-1
+-5
+-12
+17
+0
+>sim5M Read_218_length_8648bp_startpos_326304_number_of_errors_521_total_error_prob_0.06_passes_2.10458653775_passes_left_3_passes_right_2_cut_position_904_id_218_clr_0_8328 5000040 8328
+326304 334623 4 8325 2 2 0
+-7924
+-378
+0
+>sim5M Read_221_length_4308bp_startpos_2868605_number_of_errors_130_total_error_prob_0.03_passes_2.73740566223_passes_left_3_passes_right_2_cut_position_3177_id_221_clr_0_4222 5000040 4222
+2868607 2872828 4222 1 0 0 0
+0
+>sim5M Read_222_length_6070bp_startpos_4788724_number_of_errors_229_total_error_prob_0.04_passes_3.0997022256_passes_left_3_passes_right_4_cut_position_5465_id_222_clr_0_5926 5000040 5926
+4788725 4794650 5926 1 0 0 0
+0
+>sim5M Read_225_length_10976bp_startpos_420694_number_of_errors_1556_total_error_prob_0.14_passes_1.27182074654_passes_left_1_passes_right_2_cut_position_7992_id_225_clr_0_10228 5000040 10228
+420695 430915 1 10227 18 18 0
+-1977
+-220
+-496
+817
+1414
+-27
+-68
+-1
+-1
+-407
+752
+1
+17
+374
+-48
+-576
+-2882
+-138
+0
+>sim5M Read_22_length_7800bp_startpos_1903733_number_of_errors_273_total_error_prob_0.04_passes_2.7502169372_passes_left_3_passes_right_2_cut_position_5852_id_23_clr_0_7610 5000040 7610
+1903738 1911347 1 7610 0 0 0
+0
+>sim5M Read_230_length_7165bp_startpos_3254337_number_of_errors_780_total_error_prob_0.11_passes_1.66553704684_passes_left_1_passes_right_2_cut_position_2396_id_230_clr_0_6810 5000040 6810
+3254356 3261140 22 6807 8 8 0
+-6
+-7
+-4
+-3
+15
+354
+1
+0
+>sim5M Read_233_length_17312bp_startpos_1722905_number_of_errors_2281_total_error_prob_0.13_passes_1.40730999393_passes_left_1_passes_right_2_cut_position_10261_id_233_clr_0_16320 5000040 16320
+1722926 1739232 16306 1 9 9 0
+14
+1
+1
+1
+1
+-743
+-485
+-1740
+-13319
+0
+>sim5M Read_235_length_8368bp_startpos_1685049_number_of_errors_1008_total_error_prob_0.12_passes_1.44918570136_passes_left_1_passes_right_2_cut_position_4609_id_235_clr_0_7888 5000040 7888
+1685020 1692898 5 7888 7 7 0
+-137
+75
+-199
+-433
+-2767
+-1740
+-2247
+0
+>sim5M Read_237_length_10141bp_startpos_2626818_number_of_errors_392_total_error_prob_0.04_passes_2.51094439197_passes_left_3_passes_right_2_cut_position_5181_id_237_clr_0_9878 5000040 9878
+2626819 2636696 1 9878 0 0 0
+0
+>sim5M Read_23_length_10913bp_startpos_4414667_number_of_errors_1122_total_error_prob_0.10_passes_1.72514527358_passes_left_1_passes_right_2_cut_position_2999_id_24_clr_0_10406 5000040 10406
+4414673 4425075 1 10405 4 4 0
+587
+-1855
+-1
+-495
+0
+>sim5M Read_241_length_15832bp_startpos_173902_number_of_errors_2026_total_error_prob_0.12_passes_1.33056365157_passes_left_1_passes_right_2_cut_position_10599_id_241_clr_0_14818 5000040 14818
+173918 188711 20 14818 6 6 0
+-3700
+-794
+-1
+-4385
+-116
+0
+>sim5M Read_243_length_8871bp_startpos_2493663_number_of_errors_493_total_error_prob_0.06_passes_2.08857876131_passes_left_3_passes_right_2_cut_position_786_id_243_clr_0_8612 5000040 8612
+2493666 2502273 4 8611 0 0 0
+0
+>sim5M Read_245_length_5095bp_startpos_2458364_number_of_errors_199_total_error_prob_0.04_passes_2.90712194646_passes_left_3_passes_right_2_cut_position_4622_id_245_clr_0_4964 5000040 4964
+2458365 2463320 4 4960 1 1 0
+-1150
+0
+>sim5M Read_246_length_11889bp_startpos_4387611_number_of_errors_1254_total_error_prob_0.10_passes_1.34030159878_passes_left_1_passes_right_2_cut_position_7843_id_246_clr_0_11282 5000040 11282
+4387616 4398889 11276 1 2 2 0
+-1467
+-9798
+0
+>sim5M Read_250_length_6716bp_startpos_3139617_number_of_errors_285_total_error_prob_0.05_passes_3.18630436674_passes_left_3_passes_right_4_cut_position_5465_id_250_clr_0_6546 5000040 6546
+3139619 3146160 6546 4 1 1 0
+-478
+0
+>sim5M Read_254_length_9632bp_startpos_2021281_number_of_errors_913_total_error_prob_0.10_passes_1.86410914492_passes_left_1_passes_right_2_cut_position_1309_id_254_clr_0_9182 5000040 9182
+2021282 2030461 1 9181 1 1 0
+-4580
+0
+>sim5M Read_255_length_16887bp_startpos_1838250_number_of_errors_1968_total_error_prob_0.12_passes_1.34255762416_passes_left_1_passes_right_2_cut_position_11102_id_255_clr_0_15928 5000040 15928
+1838275 1854194 1 15928 23 23 0
+-9
+-9
+-1
+-29
+-1
+138
+1499
+-452
+-414
+-77
+-365
+741
+-113
+324
+566
+-96
+-904
+-680
+-377
+462
+0
+>sim5M Read_258_length_13120bp_startpos_749913_number_of_errors_2021_total_error_prob_0.15_passes_1.20952518947_passes_left_1_passes_right_2_cut_position_10371_id_258_clr_0_12198 5000040 12198
+749919 762115 12197 1 4 4 0
+-5635
+368
+-75
+4815
+0
+>sim5M Read_259_length_16118bp_startpos_763738_number_of_errors_1624_total_error_prob_0.10_passes_1.56022878089_passes_left_1_passes_right_2_cut_position_7088_id_259_clr_0_15276 5000040 15276
+763743 779007 15273 5 8 8 0
+-667
+553
+-809
+-3314
+23
+-9
+-1143
+-4083
+0
+>sim5M Read_265_length_6818bp_startpos_1527847_number_of_errors_536_total_error_prob_0.07_passes_2.22329032409_passes_left_3_passes_right_2_cut_position_1522_id_265_clr_0_6516 5000040 6516
+1527858 1534373 1 6516 0 0 0
+0
+>sim5M Read_267_length_13430bp_startpos_569235_number_of_errors_1848_total_error_prob_0.13_passes_1.34856393297_passes_left_1_passes_right_2_cut_position_8749_id_267_clr_0_12570 5000040 12570
+569244 581801 4 12569 18 18 0
+-36
+770
+1
+1467
+-3063
+-1449
+-518
+-130
+-1135
+-762
+-1329
+923
+1
+-962
+-1
+-1
+-1
+-7
+0
+>sim5M Read_269_length_6927bp_startpos_4040424_number_of_errors_626_total_error_prob_0.09_passes_1.62558577265_passes_left_1_passes_right_2_cut_position_2594_id_269_clr_0_6602 5000040 6602
+4040432 4047033 6601 1 1 1 0
+4627
+0
+>sim5M Read_270_length_5460bp_startpos_3592934_number_of_errors_483_total_error_prob_0.09_passes_1.64112102988_passes_left_1_passes_right_2_cut_position_1959_id_270_clr_0_5222 5000040 5222
+3592936 3598157 5222 1 4 4 0
+81
+-845
+0
+>sim5M Read_271_length_10445bp_startpos_4078872_number_of_errors_701_total_error_prob_0.07_passes_1.8252400718_passes_left_1_passes_right_2_cut_position_1825_id_271_clr_0_10044 5000040 10044
+4078878 4088921 10044 1 6 6 0
+9
+-21
+-1
+1072
+0
+>sim5M Read_272_length_8219bp_startpos_3150548_number_of_errors_563_total_error_prob_0.07_passes_2.13863707945_passes_left_3_passes_right_2_cut_position_1139_id_272_clr_0_7900 5000040 7900
+3150550 3158447 7900 1 2 2 0
+-1882
+-1252
+0
+>sim5M Read_273_length_6414bp_startpos_3938180_number_of_errors_327_total_error_prob_0.05_passes_2.62730254763_passes_left_3_passes_right_2_cut_position_4024_id_273_clr_0_6216 5000040 6216
+3938182 3944398 3 6214 8 8 0
+6176
+12
+1
+1
+4
+0
+>sim5M Read_276_length_13662bp_startpos_3617239_number_of_errors_1533_total_error_prob_0.11_passes_1.4589673867_passes_left_1_passes_right_2_cut_position_7392_id_276_clr_0_12954 5000040 12954
+3617276 3630180 12906 1 3 3 0
+-1276
+-3913
+320
+0
+>sim5M Read_277_length_5014bp_startpos_1112891_number_of_errors_316_total_error_prob_0.06_passes_2.26876722512_passes_left_3_passes_right_2_cut_position_1348_id_277_clr_0_4844 5000040 4844
+1112892 1117735 4844 1 0 0 0
+0
+>sim5M Read_279_length_1851bp_startpos_2056897_number_of_errors_39_total_error_prob_0.02_passes_3.70489699332_passes_left_3_passes_right_4_cut_position_546_id_279_clr_0_1824 5000040 1824
+2056899 2058721 1824 1 1 1 0
+-21
+0
+>sim5M Read_27_length_15094bp_startpos_1515171_number_of_errors_1559_total_error_prob_0.10_passes_1.43594623601_passes_left_1_passes_right_2_cut_position_8514_id_28_clr_0_14292 5000040 14292
+1515195 1529473 14 14291 1 1 0
+507
+0
+>sim5M Read_288_length_5980bp_startpos_4353004_number_of_errors_199_total_error_prob_0.03_passes_3.21731675597_passes_left_3_passes_right_4_cut_position_4680_id_288_clr_0_5844 5000040 5844
+4353006 4358849 5844 1 0 0 0
+0
+>sim5M Read_291_length_13665bp_startpos_2447185_number_of_errors_1492_total_error_prob_0.11_passes_1.39150211658_passes_left_1_passes_right_2_cut_position_8315_id_291_clr_0_12996 5000040 12996
+2447195 2460188 1 12995 3 3 0
+-975
+1789
+-15
+0
+>sim5M Read_293_length_14409bp_startpos_4024040_number_of_errors_1766_total_error_prob_0.12_passes_1.34718974171_passes_left_1_passes_right_2_cut_position_9406_id_293_clr_0_13586 5000040 13586
+4024070 4037586 13533 16 3 3 0
+11
+-5155
+-8245
+0
+>sim5M Read_295_length_10574bp_startpos_4107488_number_of_errors_1168_total_error_prob_0.11_passes_1.69185599947_passes_left_1_passes_right_2_cut_position_3258_id_295_clr_0_10004 5000040 10004
+4107492 4117488 10003 1 30 30 0
+-20
+-10
+12
+3
+-14
+-57
+-29
+244
+-9
+40
+138
+-8
+-1
+7
+41
+-168
+-60
+23
+-83
+-252
+-1
+89
+-1418
+1893
+-3
+1855
+1
+-92
+-376
+-1477
+0
+>sim5M Read_296_length_13189bp_startpos_1169148_number_of_errors_939_total_error_prob_0.07_passes_1.79046160853_passes_left_1_passes_right_2_cut_position_2764_id_296_clr_0_12722 5000040 12722
+1169128 1181849 12722 1 0 0 0
+0
+>sim5M Read_297_length_4446bp_startpos_1474824_number_of_errors_70_total_error_prob_0.01_passes_4.35205336718_passes_left_5_passes_right_4_cut_position_1565_id_297_clr_0_4396 5000040 4396
+1474825 1479213 1 4395 6 6 0
+-3737
+-626
+-5
+-6
+-1
+-8
+0
+>sim5M Read_298_length_4718bp_startpos_1332989_number_of_errors_194_total_error_prob_0.04_passes_2.86802167893_passes_left_3_passes_right_2_cut_position_4095_id_298_clr_0_4572 5000040 4572
+1332991 1337560 4571 1 1 1 0
+-4565
+0
+>sim5M Read_29_length_12357bp_startpos_1951714_number_of_errors_1313_total_error_prob_0.11_passes_1.56577560679_passes_left_1_passes_right_2_cut_position_5366_id_30_clr_0_11688 5000040 11688
+1951719 1963401 1 11688 5 5 0
+-2714
+-5670
+-780
+-609
+-565
+0
+>sim5M Read_303_length_13824bp_startpos_3702820_number_of_errors_1478_total_error_prob_0.10_passes_1.60187595156_passes_left_1_passes_right_2_cut_position_5504_id_303_clr_0_13084 5000040 13084
+3702820 3715899 13084 1 4 4 0
+-937
+-294
+-539
+-6228
+0
+>sim5M Read_305_length_8103bp_startpos_4342406_number_of_errors_463_total_error_prob_0.06_passes_1.89521050929_passes_left_1_passes_right_2_cut_position_849_id_305_clr_0_7848 5000040 7848
+4342407 4350252 2 7848 3 3 0
+-686
+-2512
+1731
+0
+>sim5M Read_308_length_6350bp_startpos_4686286_number_of_errors_493_total_error_prob_0.07_passes_1.98856549452_passes_left_1_passes_right_2_cut_position_73_id_308_clr_0_6038 5000040 6038
+4686292 4692328 1 6037 0 0 0
+0
+>sim5M Read_30_length_15500bp_startpos_3944239_number_of_errors_1309_total_error_prob_0.08_passes_1.52014104614_passes_left_1_passes_right_2_cut_position_7438_id_31_clr_0_14790 5000040 14790
+3944241 3959022 1 14786 5 5 0
+-515
+-7153
+-1133
+-5976
+0
+>sim5M Read_313_length_8223bp_startpos_4125843_number_of_errors_479_total_error_prob_0.06_passes_1.96861540281_passes_left_1_passes_right_2_cut_position_258_id_313_clr_0_7944 5000040 7944
+4125844 4133775 1 7941 18 18 0
+-7
+6
+8
+4
+-11
+-1
+-4
+-6
+6
+-7
+-3
+-11
+-3
+-577
+-4276
+-2962
+-27
+0
+>sim5M Read_315_length_10081bp_startpos_4833191_number_of_errors_831_total_error_prob_0.08_passes_1.69247307824_passes_left_1_passes_right_2_cut_position_3100_id_315_clr_0_9668 5000040 9668
+4833193 4842851 9667 1 12 12 0
+19
+-12
+-1
+-1320
+-118
+-1
+-495
+-1
+100
+-1005
+-566
+-3786
+0
+>sim5M Read_316_length_12397bp_startpos_1382949_number_of_errors_967_total_error_prob_0.08_passes_1.87878986134_passes_left_1_passes_right_2_cut_position_1503_id_316_clr_0_11882 5000040 11882
+1382952 1394831 1 11882 2 2 0
+-9
+-7983
+0
+>sim5M Read_319_length_12328bp_startpos_533106_number_of_errors_1692_total_error_prob_0.13_passes_1.41938508645_passes_left_1_passes_right_2_cut_position_7158_id_319_clr_0_11480 5000040 11480
+533124 544602 1 11480 50 50 0
+-7
+-1
+306
+1
+-734
+-3069
+1025
+1
+-445
+-17
+174
+129
+57
+46
+-31
+-194
+19
+32
+30
+-1530
+258
+-180
+-681
+263
+398
+-85
+247
+-86
+-749
+-1
+-691
+0
+>sim5M Read_322_length_8133bp_startpos_3846318_number_of_errors_750_total_error_prob_0.09_passes_1.86169613933_passes_left_1_passes_right_2_cut_position_1125_id_322_clr_0_7706 5000040 7706
+3846325 3854020 7699 1 4 4 0
+-2296
+-2484
+-2903
+0
+>sim5M Read_324_length_4790bp_startpos_97476_number_of_errors_94_total_error_prob_0.02_passes_3.50879186883_passes_left_3_passes_right_4_cut_position_2353_id_324_clr_0_4718 5000040 4718
+97480 102196 1 4718 5 5 0
+-5
+-539
+-45
+218
+1567
+0
+>sim5M Read_326_length_8411bp_startpos_4505432_number_of_errors_475_total_error_prob_0.06_passes_2.12568899386_passes_left_3_passes_right_2_cut_position_1057_id_326_clr_0_8142 5000040 8142
+4505432 4513573 1 8142 0 0 0
+0
+>sim5M Read_334_length_14429bp_startpos_1813203_number_of_errors_1537_total_error_prob_0.10_passes_1.81983809263_passes_left_1_passes_right_2_cut_position_2600_id_334_clr_0_13764 5000040 13764
+1813152 1826907 1 13763 23 23 0
+59
+5
+31
+-78
+-179
+-356
+-256
+207
+-682
+-327
+-272
+-3490
+-7726
+-28
+-22
+-5
+-9
+12
+9
+0
+>sim5M Read_339_length_15859bp_startpos_1420193_number_of_errors_1980_total_error_prob_0.12_passes_1.40251871611_passes_left_1_passes_right_2_cut_position_9475_id_338_clr_0_14904 5000040 14904
+1420200 1435090 10 14903 11 11 0
+-526
+829
+-211
+-42
+-96
+-1090
+3484
+0
+>sim5M Read_349_length_7895bp_startpos_710983_number_of_errors_288_total_error_prob_0.04_passes_2.53637072595_passes_left_3_passes_right_2_cut_position_4235_id_348_clr_0_7704 5000040 7704
+710983 718681 2 7703 7 7 0
+-3741
+-1601
+186
+-898
+-82
+311
+-823
+0
+>sim5M Read_351_length_6933bp_startpos_1359622_number_of_errors_617_total_error_prob_0.09_passes_1.93586431979_passes_left_1_passes_right_2_cut_position_445_id_350_clr_0_6578 5000040 6578
+1359623 1366197 1 6578 12 12 0
+-6
+8
+143
+-1092
+1858
+5
+-1556
+-1
+-1259
+-641
+-4
+0
+>sim5M Read_358_length_10317bp_startpos_1061052_number_of_errors_687_total_error_prob_0.07_passes_2.05133468847_passes_left_3_passes_right_2_cut_position_530_id_357_clr_0_9906 5000040 9906
+1061054 1070955 9905 1 3 3 0
+-4161
+-3318
+-2334
+0
+>sim5M Read_365_length_10285bp_startpos_150609_number_of_errors_1188_total_error_prob_0.11_passes_1.55248096579_passes_left_1_passes_right_2_cut_position_4603_id_364_clr_0_9708 5000040 9708
+150595 160301 1 9707 0 0 0
+0
+>sim5M Read_368_length_15133bp_startpos_2933533_number_of_errors_1801_total_error_prob_0.12_passes_1.31908777592_passes_left_1_passes_right_2_cut_position_10304_id_367_clr_0_14282 5000040 14282
+2933556 2947808 14257 3 4 4 0
+-5755
+4325
+-2248
+-1632
+0
+>sim5M Read_36_length_18191bp_startpos_3748650_number_of_errors_2141_total_error_prob_0.12_passes_1.43040938917_passes_left_1_passes_right_2_cut_position_10361_id_37_clr_0_17208 5000040 17208
+3748665 3765865 17208 2 23 23 0
+-1742
+9820
+-144
+-135
+-232
+-142
+324
+-455
+-426
+407
+-520
+-57
+0
+>sim5M Read_376_length_9919bp_startpos_3051373_number_of_errors_531_total_error_prob_0.06_passes_2.01980050769_passes_left_3_passes_right_2_cut_position_196_id_375_clr_0_9602 5000040 9602
+3051375 3060970 9601 4 2 2 0
+-1279
+-5776
+0
+>sim5M Read_378_length_8142bp_startpos_1947595_number_of_errors_597_total_error_prob_0.07_passes_2.55425487523_passes_left_3_passes_right_2_cut_position_4513_id_377_clr_0_7764 5000040 7764
+1947597 1955360 7764 1 2 2 0
+2479
+-5279
+0
+>sim5M Read_37_length_10630bp_startpos_2151174_number_of_errors_1152_total_error_prob_0.10_passes_1.5588156092_passes_left_1_passes_right_2_cut_position_4690_id_38_clr_0_10118 5000040 10118
+2151168 2161284 10118 1 7 7 0
+-1828
+-1
+117
+1
+-1804
+0
+>sim5M Read_380_length_13923bp_startpos_1318094_number_of_errors_1982_total_error_prob_0.14_passes_1.27352937944_passes_left_1_passes_right_2_cut_position_10115_id_379_clr_0_13068 5000040 13068
+1318090 1331151 13068 2 7 7 0
+-426
+4
+-2620
+-1
+-2785
+-5741
+-1333
+0
+>sim5M Read_382_length_8945bp_startpos_1261337_number_of_errors_412_total_error_prob_0.05_passes_2.72600313722_passes_left_3_passes_right_2_cut_position_6494_id_381_clr_0_8706 5000040 8706
+1261333 1270038 1 8706 0 0 0
+0
+>sim5M Read_392_length_3857bp_startpos_2553958_number_of_errors_33_total_error_prob_0.01_passes_5.29195376864_passes_left_5_passes_right_6_cut_position_2731_id_391_clr_0_3830 5000040 3830
+2553959 2557787 1 3829 0 0 0
+0
+>sim5M Read_393_length_6163bp_startpos_2377545_number_of_errors_240_total_error_prob_0.04_passes_2.89332514621_passes_left_3_passes_right_2_cut_position_5506_id_392_clr_0_6010 5000040 6010
+2377549 2383552 6007 4 0 0 0
+0
+>sim5M Read_394_length_8136bp_startpos_1464508_number_of_errors_405_total_error_prob_0.05_passes_2.23204182766_passes_left_3_passes_right_2_cut_position_1888_id_393_clr_0_7874 5000040 7874
+1464509 1472381 1 7874 1 1 0
+-2137
+0
+>sim5M Read_395_length_3443bp_startpos_4315321_number_of_errors_117_total_error_prob_0.03_passes_3.53329804369_passes_left_3_passes_right_4_cut_position_1607_id_394_clr_0_3362 5000040 3362
+4315322 4318683 1 3362 0 0 0
+0
+>sim5M Read_397_length_8704bp_startpos_4242266_number_of_errors_845_total_error_prob_0.09_passes_1.60138042716_passes_left_1_passes_right_2_cut_position_3470_id_396_clr_0_8280 5000040 8280
+4242269 4250550 8280 1 4 4 0
+15
+-9
+155
+1
+0
+>sim5M Read_399_length_7590bp_startpos_1694720_number_of_errors_345_total_error_prob_0.04_passes_3.15826682961_passes_left_3_passes_right_4_cut_position_6389_id_398_clr_0_7396 5000040 7396
+1694725 1702120 7396 1 0 0 0
+0
+>sim5M Read_405_length_8433bp_startpos_4976309_number_of_errors_576_total_error_prob_0.07_passes_2.21953357344_passes_left_3_passes_right_2_cut_position_1851_id_404_clr_0_8098 5000040 8098
+4976310 4984406 1 8098 1 1 0
+-7946
+0
+>sim5M Read_407_length_13128bp_startpos_1705531_number_of_errors_1296_total_error_prob_0.10_passes_1.54522044561_passes_left_1_passes_right_2_cut_position_5970_id_406_clr_0_12506 5000040 12506
+1705546 1718021 29 12506 2 2 0
+-1950
+-6674
+0
+>sim5M Read_40_length_10159bp_startpos_211220_number_of_errors_1115_total_error_prob_0.11_passes_1.52680666424_passes_left_1_passes_right_2_cut_position_4807_id_41_clr_0_9624 5000040 9624
+211222 220838 9624 1 15 15 0
+-6
+-9
+17
+-11
+-23
+-6
+-140
+-304
+-1
+-261
+725
+704
+-933
+-6472
+8
+0
+>sim5M Read_413_length_13033bp_startpos_2653657_number_of_errors_1400_total_error_prob_0.10_passes_1.57407975485_passes_left_1_passes_right_2_cut_position_5551_id_411_clr_0_12346 5000040 12346
+2653675 2665999 22 12346 0 0 0
+0
+>sim5M Read_414_length_9166bp_startpos_4007702_number_of_errors_593_total_error_prob_0.06_passes_2.26621770549_passes_left_3_passes_right_2_cut_position_2440_id_412_clr_0_8850 5000040 8850
+4007703 4016552 1 8850 0 0 0
+0
+>sim5M Read_416_length_8402bp_startpos_3386201_number_of_errors_534_total_error_prob_0.06_passes_2.00452072647_passes_left_3_passes_right_2_cut_position_38_id_414_clr_0_8082 5000040 8082
+3386203 3394282 8081 1 1 1 0
+-8074
+0
+>sim5M Read_421_length_15053bp_startpos_2287322_number_of_errors_1894_total_error_prob_0.12_passes_1.46610177335_passes_left_1_passes_right_2_cut_position_8037_id_419_clr_0_14210 5000040 14210
+2287323 2301524 14210 5 8 8 0
+-948
+-439
+-1
+-264
+294
+-2990
+-1
+676
+0
+>sim5M Read_426_length_5514bp_startpos_1989333_number_of_errors_193_total_error_prob_0.04_passes_2.42117758638_passes_left_3_passes_right_2_cut_position_2322_id_424_clr_0_5384 5000040 5384
+1989335 1994717 5384 1 2 2 0
+-506
+0
+>sim5M Read_42_length_3887bp_startpos_1811945_number_of_errors_297_total_error_prob_0.07_passes_2.17619252859_passes_left_3_passes_right_2_cut_position_685_id_43_clr_0_3724 5000040 3724
+1811947 1815666 3724 1 7 7 0
+-818
+-1302
+-428
+3
+-426
+-400
+0
+>sim5M Read_431_length_10549bp_startpos_167130_number_of_errors_842_total_error_prob_0.08_passes_1.97230023636_passes_left_1_passes_right_2_cut_position_292_id_429_clr_0_10114 5000040 10114
+167132 177238 10113 1 9 9 0
+-11
+-1
+-1
+-13
+8
+-232
+-9740
+-13
+0
+>sim5M Read_437_length_6047bp_startpos_188131_number_of_errors_205_total_error_prob_0.04_passes_2.27043966137_passes_left_3_passes_right_2_cut_position_1635_id_435_clr_0_5910 5000040 5910
+188135 194042 5910 3 0 0 0
+0
+>sim5M Read_438_length_20113bp_startpos_1044152_number_of_errors_2254_total_error_prob_0.11_passes_1.29256457743_passes_left_1_passes_right_2_cut_position_14229_id_436_clr_0_18938 5000040 18938
+1044150 1063082 18938 1 17 17 0
+12
+1
+15
+-12
+-88
+-847
+-4943
+-386
+-8000
+-1
+-163
+583
+-1746
+0
+>sim5M Read_43_length_7030bp_startpos_1625148_number_of_errors_106_total_error_prob_0.02_passes_3.9834949036_passes_left_3_passes_right_4_cut_position_116_id_44_clr_0_6956 5000040 6956
+1625149 1632102 1 6955 1 1 0
+-6951
+0
+>sim5M Read_442_length_14667bp_startpos_3567433_number_of_errors_1898_total_error_prob_0.13_passes_1.55428575538_passes_left_1_passes_right_2_cut_position_6537_id_440_clr_0_13810 5000040 13810
+3567433 3581214 13806 1 66 66 0
+15
+-64
+-13
+-50
+18
+-11
+-1
+-57
+-9
+8
+-5
+-9
+-1
+-384
+-1751
+982
+-200
+-356
+-90
+-3
+-10
+-1
+-1
+-95
+-30
+54
+-30
+153
+-166
+36
+-4
+117
+90
+1
+170
+-35
+-118
+-55
+-64
+-1
+-1
+-43
+-112
+22
+1
+-36
+-1
+-5
+521
+-526
+323
+-618
+179
+-2738
+-3056
+-154
+0
+>sim5M Read_444_length_7041bp_startpos_609464_number_of_errors_288_total_error_prob_0.04_passes_2.96261156983_passes_left_3_passes_right_2_cut_position_6778_id_442_clr_0_6850 5000040 6850
+609466 616313 6849 1 1 1 0
+-2637
+0
+>sim5M Read_445_length_6003bp_startpos_3020121_number_of_errors_249_total_error_prob_0.05_passes_2.63398424574_passes_left_3_passes_right_2_cut_position_3806_id_443_clr_0_5828 5000040 5828
+3020122 3025949 1 5828 2 2 0
+4167
+-980
+0
+>sim5M Read_446_length_4778bp_startpos_4909769_number_of_errors_321_total_error_prob_0.07_passes_2.17319297654_passes_left_3_passes_right_2_cut_position_828_id_444_clr_0_4592 5000040 4592
+4909770 4914360 1 4592 1 1 0
+-1851
+0
+>sim5M Read_447_length_7292bp_startpos_3502099_number_of_errors_413_total_error_prob_0.05_passes_2.53651168603_passes_left_3_passes_right_2_cut_position_3912_id_445_clr_0_7036 5000040 7036
+3502101 3509136 7036 1 0 0 0
+0
+>sim5M Read_448_length_5120bp_startpos_3221770_number_of_errors_123_total_error_prob_0.03_passes_3.19351537175_passes_left_3_passes_right_4_cut_position_4129_id_446_clr_0_5030 5000040 5030
+3221771 3226799 1 5029 0 0 0
+0
+>sim5M Read_450_length_10048bp_startpos_725283_number_of_errors_555_total_error_prob_0.06_passes_2.00282197129_passes_left_3_passes_right_2_cut_position_28_id_448_clr_0_9728 5000040 9728
+725277 735003 9727 1 2 2 0
+4164
+-1296
+0
+>sim5M Read_451_length_5723bp_startpos_3669405_number_of_errors_65_total_error_prob_0.01_passes_4.27105788604_passes_left_5_passes_right_4_cut_position_1551_id_449_clr_0_5686 5000040 5686
+3669407 3675092 5686 1 0 0 0
+0
+>sim5M Read_453_length_6275bp_startpos_4842488_number_of_errors_245_total_error_prob_0.04_passes_2.37716812291_passes_left_3_passes_right_2_cut_position_2367_id_451_clr_0_6108 5000040 6108
+4842489 4848594 1 6108 4 4 0
+-5976
+-120
+-1
+4
+0
+>sim5M Read_454_length_9427bp_startpos_4584613_number_of_errors_664_total_error_prob_0.07_passes_1.93177738352_passes_left_1_passes_right_2_cut_position_643_id_452_clr_0_9066 5000040 9066
+4584614 4593678 1 9065 2 2 0
+-200
+345
+0
+>sim5M Read_456_length_5593bp_startpos_3282032_number_of_errors_310_total_error_prob_0.06_passes_1.98529955353_passes_left_1_passes_right_2_cut_position_82_id_454_clr_0_5412 5000040 5412
+3282028 3287437 1 5412 2 2 0
+-5404
+-1
+0
+>sim5M Read_457_length_14131bp_startpos_2431157_number_of_errors_1143_total_error_prob_0.08_passes_1.67656490821_passes_left_1_passes_right_2_cut_position_4570_id_455_clr_0_13560 5000040 13560
+2431169 2444705 15 13560 11 11 0
+-7
+-10
+-5
+-9
+-4
+-11
+8877
+-3477
+-270
+-856
+-8
+0
+>sim5M Read_458_length_11054bp_startpos_2617340_number_of_errors_868_total_error_prob_0.08_passes_1.89169306647_passes_left_1_passes_right_2_cut_position_1197_id_456_clr_0_10566 5000040 10566
+2617372 2627894 39 10565 7 7 0
+7
+-17
+-2392
+-3509
+-3429
+-1169
+0
+>sim5M Read_459_length_7094bp_startpos_290045_number_of_errors_306_total_error_prob_0.04_passes_2.5366740506_passes_left_3_passes_right_2_cut_position_3807_id_457_clr_0_6892 5000040 6892
+290047 296935 6892 1 3 3 0
+-1343
+-5389
+-44
+0
+>sim5M Read_45_length_9190bp_startpos_791213_number_of_errors_607_total_error_prob_0.07_passes_2.17886589864_passes_left_3_passes_right_2_cut_position_1644_id_46_clr_0_8874 5000040 8874
+791215 800084 8873 1 5 5 0
+-3808
+-1
+-41
+-387
+1502
+0
+>sim5M Read_462_length_9141bp_startpos_2572722_number_of_errors_552_total_error_prob_0.06_passes_2.26949416245_passes_left_3_passes_right_2_cut_position_2463_id_460_clr_0_8818 5000040 8818
+2572724 2581541 8818 1 0 0 0
+0
+>sim5M Read_463_length_4551bp_startpos_4444385_number_of_errors_273_total_error_prob_0.05_passes_2.59437737843_passes_left_3_passes_right_2_cut_position_2705_id_461_clr_0_4408 5000040 4408
+4444390 4448796 1 4408 1 1 0
+-6
+0
+>sim5M Read_464_length_8820bp_startpos_3637939_number_of_errors_858_total_error_prob_0.10_passes_1.45574529554_passes_left_1_passes_right_2_cut_position_4800_id_462_clr_0_8430 5000040 8430
+3637948 3646363 8420 1 6 6 0
+-10
+19
+-30
+-161
+-114
+-85
+0
+>sim5M Read_469_length_5939bp_startpos_1533054_number_of_errors_66_total_error_prob_0.01_passes_4.10997807818_passes_left_5_passes_right_4_cut_position_653_id_467_clr_0_5884 5000040 5884
+1533058 1538940 5883 1 0 0 0
+0
+>sim5M Read_46_length_10273bp_startpos_3478016_number_of_errors_908_total_error_prob_0.08_passes_1.86356449194_passes_left_1_passes_right_2_cut_position_1402_id_47_clr_0_9798 5000040 9798
+3478021 3487807 6 9796 11 11 0
+5
+-16
+-1
+-5
+-1
+68
+-107
+45
+-146
+-9379
+0
+>sim5M Read_471_length_5084bp_startpos_4879694_number_of_errors_73_total_error_prob_0.02_passes_4.00755517757_passes_left_5_passes_right_4_cut_position_38_id_469_clr_0_5026 5000040 5026
+4879696 4884720 5025 1 0 0 0
+0
+>sim5M Read_473_length_3612bp_startpos_4678620_number_of_errors_30_total_error_prob_0.01_passes_4.01287826732_passes_left_5_passes_right_4_cut_position_47_id_471_clr_0_3588 5000040 3588
+4678622 4682208 3587 1 0 0 0
+0
+>sim5M Read_474_length_13490bp_startpos_2771121_number_of_errors_924_total_error_prob_0.06_passes_2.13299419708_passes_left_3_passes_right_2_cut_position_1794_id_472_clr_0_12950 5000040 12950
+2771134 2784079 1 12949 3 3 0
+-6496
+-1
+-5962
+0
+>sim5M Read_475_length_6767bp_startpos_2839294_number_of_errors_305_total_error_prob_0.05_passes_2.21109794467_passes_left_3_passes_right_2_cut_position_1428_id_473_clr_0_6588 5000040 6588
+2839295 2845874 1 6580 1 1 0
+0
+>sim5M Read_476_length_7485bp_startpos_960569_number_of_errors_757_total_error_prob_0.09_passes_1.89719043284_passes_left_1_passes_right_2_cut_position_770_id_474_clr_0_7108 5000040 7108
+960571 967633 7107 6 207 207 0
+-5
+-6
+-6
+-1
+-7
+-10
+14
+10
+-9
+-1
+-1
+-12
+10
+-8
+-21
+-1
+18
+-10
+-21
+-6
+5
+32
+-7
+10
+1
+4
+-17
+-1
+46
+-52
+30
+-19
+21
+-65
+8
+-27
+-57
+-103
+-3
+23
+-4
+65
+72
+-33
+86
+4
+14
+6
+-44
+-49
+-1
+-23
+-49
+-12
+-1
+-24
+134
+-148
+-8
+-1
+59
+-10
+-1
+-1
+32
+-19
+113
+71
+-6
+-28
+29
+-3
+-37
+-106
+11
+-52
+-63
+228
+69
+-38
+-18
+-22
+8
+1
+-41
+-4
+4
+-23
+12
+5
+16
+38
+-26
+-7
+-47
+28
+-29
+-158
+37
+14
+-11
+-17
+20
+17
+-63
+14
+141
+-26
+44
+31
+-131
+46
+43
+-9
+42
+-35
+-6
+-108
+52
+96
+-156
+19
+-13
+-59
+-104
+-34
+-1
+-42
+-55
+-13
+-49
+10
+-38
+-15
+-1
+-55
+12
+31
+3
+-41
+21
+192
+236
+-148
+7
+-65
+5
+4
+-6
+86
+-24
+-67
+-56
+-35
+-39
+77
+66
+-9
+-38
+-6
+17
+-83
+-37
+-40
+28
+16
+-233
+47
+-37
+-1
+-58
+-9
+-30
+73
+-194
+-77
+-178
+0
+>sim5M Read_479_length_8457bp_startpos_3164441_number_of_errors_560_total_error_prob_0.06_passes_2.09489410648_passes_left_3_passes_right_2_cut_position_803_id_477_clr_0_8140 5000040 8140
+3164446 3172583 1 8139 1 1 0
+-5678
+0
+>sim5M Read_480_length_17535bp_startpos_2584820_number_of_errors_2175_total_error_prob_0.12_passes_1.35850523598_passes_left_1_passes_right_2_cut_position_11249_id_478_clr_0_16428 5000040 16428
+2584833 2601247 13 16428 1 1 0
+-30
+0
+>sim5M Read_483_length_9867bp_startpos_3522715_number_of_errors_796_total_error_prob_0.08_passes_1.84455932119_passes_left_1_passes_right_2_cut_position_1534_id_481_clr_0_9452 5000040 9452
+3522726 3532160 9452 1 195 195 0
+-18
+-7
+-14
+-20
+-2
+-1
+-11
+-8
+-27
+-51
+122
+-14
+30
+-1192
+-939
+311
+-27
+-26
+-1
+22
+-13
+-4
+-14
+-6
+-30
+-21
+72
+5
+88
+53
+20
+-31
+-16
+27
+-31
+-4
+-26
+-54
+-7
+-44
+-1
+-49
+18
+17
+46
+-9
+-5
+-44
+19
+18
+27
+-8
+-9
+-25
+-3
+-9
+-5
+-50
+10
+-47
+-3
+10
+-24
+-42
+10
+8
+-10
+-8
+27
+-12
+-7
+4
+12
+20
+-6
+-23
+32
+-86
+60
+-5
+-28
+-7
+-44
+18
+-28
+31
+-5
+14
+59
+79
+-42
+21
+36
+17
+6
+14
+-16
+-13
+-5
+89
+-17
+-105
+-75
+-16
+-75
+-4
+112
+48
+12
+74
+124
+8
+131
+85
+293
+55
+-11
+16
+1
+22
+-69
+65
+17
+217
+-46
+191
+848
+131
+-1824
+0
+>sim5M Read_485_length_7977bp_startpos_4448993_number_of_errors_429_total_error_prob_0.06_passes_2.3791689411_passes_left_3_passes_right_2_cut_position_3025_id_483_clr_0_7720 5000040 7720
+4448995 4456712 7719 1 1 1 0
+-7711
+0
+>sim5M Read_486_length_5188bp_startpos_4675235_number_of_errors_117_total_error_prob_0.02_passes_3.1531005166_passes_left_3_passes_right_4_cut_position_4394_id_484_clr_0_5100 5000040 5100
+4675238 4680337 5100 1 0 0 0
+0
+>sim5M Read_488_length_9689bp_startpos_1247742_number_of_errors_761_total_error_prob_0.07_passes_1.7463692275_passes_left_1_passes_right_2_cut_position_2457_id_486_clr_0_9302 5000040 9302
+1247744 1257044 9301 1 1 1 0
+0
+>sim5M Read_489_length_9353bp_startpos_567301_number_of_errors_1131_total_error_prob_0.12_passes_1.48807174322_passes_left_1_passes_right_2_cut_position_4788_id_487_clr_0_8820 5000040 8820
+567306 576122 1 8820 11 11 0
+7
+-370
+-1
+14
+-1134
+1216
+-148
+-179
+-1164
+0
+>sim5M Read_493_length_8198bp_startpos_2383872_number_of_errors_644_total_error_prob_0.08_passes_1.92852116418_passes_left_1_passes_right_2_cut_position_586_id_491_clr_0_7832 5000040 7832
+2383878 2391706 1 7832 3 3 0
+-5657
+-929
+-238
+0
+>sim5M Read_495_length_5112bp_startpos_2408068_number_of_errors_238_total_error_prob_0.04_passes_2.842811312_passes_left_3_passes_right_2_cut_position_4308_id_493_clr_0_4952 5000040 4952
+2408070 2413019 3 4952 0 0 0
+0
+>sim5M Read_498_length_8276bp_startpos_3561909_number_of_errors_714_total_error_prob_0.09_passes_1.9969965188_passes_left_1_passes_right_2_cut_position_25_id_496_clr_0_7890 5000040 7890
+3561922 3569801 1 7890 10 10 0
+-10
+-950
+-2172
+-1464
+-572
+-1
+-1054
+-1201
+-445
+-12
+0
+>sim5M Read_4_length_5136bp_startpos_100858_number_of_errors_120_total_error_prob_0.02_passes_3.25643818081_passes_left_3_passes_right_4_cut_position_3819_id_5_clr_0_5044 5000040 5044
+100859 105900 1 5044 2 2 0
+-4952
+-38
+0
+>sim5M Read_501_length_6442bp_startpos_2577931_number_of_errors_382_total_error_prob_0.06_passes_2.44528831648_passes_left_3_passes_right_2_cut_position_2869_id_499_clr_0_6190 5000040 6190
+2577933 2584119 6190 1 3 3 0
+-353
+-3522
+-1
+0
+>sim5M Read_502_length_4335bp_startpos_1192040_number_of_errors_42_total_error_prob_0.01_passes_4.99720890819_passes_left_5_passes_right_4_cut_position_4323_id_500_clr_0_4302 5000040 4302
+1192042 1196343 4302 1 0 0 0
+0
+>sim5M Read_503_length_11550bp_startpos_3675381_number_of_errors_943_total_error_prob_0.08_passes_1.83508719433_passes_left_1_passes_right_2_cut_position_1905_id_501_clr_0_11036 5000040 11036
+3675382 3686432 2 11036 230 230 0
+-5
+-3647
+340
+25
+-25
+-194
+-526
+7
+3
+1
+46
+7
+1
+-58
+87
+1
+1
+1
+26
+1
+26
+1
+34
+7
+1
+1
+-6
+16
+-36
+7
+-8
+-22
+38
+15
+51
+1
+-11
+6
+12
+-8
+-1
+12
+17
+-44
+-29
+-37
+-1
+-62
+-17
+-1
+20
+1
+-41
+-149
+-1
+29
+84
+89
+3
+-20
+535
+83
+-371
+11
+1
+1
+-20
+185
+58
+133
+-9
+77
+-3154
+-236
+-170
+3
+0
+>sim5M Read_508_length_14086bp_startpos_977806_number_of_errors_1226_total_error_prob_0.08_passes_1.80415106824_passes_left_1_passes_right_2_cut_position_2759_id_506_clr_0_13448 5000040 13448
+977807 991227 1 13448 184 184 0
+-7
+-4
+-1
+-20
+-6
+-5
+-61
+253
+166
+-58
+-427
+158
+78
+236
+-384
+-210
+94
+5
+1
+-38
+-19
+-20
+32
+10
+-76
+-12
+56
+-10
+-53
+-32
+34
+-4
+-1
+41
+52
+57
+18
+-7
+-29
+4
+33
+-11
+25
+20
+-121
+-121
+-27
+22
+-52
+-137
+-16
+5
+116
+138
+238
+73
+-22
+-5
+-1
+-13
+-69
+18
+-112
+9
+13
+23
+56
+19
+6
+-21
+20
+-30
+35
+23
+-49
+-18
+46
+1
+-34
+40
+-16
+-32
+-10
+-15
+-19
+-1
+-51
+-19
+-52
+18
+-9
+21
+-16
+-8
+-1
+-20
+-15
+-19
+-1
+-12
+-18
+-1
+-1
+26
+5
+-106
+-169
+35
+-22
+-3
+-1
+45
+39
+247
+-75
+-1
+15
+-115
+-33
+-39
+-11
+-45
+33
+-45
+29
+-19
+-52
+-1
+107
+-71
+-80
+-1
+-50
+26
+-66
+49
+-118
+127
+-9
+106
+26
+79
+-37
+-31
+7
+24
+-4
+-54
+26
+138
+80
+1
+-16
+-1
+-1
+361
+-393
+25
+96
+-43
+311
+259
+-4479
+0
+>sim5M Read_510_length_6614bp_startpos_3122084_number_of_errors_226_total_error_prob_0.04_passes_2.75100636583_passes_left_3_passes_right_2_cut_position_4967_id_508_clr_0_6444 5000040 6444
+3122085 3128528 1 6444 0 0 0
+0
+>sim5M Read_511_length_9145bp_startpos_2241486_number_of_errors_557_total_error_prob_0.06_passes_2.04511440086_passes_left_3_passes_right_2_cut_position_413_id_509_clr_0_8818 5000040 8818
+2241484 2250290 8817 10 1 1 0
+-3115
+0
+>sim5M Read_514_length_8433bp_startpos_2836160_number_of_errors_769_total_error_prob_0.08_passes_1.89317801937_passes_left_1_passes_right_2_cut_position_901_id_512_clr_0_7966 5000040 7966
+2836162 2844123 7966 1 5 5 0
+-22
+-13
+-799
+-639
+0
+>sim5M Read_518_length_10186bp_startpos_137553_number_of_errors_1080_total_error_prob_0.10_passes_1.37148950473_passes_left_1_passes_right_2_cut_position_6402_id_516_clr_0_9656 5000040 9656
+137554 147209 1 9656 5 5 0
+41
+1342
+-105
+-1
+0
+>sim5M Read_520_length_11543bp_startpos_4871438_number_of_errors_1194_total_error_prob_0.10_passes_1.46124001954_passes_left_1_passes_right_2_cut_position_6219_id_518_clr_0_10962 5000040 10962
+4871455 4882414 10961 1 3 3 0
+9039
+-1892
+-10
+0
+>sim5M Read_521_length_8193bp_startpos_3928728_number_of_errors_522_total_error_prob_0.06_passes_2.0226253615_passes_left_3_passes_right_2_cut_position_185_id_519_clr_0_7916 5000040 7916
+3928736 3936645 1 7913 3 3 0
+-178
+-1981
+-194
+0
+>sim5M Read_528_length_7781bp_startpos_2723412_number_of_errors_290_total_error_prob_0.04_passes_2.37404730113_passes_left_3_passes_right_2_cut_position_2910_id_526_clr_0_7586 5000040 7586
+2723413 2730997 1 7585 0 0 0
+0
+>sim5M Read_52_length_8195bp_startpos_1983106_number_of_errors_212_total_error_prob_0.03_passes_3.03543666678_passes_left_3_passes_right_4_cut_position_7905_id_53_clr_0_8072 5000040 8072
+1983101 1991171 8071 1 0 0 0
+0
+>sim5M Read_530_length_4811bp_startpos_4132547_number_of_errors_79_total_error_prob_0.02_passes_3.87798240174_passes_left_3_passes_right_4_cut_position_587_id_528_clr_0_4772 5000040 4772
+4132549 4137302 4772 1 28 28 0
+-1117
+-1
+-3
+-8
+-5
+-7
+-1
+-1
+-1
+-1
+-2
+-333
+-52
+-43
+320
+-82
+-1
+-465
+-173
+493
+-460
+-104
+0
+>sim5M Read_531_length_7571bp_startpos_1689118_number_of_errors_138_total_error_prob_0.02_passes_3.15623189552_passes_left_3_passes_right_4_cut_position_6388_id_529_clr_0_7476 5000040 7476
+1689118 1696593 7476 1 0 0 0
+0
+>sim5M Read_535_length_13021bp_startpos_1752739_number_of_errors_770_total_error_prob_0.06_passes_1.95129822276_passes_left_1_passes_right_2_cut_position_634_id_533_clr_0_12564 5000040 12564
+1752740 1765288 1 12563 39 39 0
+-10
+-5
+-4
+-12
+-18
+3
+5
+-8
+14
+12
+-9
+-10
+-1
+-7
+15
+-8
+-4
+-22
+-1
+7
+11
+13
+-4134
+-2693
+-972
+-2113
+-2379
+-30
+-12
+-10
+-3
+18
+0
+>sim5M Read_536_length_9853bp_startpos_405618_number_of_errors_973_total_error_prob_0.10_passes_1.53666715588_passes_left_1_passes_right_2_cut_position_4565_id_534_clr_0_9378 5000040 9378
+405630 415007 9377 1 6 6 0
+18
+-10
+-2596
+1479
+4562
+0
+>sim5M Read_537_length_8604bp_startpos_1923457_number_of_errors_324_total_error_prob_0.04_passes_2.11327789493_passes_left_3_passes_right_2_cut_position_975_id_535_clr_0_8400 5000040 8400
+1923457 1931856 1 8400 0 0 0
+0
+>sim5M Read_539_length_10172bp_startpos_1626941_number_of_errors_748_total_error_prob_0.07_passes_1.97855068358_passes_left_1_passes_right_2_cut_position_218_id_537_clr_0_9782 5000040 9782
+1626948 1636712 9779 1 17 17 0
+5
+-8
+-1
+-10
+-3
+-3
+-84
+-41
+-4983
+-212
+-332
+-1737
+-1
+-924
+-519
+-294
+0
+>sim5M Read_542_length_4471bp_startpos_3882736_number_of_errors_204_total_error_prob_0.05_passes_2.68670434898_passes_left_3_passes_right_2_cut_position_3070_id_540_clr_0_4356 5000040 4356
+3882737 3887090 4356 1 2 2 0
+-2671
+-1680
+0
+>sim5M Read_546_length_7707bp_startpos_3711449_number_of_errors_276_total_error_prob_0.04_passes_2.64225512163_passes_left_3_passes_right_2_cut_position_4950_id_544_clr_0_7526 5000040 7526
+3711450 3718975 1 7526 0 0 0
+0
+>sim5M Read_547_length_8531bp_startpos_2676932_number_of_errors_368_total_error_prob_0.04_passes_2.60114618977_passes_left_3_passes_right_2_cut_position_5128_id_545_clr_0_8266 5000040 8266
+2676933 2685197 1 8265 0 0 0
+0
+>sim5M Read_548_length_6467bp_startpos_1865193_number_of_errors_235_total_error_prob_0.04_passes_2.30271826365_passes_left_3_passes_right_2_cut_position_1958_id_546_clr_0_6304 5000040 6304
+1865194 1871496 1 6303 0 0 0
+0
+>sim5M Read_54_length_11648bp_startpos_4495490_number_of_errors_846_total_error_prob_0.07_passes_1.83584372088_passes_left_1_passes_right_2_cut_position_1912_id_55_clr_0_11172 5000040 11172
+4495518 4506656 11144 5 5 5 0
+-17
+-1
+4
+-6141
+5
+0
+>sim5M Read_554_length_12136bp_startpos_1079091_number_of_errors_1336_total_error_prob_0.10_passes_1.77403641073_passes_left_1_passes_right_2_cut_position_2742_id_552_clr_0_11412 5000040 11412
+1079096 1090501 1 11412 14 14 0
+6
+-10
+-4
+-5
+-5
+14
+-12
+3420
+-1579
+-6176
+-108
+-6
+0
+>sim5M Read_557_length_3585bp_startpos_1330570_number_of_errors_362_total_error_prob_0.10_passes_1.76016871009_passes_left_1_passes_right_2_cut_position_860_id_555_clr_0_3420 5000040 3420
+1330574 1333986 3 3418 10 10 0
+5
+-7
+-9
+-17
+-3
+-5
+1326
+0
+>sim5M Read_561_length_4074bp_startpos_1404080_number_of_errors_179_total_error_prob_0.04_passes_2.63111139937_passes_left_3_passes_right_2_cut_position_2571_id_559_clr_0_3964 5000040 3964
+1404082 1408045 3964 1 0 0 0
+0
+>sim5M Read_567_length_9003bp_startpos_1091415_number_of_errors_1009_total_error_prob_0.11_passes_1.65364359591_passes_left_1_passes_right_2_cut_position_3118_id_565_clr_0_8522 5000040 8522
+1091416 1099920 1 8521 53 53 0
+-16
+-13
+-1
+-8
+-9
+-7
+-9
+-7
+3
+-3
+5
+3
+-11
+-4
+-2
+-1
+-3
+-1
+-9
+-117
+5
+-275
+328
+-149
+-81
+-778
+88
+-390
+-103
+317
+135
+353
+235
+1
+52
+-769
+-487
+-366
+-606
+-241
+84
+-538
+119
+-691
+0
+>sim5M Read_569_length_6938bp_startpos_1590839_number_of_errors_320_total_error_prob_0.05_passes_2.2157519833_passes_left_3_passes_right_2_cut_position_1497_id_567_clr_0_6734 5000040 6734
+1590840 1597568 1 6734 5 5 0
+-2334
+-707
+-1542
+-439
+-1705
+0
+>sim5M Read_573_length_13710bp_startpos_3112072_number_of_errors_1400_total_error_prob_0.10_passes_1.47026942772_passes_left_1_passes_right_2_cut_position_7263_id_571_clr_0_13014 5000040 13014
+3112071 3125084 13014 1 0 0 0
+0
+>sim5M Read_575_length_7062bp_startpos_1069662_number_of_errors_234_total_error_prob_0.03_passes_2.87604950305_passes_left_3_passes_right_2_cut_position_6187_id_573_clr_0_1580 5000040 1580
+1069664 1071241 1580 1 19 19 0
+-53
+-375
+550
+-38
+-39
+-78
+-1
+17
+77
+75
+46
+-90
+0
+>sim5M Read_57_length_15918bp_startpos_4811666_number_of_errors_1742_total_error_prob_0.11_passes_1.61679773949_passes_left_1_passes_right_2_cut_position_6100_id_58_clr_0_15040 5000040 15040
+4811667 4826688 15026 4 26 26 0
+-3934
+-745
+-53
+546
+-83
+215
+-13
+1082
+56
+-84
+-7
+-1
+280
+-1221
+-494
+395
+-229
+-697
+63
+7
+447
+1873
+2503
+0
+>sim5M Read_582_length_9777bp_startpos_4475940_number_of_errors_757_total_error_prob_0.08_passes_2.19294389096_passes_left_3_passes_right_2_cut_position_1886_id_580_clr_0_9386 5000040 9386
+4475940 4485318 9386 7 11 11 0
+-2578
+-1103
+1076
+60
+1
+-72
+-2854
+540
+-378
+-685
+33
+0
+>sim5M Read_587_length_10330bp_startpos_1034958_number_of_errors_1143_total_error_prob_0.10_passes_1.68661409774_passes_left_1_passes_right_2_cut_position_3237_id_585_clr_0_9776 5000040 9776
+1034961 1044707 4 9775 44 44 0
+-14
+-4
+-4
+-1
+-15
+-1
+-6
+-14
+-19
+-63
+-1
+-10
+12
+-5
+-21
+-1
+12
+-9
+-127
+-1
+-49
+102
+-61
+-23
+-38
+-41
+-211
+-127
+-1592
+6565
+-128
+-477
+-16
+0
+>sim5M Read_589_length_13696bp_startpos_3817443_number_of_errors_2074_total_error_prob_0.14_passes_1.30333118686_passes_left_1_passes_right_2_cut_position_9542_id_587_clr_0_12730 5000040 12730
+3817456 3830158 1 12730 42 42 0
+-26
+-1
+-46
+28
+-8
+-31
+-153
+18
+131
+-6
+-27
+-7
+87
+-7
+-1
+-17
+9
+-35
+-6
+-243
+-1
+-59
+4
+-5
+-1
+-13
+-12
+-270
+-1
+-964
+-212
+-93
+-570
+-872
+-235
+-338
+-1523
+-1
+-5307
+0
+>sim5M Read_590_length_14345bp_startpos_4882751_number_of_errors_1884_total_error_prob_0.13_passes_1.52461812071_passes_left_1_passes_right_2_cut_position_6819_id_588_clr_0_13404 5000040 13404
+4882777 4896176 1 13404 8 8 0
+-750
+-813
+247
+-243
+-1097
+-2126
+-1
+591
+0
+>sim5M Read_596_length_7259bp_startpos_2743727_number_of_errors_620_total_error_prob_0.09_passes_1.80748322561_passes_left_1_passes_right_2_cut_position_1397_id_594_clr_0_6948 5000040 6948
+2743727 2750665 2 6947 17 17 0
+5
+-217
+-135
+-407
+-265
+370
+-198
+-764
+-1
+211
+-74
+74
+-826
+-193
+-194
+0
+>sim5M Read_597_length_5933bp_startpos_2800465_number_of_errors_468_total_error_prob_0.08_passes_1.79109838745_passes_left_1_passes_right_2_cut_position_1239_id_595_clr_0_5704 5000040 5704
+2800466 2806169 5704 1 0 0 0
+0
+>sim5M Read_600_length_13994bp_startpos_125042_number_of_errors_1513_total_error_prob_0.11_passes_1.40649409578_passes_left_1_passes_right_2_cut_position_8306_id_598_clr_0_13218 5000040 13218
+125045 138253 13212 1 11 11 0
+6
+3
+29
+-9474
+-233
+-2721
+-495
+-1
+216
+-10
+-10
+0
+>sim5M Read_601_length_6800bp_startpos_116876_number_of_errors_446_total_error_prob_0.06_passes_2.38352851648_passes_left_3_passes_right_2_cut_position_2608_id_599_clr_0_6538 5000040 6538
+116877 123411 1 6538 3 3 0
+-29
+-1
+-1823
+0
+>sim5M Read_604_length_7602bp_startpos_4201891_number_of_errors_317_total_error_prob_0.04_passes_2.57493441546_passes_left_3_passes_right_2_cut_position_4371_id_602_clr_0_7434 5000040 7434
+4201893 4209324 7433 1 1 1 0
+-6359
+0
+>sim5M Read_609_length_7288bp_startpos_4709678_number_of_errors_500_total_error_prob_0.07_passes_1.96968787212_passes_left_1_passes_right_2_cut_position_221_id_607_clr_0_7014 5000040 7014
+4709680 4716692 7013 1 3 3 0
+-1001
+5705
+0
+>sim5M Read_618_length_6504bp_startpos_659811_number_of_errors_328_total_error_prob_0.05_passes_2.45814665724_passes_left_3_passes_right_2_cut_position_2980_id_616_clr_0_6292 5000040 6292
+659813 666104 6292 1 0 0 0
+0
+>sim5M Read_620_length_9245bp_startpos_2606647_number_of_errors_764_total_error_prob_0.08_passes_1.8407857749_passes_left_1_passes_right_2_cut_position_1472_id_618_clr_0_8814 5000040 8814
+2606648 2615458 1 8814 5 5 0
+-52
+-86
+-1
+2128
+-3400
+0
+>sim5M Read_626_length_8960bp_startpos_221327_number_of_errors_722_total_error_prob_0.08_passes_1.69073501479_passes_left_1_passes_right_2_cut_position_2771_id_624_clr_0_8562 5000040 8562
+221339 229891 8556 1 3 3 0
+-5
+-7457
+-389
+0
+>sim5M Read_628_length_6187bp_startpos_3280374_number_of_errors_275_total_error_prob_0.05_passes_2.03000913672_passes_left_3_passes_right_2_cut_position_186_id_626_clr_0_6040 5000040 6040
+3280376 3286412 6040 3 1 1 0
+-3712
+0
+>sim5M Read_629_length_8445bp_startpos_2854437_number_of_errors_416_total_error_prob_0.05_passes_2.11133753777_passes_left_3_passes_right_2_cut_position_940_id_627_clr_0_8190 5000040 8190
+2854438 2862626 1 8190 1 1 0
+-8185
+0
+>sim5M Read_631_length_7784bp_startpos_1540446_number_of_errors_638_total_error_prob_0.08_passes_1.74650414399_passes_left_1_passes_right_2_cut_position_1973_id_629_clr_0_7498 5000040 7498
+1540449 1547937 7497 7 8 8 0
+-9
+-552
+-989
+2509
+-618
+554
+0
+>sim5M Read_634_length_9579bp_startpos_328902_number_of_errors_415_total_error_prob_0.05_passes_2.4870205687_passes_left_3_passes_right_2_cut_position_4665_id_632_clr_0_9362 5000040 9362
+328903 338233 1 9344 40 40 0
+-3748
+-455
+275
+-214
+-82
+327
+112
+56
+-170
+-223
+519
+114
+-533
+33
+17
+-422
+-263
+751
+-878
+-1
+-46
+-50
+-5
+-3
+-5
+-8
+-2
+-4
+-4
+-1
+-14
+0
+>sim5M Read_636_length_6052bp_startpos_3400053_number_of_errors_262_total_error_prob_0.04_passes_2.7671613226_passes_left_3_passes_right_2_cut_position_4643_id_634_clr_0_5908 5000040 5908
+3400055 3405962 5908 1 0 0 0
+0
+>sim5M Read_637_length_7551bp_startpos_1926377_number_of_errors_327_total_error_prob_0.04_passes_2.11932918283_passes_left_3_passes_right_2_cut_position_901_id_635_clr_0_7348 5000040 7348
+1926378 1933722 1 7347 2 2 0
+-7334
+-4
+0
+>sim5M Read_640_length_4181bp_startpos_2752966_number_of_errors_183_total_error_prob_0.04_passes_2.76334553235_passes_left_3_passes_right_2_cut_position_3192_id_638_clr_0_4074 5000040 4074
+2752970 2757029 1 4074 42 42 0
+-156
+-664
+-158
+30
+-122
+-10
+-27
+40
+56
+7
+98
+46
+-13
+-39
+-14
+62
+-44
+-12
+-164
+-146
+-54
+-4
+52
+-11
+-22
+295
+-85
+-6
+102
+87
+-325
+-250
+-36
+-98
+-452
+-284
+0
+>sim5M Read_641_length_10728bp_startpos_3646788_number_of_errors_1142_total_error_prob_0.10_passes_2.07899404367_passes_left_3_passes_right_2_cut_position_847_id_639_clr_0_10180 5000040 10180
+3646790 3656966 10179 1 2 2 0
+-2705
+-6291
+0
+>sim5M Read_643_length_5751bp_startpos_4707292_number_of_errors_550_total_error_prob_0.09_passes_1.71202164131_passes_left_1_passes_right_2_cut_position_1656_id_641_clr_0_5444 5000040 5444
+4707294 4712736 5444 1 4 4 0
+11
+-9
+-5418
+0
+>sim5M Read_644_length_14517bp_startpos_104445_number_of_errors_1989_total_error_prob_0.13_passes_1.23595774237_passes_left_1_passes_right_2_cut_position_11092_id_642_clr_0_13642 5000040 13642
+104446 118069 1 13641 20 20 0
+-11
+-6
+-10
+-1
+-1
+-7
+476
+-1017
+-5914
+-1398
+-590
+-210
+-1917
+-1
+-206
+-1694
+-1
+-140
+-1
+0
+>sim5M Read_647_length_6582bp_startpos_2635033_number_of_errors_448_total_error_prob_0.07_passes_1.88528975743_passes_left_1_passes_right_2_cut_position_755_id_645_clr_0_6316 5000040 6316
+2635034 2641348 1 6316 1 1 0
+-3043
+0
+>sim5M Read_649_length_10047bp_startpos_683230_number_of_errors_901_total_error_prob_0.09_passes_1.65950217279_passes_left_1_passes_right_2_cut_position_3421_id_647_clr_0_9590 5000040 9590
+683231 692820 1 9590 0 0 0
+0
+>sim5M Read_64_length_12675bp_startpos_1550104_number_of_errors_1104_total_error_prob_0.08_passes_1.86592910297_passes_left_1_passes_right_2_cut_position_1699_id_65_clr_0_12078 5000040 12078
+1550106 1562175 3 12073 1 1 0
+-3167
+0
+>sim5M Read_652_length_5982bp_startpos_923124_number_of_errors_330_total_error_prob_0.06_passes_2.66599931766_passes_left_3_passes_right_2_cut_position_3984_id_650_clr_0_5788 5000040 5788
+923125 928909 5788 1 5 5 0
+-2157
+-1089
+2371
+-5
+-51
+0
+>sim5M Read_656_length_11958bp_startpos_2276234_number_of_errors_1342_total_error_prob_0.11_passes_1.63073897351_passes_left_1_passes_right_2_cut_position_4416_id_654_clr_0_11314 5000040 11314
+2276236 2287528 11313 1 20 20 0
+-8
+-1
+-4
+-8
+-9
+-8
+-7
+-5
+-8
+-12
+-5
+-2
+-6
+-43
+-34
+-1
+-4
+-3041
+-1
+-8089
+0
+>sim5M Read_657_length_6336bp_startpos_302803_number_of_errors_227_total_error_prob_0.04_passes_2.71819847291_passes_left_3_passes_right_2_cut_position_4551_id_655_clr_0_6178 5000040 6178
+302804 308983 1 6178 2 2 0
+6170
+1
+0
+>sim5M Read_660_length_8580bp_startpos_4776737_number_of_errors_454_total_error_prob_0.05_passes_2.46759718442_passes_left_3_passes_right_2_cut_position_4012_id_658_clr_0_8282 5000040 8282
+4776743 4785024 8282 1 0 0 0
+0
+>sim5M Read_662_length_14653bp_startpos_553179_number_of_errors_1768_total_error_prob_0.12_passes_1.64394319296_passes_left_1_passes_right_2_cut_position_5217_id_660_clr_0_13778 5000040 13778
+553184 566944 13775 4 26 26 0
+5
+-4
+15
+-6
+-175
+-635
+-126
+72
+-941
+-433
+-65
+8
+1
+-695
+-82
+-501
+710
+-116
+-7069
+988
+-35
+-1061
+-1
+-7
+-6
+0
+>sim5M Read_663_length_4463bp_startpos_3207176_number_of_errors_195_total_error_prob_0.04_passes_2.62991184771_passes_left_3_passes_right_2_cut_position_2811_id_661_clr_0_4354 5000040 4354
+3207177 3211530 1 4354 0 0 0
+0
+>sim5M Read_665_length_6501bp_startpos_2850134_number_of_errors_342_total_error_prob_0.05_passes_3.04225438719_passes_left_3_passes_right_4_cut_position_6226_id_663_clr_0_6284 5000040 6284
+2850135 2856417 1 6283 0 0 0
+0
+>sim5M Read_670_length_3557bp_startpos_605787_number_of_errors_242_total_error_prob_0.07_passes_1.85487233262_passes_left_1_passes_right_2_cut_position_516_id_668_clr_0_3434 5000040 3434
+605788 609213 3434 5 4 4 0
+-9
+-1
+-1
+-1052
+0
+>sim5M Read_671_length_8297bp_startpos_998339_number_of_errors_544_total_error_prob_0.06_passes_2.13479637608_passes_left_3_passes_right_2_cut_position_1118_id_669_clr_0_4512 5000040 4512
+1001808 1006320 4512 1 16 16 0
+6
+188
+5
+-48
+-11
+19
+1
+-82
+153
+45
+129
+-3801
+-7
+-10
+-4
+0
+>sim5M Read_677_length_7301bp_startpos_1311649_number_of_errors_193_total_error_prob_0.02_passes_3.07560060761_passes_left_3_passes_right_4_cut_position_6749_id_675_clr_0_7158 5000040 7158
+1311651 1318803 7158 4 2 2 0
+-7146
+-1
+0
+>sim5M Read_67_length_15578bp_startpos_844039_number_of_errors_1679_total_error_prob_0.10_passes_1.48339322316_passes_left_1_passes_right_2_cut_position_8048_id_68_clr_0_14678 5000040 14678
+844083 858756 1 14677 7 7 0
+-6972
+-2034
+-3606
+-429
+17
+319
+-1255
+0
+>sim5M Read_688_length_10362bp_startpos_4542452_number_of_errors_1305_total_error_prob_0.12_passes_1.50892109686_passes_left_1_passes_right_2_cut_position_5089_id_686_clr_0_9764 5000040 9764
+4542472 4552228 1 9763 7 7 0
+-1073
+-831
+-1931
+-277
+-306
+-1
+0
+>sim5M Read_68_length_6885bp_startpos_4935359_number_of_errors_419_total_error_prob_0.06_passes_2.10394697066_passes_left_3_passes_right_2_cut_position_716_id_69_clr_0_6648 5000040 6648
+4935360 4942007 1 6648 0 0 0
+0
+>sim5M Read_691_length_6858bp_startpos_4929166_number_of_errors_246_total_error_prob_0.03_passes_2.93650478301_passes_left_3_passes_right_2_cut_position_6423_id_688_clr_0_6664 5000040 6664
+4929168 4935829 6663 1 3 3 0
+10
+-16
+-2179
+0
+>sim5M Read_696_length_12010bp_startpos_2504524_number_of_errors_1245_total_error_prob_0.10_passes_1.34295173585_passes_left_1_passes_right_2_cut_position_7891_id_693_clr_0_11328 5000040 11328
+2504535 2515872 1 11328 206 206 0
+27
+-10
+-10
+248
+-1134
+114
+179
+171
+25
+17
+45
+-43
+-18
+60
+83
+13
+-8
+21
+-47
+32
+7
+33
+42
+1
+1
+1
+98
+10
+39
+61
+-9
+65
+-8
+-77
+-57
+48
+-44
+-1
+-1
+66
+1
+44
+-33
+52
+-22
+-47
+-17
+-9
+-11
+9
+-36
+-13
+42
+20
+-27
+31
+2
+5
+3
+-4
+-5
+-1
+14
+-6
+-19
+28
+-27
+-1
+-27
+10
+58
+-7
+-4
+-26
+-30
+4
+17
+52
+36
+-22
+-1
+15
+-21
+-1
+-8
+-16
+5
+-18
+-8
+-15
+51
+1
+66
+-5
+-7
+163
+-193
+-1
+-8
+-13
+93
+-339
+180
+837
+-106
+-167
+123
+-132
+-1
+640
+1
+1
+49
+1
+776
+2084
+27
+25
+-96
+54
+7
+4
+43
+-5
+-73
+-82
+48
+-13
+143
+5
+66
+-553
+-1
+114
+-19
+6
+-4
+13
+0
+>sim5M Read_69_length_11084bp_startpos_452527_number_of_errors_827_total_error_prob_0.07_passes_1.95185514424_passes_left_1_passes_right_2_cut_position_534_id_70_clr_0_10634 5000040 10634
+452532 463161 4 10633 0 0 0
+0
+>sim5M Read_702_length_7832bp_startpos_1804411_number_of_errors_455_total_error_prob_0.06_passes_2.09075678148_passes_left_3_passes_right_2_cut_position_711_id_699_clr_0_7560 5000040 7560
+1804413 1811965 7560 7 1 1 0
+-2163
+0
+>sim5M Read_706_length_8032bp_startpos_4101667_number_of_errors_417_total_error_prob_0.05_passes_1.96497945634_passes_left_1_passes_right_2_cut_position_281_id_703_clr_0_7764 5000040 7764
+4101670 4109425 7760 1 161 161 0
+-5
+-8
+-91
+-2407
+107
+459
+-25
+-42
+270
+13
+16
+-69
+130
+79
+146
+67
+61
+4
+32
+-33
+82
+-59
+-40
+-36
+24
+1
+-114
+-61
+-134
+5
+-26
+136
+-33
+-54
+-42
+21
+25
+-84
+124
+2
+-257
+-1
+-435
+-1
+102
+-543
+-554
+370
+-59
+-19
+44
+-138
+0
+>sim5M Read_710_length_8133bp_startpos_4749047_number_of_errors_851_total_error_prob_0.11_passes_1.65603864351_passes_left_1_passes_right_2_cut_position_2797_id_707_clr_0_7704 5000040 7704
+4749050 4756741 4 7703 31 31 0
+392
+-13
+-357
+5
+-186
+-14
+-40
+31
+1
+-371
+-22
+-607
+-32
+-1325
+1788
+-115
+18
+308
+127
+-409
+279
+-10
+-119
+-307
+-25
+-125
+-266
+127
+0
+>sim5M Read_713_length_6981bp_startpos_2967433_number_of_errors_300_total_error_prob_0.05_passes_2.58407974337_passes_left_3_passes_right_2_cut_position_4077_id_710_clr_0_6798 5000040 6798
+2967435 2974231 6797 1 2 2 0
+1012
+-3097
+0
+>sim5M Read_715_length_9835bp_startpos_12957_number_of_errors_841_total_error_prob_0.09_passes_1.99343703388_passes_left_1_passes_right_2_cut_position_65_id_712_clr_0_9424 5000040 9424
+12965 22381 9420 1 15 15 0
+7
+1
+-23
+3
+23
+-13
+-138
+-464
+-211
+1759
+-172
+-5806
+-793
+0
+>sim5M Read_716_length_7235bp_startpos_438296_number_of_errors_373_total_error_prob_0.05_passes_2.54399039075_passes_left_3_passes_right_2_cut_position_3936_id_713_clr_0_7004 5000040 7004
+438298 445298 7004 1 8 8 0
+-2562
+-221
+-53
+112
+1
+-3505
+-540
+0
+>sim5M Read_718_length_14958bp_startpos_1335493_number_of_errors_2558_total_error_prob_0.16_passes_1.33662445703_passes_left_1_passes_right_2_cut_position_9923_id_715_clr_0_13818 5000040 13818
+1335518 1349334 13817 1 7 7 0
+-2189
+-2639
+1849
+1845
+171
+-3492
+0
+>sim5M Read_721_length_10716bp_startpos_1592649_number_of_errors_850_total_error_prob_0.08_passes_2.09145928588_passes_left_3_passes_right_2_cut_position_980_id_718_clr_0_10286 5000040 10286
+1592651 1602932 10285 1 3 3 0
+-2418
+-4881
+-2980
+0
+>sim5M Read_723_length_12923bp_startpos_2486400_number_of_errors_1000_total_error_prob_0.07_passes_1.7698618112_passes_left_1_passes_right_2_cut_position_2974_id_719_clr_0_12392 5000040 12392
+2486406 2498793 12392 1 5 5 0
+-9
+-3981
+-256
+-1063
+0
+>sim5M Read_724_length_17205bp_startpos_962324_number_of_errors_2293_total_error_prob_0.13_passes_1.28523426504_passes_left_1_passes_right_2_cut_position_12298_id_720_clr_0_16162 5000040 16162
+962365 978441 16113 1 49 49 0
+-18
+-6
+-2
+-4
+-3
+-8
+4
+-5
+-1
+-9
+-2
+-2
+-8
+-5
+-8
+-8
+-6
+-1
+-1
+-3
+-10
+-132
+53
+168
+-81
+-426
+-79
+-123
+-91
+-285
+-1
+-426
+-342
+-2805
+-10137
+56
+-334
+-36
+-45
+74
+-4
+-103
+-102
+-3
+-13
+-35
+0
+>sim5M Read_725_length_7716bp_startpos_2564140_number_of_errors_828_total_error_prob_0.10_passes_1.56413955391_passes_left_1_passes_right_2_cut_position_3363_id_721_clr_0_7338 5000040 7338
+2564142 2571474 7337 1 6 6 0
+-283
+-152
+571
+-647
+-981
+-832
+0
+>sim5M Read_728_length_5253bp_startpos_3134901_number_of_errors_252_total_error_prob_0.05_passes_2.17327507634_passes_left_3_passes_right_2_cut_position_910_id_724_clr_0_5114 5000040 5114
+3134902 3140015 1 5114 0 0 0
+0
+>sim5M Read_72_length_11036bp_startpos_4733611_number_of_errors_1093_total_error_prob_0.10_passes_1.59881057117_passes_left_1_passes_right_2_cut_position_4428_id_73_clr_0_10442 5000040 10442
+4733613 4744048 10442 1 8 8 0
+-570
+-59
+-92
+-1
+-1747
+-481
+220
+-334
+0
+>sim5M Read_732_length_8429bp_startpos_1394450_number_of_errors_350_total_error_prob_0.04_passes_2.54788472279_passes_left_3_passes_right_2_cut_position_4618_id_728_clr_0_8224 5000040 8224
+1394453 1402673 8221 1 2 2 0
+6410
+-1775
+0
+>sim5M Read_734_length_7496bp_startpos_432551_number_of_errors_425_total_error_prob_0.06_passes_2.49520583266_passes_left_3_passes_right_2_cut_position_3712_id_730_clr_0_7236 5000040 7236
+432553 439787 7236 1 1 1 0
+-4477
+0
+>sim5M Read_735_length_5119bp_startpos_4657388_number_of_errors_156_total_error_prob_0.03_passes_3.36500899102_passes_left_3_passes_right_4_cut_position_3251_id_731_clr_0_5040 5000040 5040
+4657390 4662430 5040 1 3 3 0
+-11
+5020
+1
+0
+>sim5M Read_736_length_4321bp_startpos_4784895_number_of_errors_137_total_error_prob_0.03_passes_3.0225639017_passes_left_3_passes_right_4_cut_position_4224_id_732_clr_0_4236 5000040 4236
+4784896 4789131 4236 1 0 0 0
+0
+>sim5M Read_737_length_14287bp_startpos_1136068_number_of_errors_1684_total_error_prob_0.11_passes_1.59694474687_passes_left_1_passes_right_2_cut_position_5758_id_733_clr_0_13482 5000040 13482
+1136085 1149563 13482 1 26 26 0
+-22
+-1
+-18
+-603
+-222
+-592
+5181
+-116
+-85
+-206
+83
+-454
+97
+67
+3
+-150
+394
+280
+65
+92
+128
+-94
+-982
+-3165
+388
+0
+>sim5M Read_738_length_9277bp_startpos_3166696_number_of_errors_534_total_error_prob_0.05_passes_2.43264128174_passes_left_3_passes_right_2_cut_position_4014_id_734_clr_0_8948 5000040 8948
+3166698 3175643 8948 1 2 2 0
+-494
+-4420
+0
+>sim5M Read_739_length_12651bp_startpos_1741414_number_of_errors_1174_total_error_prob_0.09_passes_1.5038218911_passes_left_1_passes_right_2_cut_position_6277_id_735_clr_0_12036 5000040 12036
+1741416 1753450 12036 1 36 36 0
+8
+-6
+-6
+6
+8
+-94
+-35
+-11
+7
+126
+-23
+-46
+-146
+45
+2
+125
+-205
+272
+-47
+-12
+-31
+10
+-29
+-1
+17
+246
+32
+-273
+-70
+263
+-2078
+12
+4236
+0
+>sim5M Read_740_length_15736bp_startpos_3604261_number_of_errors_1941_total_error_prob_0.12_passes_1.41315515583_passes_left_1_passes_right_2_cut_position_9235_id_736_clr_0_14862 5000040 14862
+3604312 3619103 66 14862 7 7 0
+-5
+-6
+-7
+-3
+-143
+-3494
+4601
+0
+>sim5M Read_742_length_14562bp_startpos_2814369_number_of_errors_1169_total_error_prob_0.08_passes_1.95077610386_passes_left_1_passes_right_2_cut_position_717_id_738_clr_0_13990 5000040 13990
+2814377 2828348 6 13989 22 22 0
+-13
+-14
+17
+-6
+-8
+-14
+-6
+-6
+-1
+-7
+-17
+14
+-9
+-1
+-1505
+-10126
+0
+>sim5M Read_743_length_7959bp_startpos_1672939_number_of_errors_633_total_error_prob_0.07_passes_2.1261179543_passes_left_3_passes_right_2_cut_position_1004_id_739_clr_0_7630 5000040 7630
+1672928 1680555 1 7628 0 0 0
+0
+>sim5M Read_744_length_8567bp_startpos_3364418_number_of_errors_1194_total_error_prob_0.13_passes_1.31817731738_passes_left_1_passes_right_2_cut_position_5841_id_740_clr_0_8040 5000040 8040
+3364441 3372480 1 8040 0 0 0
+0
+>sim5M Read_746_length_10254bp_startpos_4461344_number_of_errors_542_total_error_prob_0.05_passes_2.19124020816_passes_left_3_passes_right_2_cut_position_1961_id_742_clr_0_9924 5000040 9924
+4461345 4471266 1 9923 1 1 0
+-1073
+0
+>sim5M Read_747_length_9191bp_startpos_1886574_number_of_errors_530_total_error_prob_0.05_passes_2.0195123904_passes_left_3_passes_right_2_cut_position_179_id_743_clr_0_8876 5000040 8876
+1886576 1895437 8876 13 4 4 0
+-588
+-8037
+227
+-9
+0
+>sim5M Read_748_length_3450bp_startpos_363065_number_of_errors_77_total_error_prob_0.02_passes_3.27503707964_passes_left_3_passes_right_4_cut_position_2501_id_744_clr_0_3398 5000040 3398
+363066 366460 3398 4 0 0 0
+0
+>sim5M Read_749_length_10885bp_startpos_1455122_number_of_errors_827_total_error_prob_0.07_passes_1.88284237978_passes_left_1_passes_right_2_cut_position_1275_id_745_clr_0_10456 5000040 10456
+1455123 1465578 1 10456 2 2 0
+-9
+5
+0
+>sim5M Read_74_length_5227bp_startpos_4731935_number_of_errors_96_total_error_prob_0.02_passes_3.89049179608_passes_left_3_passes_right_4_cut_position_572_id_75_clr_0_5154 5000040 5154
+4731936 4737090 1 5154 1 1 0
+322
+0
+>sim5M Read_752_length_6987bp_startpos_2460347_number_of_errors_281_total_error_prob_0.04_passes_2.59842177763_passes_left_3_passes_right_2_cut_position_4181_id_748_clr_0_6804 5000040 6804
+2460349 2467149 6804 1 3 3 0
+-2505
+-2993
+-991
+0
+>sim5M Read_753_length_11906bp_startpos_1783521_number_of_errors_1270_total_error_prob_0.11_passes_1.34960487482_passes_left_1_passes_right_2_cut_position_7744_id_749_clr_0_11256 5000040 11256
+1783535 1794778 1 11248 10 10 0
+90
+-5086
+-1105
+-1
+-368
+-452
+-105
+-771
+129
+2758
+0
+>sim5M Read_759_length_9269bp_startpos_3655683_number_of_errors_791_total_error_prob_0.09_passes_1.66998700379_passes_left_1_passes_right_2_cut_position_3059_id_755_clr_0_8864 5000040 8864
+3655686 3664544 1 8863 6 6 0
+-1806
+-4751
+-1
+-65
+-2082
+146
+0
+>sim5M Read_75_length_12474bp_startpos_1604488_number_of_errors_1237_total_error_prob_0.10_passes_1.62515792484_passes_left_1_passes_right_2_cut_position_4676_id_76_clr_0_11892 5000040 11892
+1604499 1616389 11892 1 6 6 0
+-30
+359
+-11498
+0
+>sim5M Read_763_length_8738bp_startpos_2214366_number_of_errors_339_total_error_prob_0.04_passes_2.52095309102_passes_left_3_passes_right_2_cut_position_4552_id_759_clr_0_8530 5000040 8530
+2214373 2222897 1 8530 13 13 0
+3430
+-98
+-1127
+-222
+437
+-614
+-9
+518
+-446
+-1425
+-149
+0
+>sim5M Read_771_length_9185bp_startpos_229165_number_of_errors_610_total_error_prob_0.07_passes_1.8321137124_passes_left_1_passes_right_2_cut_position_1542_id_767_clr_0_8880 5000040 8880
+229176 238039 15 8880 4 4 0
+-9
+11
+-8820
+-20
+0
+>sim5M Read_772_length_8990bp_startpos_3213519_number_of_errors_825_total_error_prob_0.09_passes_1.80449385348_passes_left_1_passes_right_2_cut_position_1758_id_768_clr_0_8620 5000040 8620
+3213523 3222135 7 8620 1 1 0
+-1993
+0
+>sim5M Read_778_length_9067bp_startpos_600181_number_of_errors_925_total_error_prob_0.10_passes_1.85719777511_passes_left_1_passes_right_2_cut_position_1295_id_774_clr_0_8626 5000040 8626
+600183 608804 8625 1 3 3 0
+-5
+-17
+-2635
+0
+>sim5M Read_779_length_9663bp_startpos_1969586_number_of_errors_799_total_error_prob_0.08_passes_2.13411573066_passes_left_3_passes_right_2_cut_position_1296_id_775_clr_0_9214 5000040 9214
+1969588 1978800 9214 1 1 1 0
+-6202
+0
+>sim5M Read_780_length_11338bp_startpos_2704401_number_of_errors_1008_total_error_prob_0.08_passes_1.68586276068_passes_left_1_passes_right_2_cut_position_3562_id_776_clr_0_10790 5000040 10790
+2704407 2715190 5 10790 4 4 0
+8
+-1059
+-9297
+-1
+0
+>sim5M Read_782_length_9917bp_startpos_1504508_number_of_errors_1139_total_error_prob_0.11_passes_1.74054006861_passes_left_1_passes_right_2_cut_position_2573_id_778_clr_0_9360 5000040 9360
+1504513 1513854 9356 1 19 19 0
+-17
+-7
+-1
+-4
+-3
+-4
+-13
+-1
+-1532
+-172
+-3635
+37
+-649
+-1302
+-270
+-1053
+0
+>sim5M Read_789_length_3940bp_startpos_3035298_number_of_errors_21_total_error_prob_0.00_passes_6.38617024755_passes_left_7_passes_right_6_cut_position_1522_id_785_clr_0_3920 5000040 3920
+3035299 3039217 3920 1 1 1 0
+-35
+0
+>sim5M Read_795_length_23987bp_startpos_472445_number_of_errors_3558_total_error_prob_0.14_passes_1.3118097206_passes_left_1_passes_right_2_cut_position_16508_id_791_clr_0_22384 5000040 22384
+472457 494828 1 22384 16 16 0
+-5
+-5
+-6
+5
+-1165
+-145
+-7710
+-690
+-1020
+-1
+159
+-4
+-1
+-803
+-345
+-4968
+0
+>sim5M Read_796_length_13284bp_startpos_2434634_number_of_errors_1527_total_error_prob_0.11_passes_1.42751356624_passes_left_1_passes_right_2_cut_position_7605_id_792_clr_0_12502 5000040 12502
+2434643 2447118 13 12502 29 29 0
+-16
+-4
+-23
+-82
+-30
+-6
+-8
+-115
+114
+-51
+-4
+-97
+65
+313
+-415
+-361
+-31
+42
+1
+-867
+-988
+1826
+-3477
+-2157
+-1389
+-10
+0
+>sim5M Read_79_length_6328bp_startpos_3106533_number_of_errors_476_total_error_prob_0.08_passes_2.04996031266_passes_left_3_passes_right_2_cut_position_316_id_80_clr_0_6038 5000040 6038
+3106535 3112570 6037 2 0 0 0
+0
+>sim5M Read_803_length_9443bp_startpos_802761_number_of_errors_492_total_error_prob_0.05_passes_2.10299275242_passes_left_3_passes_right_2_cut_position_973_id_799_clr_0_9122 5000040 9122
+802763 811881 9122 1 5 5 0
+-779
+-3682
+85
+-712
+-2384
+0
+>sim5M Read_806_length_14515bp_startpos_4643438_number_of_errors_1673_total_error_prob_0.11_passes_1.60201229461_passes_left_1_passes_right_2_cut_position_5777_id_802_clr_0_13740 5000040 13740
+4643441 4657202 4 13739 87 87 0
+-8
+-6
+-4
+-1
+2106
+-367
+-22
+-239
+504
+165
+104
+109
+23
+331
+63
+66
+357
+1
+221
+147
+228
+88
+17
+133
+495
+19
+71
+68
+39
+168
+225
+232
+946
+-1105
+-9
+-22
+-59
+-17
+-80
+122
+45
+-36
+42
+81
+-31
+57
+121
+-90
+27
+63
+20
+27
+5
+7
+1
+-12
+88
+34
+308
+-37
+69
+77
+-10
+-77
+108
+-34
+45
+182
+123
+-1203
+0
+>sim5M Read_813_length_11558bp_startpos_2120770_number_of_errors_1104_total_error_prob_0.09_passes_1.65327721226_passes_left_1_passes_right_2_cut_position_4007_id_809_clr_0_10974 5000040 10974
+2120773 2131746 10974 1 2 2 0
+0
+>sim5M Read_815_length_11109bp_startpos_3437808_number_of_errors_1155_total_error_prob_0.10_passes_1.63936633095_passes_left_1_passes_right_2_cut_position_4006_id_811_clr_0_10522 5000040 10522
+3437803 3448315 10520 1 7 7 0
+-811
+-1159
+-1009
+-1915
+-3835
+-1776
+-3
+0
+>sim5M Read_820_length_4831bp_startpos_4440234_number_of_errors_43_total_error_prob_0.01_passes_5.64624137837_passes_left_5_passes_right_6_cut_position_1709_id_816_clr_0_4794 5000040 4794
+4440235 4445027 2 4794 0 0 0
+0
+>sim5M Read_821_length_3751bp_startpos_4672859_number_of_errors_186_total_error_prob_0.04_passes_2.68841830652_passes_left_3_passes_right_2_cut_position_2582_id_817_clr_0_3640 5000040 3640
+4672860 4676499 1 3640 0 0 0
+0
+>sim5M Read_830_length_7159bp_startpos_255121_number_of_errors_698_total_error_prob_0.09_passes_1.52621268748_passes_left_1_passes_right_2_cut_position_3392_id_826_clr_0_6784 5000040 6784
+255131 261914 1 6784 0 0 0
+0
+>sim5M Read_831_length_8552bp_startpos_315641_number_of_errors_418_total_error_prob_0.05_passes_2.19840584601_passes_left_3_passes_right_2_cut_position_1697_id_827_clr_0_8292 5000040 8292
+315643 323933 8292 1 1 1 0
+-4246
+0
+>sim5M Read_832_length_6864bp_startpos_1255101_number_of_errors_203_total_error_prob_0.03_passes_3.01390562394_passes_left_3_passes_right_4_cut_position_6769_id_828_clr_0_6742 5000040 6742
+1255099 1261839 6741 1 0 0 0
+0
+>sim5M Read_836_length_12227bp_startpos_1271812_number_of_errors_1160_total_error_prob_0.09_passes_1.7302480518_passes_left_1_passes_right_2_cut_position_3298_id_832_clr_0_11616 5000040 11616
+1271826 1283442 1 11615 8 8 0
+2441
+1
+1
+3795
+-172
+-55
+1916
+-3230
+0
+>sim5M Read_839_length_9623bp_startpos_2308915_number_of_errors_451_total_error_prob_0.05_passes_2.24924735153_passes_left_3_passes_right_2_cut_position_2399_id_835_clr_0_9376 5000040 9376
+2308919 2318287 5 9376 5 5 0
+-18
+1345
+-3096
+-2432
+-632
+0
+>sim5M Read_843_length_3551bp_startpos_1684594_number_of_errors_130_total_error_prob_0.04_passes_2.50747742877_passes_left_3_passes_right_2_cut_position_1802_id_839_clr_0_3474 5000040 3474
+1684596 1688068 3474 1 1 1 0
+-1176
+0
+>sim5M Read_845_length_10114bp_startpos_3776720_number_of_errors_1117_total_error_prob_0.10_passes_1.66486734337_passes_left_1_passes_right_2_cut_position_3390_id_841_clr_0_9568 5000040 9568
+3776729 3786288 8 9567 0 0 0
+0
+>sim5M Read_84_length_9831bp_startpos_1442256_number_of_errors_514_total_error_prob_0.05_passes_2.01045843655_passes_left_3_passes_right_2_cut_position_103_id_85_clr_0_9522 5000040 9522
+1442257 1451777 1 9521 0 0 0
+0
+>sim5M Read_850_length_10170bp_startpos_307957_number_of_errors_729_total_error_prob_0.07_passes_1.99100186569_passes_left_1_passes_right_2_cut_position_92_id_846_clr_0_9756 5000040 9756
+307959 317697 9755 13 4 4 0
+-2405
+-117
+-133
+-7079
+0
+>sim5M Read_854_length_5866bp_startpos_3850096_number_of_errors_436_total_error_prob_0.08_passes_1.89917536882_passes_left_1_passes_right_2_cut_position_591_id_850_clr_0_5632 5000040 5632
+3850098 3855721 5631 6 3 3 0
+-58
+-3205
+0
+>sim5M Read_857_length_4275bp_startpos_81476_number_of_errors_186_total_error_prob_0.04_passes_2.89197984905_passes_left_3_passes_right_2_cut_position_3813_id_853_clr_0_4134 5000040 4134
+81497 85622 1 4133 42 42 0
+331
+98
+-7
+100
+108
+-49
+-93
+-1
+-422
+-12
+-8
+13
+-33
+-21
+-1
+-29
+-7
+15
+-15
+-82
+-28
+-25
+48
+-200
+-142
+-20
+-96
+89
+94
+-12
+37
+21
+70
+28
+208
+516
+-991
+0
+>sim5M Read_858_length_9827bp_startpos_3503576_number_of_errors_575_total_error_prob_0.06_passes_2.1965829413_passes_left_3_passes_right_2_cut_position_1932_id_854_clr_0_9474 5000040 9474
+3503577 3513046 9474 2 3 3 0
+-8
+-1
+-2795
+0
+>sim5M Read_871_length_14317bp_startpos_780234_number_of_errors_1375_total_error_prob_0.09_passes_1.63881591886_passes_left_1_passes_right_2_cut_position_5171_id_867_clr_0_13618 5000040 13618
+780263 793878 13618 1 4 4 0
+-1089
+1345
+-28
+-4868
+0
+>sim5M Read_873_length_5752bp_startpos_1714956_number_of_errors_372_total_error_prob_0.06_passes_2.48920916368_passes_left_3_passes_right_2_cut_position_2814_id_869_clr_0_5514 5000040 5514
+1714958 1720471 5514 1 0 0 0
+0
+>sim5M Read_876_length_12535bp_startpos_3423273_number_of_errors_1073_total_error_prob_0.09_passes_1.56002536018_passes_left_1_passes_right_2_cut_position_5515_id_872_clr_0_11936 5000040 11936
+3423275 3435192 11936 1 128 128 0
+-1089
+-1888
+-332
+394
+1
+-6
+-41
+423
+1
+-281
+1176
+-105
+3
+-167
+169
+108
+-242
+41
+136
+395
+68
+172
+-161
+-70
+-449
+-58
+104
+-66
+68
+-126
+-159
+-90
+-184
+-14
+-27
+-1
+-125
+50
+1
+35
+3
+-31
+-38
+-72
+-11
+-18
+19
+26
+-16
+-8
+-1
+-5
+17
+-14
+6
+-27
+-15
+-117
+-56
+-21
+-31
+123
+-59
+-1
+-14
+-59
+-26
+-46
+12
+-10
+-7
+-11
+6
+11
+327
+475
+0
+>sim5M Read_87_length_8938bp_startpos_2221374_number_of_errors_530_total_error_prob_0.06_passes_1.98052052971_passes_left_1_passes_right_2_cut_position_174_id_88_clr_0_8620 5000040 8620
+2221376 2229987 8619 4 19 19 0
+20
+-13
+7
+-839
+-1
+-123
+31
+202
+-411
+-65
+-66
+87
+-364
+84
+-743
+15
+-155
+-1650
+0
+>sim5M Read_880_length_13923bp_startpos_2714554_number_of_errors_1647_total_error_prob_0.12_passes_1.41838788365_passes_left_1_passes_right_2_cut_position_8098_id_876_clr_0_13114 5000040 13114
+2714556 2727655 13113 8 8 8 0
+-532
+914
+-179
+-328
+-1
+-1
+-2752
+-5984
+0
+>sim5M Read_882_length_5532bp_startpos_826615_number_of_errors_339_total_error_prob_0.06_passes_2.06914099319_passes_left_3_passes_right_2_cut_position_382_id_878_clr_0_5332 5000040 5332
+826615 831940 4 5332 3 3 0
+-3508
+-1405
+-386
+0
+>sim5M Read_883_length_7151bp_startpos_4946515_number_of_errors_354_total_error_prob_0.05_passes_2.04993725019_passes_left_3_passes_right_2_cut_position_357_id_879_clr_0_6932 5000040 6932
+4946517 4953447 6932 1 4 4 0
+-4358
+1496
+-887
+0
+>sim5M Read_885_length_9716bp_startpos_3552555_number_of_errors_435_total_error_prob_0.05_passes_2.14891020787_passes_left_3_passes_right_2_cut_position_1447_id_881_clr_0_9428 5000040 9428
+3552557 3561984 9428 1 0 0 0
+0
+>sim5M Read_886_length_3749bp_startpos_29629_number_of_errors_143_total_error_prob_0.04_passes_3.56747010669_passes_left_3_passes_right_4_cut_position_1622_id_882_clr_0_3652 5000040 3652
+29630 33279 3652 1 2 2 0
+-77
+-1123
+0
+>sim5M Read_892_length_12365bp_startpos_3901995_number_of_errors_1126_total_error_prob_0.09_passes_1.70705692504_passes_left_1_passes_right_2_cut_position_3622_id_888_clr_0_11766 5000040 11766
+3901999 3913760 2 11764 55 55 0
+-13
+-1
+-3
+31
+-7
+-2876
+-2756
+-249
+-82
+156
+344
+9
+-231
+-171
+18
+85
+55
+49
+-62
+-189
+-29
+69
+-248
+15
+-39
+164
+55
+-15
+-262
+26
+-21
+240
+-3
+64
+-157
+49
+47
+115
+-162
+13
+4
+8
+311
+-48
+-70
+-9
+116
+1000
+-623
+0
+>sim5M Read_894_length_9332bp_startpos_4897033_number_of_errors_899_total_error_prob_0.10_passes_1.69248415117_passes_left_1_passes_right_2_cut_position_2870_id_890_clr_0_8882 5000040 8882
+4897037 4905914 8882 3 4 4 0
+-5
+-2253
+2214
+-1979
+0
+>sim5M Read_896_length_13224bp_startpos_1103002_number_of_errors_1457_total_error_prob_0.11_passes_1.77576830506_passes_left_1_passes_right_2_cut_position_2965_id_892_clr_0_12544 5000040 12544
+1103004 1115537 12543 5 10 10 0
+-16
+-15
+27
+1
+-25
+-8
+-183
+-745
+-2002
+0
+>sim5M Read_901_length_5384bp_startpos_2404064_number_of_errors_250_total_error_prob_0.04_passes_2.35073765063_passes_left_3_passes_right_2_cut_position_1888_id_897_clr_0_5238 5000040 5238
+2404061 2409295 2 5238 2 2 0
+-3322
+-1
+0
+>sim5M Read_91_length_7351bp_startpos_2117018_number_of_errors_370_total_error_prob_0.05_passes_2.34384892048_passes_left_3_passes_right_2_cut_position_2528_id_92_clr_0_7128 5000040 7128
+2117020 2124146 7128 1 1 1 0
+-83
+0
+>sim5M Read_921_length_6671bp_startpos_4726248_number_of_errors_403_total_error_prob_0.06_passes_2.70194550362_passes_left_3_passes_right_2_cut_position_4683_id_917_clr_0_6434 5000040 6434
+4726250 4732682 6433 1 0 0 0
+0
+>sim5M Read_926_length_8678bp_startpos_1128957_number_of_errors_431_total_error_prob_0.05_passes_2.0297612757_passes_left_3_passes_right_2_cut_position_258_id_922_clr_0_8386 5000040 8386
+1128959 1137343 8386 1 3 3 0
+3658
+-2551
+-1701
+0
+>sim5M Read_927_length_8990bp_startpos_119332_number_of_errors_273_total_error_prob_0.03_passes_2.86005683672_passes_left_3_passes_right_2_cut_position_7732_id_923_clr_0_8816 5000040 8816
+119334 128149 8816 1 0 0 0
+0
+>sim5M Read_928_length_5940bp_startpos_2002390_number_of_errors_316_total_error_prob_0.05_passes_2.73252779758_passes_left_3_passes_right_2_cut_position_4351_id_924_clr_0_5762 5000040 5762
+2002392 2008147 5762 1 8 8 0
+-505
+-87
+-418
+-131
+-1102
+-114
+-2787
+401
+0
+>sim5M Read_930_length_7638bp_startpos_4318244_number_of_errors_422_total_error_prob_0.05_passes_2.31967805884_passes_left_3_passes_right_2_cut_position_2442_id_926_clr_0_7378 5000040 7378
+4318246 4325623 7378 1 0 0 0
+0
+>sim5M Read_931_length_11423bp_startpos_3731923_number_of_errors_1306_total_error_prob_0.10_passes_1.76675226433_passes_left_1_passes_right_2_cut_position_2664_id_927_clr_0_10776 5000040 10776
+3731927 3742698 1 10776 7 7 0
+-371
+-2782
+3403
+-3613
+-574
+-5
+0
+>sim5M Read_936_length_10099bp_startpos_2186951_number_of_errors_812_total_error_prob_0.08_passes_1.63445938619_passes_left_1_passes_right_2_cut_position_3692_id_932_clr_0_9682 5000040 9682
+2186953 2196634 9682 1 2 2 0
+-5200
+3689
+0
+>sim5M Read_938_length_6675bp_startpos_3131423_number_of_errors_355_total_error_prob_0.05_passes_2.14127614108_passes_left_3_passes_right_2_cut_position_943_id_934_clr_0_6444 5000040 6444
+3131424 3137866 1 6443 0 0 0
+0
+>sim5M Read_939_length_6804bp_startpos_702955_number_of_errors_209_total_error_prob_0.03_passes_3.68208356089_passes_left_3_passes_right_4_cut_position_2163_id_935_clr_0_6670 5000040 6670
+702956 709623 1 6669 1 1 0
+-200
+0
+>sim5M Read_946_length_5544bp_startpos_4003706_number_of_errors_300_total_error_prob_0.05_passes_2.64282340964_passes_left_3_passes_right_2_cut_position_3564_id_942_clr_0_5354 5000040 5354
+4003710 4009062 1 5354 1 1 0
+-4910
+0
+>sim5M Read_949_length_13878bp_startpos_160185_number_of_errors_1531_total_error_prob_0.10_passes_1.35979629805_passes_left_1_passes_right_2_cut_position_8885_id_945_clr_0_13152 5000040 13152
+160183 173329 13150 1 5 5 0
+-4578
+-2397
+-238
+0
+>sim5M Read_951_length_7966bp_startpos_4087611_number_of_errors_606_total_error_prob_0.07_passes_2.07371394716_passes_left_3_passes_right_2_cut_position_587_id_947_clr_0_7686 5000040 7686
+4087608 4095287 1 7686 8 8 0
+-1428
+-560
+-886
+-1912
+-129
+-188
+0
+>sim5M Read_953_length_11727bp_startpos_4322658_number_of_errors_1240_total_error_prob_0.10_passes_1.63781435446_passes_left_1_passes_right_2_cut_position_4247_id_949_clr_0_11044 5000040 11044
+4322697 4333729 3 11043 8 8 0
+-342
+-529
+-1
+-16
+-1
+-1
+-5198
+-2792
+0
+>sim5M Read_955_length_9996bp_startpos_4562664_number_of_errors_1135_total_error_prob_0.11_passes_1.68850363168_passes_left_1_passes_right_2_cut_position_3114_id_951_clr_0_9404 5000040 9404
+4562696 4572094 9401 1 2 2 0
+-1665
+-2634
+0
+>sim5M Read_956_length_6484bp_startpos_4447128_number_of_errors_417_total_error_prob_0.06_passes_2.4937774376_passes_left_3_passes_right_2_cut_position_3202_id_952_clr_0_6242 5000040 6242
+4447129 4453370 1 6241 1 1 0
+4213
+0
+>sim5M Read_961_length_4799bp_startpos_2196189_number_of_errors_100_total_error_prob_0.02_passes_3.72145736824_passes_left_3_passes_right_4_cut_position_1337_id_957_clr_0_4728 5000040 4728
+2196190 2200917 4728 1 0 0 0
+0
+>sim5M Read_964_length_8437bp_startpos_2940858_number_of_errors_547_total_error_prob_0.06_passes_1.90914437515_passes_left_1_passes_right_2_cut_position_767_id_960_clr_0_8096 5000040 8096
+2940864 2948941 8 8096 19 19 0
+-9
+-12
+-8
+-1
+-19
+-4
+-1
+-17
+-1
+406
+1
+-5796
+-699
+-357
+-553
+0
+>sim5M Read_967_length_16994bp_startpos_2080230_number_of_errors_1545_total_error_prob_0.09_passes_1.69843446905_passes_left_1_passes_right_2_cut_position_5125_id_963_clr_0_16214 5000040 16214
+2080226 2096427 16201 1 3 3 0
+30
+1
+-2531
+0
+>sim5M Read_968_length_8871bp_startpos_334781_number_of_errors_969_total_error_prob_0.10_passes_1.79737106607_passes_left_1_passes_right_2_cut_position_1798_id_964_clr_0_8434 5000040 8434
+334792 343222 8434 1 8 8 0
+-341
+607
+-768
+-273
+-1521
+-127
+2283
+0
+>sim5M Read_970_length_14268bp_startpos_1544788_number_of_errors_1159_total_error_prob_0.08_passes_1.98461378457_passes_left_1_passes_right_2_cut_position_220_id_966_clr_0_13616 5000040 13616
+1544789 1558386 1 13616 33 33 0
+-15
+-1
+-11
+-8
+-9
+-1
+-4
+-4
+13
+1
+-15
+-16
+-4
+-6
+-1
+-8
+-15
+-7
+-2
+-14
+-3
+3613
+-194
+-507
+0
+>sim5M Read_972_length_6428bp_startpos_1535282_number_of_errors_362_total_error_prob_0.05_passes_2.08524512405_passes_left_3_passes_right_2_cut_position_548_id_968_clr_0_6232 5000040 6232
+1535275 1541504 6232 4 2 2 0
+6093
+0
+>sim5M Read_976_length_7956bp_startpos_842459_number_of_errors_345_total_error_prob_0.04_passes_2.75291533418_passes_left_3_passes_right_2_cut_position_5990_id_972_clr_0_7728 5000040 7728
+842461 850186 7727 1 1 1 0
+-987
+0
+>sim5M Read_978_length_9484bp_startpos_2517246_number_of_errors_530_total_error_prob_0.06_passes_2.11304822084_passes_left_3_passes_right_2_cut_position_1072_id_974_clr_0_9202 5000040 9202
+2517248 2526445 9201 2 4 4 0
+4783
+-2135
+-1
+-816
+0
+>sim5M Read_979_length_8075bp_startpos_366390_number_of_errors_276_total_error_prob_0.04_passes_2.17874024193_passes_left_3_passes_right_2_cut_position_1443_id_975_clr_0_7894 5000040 7894
+366392 374286 7894 1 1 1 0
+2803
+0
+>sim5M Read_97_length_4761bp_startpos_2701395_number_of_errors_151_total_error_prob_0.03_passes_2.95181833459_passes_left_3_passes_right_2_cut_position_4532_id_98_clr_0_4652 5000040 4652
+2701399 2706046 5 4652 0 0 0
+0
+>sim5M Read_982_length_8801bp_startpos_4574491_number_of_errors_856_total_error_prob_0.10_passes_1.60875891118_passes_left_1_passes_right_2_cut_position_3443_id_978_clr_0_8408 5000040 8408
+4574493 4582896 8408 3 4 4 0
+28
+-1240
+-5401
+-721
+0
+>sim5M Read_987_length_11109bp_startpos_1506323_number_of_errors_1165_total_error_prob_0.10_passes_1.51958428204_passes_left_1_passes_right_2_cut_position_5337_id_983_clr_0_10466 5000040 10466
+1506359 1516809 10 10465 21 21 0
+-9
+-10
+-11
+-3
+-6
+4
+-20
+-69
+-2261
+-706
+-330
+-14
+370
+88
+329
+297
+336
+1
+-1244
+0
+>sim5M Read_988_length_9826bp_startpos_3721410_number_of_errors_1092_total_error_prob_0.11_passes_1.4385535534_passes_left_1_passes_right_2_cut_position_5517_id_984_clr_0_9288 5000040 9288
+3721408 3730696 9287 1 2 2 0
+3608
+5675
+0
+>sim5M Read_996_length_4445bp_startpos_2133980_number_of_errors_225_total_error_prob_0.06_passes_2.25897414308_passes_left_3_passes_right_2_cut_position_1151_id_992_clr_0_4320 5000040 4320
+2133982 2138280 4319 1 45 45 0
+-1896
+357
+1192
+14
+-113
+-161
+-54
+-92
+-3
+34
+-35
+-27
+-93
+-10
+-27
+-30
+-13
+-12
+-10
+-19
+-8
+-12
+-5
+-28
+-11
+-7
+-24
+-21
+0
+>sim5M Read_9_length_6465bp_startpos_2203241_number_of_errors_251_total_error_prob_0.04_passes_2.27674405834_passes_left_3_passes_right_2_cut_position_1789_id_10_clr_0_6306 5000040 6306
+2203243 2209548 6306 1 0 0 0
+0

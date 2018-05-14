@@ -1,0 +1,4 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+3113142 5445112 | 1 2332077 | 2331971 2332077 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 Consensus_utg000001c_pilon_pilon_pilon
+1 3113065 | 2332078 5445232 | 3113065 3113155 | 99.99 | KpAJ292_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ292 Consensus_utg000001c_pilon_pilon_pilon

@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     sim5M.Colormap.cr
+# contigs (>= 0 bp)          2000             
+# contigs (>= 1000 bp)       1994             
+# contigs (>= 5000 bp)       1643             
+# contigs (>= 10000 bp)      514              
+# contigs (>= 25000 bp)      0                
+# contigs (>= 50000 bp)      0                
+Total length (>= 0 bp)       16218163         
+Total length (>= 1000 bp)    16215442         
+Total length (>= 5000 bp)    14933469         
+Total length (>= 10000 bp)   6430571          
+Total length (>= 25000 bp)   0                
+Total length (>= 50000 bp)   0                
+# contigs                    1997             
+Largest contig               23973            
+Total length                 16217989         
+Reference length             5000040          
+GC (%)                       35.94            
+Reference GC (%)             35.84            
+N50                          9158             
+NG50                         12883            
+N75                          7063             
+NG75                         11759            
+L50                          690              
+LG50                         166              
+L75                          1190             
+LG75                         268              
+# misassemblies              0                
+# misassembled contigs       0                
+Misassembled contigs length  0                
+# local misassemblies        0                
+# unaligned mis. contigs     1                
+# unaligned contigs          28 + 4 part      
+Unaligned length             357699           
+Genome fraction (%)          95.975           
+Duplication ratio            3.305            
+# N's per 100 kbp            0.00             
+# mismatches per 100 kbp     234.14           
+# indels per 100 kbp         146.06           
+Largest alignment            23973            
+Total aligned length         15858437         
+NA50                         9015             
+NGA50                        12774            
+NA75                         6863             
+NGA75                        11589            
+LA50                         700              
+LGA50                        168              
+LA75                         1210             
+LGA75                        271              

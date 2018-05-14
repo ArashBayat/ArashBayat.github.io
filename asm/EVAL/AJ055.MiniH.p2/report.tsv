@@ -1,0 +1,49 @@
+Assembly	AJ055.MiniH.p2
+# contigs (>= 0 bp)	2
+# contigs (>= 1000 bp)	2
+# contigs (>= 5000 bp)	2
+# contigs (>= 10000 bp)	2
+# contigs (>= 25000 bp)	2
+# contigs (>= 50000 bp)	2
+Total length (>= 0 bp)	5671342
+Total length (>= 1000 bp)	5671342
+Total length (>= 5000 bp)	5671342
+Total length (>= 10000 bp)	5671342
+Total length (>= 25000 bp)	5671342
+Total length (>= 50000 bp)	5671342
+# contigs	2
+Largest contig	5505584
+Total length	5671342
+Reference length	5504133
+GC (%)	57.23
+Reference GC (%)	57.38
+N50	5505584
+NG50	5505584
+N75	5505584
+NG75	5505584
+L50	1
+LG50	1
+L75	1
+LG75	1
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	2
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 2 part
+Unaligned length	169061
+Genome fraction (%)	99.939
+Duplication ratio	1.000
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	0.69
+# indels per 100 kbp	8.05
+Largest alignment	5501187
+Total aligned length	5502281
+NA50	5501187
+NGA50	5501187
+NA75	5501187
+NGA75	5501187
+LA50	1
+LGA50	1
+LA75	1
+LGA75	1

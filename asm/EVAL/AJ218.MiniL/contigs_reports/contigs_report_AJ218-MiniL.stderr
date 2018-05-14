@@ -1,0 +1,13 @@
+Writing filtered delta file /home/arash/asmReview/EVAL/AJ218.MiniL/contigs_reports/nucmer_output/AJ218-MiniL.filter
+Reading delta file /home/arash/asmReview/EVAL/AJ218.MiniL/contigs_reports/nucmer_output/AJ218-MiniL.delta
+Writing plot files /home/arash/asmReview/EVAL/AJ218.MiniL/contigs_reports/nucmer_output/AJ218-MiniL.fplot, /home/arash/asmReview/EVAL/AJ218.MiniL/contigs_reports/nucmer_output/AJ218-MiniL.rplot
+Writing gnuplot script /home/arash/asmReview/EVAL/AJ218.MiniL/contigs_reports/nucmer_output/AJ218-MiniL.gp
+Rendering plot /home/arash/asmReview/EVAL/AJ218.MiniL/contigs_reports/nucmer_output/AJ218-MiniL.html
+.ntref 6.76
+# reading input file "/home/arash/asmReview/EVAL/AJ218.MiniL/quast_corrected_input/AJ218-MiniL.fa" of length 5642871
+# matching query-file "/home/arash/asmReview/EVAL/AJ218.MiniL/quast_corrected_input/AJ218-MiniL.fa"
+# against subject-file "/home/arash/asmReview/EVAL/AJ218.MiniL/contigs_reports/nucmer_output/AJ218-MiniL.ntref"
+# COMPLETETIME /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/AJ218.MiniL/contigs_reports/nucmer_output/AJ218-MiniL.ntref 18.06
+# SPACE /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/AJ218.MiniL/contigs_reports/nucmer_output/AJ218-MiniL.ntref 10.77
+4: FINISHING DATA
+WARNING: there was a problem deleting the temporary output files

@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     AJ292.MiniCH.cr
+# contigs (>= 0 bp)          2000           
+# contigs (>= 1000 bp)       1936           
+# contigs (>= 5000 bp)       1320           
+# contigs (>= 10000 bp)      898            
+# contigs (>= 25000 bp)      52             
+# contigs (>= 50000 bp)      0              
+Total length (>= 0 bp)       20140023       
+Total length (>= 1000 bp)    20098202       
+Total length (>= 5000 bp)    18436195       
+Total length (>= 10000 bp)   15238101       
+Total length (>= 25000 bp)   1499796        
+Total length (>= 50000 bp)   0              
+# contigs                    1983           
+Largest contig               35540          
+Total length                 20134498       
+Reference length             5445112        
+GC (%)                       57.15          
+Reference GC (%)             57.62          
+N50                          15758          
+NG50                         22673          
+N75                          10195          
+NG75                         21016          
+L50                          493            
+LG50                         104            
+L75                          885            
+LG75                         166            
+# misassemblies              69             
+# misassembled contigs       59             
+Misassembled contigs length  842528         
+# local misassemblies        49             
+# unaligned mis. contigs     9              
+# unaligned contigs          377 + 181 part 
+Unaligned length             3090839        
+Genome fraction (%)          94.183         
+Duplication ratio            3.323          
+# N's per 100 kbp            0.00           
+# mismatches per 100 kbp     82.89          
+# indels per 100 kbp         764.57         
+Largest alignment            34016          
+Total aligned length         17013794       
+NA50                         13452          
+NGA50                        21494          
+NA75                         6341           
+NGA75                        19781          
+LA50                         536            
+LGA50                        109            
+LA75                         1053           
+LGA75                        175            

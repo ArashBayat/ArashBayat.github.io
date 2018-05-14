@@ -1,0 +1,37 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+4091087 4754647 | 1 663575 | 663561 663575 | 99.99 | sim5M tig00000001_len_663575_reads_1545_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+3002708 3518549 | 515843 1 | 515842 515843 | 99.99 | sim5M tig00000002_len_515843_reads_1165_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+2922389 2929320 | 6934 1 | 6932 6934 | 99.83 | sim5M tig00000003_len_6934_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+2512810 2927262 | 414459 1 | 414453 414459 | 99.99 | sim5M tig00000004_len_414459_reads_984_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+1356396 1744788 | 388397 1 | 388393 388397 | 99.98 | sim5M tig00000005_len_388397_reads_855_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+612095 896982 | 284894 1 | 284888 284894 | 99.98 | sim5M tig00000006_len_284894_reads_619_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+548668 615937 | 67270 1 | 67270 67270 | 100.0 | sim5M tig00000007_len_67270_reads_131_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+200658 509774 | 309139 1 | 309117 309139 | 99.99 | sim5M tig00000008_len_309139_reads_662_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+1838291 2136043 | 297761 1 | 297753 297761 | 99.99 | sim5M tig00000009_len_297761_reads_692_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+2325316 2514059 | 1 188751 | 188744 188751 | 99.98 | sim5M tig00000010_len_188751_reads_398_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+4764991 4973981 | 208990 1 | 208991 208990 | 99.99 | sim5M tig00000011_len_208990_reads_440_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+11262 193633 | 182381 1 | 182372 182381 | 99.99 | sim5M tig00000012_len_182381_reads_361_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+3860807 4047736 | 1 186935 | 186930 186935 | 99.98 | sim5M tig00000013_len_186935_reads_417_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+2170021 2322153 | 152157 1 | 152133 152157 | 99.97 | sim5M tig00000014_len_152157_reads_338_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+1218340 1353827 | 1 135532 | 135488 135532 | 99.93 | sim5M tig00000015_len_135532_reads_277_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+1796824 1836521 | 39702 1 | 39698 39702 | 99.99 | sim5M tig00000016_len_39702_reads_60_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+1741448 1805791 | 64347 1 | 64344 64347 | 99.96 | sim5M tig00000017_len_64347_reads_132_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+2924554 3001697 | 77156 1 | 77144 77156 | 99.97 | sim5M tig00000018_len_77156_reads_150_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+1143543 1219943 | 1 76394 | 76401 76394 | 99.86 | sim5M tig00000019_len_76394_reads_126_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+3526931 3602097 | 1 75168 | 75167 75168 | 99.99 | sim5M tig00000020_len_75168_reads_151_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+3593507 3609021 | 1 15508 | 15515 15508 | 99.42 | sim5M tig00000021_len_15508_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+4048381 4094208 | 45830 1 | 45828 45830 | 99.91 | sim5M tig00000022_len_45830_reads_105_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+1090996 1140085 | 1 49095 | 49090 49095 | 99.97 | sim5M tig00000023_len_49095_reads_97_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+1044163 1091560 | 47401 1 | 47398 47401 | 99.98 | sim5M tig00000024_len_47401_reads_82_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+2139390 2164138 | 2 24756 | 24749 24755 | 99.95 | sim5M tig00000025_len_24756_reads_45_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+502139 525802 | 23682 1 | 23664 23682 | 99.81 | sim5M tig00000026_len_23682_reads_27_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+999552 1013248 | 13692 1 | 13697 13692 | 99.61 | sim5M tig00000027_len_13692_reads_6_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+532212 544665 | 1 12458 | 12454 12458 | 99.97 | sim5M tig00000028_len_12458_reads_15_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+952204 979268 | 1 27083 | 27065 27083 | 99.79 | sim5M tig00000029_len_27083_reads_23_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+3603572 3615665 | 1 12097 | 12094 12097 | 99.91 | sim5M tig00000030_len_12097_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+3604329 3619103 | 1 14776 | 14775 14776 | 99.98 | sim5M tig00000031_len_14776_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+3608665 3863547 | 1 254885 | 254883 254885 | 99.99 | sim5M tig00000032_len_254885_reads_533_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+4972707 4984729 | 1 12032 | 12023 12032 | 99.89 | sim5M tig00000033_len_12032_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+4973405 4980123 | 1 6721 | 6719 6721 | 99.97 | sim5M tig00000034_len_6721_reads_1_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+4974053 4998408 | 1 24360 | 24356 24360 | 99.89 | sim5M tig00000035_len_24360_reads_39_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no

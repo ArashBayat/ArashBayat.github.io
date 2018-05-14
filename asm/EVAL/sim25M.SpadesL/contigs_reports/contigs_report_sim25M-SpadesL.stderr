@@ -1,0 +1,12 @@
+Writing filtered delta file /home/arash/asmReview/EVAL/sim25M.SpadesL/contigs_reports/nucmer_output/sim25M-SpadesL.filter
+Reading delta file /home/arash/asmReview/EVAL/sim25M.SpadesL/contigs_reports/nucmer_output/sim25M-SpadesL.delta
+Writing plot files /home/arash/asmReview/EVAL/sim25M.SpadesL/contigs_reports/nucmer_output/sim25M-SpadesL.fplot, /home/arash/asmReview/EVAL/sim25M.SpadesL/contigs_reports/nucmer_output/sim25M-SpadesL.rplot
+Writing gnuplot script /home/arash/asmReview/EVAL/sim25M.SpadesL/contigs_reports/nucmer_output/sim25M-SpadesL.gp
+Rendering plot /home/arash/asmReview/EVAL/sim25M.SpadesL/contigs_reports/nucmer_output/sim25M-SpadesL.html
+g input file "/home/arash/asmReview/EVAL/sim25M.SpadesL/quast_corrected_input/sim25M-SpadesL.fa" of length 24678280
+# matching query-file "/home/arash/asmReview/EVAL/sim25M.SpadesL/quast_corrected_input/sim25M-SpadesL.fa"
+# against subject-file "/home/arash/asmReview/EVAL/sim25M.SpadesL/contigs_reports/nucmer_output/sim25M-SpadesL.ntref"
+# COMPLETETIME /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/sim25M.SpadesL/contigs_reports/nucmer_output/sim25M-SpadesL.ntref 201.96
+# SPACE /usr/local/lib/python2.7/dist-packages/quast_libs/MUMmer/mummer /home/arash/asmReview/EVAL/sim25M.SpadesL/contigs_reports/nucmer_output/sim25M-SpadesL.ntref 48.20
+4: FINISHING DATA
+WARNING: there was a problem deleting the temporary output files

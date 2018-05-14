@@ -1,0 +1,49 @@
+Assembly	AJ218.Metasm
+# contigs (>= 0 bp)	4
+# contigs (>= 1000 bp)	4
+# contigs (>= 5000 bp)	4
+# contigs (>= 10000 bp)	4
+# contigs (>= 25000 bp)	2
+# contigs (>= 50000 bp)	2
+Total length (>= 0 bp)	9472500
+Total length (>= 1000 bp)	9472500
+Total length (>= 5000 bp)	9472500
+Total length (>= 10000 bp)	9472500
+Total length (>= 25000 bp)	9432275
+Total length (>= 50000 bp)	9432275
+# contigs	4
+Largest contig	9215694
+Total length	9472500
+Reference length	5465981
+GC (%)	57.22
+Reference GC (%)	57.29
+N50	9215694
+NG50	9215694
+N75	9215694
+NG75	9215694
+L50	1
+LG50	1
+L75	1
+LG75	1
+# misassemblies	2
+# misassembled contigs	1
+Misassembled contigs length	9215694
+# local misassemblies	1
+# unaligned mis. contigs	1
+# unaligned contigs	0 + 3 part
+Unaligned length	243443
+Genome fraction (%)	99.905
+Duplication ratio	1.690
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	0.18
+# indels per 100 kbp	12.32
+Largest alignment	5244427
+Total aligned length	9228948
+NA50	5244427
+NGA50	5244427
+NA75	3299401
+NGA75	5244427
+LA50	1
+LGA50	1
+LA75	2
+LGA75	1

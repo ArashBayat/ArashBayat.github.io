@@ -1,0 +1,14 @@
+Assembly	AJ292.MiniH.p1
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	1
+# unaligned mis. contigs	0
+# mismatches	35
+# indels	1579
+    # indels (<= 5 bp)	1569
+    # indels (> 5 bp)	10
+Indels length	2408

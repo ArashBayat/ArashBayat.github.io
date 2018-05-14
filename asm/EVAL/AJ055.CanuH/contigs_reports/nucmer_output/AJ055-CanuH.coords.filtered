@@ -1,0 +1,5 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+4100650 5504133 | 1 1403340 | 1403484 1403340 | 99.96 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 tig00000001_len_5496970_reads_15928_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+1 4093860 | 1403341 5496967 | 4093860 4093627 | 99.97 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 tig00000001_len_5496970_reads_15928_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no
+218986 220079 | 137935 139028 | 1094 1094 | 100.0 | KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055 tig00000003_len_178115_reads_425_covStat_1.00_gappedBases_no_class_contig_suggestRepeat_no_suggestCircular_no

@@ -1,0 +1,16 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     AJ055.CanuL.cr
+# misassemblies              53            
+    # relocations            53            
+    # translocations         0             
+    # inversions             0             
+# misassembled contigs       52            
+Misassembled contigs length  876728        
+# local misassemblies        37            
+# unaligned mis. contigs     4             
+# mismatches                 4973          
+# indels                     36681         
+    # indels (<= 5 bp)       36426         
+    # indels (> 5 bp)        255           
+Indels length                46197         

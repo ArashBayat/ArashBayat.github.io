@@ -1,0 +1,14 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+908446 912480 | 1 4043 | 4035 4043 | 99.56 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 QC.B.A_0
+912483 5465981 | 4153 4557257 | 4553499 4553105 | 99.99 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 QC.B.A_0
+1 687324 | 4557258 5244536 | 687324 687279 | 99.99 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 QC.B.A_0
+2120123 2791952 | 5244537 5916293 | 671830 671757 | 99.98 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 QC.B.A_0
+3069598 5465981 | 5916294 8312502 | 2396384 2396209 | 99.99 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 QC.B.A_0
+1 903247 | 8312503 9215694 | 903247 903192 | 99.99 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 QC.B.A_0
+2135541 2136741 | 22335 21135 | 1201 1201 | 100.0 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 QC.B.A_1
+3069598 3071528 | 97466 95536 | 1931 1931 | 99.9 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 QC.B.A_1
+209506 210602 | 108920 110016 | 1097 1097 | 100.0 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 QC.B.A_1
+2791953 2799949 | 194100 186104 | 7997 7997 | 99.39 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 QC.B.A_1
+2135796 2136741 | 22712 21767 | 946 946 | 99.79 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 QC.B.A_2
+1848676 1848867 | 12857 12667 | 192 191 | 98.96 | KpAJ218_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ218 QC.B.A_3

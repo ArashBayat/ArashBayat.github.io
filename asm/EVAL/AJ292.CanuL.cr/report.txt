@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     AJ292.CanuL.cr
+# contigs (>= 0 bp)          2000          
+# contigs (>= 1000 bp)       1994          
+# contigs (>= 5000 bp)       1414          
+# contigs (>= 10000 bp)      956           
+# contigs (>= 25000 bp)      50            
+# contigs (>= 50000 bp)      0             
+Total length (>= 0 bp)       21236144      
+Total length (>= 1000 bp)    21230546      
+Total length (>= 5000 bp)    19605092      
+Total length (>= 10000 bp)   16157882      
+Total length (>= 25000 bp)   1448446       
+Total length (>= 50000 bp)   0             
+# contigs                    2000          
+Largest contig               35596         
+Total length                 21236144      
+Reference length             5445112       
+GC (%)                       57.33         
+Reference GC (%)             57.62         
+N50                          15786         
+NG50                         22750         
+N75                          10202         
+NG75                         21230         
+L50                          522           
+LG50                         104           
+L75                          934           
+LG75                         166           
+# misassemblies              34            
+# misassembled contigs       33            
+Misassembled contigs length  540888        
+# local misassemblies        36            
+# unaligned mis. contigs     3             
+# unaligned contigs          143 + 156 part
+Unaligned length             794338        
+Genome fraction (%)          96.564        
+Duplication ratio            3.888         
+# N's per 100 kbp            0.00          
+# mismatches per 100 kbp     58.33         
+# indels per 100 kbp         389.50        
+Largest alignment            33842         
+Total aligned length         20398415      
+NA50                         15129         
+NGA50                        22326         
+NA75                         9427          
+NGA75                        20737         
+LA50                         537           
+LGA50                        107           
+LA75                         973           
+LGA75                        170           

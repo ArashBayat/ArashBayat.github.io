@@ -1,0 +1,21 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+5345533	5504133	769	160249	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055	Consensus_utg000001c	99.19		True
+fake: not a misassembly [linear representation of circular genome]
+1	922195	160250	1087335	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055	Consensus_utg000001c	99.27		True
+local misassembly
+922286	1680616	1087336	1849779	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055	Consensus_utg000001c	99.26		True
+local misassembly
+1680616	3800829	1849868	3981140	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055	Consensus_utg000001c	99.28		True
+local misassembly
+3800867	4156893	3981391	4339122	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055	Consensus_utg000001c	99.27		True
+local misassembly
+4157073	4385957	4339123	4569154	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055	Consensus_utg000001c	99.28		True
+indel: indel (> 5bp)
+4385915	4646524	4569176	4831064	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055	Consensus_utg000001c	99.34		True
+indel: indel (> 5bp)
+4646491	4822050	4831071	5007536	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055	Consensus_utg000001c	99.29		True
+local misassembly
+4824733	5344880	5011106	5534005	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055	Consensus_utg000001c	99.27		True
+CONTIG	Consensus_utg000001c	5534010	correct
+218986	220079	95283	94185	KpAJ055_chr_gcode_11_organism_Klebsiella_pneumoniae_strain_AJ055	Consensus_utg000002c	99.55		True
+CONTIG	Consensus_utg000002c	166568	correct_unaligned
